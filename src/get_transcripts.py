@@ -34,8 +34,6 @@ def generate_transcripts(output_folder:str,idx:int=0):
             json.dump(outputs, fp)
         artifact.add_file(local_path=relative_audio_path_json,name=f"{title}_transcript.json")
         artifact.add_file(local_path=relative_audio_path_mp3)
-        # artifact.add_file(local_path=relative_audio_path_mp3)
-        # run.
         run.log_artifact(artifact)
         torch.cuda.empty_cache()
     del pipe
