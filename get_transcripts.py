@@ -34,6 +34,7 @@ def generate_transcripts(output_folder:str,idx:int=0):
         with open(relative_audio_path_json, 'w') as fp:
             json.dump(outputs, fp)
         artifact.add_file(local_path=relative_audio_path_json,name=f"{title}_transcript.json")
+        artifact.add_file(local_path=relative_audio_path_mp3)
         # artifact.add_file(local_path=relative_audio_path_mp3)
         # run.
         run.log_artifact(artifact)
