@@ -3,8 +3,8 @@ import os
 
 os.environ['GOOGLE_API_KEY'] = "<<google_api_key>>"
 os.environ['CHANNEL_ID'] = "UCLvnJL8htRR1T9cbSccaoVw"
-os.environ['MAX_RESULTS'] = "200"
-os.environ['CUTOFF_DATE'] = "2022-01-01T00:00:00Z"
+os.environ['MAX_RESULTS'] = "500"
+os.environ['CUTOFF_DATE'] = "2020-01-01T00:00:00Z"
 
 def fetch_videos(url):
     video_ids = []
@@ -12,7 +12,7 @@ def fetch_videos(url):
     if response.status_code == 200:
         print("successfully fetched videos")
         try:
-            video_ids.extend([b['id']['videoId'] for b in response.json()['items'] if not b['snippet']['title'].startswith('session')])
+            video_ids.extend([b['id']['videoId'] for b in response.json()['items'] if not b['snippet']['title'].lower().startswith('session')])
         except:
             print("exception in parsing response")
     else:
