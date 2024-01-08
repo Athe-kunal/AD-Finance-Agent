@@ -25,11 +25,14 @@ def generate_transcripts(output_folder:str,idx:int=0):
         print(f"Generating transcripts for {audio_files}")
         title = audio_files.split(".mp3")[0]
         relative_audio_path_mp3 = os.path.join(output_folder,audio_files)
+        relative_audio_path_json = json_folder_name + "/" + title + ".json"
+        if os.path.exists(relative_audio_path_json): 
+            print(f"Transcripts are already generated for {title} in the folder {output_folder}, please check")
+            continue
         outputs = pipe(relative_audio_path_mp3,
                 chunk_length_s=WHISPHER_CHUNK_LENGTH,
                 batch_size=WHISPHER_BATCH_SIZE,
                 return_timestamps=True)
-        relative_audio_path_json = json_folder_name + "/" + title + ".json"
         with open(relative_audio_path_json, 'w') as fp:
             json.dump(outputs, fp)
         artifact.add_file(local_path=relative_audio_path_json,name=f"{title}_transcript.json")
