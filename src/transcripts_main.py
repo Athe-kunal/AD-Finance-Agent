@@ -5,7 +5,7 @@ from functools import partial
 import concurrent.futures
 
     
-def run_main(yt_links_filename,output_path,max_workers:int=5,only_transcripts:bool=False):
+def run_main(yt_links_filename,output_path,max_workers:int=30,only_transcripts:bool=False):
     if not only_transcripts:
         print(f"Started generting the audio files: Please check the folder {output_path}")
         with open(yt_links_filename, "r") as f:

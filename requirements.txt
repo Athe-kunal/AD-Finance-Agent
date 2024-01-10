@@ -4,3 +4,4 @@ pytube
 moviepy
 #unstructured[pdf]
 wandb
+fire
