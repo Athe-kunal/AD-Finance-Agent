@@ -13,6 +13,8 @@ def run_main(yt_links_filename,output_path,max_workers:int=5,only_transcripts:bo
         download_func = partial(download_and_convert_to_mp3,output_path=output_path)
         with concurrent.futures.ProcessPoolExecutor(max_workers=max_workers) as executor:
             results = executor.map(download_func,yt_links)
+        print(f"Started transcribing the audio files in the folder {output_path}")
+        generate_transcripts(output_path)
     else:
         print(f"Started transcribing the audio files in the folder {output_path}")
         generate_transcripts(output_path)
