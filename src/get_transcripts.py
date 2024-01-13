@@ -37,7 +37,7 @@ def generate_transcripts(output_folder:str,idx:int=0):
             json.dump(outputs, fp)
         torch.cuda.empty_cache()
     artifact.add_dir(local_path=json_folder_name,name='TRANSCRIPTS')
-    artifact.add_dir(local_path=output_folder,name="AUDIO")
+    # artifact.add_dir(local_path=output_folder,name="AUDIO")
     run.log_artifact(artifact)
     del pipe
     torch.cuda.empty_cache()
