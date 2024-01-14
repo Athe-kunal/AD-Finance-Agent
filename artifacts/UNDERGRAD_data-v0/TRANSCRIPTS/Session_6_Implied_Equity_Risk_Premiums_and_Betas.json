@@ -1,1 +1,1160 @@
-{"text": " I had a question about like valuing a biotech or healthcare. Should I ask you? No. okay folks You think the entire distribution might have gone? That's what it is, right? Stock prices at 200. If you did the evaluation today, could it be higher? Absolutely. The stock price, I mean, the notion that you can somehow be objective, I wanted to set it aside. Please be honest with yourself. Things affect you. And that can show up in the evaluation. So that was just, you know, I don't. But that's the way most people still get historic risk premiums. is pure icing on the cake, right? If you told me $1, I probably wouldn't sell you the investment, right? In fact, I'll probably give you the trigger at which I'd sell it to you. So you want to stick with the dollar or you want to try another number? $5. If you take $5, what are you requiring as a rate of return? You're going to get $1 every year. Remember, the principal doesn't come back. You paid $5. You're going to make 20%. So you're telling me you want a risk-free investment that will deliver 20%. suppose I came to you with the same kind of bet, but now I'm going to give you a dollar, but it's going to come from an average risk business. This is an expected cash flow. So this says the average risk equity. You're going to get a $1 each year forever. So let me stay with you. You offer $25 for that risk-free. Will you offer less or more for the second bet? So give me a number. $10. He said $10 It's just a mechanics of, I don't trust people when they tell me this is what I'd like to make, but I can see what they pay. And I'm going to back out of that, what the equity risk premium should be. So let's build on, right? So you wanted a 10% risk premium. I'm sorry, 6% or roughly 6 you hit the bottom. There's an option trade, risk aversion, some of it you're just born with. Some of us are more risk averse than others. So match.com probably should have a risk aversion section, right? Now what's your risk aversion coefficient? But risk aversion does also change over time. Studies consistently show that as people age, premiums are going to go up, right? Because as you get older, you get more risk aversion. The market's getting older. You're going to see the risk. So you can see that risk aversion can change because of demographics. So risk aversion can be different because you're born with different risk aversion can change because of demographics. Let's complete the process. Let's suppose while you're sitting here today, don't freak out. Nothing bad's happened. But let's say that You know where we are. Equity risk premiums can vary across people. It can vary because of demographics and it can vary across time. I'm making an argument that whatever approach we use to estimate equity risk premiums needs to be dynamic. It needs to be dynamic because you can't have a number that stays the same as we're going through crisis and good times and in bad times. It doesn't work that way. about why I'm doing it. And if you don't like it, what your middle ground is going to be because you can pick a different approach, but it's got to be dynamic. It's got to be forward-looking and you got to come up with numbers that reflect the times you're in. So let's turn back to, I think page 64 was where we were in the notes. Okay. even getting there, what do I start with? I start with the price you paid for the bond. Then I get the coupons every year. And then I look at the face value and the yield to maturity actually doesn't take into account reinvestment. It just says what discount rate makes the present value of my coupons and face value. Implicit there are assumptions about reinvestment, but the yield to maturity is like an IRR, right? It's an IRR for a bond, price of the bond, coupons and cashflow. I might even be able to get estimates of what people are expecting earnings and cash flows to grow. So it's a little messier than a bond, but still the same problem, right? You got the price, you got the cash flows. And just as I compute a discount rate that makes the present value of the bond cash flows equal to the price of the bond, I can compute a discount rate that makes the present value of cash flows on equities equal to what you paid up for. So this isn't rocket science. It's just taking be in the future, but I can tell you what the dividends and buybacks were in the 12 months leading into the start of 2020. And dividends and buybacks were 150.50. None of this is difficult to get. They're all public information. You can go to the S&P website, look up dividends, look up buybacks. So I know what you paid. I know what the cash flows were last year. Let me bring in at the end of the fifth year, I put these companies collectively into stable growth. Remember, we talked about that as a closure. What's a stable growth rate? A growth rate at which the economy can grow at over time. And I use the risk-free rate as my proxy for the growth rate. You're going to see me do this repeatedly, because I'm going to say that's the best estimate. That is 1.92%. So think of this as a present value problem. I know what you paid. There are my cash flows. paid for stocks you can expect to make 7.12% a year. The risk-free rate, T-bond rate was 1.92%. The difference is an implied equity risk premium. You see why I call it implied? I'm backing it out from what you paid. You don't like it? You paid for it. You think it's too low? Then stop buying stocks. I am not forcing you to do it. There's why I picked the start of 2020? Because six weeks later, COVID hit. February 14th, I think, was the official day when the Italians announced. Because until then, we thought it was on China and cruise ships and will never come abroad here. It's amazing how much in denial you are. And February 14th, we heard that there are a couple of hundred Italians who'd never been to China on a cruise ship. or 4.7, 4.5 or 4.6%, almost to 8%. Are you surprised? I mean, you guys lived through those six weeks, but imagine we had no idea what was coming. The economy was shutting down. This could have been a depression. It could wipe out half the population. Nobody knew what was coming. Of course, risk premiums are going to reflect that. March 23rd of 2020 was the absolute bottom my feeling, but I wanted to record in real time. Because after the crisis passed, it's amazing how with the benefit of hindsight, I knew everything was going to be okay. Really? I didn't. And some, I mean, if you want to see what happened in March 23rd, something broke the crisis. And it was one of the most amazing returns back to keep tabs on what that equity risk premium looks like right now, because you're valuing a company on February 12th of 2020. It doesn't matter what the equity risk premiums will look like in the future. You are valuing a company in the market you're in, and you got to build in. So you're right. I'm estimating cash flows and I could be wrong, right? And it'll show up as what? A standard error around my implied equity risk. So I compute that. In fact, if you go to my, and I'll send you the spreadsheet after today's email of my February And here I'm willing to live with that range. It's a narrower range because there are fewer things I can go wrong on. Any other questions? Yes. Like the VIX? It's a contemporaneous variable, right? In other words, so let's say I gave you the VIX, so you can measure it on a daily basis. How do you convert that into a percentage premium? my reaction was, how much can it change in a year? And then came 2008. And I learned how much it can change in a year. So starting in September of 2008, I've been reporting this number on a monthly basis on my website. It's the very front page. I said, this is what it's the start of the month. And you'd see, you can get the monthly ER let me bring you up to January 2023. Started this year, the index was at 38.39.50. You can drop the last two decimals if you want've tracked. I've tracked this from 1960 to 2022. It's the biggest one-year change in expected return because you got a double whammy last year. T-bond rates went up and equity risk premiums went up as well. In 2008, equity risk premiums went up, but because it's sticky. It seems to take a while for them. It's not that they don't update it often enough, but their updates are not as big as they should be in periods. So that earnings number has gone down about 6% over the last year as stock has gone from, there's no recession to recession. It's almost like the analyst saying, what recession? So there is that stickiness in earnings. And here's what it will mean. I would argue that every statement you hear about stocks is really a statement about equity risk premiums. You know what I mean by that. Stocks are overvalued. Stocks are undervalued. I can restate it as a statement about equity risk premiums. So when you tell me stocks are overvalued, what are you telling me about equity risk premiums? That they're too low or too high? Too low. And you want them to be higher. So basically you're saying, hey, equity risk premiums become too low. When you tell me stocks are undervalued, you're making a statement. and the premiums reflect that stability. 1970, something is going on, right? What's happening to the equity risk premium? It's shooting through the roof. And what was the trigger? What did he say? Oil embargo, you mean? But remember, the oil embargo by itself was what started the ball rolling, but what did it create in the following years? Inflation. them a choice of two economies. One has 5% inflation, the other is 3% inflation. And so which one would you prefer to invest and do business in? Most of them say, I'll take the 3%. And they say, let me add to those facts. Let's suppose in the first economy, not only is inflation 5%, it'll be guaranteed to be 5% every year forever. And in the second economy, inflation is 3%, but it could be one of five. I'll take the first economy over the second one. Because 800. There were three numbers in the Dow. Can you imagine that? Three numbers. What is it now? 20-something thousand? In fact, Businessweek ran a headline, Stocks are Dead, which to me should be a sign that any time business magazines put a headline like that, it's time to buy. Because if you bought stocks in 1978, you rode one of the great bull markets of all time. The stories were there will never be a recession again. We've discovered the secret to everlasting growth with dot-com at the end. The moment didn't last that long because in the two years after you had the dot-com bust, equity risk bounce back to 4%, they settled in for a period between 4% to 5%. Nice stable period again. This is the thing about markets. They lull you into a sense of false complacency Since 2008, equity risk premiums have been both higher and more volatile than they were pre-2008. And I don't think that's going to change. You know why? Welcome to globalization. What does globalization do? It links us all at the hip. In 1988, if there was a crisis in Sao Paulo, you know what happened to U.S. stocks? So where's Sao Paulo? Somewhere in Latin America. It doesn't bother us. spending, you know, sell everything people. They've been saying that for 10 years now. They might have a good reason. Michael Burry might have a good reason for saying sell everything. But I don't see it backed up in the equity risk premium. So in fact, first week of 2023, somebody asked me, what do you think about stocks? I've had a terrible year. I said, you know, they've had a terrible year. That's true. I mean, who can contest it? It's a fact. So I'm sure you've heard a lot of people always think about soft landing. That's about the economy, right? Less about the market and more about the economy, right? That's an earnings growth story. Because right now, if you're bearish about markets, remember I've used that 6% growth, the drop in 2023 bounce, but that's a soft landing for earnings. So even if there's a recession, we're assuming it's going to be a one-year effect. It's not going to be cash flows. It's got to be growth. And then work out what the implied equity risk premium is with that, because otherwise it becomes a one hand on the other hand, right? I'm going to say something about market strategies and forecasts that I find, please, they irritate me. I'd rather be transparently wrong than opaquely right. show up. So if inflation is your concern, think about where it shows up in those numbers. If inflation continues to go up, what's going to happen? T-bond rates are going to continue to rise. Your equity risk premium will get higher because you need higher risk premiums. Every concern becomes a question you can ask about implied equity risk premiums. At the start of last year, the implied equity risk premiums went up. So there's advantage to tracking both the equity risk premium and the total expected return. On both dimensions, the start of 2023 looks a lot better than the start of 2022. Even though people felt better at the start of 2022, right? Because they were coming off a bullish year. So sometimes how people feel is actually a cont's a price of risk in the bond market. That number also goes up and down. What causes it to go up and down? In good times, you stop worrying about default risk, you charge lower spreads. In bad times, you start more. And most of the time, the two move together, I will not let the U.S. economy go into recession. And he actually tried to engineer a scenario where the U.S. economy wouldn't go into recession. The way he did it was he essentially pumped up the bond market and default spreads. If you look at what happened after 2021, default spreads dropped to 2002, 2000. So people are charging less and less for risk in the bond market while charging actually higher the first crisis in the last century where the bond market is really more responsible than the stock market. People pushing down spreads too much. In contrast, go to the late 90s. Late 90s, default spreads are staying pretty stable. But equity risk premiums are plummeting. You're in this dot-com boom. People are pushing up stock prices. because you were getting a 2% spread on the safe bond and pulling it out of stock. And 2007, you'd be doing the exact opposite. Now, one of my problems with the way financial markets are structured is you get a job, you get put into a segment of the market, you get tunnel vision. Equity people talk to equity people, fixed income people talk to fixed income people. And sometimes you can have the two markets diverging and they're not even talking to each other. a family business, a real estate. You know what a cap rate is? Anybody want to tell me what a cap rate in real estate is? Cap rate is a capitalization rate. It's a fancy word for if you give me the rental income on a property, this is the rate that I use to capitalize it. So if you have a 10% cap rate and you have income of a million, you'll be willing to pay 10 million for a property because you get a million on the 10 million. A cap rate is like a cost way real estate is taught and dealt with in investing. When I was taking my classes in investing, you know what I was told? I was told that if you have your money in financial assets, you should buy real estate. Why? Because it moves in different ways than financial assets. Now, I got my MBA in the early 80s. And in the 1980s, that was true. Take a look at what the real estate is no longer operating as an asset class. Why might that be? What did we do to screw up real estate that's made it stop being this different asset class? We celebrated what we did to screw it up, actually. It's probably taught in business schools that this is what we need to do. What did we do? We securitized it. Lou Ranieri. Prior to the 1980s, starts to behave like a financial asset. It's made our lives more difficult, right? The easy way to diversify is not gone. Just because you bought a house or an apartment and you thought you were safe, that's no longer true. So it'll be good to track these risk premiums by markets because when somebody says Bitcoin, that's a great investment. It's going to buffer your portfolio. What's the new thing? You put up the, I wager, Let's see if that's enough of a defense. For instance, let's assume that every analyst in your group uses the arithmetic average historical risk premium of 8.17% to come up with cost of equity for companies. In other words, they're doing it because, and it's the same number, everybody's using the same number. And let's say the implied equity risk premium is 5.94%. Standard 2023, 5.94%. the S&P 500 should be 30% higher than it is today. And if they're right on that, why the heck are you valuing the stock, right? Go buy the index and buy index futures. Whenever you use a premium that deviates from the current implied premium, you're bringing a market view into your valuation. What do you think about markets? And that's not a good place to be, right? I want you to value Coca-Cola, not value Coca-Cola and tell me what you think about the S&P 500 at the same time. It's 143 pages. Use it to fall asleep. It's incredibly boring. But I take everything and I look at historic. And at the end, in the last section, here's what I do. I present you the six or seven different ways. Some people use earnings to price ratios to get in place. It's called the Fed model to get in. I take all these models and ask a simple question. Which of these is the best estimate of returns in the next five years in the next 10 years? Because ultimately, that's what a good equity risk premium should do I want? I want a high positive correlation. Let's debate the best positive correlations. But'll take that over the historical premium every single day. So as you think about equity risk premiums, open the door to this possibility because you're going to have to have this argument with people you go work for because they're going to be trained in historical premiums. The safest place to be is where everybody else is. But I want you to open the door to at least thinking about implied premiums. I'll give you one other advantage of implied premiums. What was the reason I could not compute a historical risk premium for Vietnam? There's not enough history, right? In fact, that's going to be true for a lot of emerging markets around the world. What do I need for an implied premium? I need a level of the index today, which I should be able to get for any market. can't wait for that day to arrive because that'll mean I have premiums that actually reflect what people are demanding in that market. Because right now it's a little artificial, right? I take the US premium, I take the default spread, I do this elaborate dance. I might convince you, I might not convince you. But this way you bypass it. What are people paying? So this was actually in 2007. I wanted to compute the implied equity risk premium in the CENSEX, the Indian Equity Index. So I got the level of the index. 6%. I set that as my growth rate beyond 0.5. So I'm doing with the Sensex exactly what I did with the S&P 500. Same mechanical process I solve for R. I get an expected return of 11.18%. What does that tell me? In September of 2007, given how Indian stocks were priced, my expected risk premium in India is 11.18 minus 6.76, 4.42%. really, really, really difficult to do. You see where I'm going, right? You have a market where investors are kind of penned in. Penned in in what sense? You have a choice. You want to buy Indian stocks or you want to buy Indian stocks. You say, but Indian stocks are overvalued. Let me ask you again. Do you want to buy Indian stocks? Do you want to buy Indian stocks? Do you see what can happen? If you pen in a market, the equity risk premium can actually drop below what it is. True in mainland China. China has been wrestling with how do we open up the conduits for mainland Chinese to invest in Hong Kong stocks. Forget about U.S. stocks. And they open the conduit. Let me close it up again. When India and China were small economies, this was not a big deal, right? You could do this. Nobody cared. But we have the second largest ands allow you to make the judgment. And one final point about equity risk premiums, and we'll shut the door on this topic. I actually, at the start of every year, So you're comparing apples to apples. Start of 2004, the differential was 3.27%. Investors were charging 3.27% more for investing in emerging market companies than in developed market companies. You see, that makes sense. I'm not even sure if it makes sense or doesn't make sense. But look at the trend line of that number as you go through time. 2004, 2005, it keeps dropping. 2008 is a little bounce back up. That's a crisis pushing the extra risk. So the implied approach actually gives you a way of reverse engineering what you can make as an expected return and saying, where do I go to get the most bang for my buck, the highest return for the risk I take? And looking across markets geographically, looking across asset classes, you can get a better sense of, hey, these are the classes that deliver the highest returns. Any questions on implied equity risk groups? beta. What a terrible way to think about betas. Because you know already what you've done. You've converted into a statistical number. You're under regression. You get the slope. You get a beta. Just as I dug a hole and buried historical risk streams, I'm going to dig an even deeper hole and bury this notion that betas come from regression. And there are three arguments I'm going to make against regression betas. So if this upends Returns for the next five years against my, how can I get returns for the next five years? I get it for the last five years. It's the ultimate backward looking number, right? And if your business mix has changed, God help me, even across the regression, it's giving me a beta for the last five years. And I'm going to argue that betas are affected by how much debt you have. Equity becomes riskier for any firm if you borrow more money and company's debt to equity ratios change, the beta changes. so this is the beta page for a company called gopro you know what gopro did what do they make cameras for hyperactive oversharing individuals right basically you know they put the gopro on their head and they go on a three-hour hike and they record the whole damn thing as if you care they're eating their lunch 45 minutes goproing the whole thing it's disgusting but remember your statistics keep going down oh standard error beta 0.50 somebody help me out here i get a regression beta 1.60 with a standard error of 0.50 and i ask you what's a fair beta for gopro what's the range you're going to give me that's with 67 confidence you like 67 confidence Two thirds times the raw beta plus one third times one. If you don't believe me, print out the betas for 40,000 companies. Try every single one of the companies. It's two thirds times the raw beta. You're saying, what? See, raw beta is 1.5. Two thirds of 1.5 is one. One third of one is 0.33. A 1.5 will become 1.33. 1.2 will become 1.13. As I go through each of these, look to see if you see a pattern. 1.8 is going to become 1.53. 0.6 is going to become 0.73. man oh this is a company maybe i should have called the mayor they i called them and i said look i want to talk to somebody about your beta page is they put me in touch with the beta calculation guy there is a guy at bloomberg whose life it is to maintain this page can you imagine how exciting his life must be he goes to a and says i don't know it was here when i got here i said what does that even mean he said it was hired two years ago it was already built in don't blame me i'm saying i'm not trying to blame you i just want to know where these numbers come from here when i got here you know how often you're going to get that answer to questions you ask at your work about numbers used every day why are we using a five percent equity risk cream for the it's noisy and the adjusted beta doesn't do much but once in a while you will get a great looking beta you're going to start celebrating the best looking beta page ever beta page are printed off for nokia like 2001 at that time bloomberg actually used to report the adjusted beta they going to Helsinki for? Nokia is a Finnish company. Bloomberg is very parochial about the way it estimates betas. You go look up the beta for a Chinese stock, it'll be against the Shenzhen if it's listed in the Shanghai exchange, or it can be against if you take a Hong Kong. So whatever stock you pick, they'll pick the local exchange. You see, so what? I'll make a confession. I had no idea what was in the hex. DAX 30 stocks, CIC 30 stocks are narrow indices, which makes their betas completely nonsensical. Because the marginal investor in Nokia in 2001 was Barclays. They bought it for their global index fund. And if you're buying Nokia for your global index fund, you know how you measure risk, right? You don't measure it against a hex. You measure it against the MSCI or a global index. It makes your betas go down. So if I take, for instance, GameStop, and this was at the peak of that craziness, you know what happened to that beta? It went to minus point, let's take the raw beta, minus 0.08. You're saying, what happened? What happened during that craziness? People kept buying stocks no matter what, or selling stocks no matter what. You have nothing to do with the market anymore. And since beta measures how you move with the market, the starting point, the ending point, daily, weekly. Which means that what you see as a printed beta page on Bloomberg might just be the 54th iteration that this person tried and said, this is the beta for the company. So when we get back on Monday, we're going to talk about what to do instead, because we've dug the grave for betas. We're going to bury it. And then we said, there must be a different way of thinking about it. something i enjoy teaching you ask me to rank which do you which is the bigger passion teaching is my passion finance is not a passion it's an interest okay yeah what why why do i enjoy it because you got to pick what you came you know in life what gives you the most joy and to me the joy comes from teaching it doesn't come from i mean i like finance i enjoy financial progress to be curious, 5% premium in the last 20 years. I mean, this is a market price for risk, right? There can't be a good number. There can be a number that is not out of sync with what people accept over time. That's why I have that graph of over time, what does the most premium look like relative to the last 20 years, the last 10 years, the last 50 years. But that's all you can do. No. Yeah. Thank you. on the, you know, but I have S&P Capital IQ, you can take all energy stocks, add up their earnings, add up their cash flows, you can do an implied equity risk premium for energy companies, an implied, and if you do that, you can skip the beta part, right, because then you can go directly and add that equity risk to the risk-free rate, you've got your cost of equity, so with those people who don't like betas, and I know quite a few people who refuse to use betas, they think, you know, I don't like it, I say, okay, you don't like things are missing there. And you can take the same spreadsheet I would send you for the S&P 500. Just use it for any sector. The spreadsheet itself is malleable enough to be the collecting of the cash flow data is going to be the part that you have to go to capital IQ. It's not even digging. thing to do is to actually do what everybody else is doing even if it's wrong this is not a question of pragmatism it's survival right in fact it's more risky doing the right thing if it deviates from historic norm because we do the wrong thing that everybody else is doing when things go wrong or things don't work out you say look i know i just did i use historical risk premiums maybe they were too low but everybody does it so unfortunately the reality of how reward and Because if you're an appraiser, you're an analyst, you have no incentive to change. It's not like you get an upside for being right here. You just get punished for being wrong. But if you're investing your own money, you might say, look, this is crazy that I'm getting the same premium investing in bonds as I'm investing in stocks. I'm going to start a hedge fund. I'm going to sell short in stocks. And that's exactly what John, I mean, this room is funded by somebody who looked at real estate risk premiums. He might not have used my approach. And he said, this is absurd. this looks like a market mistake to me. So I think that's the niche that, and most hedge funds are just like investment banks. They follow the herd, they get priced, they get, you know. But there are some that I think, you know, stand out because they're willing to say, look, you know, we're not going to do what everybody else does. And now we have the instruments to trade on mistakes, right? For the longest time, real estate was overvalued. way we do it. We have a risk-free rate. We have a beta. We have an equity risk premium we got from Kroll and Duff and Phelps. We had a small cap premium. We had a company-specific risk premium. We're coming to 21%. You're asking us to use 12%. That doesn't sound right. We're going to go with the 21%. So don't expect an easy audience, even if you get the number. But I think it's well worth doing. All right. Thank you, Professor. You're welcome whatever's been written about the drug. I mean, this is not a process. We're the first ones going through this. And you can look at the FDA, actually, it's public information. They can tell you what percentage of drugs working through each stage of the pipeline make it to the next stage. So first check where their drugs are in the pipeline. You might not need a decision tree if they've already made it all the way to the cystic fibrosis is not something you're going to be able to read up easily on Google search or make a gut feeling conclusion. It will require delving through. It's in the public domain, but you'll have to read through a journal article on a drug which talks about why this drug is better than the other three drugs. I'm not putting up by a major. You should be able to. I mean, let's face it, second one is going to be too much. It'll be a single drug. It's less a company and more a drug. Because my guess is many of the companies that look like your second one never make it as going concerns. They get bought out by some large pharma company because that's the way pharma is evolving, is they let some young company develop a drug, you'd still be forecasting, right? Okay. Sounds good. So for the, like, estimate, if it's, like, phase two or something, you just get, like, sort of a general market, like, perception? Yeah, I wouldn't get to... Remember, the more of a portfolio you have, the less payoff there is to breaking it down into individual elements. I would never take a Merck or an Upjohn or a Pfizer and break down its revenues to buy a drug. It's not worth the effort. out of this pipeline. And that's going to be built into your value as well. So at the end of the process, even if you get all four drugs they have valued and add them up, it might not be the value of the company because people might attach a premium to the fact that they have the great R&D department that's worked on these four drugs. And remember, when you're successful with a drug, it gives you these little offshoots that you can use to develop, like Moderna, the mRNA, It's graduated last and her class is a big help you Sure. What's his name. Our goal and Jason Jason Jason He said he took my class last year. Yeah, I don't know.", "chunks": [{"timestamp": [0.0, 18.24], "text": " I had a question about like valuing a biotech or healthcare."}, {"timestamp": [18.24, 18.98], "text": " Should I ask you?"}, {"timestamp": [18.98, 19.48], "text": " No."}, {"timestamp": [151.03, 152.23], "text": " okay folks You think the entire distribution might have gone? That's what it is, right? Stock prices at 200. If you did the evaluation today, could it be higher? Absolutely. The stock price, I mean, the notion that you can somehow be objective, I wanted to set it aside. Please be honest with yourself."}, {"timestamp": [152.41, 153.25], "text": " Things affect you."}, {"timestamp": [153.63, 156.75], "text": " And that can show up in the evaluation."}, {"timestamp": [157.69, 223.46], "text": " So that was just, you know, I don't. But that's the way most people still get historic risk premiums."}, {"timestamp": [268.11, 268.73], "text": " is pure icing on the cake, right?"}, {"timestamp": [269.79, 270.01], "text": " If you told me $1,"}, {"timestamp": [271.95, 272.95], "text": " I probably wouldn't sell you the investment, right?"}, {"timestamp": [274.69, 275.73], "text": " In fact, I'll probably give you the trigger at which I'd sell it to you."}, {"timestamp": [275.77, 276.81], "text": " So you want to stick with the dollar"}, {"timestamp": [276.81, 277.91], "text": " or you want to try another number?"}, {"timestamp": [280.77, 281.13], "text": " $5."}, {"timestamp": [281.37, 282.01], "text": " If you take $5,"}, {"timestamp": [282.31, 283.81], "text": " what are you requiring as a rate of return?"}, {"timestamp": [284.71, 286.13], "text": " You're going to get $1 every year."}, {"timestamp": [286.17, 287.55], "text": " Remember, the principal doesn't come back."}, {"timestamp": [287.61, 288.27], "text": " You paid $5."}, {"timestamp": [288.57, 290.27], "text": " You're going to make 20%."}, {"timestamp": [290.27, 292.85], "text": " So you're telling me you want a risk-free investment"}, {"timestamp": [292.85, 354.95], "text": " that will deliver 20%. suppose I came to you with the same kind of bet, but now I'm going to give you a dollar, but it's going to come from an average risk business. This is an expected cash flow. So this says the average risk equity. You're going to get a $1 each year forever. So let me stay with you. You offer $25 for that risk-free. Will you offer less or more for the second bet?"}, {"timestamp": [356.05, 416.88], "text": " So give me a number. $10. He said $10 It's just a mechanics of, I don't trust people when they tell me this is what I'd like to make, but I can see what they pay. And I'm going to back out of that,"}, {"timestamp": [423.78, 490.51], "text": " what the equity risk premium should be. So let's build on, right? So you wanted a 10% risk premium. I'm sorry, 6% or roughly 6 you hit the bottom. There's an option trade, risk aversion, some of it you're just born with. Some of us are more risk averse than others. So match.com probably should have a risk aversion section, right? Now what's your risk aversion coefficient? But risk aversion does also change over time. Studies consistently show that as people age,"}, {"timestamp": [537.31, 543.37], "text": " premiums are going to go up, right? Because as you get older, you get more risk aversion. The market's getting older. You're going to see the risk. So you can see that risk aversion can change"}, {"timestamp": [543.37, 550.95], "text": " because of demographics. So risk aversion can be different because you're born with different"}, {"timestamp": [550.95, 556.47], "text": " risk aversion can change because of demographics. Let's complete the process. Let's suppose while"}, {"timestamp": [556.47, 617.72], "text": " you're sitting here today, don't freak out. Nothing bad's happened. But let's say that You know where we are. Equity risk premiums can vary across people. It can vary because of demographics and it can vary across time. I'm making an argument that whatever approach we use to estimate equity risk premiums needs to be dynamic."}, {"timestamp": [619.26, 628.28], "text": " It needs to be dynamic because you can't have a number that stays the same as we're going through crisis and good times and in bad times. It doesn't work that way."}, {"timestamp": [668.21, 668.55], "text": " about why I'm doing it."}, {"timestamp": [669.87, 669.95], "text": " And if you don't like it,"}, {"timestamp": [671.83, 674.09], "text": " what your middle ground is going to be because you can pick a different approach,"}, {"timestamp": [674.11, 675.13], "text": " but it's got to be dynamic."}, {"timestamp": [675.29, 676.33], "text": " It's got to be forward-looking"}, {"timestamp": [676.33, 677.65], "text": " and you got to come up with numbers"}, {"timestamp": [677.65, 679.03], "text": " that reflect the times you're in."}, {"timestamp": [679.85, 683.83], "text": " So let's turn back to, I think page 64"}, {"timestamp": [683.83, 686.81], "text": " was where we were in the notes."}, {"timestamp": [694.57, 751.03], "text": " Okay. even getting there, what do I start with? I start with the price you paid for the bond. Then I get the coupons every year. And then I look at the face value and the yield to maturity actually doesn't take into account reinvestment. It just says what discount rate makes the present value"}, {"timestamp": [751.03, 756.05], "text": " of my coupons and face value. Implicit there are assumptions about reinvestment, but the yield to"}, {"timestamp": [756.05, 760.81], "text": " maturity is like an IRR, right? It's an IRR for a bond, price of the bond, coupons and cashflow."}, {"timestamp": [805.42, 806.04], "text": " I might even be able to get estimates of what people are expecting earnings and cash flows to grow."}, {"timestamp": [809.64, 809.66], "text": " So it's a little messier than a bond, but still the same problem, right?"}, {"timestamp": [811.06, 811.26], "text": " You got the price, you got the cash flows."}, {"timestamp": [817.36, 817.9], "text": " And just as I compute a discount rate that makes the present value of the bond cash flows equal to the price of the bond,"}, {"timestamp": [824.2, 824.58], "text": " I can compute a discount rate that makes the present value of cash flows on equities equal to what you paid up for."}, {"timestamp": [826.16, 886.77], "text": " So this isn't rocket science. It's just taking be in the future, but I can tell you what the dividends and buybacks were in the 12 months leading into the start of 2020. And dividends and buybacks were 150.50. None of this is difficult to get. They're all public information. You can go to the S&P website, look up dividends, look up buybacks. So I know what you paid. I know"}, {"timestamp": [886.77, 952.07], "text": " what the cash flows were last year. Let me bring in at the end of the fifth year, I put these companies collectively into stable growth. Remember, we talked about that as a closure. What's a stable growth rate? A growth rate at which the economy can grow at over time. And I use the risk-free rate as my proxy for the growth rate. You're going to see"}, {"timestamp": [952.07, 957.35], "text": " me do this repeatedly, because I'm going to say that's the best estimate. That is 1.92%."}, {"timestamp": [957.35, 961.61], "text": " So think of this as a present value problem. I know what you paid. There are my cash flows."}, {"timestamp": [1009.44, 1015.62], "text": " paid for stocks you can expect to make 7.12% a year. The risk-free rate, T-bond rate was 1.92%. The difference is an implied equity risk premium. You see why I call it implied? I'm backing it out"}, {"timestamp": [1015.62, 1021.46], "text": " from what you paid. You don't like it? You paid for it. You think it's too low? Then stop buying"}, {"timestamp": [1021.46, 1084.27], "text": " stocks. I am not forcing you to do it. There's why I picked the start of 2020? Because six weeks later, COVID hit. February 14th, I think, was the official day when the Italians announced."}, {"timestamp": [1084.51, 1088.25], "text": " Because until then, we thought it was on China and cruise ships and will never come abroad here."}, {"timestamp": [1088.73, 1090.89], "text": " It's amazing how much in denial you are."}, {"timestamp": [1091.31, 1096.23], "text": " And February 14th, we heard that there are a couple of hundred Italians who'd never been to China on a cruise ship."}, {"timestamp": [1138.13, 1140.53], "text": " or 4.7, 4.5 or 4.6%, almost to 8%. Are you surprised?"}, {"timestamp": [1141.17, 1143.37], "text": " I mean, you guys lived through those six weeks,"}, {"timestamp": [1143.45, 1145.71], "text": " but imagine we had no idea what was coming."}, {"timestamp": [1145.79, 1146.95], "text": " The economy was shutting down."}, {"timestamp": [1147.03, 1148.33], "text": " This could have been a depression."}, {"timestamp": [1148.95, 1151.11], "text": " It could wipe out half the population."}, {"timestamp": [1151.27, 1152.43], "text": " Nobody knew what was coming."}, {"timestamp": [1153.03, 1156.71], "text": " Of course, risk premiums are going to reflect that."}, {"timestamp": [1158.09, 1216.72], "text": " March 23rd of 2020 was the absolute bottom my feeling, but I wanted to record in real time. Because after the crisis passed, it's amazing how with the benefit of hindsight, I knew everything was going to be okay. Really? I didn't. And"}, {"timestamp": [1216.72, 1222.24], "text": " some, I mean, if you want to see what happened in March 23rd, something broke the crisis."}, {"timestamp": [1223.32, 1283.65], "text": " And it was one of the most amazing returns back to keep tabs on what that equity risk premium looks like"}, {"timestamp": [1283.65, 1287.37], "text": " right now, because you're valuing a company on February 12th of 2020. It doesn't matter what"}, {"timestamp": [1287.37, 1291.17], "text": " the equity risk premiums will look like in the future. You are valuing a company in the market"}, {"timestamp": [1291.17, 1350.19], "text": " you're in, and you got to build in. So you're right. I'm estimating cash flows and I could be wrong, right?"}, {"timestamp": [1351.37, 1357.53], "text": " And it'll show up as what? A standard error around my implied equity risk. So I compute that. In"}, {"timestamp": [1357.53, 1417.44], "text": " fact, if you go to my, and I'll send you the spreadsheet after today's email of my February And here I'm willing to live with that range. It's a narrower range because there are fewer things I can go wrong on. Any other questions? Yes. Like the VIX?"}, {"timestamp": [1418.0, 1420.12], "text": " It's a contemporaneous variable, right?"}, {"timestamp": [1421.12, 1423.82], "text": " In other words, so let's say I gave you the VIX,"}, {"timestamp": [1423.82, 1426.52], "text": " so you can measure it on a daily basis."}, {"timestamp": [1427.2, 1429.44], "text": " How do you convert that into a percentage premium?"}, {"timestamp": [1474.11, 1479.67], "text": " my reaction was, how much can it change in a year? And then came 2008. And I learned how much it can change in a year. So starting in September of 2008, I've been reporting this number on a"}, {"timestamp": [1479.67, 1484.09], "text": " monthly basis on my website. It's the very front page. I said, this is what it's the start of the"}, {"timestamp": [1484.09, 1617.7], "text": " month. And you'd see, you can get the monthly ER let me bring you up to January 2023. Started this year, the index was at 38.39.50. You can drop the last two decimals if you want've tracked. I've tracked this from 1960 to 2022. It's the biggest one-year change in expected return"}, {"timestamp": [1617.7, 1623.56], "text": " because you got a double whammy last year. T-bond rates went up and equity risk premiums went up as"}, {"timestamp": [1623.56, 1688.19], "text": " well. In 2008, equity risk premiums went up, but because it's sticky. It seems to take a while for them. It's not that they don't update it often enough, but their updates are not as big as they should be in periods. So that earnings number has gone down about 6% over the last year as stock has gone from, there's no recession to recession."}, {"timestamp": [1688.35, 1690.65], "text": " It's almost like the analyst saying, what recession?"}, {"timestamp": [1691.17, 1693.95], "text": " So there is that stickiness in earnings."}, {"timestamp": [1694.31, 1695.51], "text": " And here's what it will mean."}, {"timestamp": [1739.33, 1739.37], "text": " I would argue that every statement you hear about stocks is really a statement about equity risk premiums."}, {"timestamp": [1742.17, 1742.41], "text": " You know what I mean by that. Stocks are overvalued. Stocks are undervalued."}, {"timestamp": [1745.71, 1746.23], "text": " I can restate it as a statement about equity risk premiums."}, {"timestamp": [1750.39, 1750.47], "text": " So when you tell me stocks are overvalued, what are you telling me about equity risk premiums?"}, {"timestamp": [1754.99, 1757.63], "text": " That they're too low or too high? Too low. And you want them to be higher. So basically you're saying, hey, equity risk premiums become too low."}, {"timestamp": [1757.91, 1760.57], "text": " When you tell me stocks are undervalued, you're making a statement."}, {"timestamp": [1803.74, 1804.9], "text": " and the premiums reflect that stability."}, {"timestamp": [1807.62, 1808.38], "text": " 1970, something is going on, right?"}, {"timestamp": [1810.0, 1810.54], "text": " What's happening to the equity risk premium?"}, {"timestamp": [1811.96, 1813.02], "text": " It's shooting through the roof."}, {"timestamp": [1814.9, 1817.42], "text": " And what was the trigger?"}, {"timestamp": [1818.1, 1819.14], "text": " What did he say?"}, {"timestamp": [1820.14, 1820.56], "text": " Oil embargo, you mean?"}, {"timestamp": [1823.84, 1825.88], "text": " But remember, the oil embargo by itself was what started the ball rolling,"}, {"timestamp": [1825.94, 1828.0], "text": " but what did it create in the following years?"}, {"timestamp": [1829.0, 1829.56], "text": " Inflation."}, {"timestamp": [1871.75, 1875.23], "text": " them a choice of two economies. One has 5% inflation, the other is 3% inflation. And so which one would you prefer to invest and do business in? Most of them say, I'll take the 3%."}, {"timestamp": [1875.23, 1879.57], "text": " And they say, let me add to those facts. Let's suppose in the first economy, not only is inflation"}, {"timestamp": [1879.57, 1885.73], "text": " 5%, it'll be guaranteed to be 5% every year forever. And in the second economy, inflation"}, {"timestamp": [1885.73, 1950.01], "text": " is 3%, but it could be one of five. I'll take the first economy over the second one. Because 800. There were three numbers in the Dow. Can you imagine that? Three numbers. What is it now? 20-something thousand? In fact, Businessweek ran a headline, Stocks are Dead, which to me should be a sign"}, {"timestamp": [1950.01, 1953.29], "text": " that any time business magazines put a headline like that,"}, {"timestamp": [1953.31, 1954.17], "text": " it's time to buy."}, {"timestamp": [1955.75, 1958.17], "text": " Because if you bought stocks in 1978,"}, {"timestamp": [1959.09, 1961.79], "text": " you rode one of the great bull markets of all time."}, {"timestamp": [2003.52, 2005.0], "text": " The stories were there will never be a recession again."}, {"timestamp": [2008.2, 2011.24], "text": " We've discovered the secret to everlasting growth with dot-com at the end."}, {"timestamp": [2012.5, 2014.62], "text": " The moment didn't last that long"}, {"timestamp": [2014.62, 2017.74], "text": " because in the two years after you had the dot-com bust,"}, {"timestamp": [2017.86, 2020.06], "text": " equity risk bounce back to 4%,"}, {"timestamp": [2020.06, 2022.92], "text": " they settled in for a period between 4% to 5%."}, {"timestamp": [2022.92, 2024.04], "text": " Nice stable period again."}, {"timestamp": [2024.94, 2026.3], "text": " This is the thing about markets."}, {"timestamp": [2026.3, 2083.63], "text": " They lull you into a sense of false complacency Since 2008, equity risk premiums have been both higher and more volatile than they were pre-2008. And I don't think that's going to change. You know why? Welcome to globalization. What does globalization do?"}, {"timestamp": [2085.01, 2085.75], "text": " It links us all at the hip."}, {"timestamp": [2090.97, 2092.23], "text": " In 1988, if there was a crisis in Sao Paulo, you know what happened to U.S. stocks? So where's Sao Paulo?"}, {"timestamp": [2092.43, 2093.99], "text": " Somewhere in Latin America."}, {"timestamp": [2094.01, 2094.81], "text": " It doesn't bother us."}, {"timestamp": [2137.45, 2138.67], "text": " spending, you know, sell everything people. They've been saying that for 10 years now."}, {"timestamp": [2142.45, 2143.91], "text": " They might have a good reason. Michael Burry might have a good reason for saying sell everything."}, {"timestamp": [2151.07, 2153.83], "text": " But I don't see it backed up in the equity risk premium. So in fact, first week of 2023, somebody asked me, what do you think about stocks? I've had a terrible year. I said,"}, {"timestamp": [2154.19, 2158.13], "text": " you know, they've had a terrible year. That's true. I mean, who can contest it? It's a fact."}, {"timestamp": [2204.72, 2205.54], "text": " So I'm sure you've heard a lot of people always think about soft landing."}, {"timestamp": [2207.02, 2207.1], "text": " That's about the economy, right?"}, {"timestamp": [2209.8, 2209.98], "text": " Less about the market and more about the economy, right?"}, {"timestamp": [2211.32, 2211.74], "text": " That's an earnings growth story."}, {"timestamp": [2217.72, 2217.86], "text": " Because right now, if you're bearish about markets, remember I've used that 6% growth,"}, {"timestamp": [2221.92, 2222.0], "text": " the drop in 2023 bounce, but that's a soft landing for earnings."}, {"timestamp": [2225.32, 2225.38], "text": " So even if there's a recession, we're assuming it's going to be a one-year effect."}, {"timestamp": [2227.04, 2288.15], "text": " It's not going to be cash flows. It's got to be growth. And then work out what the implied equity risk premium is with that, because otherwise it becomes a one hand on the other hand, right? I'm going to say something about market strategies and forecasts that I find, please, they irritate"}, {"timestamp": [2288.15, 2288.23], "text": " me."}, {"timestamp": [2290.51, 2351.47], "text": " I'd rather be transparently wrong than opaquely right. show up. So if inflation is your concern, think about where it shows up in those numbers. If inflation continues to go up, what's going to happen? T-bond rates are going to continue to rise. Your equity risk premium will get higher because you need higher risk premiums. Every concern becomes a question you can ask about implied equity risk premiums."}, {"timestamp": [2353.69, 2417.7], "text": " At the start of last year, the implied equity risk premiums went up. So there's advantage to tracking both the equity risk premium and the total expected return. On both dimensions, the start of 2023 looks a lot better than the start of 2022."}, {"timestamp": [2420.88, 2420.9], "text": " Even though people felt better at the start of 2022, right?"}, {"timestamp": [2422.5, 2423.0], "text": " Because they were coming off a bullish year."}, {"timestamp": [2428.74, 2484.15], "text": " So sometimes how people feel is actually a cont's a price of risk in the bond market. That number also goes up and down."}, {"timestamp": [2484.23, 2488.65], "text": " What causes it to go up and down? In good times, you stop worrying about default risk, you charge"}, {"timestamp": [2488.65, 2493.61], "text": " lower spreads. In bad times, you start more. And most of the time, the two move together,"}, {"timestamp": [2536.41, 2538.91], "text": " I will not let the U.S. economy go into recession."}, {"timestamp": [2544.07, 2544.23], "text": " And he actually tried to engineer a scenario where the U.S. economy wouldn't go into recession."}, {"timestamp": [2550.51, 2556.97], "text": " The way he did it was he essentially pumped up the bond market and default spreads. If you look at what happened after 2021, default spreads dropped to 2002, 2000."}, {"timestamp": [2557.13, 2616.76], "text": " So people are charging less and less for risk in the bond market while charging actually higher the first crisis in the last century where the bond market is really more responsible than the stock market. People pushing down spreads too much. In contrast, go to the late 90s."}, {"timestamp": [2618.06, 2620.72], "text": " Late 90s, default spreads are staying pretty stable."}, {"timestamp": [2621.72, 2624.2], "text": " But equity risk premiums are plummeting."}, {"timestamp": [2624.28, 2625.44], "text": " You're in this dot-com boom."}, {"timestamp": [2625.54, 2627.14], "text": " People are pushing up stock prices."}, {"timestamp": [2669.12, 2670.42], "text": " because you were getting a 2% spread on the safe bond and pulling it out of stock."}, {"timestamp": [2670.62, 2673.24], "text": " And 2007, you'd be doing the exact opposite."}, {"timestamp": [2675.12, 2676.92], "text": " Now, one of my problems"}, {"timestamp": [2676.92, 2678.7], "text": " with the way financial markets are structured"}, {"timestamp": [2678.7, 2679.56], "text": " is you get a job,"}, {"timestamp": [2679.82, 2683.18], "text": " you get put into a segment of the market,"}, {"timestamp": [2683.26, 2684.06], "text": " you get tunnel vision."}, {"timestamp": [2686.28, 2688.48], "text": " Equity people talk to equity people,"}, {"timestamp": [2688.68, 2690.66], "text": " fixed income people talk to fixed income people."}, {"timestamp": [2690.66, 2692.92], "text": " And sometimes you can have the two markets diverging"}, {"timestamp": [2692.92, 2750.67], "text": " and they're not even talking to each other. a family business, a real estate. You know what a cap rate is? Anybody want to tell me what a cap rate in real estate is? Cap rate is a capitalization rate. It's a fancy word for if you give me the rental income on a property,"}, {"timestamp": [2751.17, 2753.19], "text": " this is the rate that I use to"}, {"timestamp": [2753.19, 2755.19], "text": " capitalize it. So if you have a 10% cap"}, {"timestamp": [2755.19, 2756.43], "text": " rate and you have income of a million,"}, {"timestamp": [2756.79, 2759.17], "text": " you'll be willing to pay 10 million for a"}, {"timestamp": [2759.17, 2760.97], "text": " property because you get a million on the 10 million."}, {"timestamp": [2761.65, 2818.02], "text": " A cap rate is like a cost way real estate is taught and dealt with in investing. When I was taking my classes in investing, you know what I was told? I was told that if you have your money in financial assets, you should buy real estate. Why? Because it moves in different ways than financial assets."}, {"timestamp": [2818.7, 2883.44], "text": " Now, I got my MBA in the early 80s. And in the 1980s, that was true. Take a look at what the real estate is no longer operating as an asset class. Why might that be? What did we do to screw up real estate that's made it stop being this different asset class? We celebrated what we did to screw it up, actually."}, {"timestamp": [2883.52, 2884.78], "text": " It's probably taught in business schools"}, {"timestamp": [2884.78, 2886.14], "text": " that this is what we need to do."}, {"timestamp": [2886.88, 2887.46], "text": " What did we do?"}, {"timestamp": [2891.34, 2892.9], "text": " We securitized it."}, {"timestamp": [2894.18, 2894.88], "text": " Lou Ranieri."}, {"timestamp": [2895.2, 2951.55], "text": " Prior to the 1980s, starts to behave like a financial asset. It's made our lives more difficult, right? The easy way to diversify is not gone. Just because you bought a house or an apartment and you thought you were safe, that's no longer true. So it'll be good to track these risk premiums by markets"}, {"timestamp": [2951.55, 2953.35], "text": " because when somebody says Bitcoin,"}, {"timestamp": [2954.45, 2956.01], "text": " that's a great investment."}, {"timestamp": [2957.63, 2959.43], "text": " It's going to buffer your portfolio."}, {"timestamp": [2959.55, 2960.11], "text": " What's the new thing?"}, {"timestamp": [2960.19, 3018.5], "text": " You put up the, I wager, Let's see if that's enough of a defense. For instance, let's assume that every analyst in your group uses the arithmetic average historical risk premium of 8.17% to come up with cost of equity for companies. In other words, they're doing it because, and it's the same number, everybody's using the same number."}, {"timestamp": [3019.4, 3023.52], "text": " And let's say the implied equity risk premium is 5.94%."}, {"timestamp": [3025.52, 3087.48], "text": " Standard 2023, 5.94%. the S&P 500 should be 30% higher than it is today. And if they're right on that, why the heck are you valuing the stock, right? Go buy the index and buy index futures. Whenever you use a premium that deviates from the current implied premium, you're bringing a market view into your valuation. What do you think about markets? And that's not a good place to be, right? I want you to value Coca-Cola,"}, {"timestamp": [3087.8, 3092.46], "text": " not value Coca-Cola and tell me what you think about the S&P 500 at the same time."}, {"timestamp": [3134.69, 3135.93], "text": " It's 143 pages."}, {"timestamp": [3137.25, 3137.59], "text": " Use it to fall asleep."}, {"timestamp": [3138.63, 3140.87], "text": " It's incredibly boring."}, {"timestamp": [3141.97, 3142.81], "text": " But I take everything and I look at historic."}, {"timestamp": [3143.05, 3143.91], "text": " And at the end,"}, {"timestamp": [3143.95, 3144.79], "text": " in the last section,"}, {"timestamp": [3144.85, 3145.37], "text": " here's what I do."}, {"timestamp": [3145.43, 3146.67], "text": " I present you the six"}, {"timestamp": [3146.67, 3147.55], "text": " or seven different ways."}, {"timestamp": [3147.63, 3148.55], "text": " Some people use earnings"}, {"timestamp": [3148.55, 3150.53], "text": " to price ratios to get in place."}, {"timestamp": [3150.69, 3152.41], "text": " It's called the Fed model to get in."}, {"timestamp": [3152.81, 3153.97], "text": " I take all these models"}, {"timestamp": [3153.97, 3154.99], "text": " and ask a simple question."}, {"timestamp": [3154.99, 3158.01], "text": " Which of these is the best estimate"}, {"timestamp": [3158.01, 3159.97], "text": " of returns in the next five years"}, {"timestamp": [3159.97, 3160.71], "text": " in the next 10 years?"}, {"timestamp": [3160.73, 3161.55], "text": " Because ultimately,"}, {"timestamp": [3161.61, 3162.37], "text": " that's what a good equity"}, {"timestamp": [3162.37, 3217.8], "text": " risk premium should do I want? I want a high positive correlation."}, {"timestamp": [3218.4, 3284.74], "text": " Let's debate the best positive correlations. But'll take that over the historical premium every single day."}, {"timestamp": [3287.22, 3287.3], "text": " So as you think about equity risk premiums,"}, {"timestamp": [3288.96, 3291.22], "text": " open the door to this possibility because you're going to have to have this argument"}, {"timestamp": [3291.22, 3292.56], "text": " with people you go work for"}, {"timestamp": [3292.56, 3295.0], "text": " because they're going to be trained in historical premiums."}, {"timestamp": [3335.43, 3336.11], "text": " The safest place to be is where everybody else is."}, {"timestamp": [3339.25, 3340.25], "text": " But I want you to open the door to at least thinking about implied premiums."}, {"timestamp": [3342.79, 3343.39], "text": " I'll give you one other advantage of implied premiums."}, {"timestamp": [3346.97, 3348.43], "text": " What was the reason I could not compute a historical risk premium for Vietnam?"}, {"timestamp": [3349.81, 3351.71], "text": " There's not enough history, right?"}, {"timestamp": [3355.11, 3355.55], "text": " In fact, that's going to be true for a lot of emerging markets around the world."}, {"timestamp": [3357.07, 3361.57], "text": " What do I need for an implied premium? I need a level of the index today, which I should be able to get for any market."}, {"timestamp": [3402.12, 3404.18], "text": " can't wait for that day to arrive because that'll"}, {"timestamp": [3404.18, 3406.22], "text": " mean I have premiums that actually reflect"}, {"timestamp": [3406.22, 3408.02], "text": " what people are demanding in that market."}, {"timestamp": [3408.12, 3410.02], "text": " Because right now it's a little artificial, right? I take the"}, {"timestamp": [3410.02, 3411.78], "text": " US premium, I take the default spread,"}, {"timestamp": [3412.02, 3414.06], "text": " I do this elaborate dance. I might"}, {"timestamp": [3414.06, 3415.74], "text": " convince you, I might not convince you."}, {"timestamp": [3416.3, 3418.08], "text": " But this way you bypass it. What are people"}, {"timestamp": [3418.08, 3419.52], "text": " paying? So this was actually in"}, {"timestamp": [3419.52, 3421.02], "text": " 2007."}, {"timestamp": [3421.74, 3423.88], "text": " I wanted to compute the implied equity risk"}, {"timestamp": [3423.88, 3426.16], "text": " premium in the CENSEX, the Indian Equity Index."}, {"timestamp": [3426.88, 3428.0], "text": " So I got the level of"}, {"timestamp": [3428.0, 3484.32], "text": " the index. 6%. I set that as my growth rate beyond 0.5. So I'm doing with the Sensex exactly what I did with the S&P 500. Same mechanical process I solve for R. I get an expected return of 11.18%. What does that tell me? In September of"}, {"timestamp": [3484.32, 3486.6], "text": " 2007, given how Indian stocks"}, {"timestamp": [3486.6, 3488.76], "text": " were priced, my expected"}, {"timestamp": [3488.76, 3490.56], "text": " risk premium in India"}, {"timestamp": [3490.56, 3492.2], "text": " is"}, {"timestamp": [3492.2, 3494.28], "text": " 11.18 minus 6.76,"}, {"timestamp": [3494.28, 3550.91], "text": " 4.42%. really, really, really difficult to do. You see where I'm going, right? You have a market where investors are kind of penned in. Penned in in what sense? You have a choice. You want to buy Indian stocks or you want to buy Indian stocks. You say, but Indian stocks are overvalued."}, {"timestamp": [3551.27, 3551.81], "text": " Let me ask you again."}, {"timestamp": [3551.87, 3553.03], "text": " Do you want to buy Indian stocks?"}, {"timestamp": [3553.11, 3554.19], "text": " Do you want to buy Indian stocks?"}, {"timestamp": [3554.51, 3555.37], "text": " Do you see what can happen?"}, {"timestamp": [3555.45, 3556.49], "text": " If you pen in a market,"}, {"timestamp": [3556.73, 3560.97], "text": " the equity risk premium can actually drop below what it is."}, {"timestamp": [3607.86, 3608.38], "text": " True in mainland China. China has been wrestling with how do we open up the conduits for mainland Chinese to invest in Hong Kong stocks."}, {"timestamp": [3613.1, 3614.26], "text": " Forget about U.S. stocks. And they open the conduit. Let me close it up again."}, {"timestamp": [3621.76, 3621.98], "text": " When India and China were small economies, this was not a big deal, right? You could do this. Nobody cared."}, {"timestamp": [3625.98, 3684.46], "text": " But we have the second largest ands allow you to make the judgment."}, {"timestamp": [3684.88, 3687.68], "text": " And one final point about equity risk premiums,"}, {"timestamp": [3687.72, 3689.76], "text": " and we'll shut the door on this topic."}, {"timestamp": [3690.62, 3752.23], "text": " I actually, at the start of every year, So you're comparing apples to apples. Start of 2004, the differential was 3.27%. Investors were charging 3.27% more for investing in emerging market companies than in developed market companies. You see, that makes sense. I'm not even sure if it makes sense or doesn't make sense."}, {"timestamp": [3752.33, 3755.81], "text": " But look at the trend line of that number as you go through time."}, {"timestamp": [3756.25, 3758.55], "text": " 2004, 2005, it keeps dropping."}, {"timestamp": [3758.73, 3760.49], "text": " 2008 is a little bounce back up."}, {"timestamp": [3760.57, 3817.82], "text": " That's a crisis pushing the extra risk. So the implied approach actually gives you a way of reverse engineering what you can make as an expected return and saying, where do I go to get the most bang for my buck, the highest return for the risk I take? And looking across markets"}, {"timestamp": [3817.82, 3823.84], "text": " geographically, looking across asset classes, you can get a better sense of, hey, these are the"}, {"timestamp": [3823.84, 3886.96], "text": " classes that deliver the highest returns. Any questions on implied equity risk groups? beta. What a terrible way to think about betas. Because you know already what you've done. You've converted into a statistical number. You're under regression. You get the slope. You get a beta. Just as I dug a hole and buried historical risk streams, I'm going to dig an even deeper hole and bury this notion that betas come from regression."}, {"timestamp": [3888.52, 3951.67], "text": " And there are three arguments I'm going to make against regression betas. So if this upends Returns for the next five years against my, how can I get returns for the next five years? I get it for the last five years. It's the ultimate backward looking number, right? And if your business mix has changed, God help me, even across the regression, it's giving me a beta for the last five years."}, {"timestamp": [3954.05, 3955.05], "text": " And I'm going to argue that betas are affected by how much debt you have."}, {"timestamp": [3955.17, 3956.89], "text": " Equity becomes riskier for any firm"}, {"timestamp": [3956.89, 3957.83], "text": " if you borrow more money"}, {"timestamp": [3957.83, 3959.91], "text": " and company's debt to equity ratios change,"}, {"timestamp": [3959.99, 3960.71], "text": " the beta changes."}, {"timestamp": [4007.4, 4014.84], "text": " so this is the beta page for a company called gopro you know what gopro did what do they make cameras for hyperactive oversharing individuals right basically you know they put the gopro on"}, {"timestamp": [4014.84, 4018.32], "text": " their head and they go on a three-hour hike and they record the whole damn thing"}, {"timestamp": [4018.32, 4085.52], "text": " as if you care they're eating their lunch 45 minutes goproing the whole thing it's disgusting but remember your statistics keep going down oh standard error beta 0.50 somebody help me out here i get a regression beta 1.60 with a standard error of 0.50 and i ask you what's a fair beta for"}, {"timestamp": [4085.52, 4150.29], "text": " gopro what's the range you're going to give me that's with 67 confidence you like 67 confidence Two thirds times the raw beta plus one third times one. If you don't believe me, print out the betas for 40,000 companies. Try every single one of the companies. It's two thirds times the raw beta. You're saying, what? See, raw beta is 1.5. Two thirds of 1.5 is one. One third of one is 0.33."}, {"timestamp": [4150.45, 4152.17], "text": " A 1.5 will become 1.33."}, {"timestamp": [4152.61, 4154.37], "text": " 1.2 will become 1.13."}, {"timestamp": [4154.75, 4157.59], "text": " As I go through each of these, look to see if you see a pattern."}, {"timestamp": [4158.33, 4160.13], "text": " 1.8 is going to become 1.53."}, {"timestamp": [4160.13, 4219.26], "text": " 0.6 is going to become 0.73. man oh this is a company maybe i should have called the mayor they i called them and i said look i want to talk to somebody about your beta page is they put me in touch with the beta calculation guy there is a guy at bloomberg whose life it is to maintain this page can you imagine"}, {"timestamp": [4219.26, 4288.32], "text": " how exciting his life must be he goes to a and says i don't know it was here when i got here i said what does that even mean he said it was hired two years ago it was already built in don't blame me i'm saying i'm not trying to blame you i just want to know where these numbers come from here when i got here you know how often you're going to get that answer to questions you ask at your"}, {"timestamp": [4288.32, 4352.81], "text": " work about numbers used every day why are we using a five percent equity risk cream for the it's noisy and the adjusted beta doesn't do much but once in a while you will get a great looking beta you're going to start celebrating the best looking beta page ever beta page are printed off for nokia like 2001"}, {"timestamp": [4352.81, 4419.76], "text": " at that time bloomberg actually used to report the adjusted beta they going to Helsinki for? Nokia is a Finnish company. Bloomberg is very parochial about the way it estimates betas. You go look up the beta for a Chinese stock, it'll be against the Shenzhen if it's listed in the Shanghai exchange, or it can be against if you take a Hong Kong."}, {"timestamp": [4419.94, 4422.6], "text": " So whatever stock you pick, they'll pick the local exchange."}, {"timestamp": [4422.82, 4423.88], "text": " You see, so what?"}, {"timestamp": [4424.66, 4425.42], "text": " I'll make a confession."}, {"timestamp": [4425.54, 4427.42], "text": " I had no idea what was in the hex."}, {"timestamp": [4476.64, 4478.84], "text": " DAX 30 stocks, CIC 30 stocks are narrow indices, which makes their betas completely nonsensical."}, {"timestamp": [4484.16, 4484.64], "text": " Because the marginal investor in Nokia in 2001 was Barclays."}, {"timestamp": [4486.7, 4487.4], "text": " They bought it for their global index fund."}, {"timestamp": [4492.2, 4493.42], "text": " And if you're buying Nokia for your global index fund, you know how you measure risk, right? You don't measure it against a hex."}, {"timestamp": [4493.46, 4550.65], "text": " You measure it against the MSCI or a global index. It makes your betas go down. So if I take, for instance, GameStop, and this was at the peak of that craziness, you know what happened to that beta? It went to minus point, let's take the raw beta, minus 0.08."}, {"timestamp": [4551.73, 4552.41], "text": " You're saying, what happened?"}, {"timestamp": [4554.31, 4557.01], "text": " What happened during that craziness? People kept buying stocks no matter what,"}, {"timestamp": [4557.07, 4558.71], "text": " or selling stocks no matter what."}, {"timestamp": [4558.93, 4560.57], "text": " You have nothing to do with the market anymore."}, {"timestamp": [4560.77, 4562.97], "text": " And since beta measures how you move with the market,"}, {"timestamp": [4602.08, 4603.94], "text": " the starting point, the ending point, daily, weekly."}, {"timestamp": [4607.98, 4611.3], "text": " Which means that what you see as a printed beta page on Bloomberg might just be the 54th iteration that this person tried and said,"}, {"timestamp": [4611.38, 4612.46], "text": " this is the beta for the company."}, {"timestamp": [4615.5, 4617.36], "text": " So when we get back on Monday,"}, {"timestamp": [4617.36, 4619.6], "text": " we're going to talk about what to do instead,"}, {"timestamp": [4619.8, 4621.46], "text": " because we've dug the grave for betas."}, {"timestamp": [4621.5, 4622.32], "text": " We're going to bury it."}, {"timestamp": [4622.4, 4622.66], "text": " And then we said,"}, {"timestamp": [4622.84, 4687.54], "text": " there must be a different way of thinking about it. something i enjoy teaching you ask me to rank which do you which is the bigger passion teaching is my passion finance is not a passion it's an interest okay yeah what why why do i enjoy it because you got to pick what you came you know in life what gives you the most joy and to me"}, {"timestamp": [4687.54, 4750.45], "text": " the joy comes from teaching it doesn't come from i mean i like finance i enjoy financial progress to be curious, 5% premium in the last 20 years. I mean, this is a market price for risk, right? There can't be a good number. There can be a number that is not out of sync with what people accept over time. That's why I have that graph of over time,"}, {"timestamp": [4750.53, 4752.39], "text": " what does the most premium look like relative"}, {"timestamp": [4752.39, 4755.43], "text": " to the last 20 years, the last 10 years, the last 50 years."}, {"timestamp": [4755.73, 4757.07], "text": " But that's all you can do."}, {"timestamp": [4757.07, 4757.71], "text": " No."}, {"timestamp": [4758.67, 4758.95], "text": " Yeah."}, {"timestamp": [4759.43, 4760.43], "text": " Thank you."}, {"timestamp": [4805.4, 4805.48], "text": " on the, you know, but I have S&P Capital IQ, you can take all energy stocks, add up their earnings,"}, {"timestamp": [4809.52, 4814.04], "text": " add up their cash flows, you can do an implied equity risk premium for energy companies, an implied, and if you do that, you can skip the beta part, right, because then you can go directly and"}, {"timestamp": [4814.04, 4818.0], "text": " add that equity risk to the risk-free rate, you've got your cost of equity, so with those people who"}, {"timestamp": [4818.0, 4822.66], "text": " don't like betas, and I know quite a few people who refuse to use betas, they think, you know,"}, {"timestamp": [4822.72, 4885.58], "text": " I don't like it, I say, okay, you don't like things are missing there. And you can take the same spreadsheet I would send you for the S&P 500. Just use it for any sector. The spreadsheet itself is malleable enough to be"}, {"timestamp": [4885.58, 4890.54], "text": " the collecting of the cash flow data is going to be the part"}, {"timestamp": [4890.54, 4950.51], "text": " that you have to go to capital IQ. It's not even digging. thing to do is to actually do what everybody else is doing even if it's wrong this is not a question of pragmatism it's survival right in fact it's more risky doing the right thing if it deviates from historic norm because we do the wrong thing that everybody else is doing when things go wrong"}, {"timestamp": [4950.51, 4955.83], "text": " or things don't work out you say look i know i just did i use historical risk premiums maybe"}, {"timestamp": [4955.83, 5017.48], "text": " they were too low but everybody does it so unfortunately the reality of how reward and Because if you're an appraiser, you're an analyst, you have no incentive to change. It's not like you get an upside for being right here. You just get punished for being wrong. But if you're investing your own money, you might say, look, this is crazy that I'm getting the same premium investing in bonds as I'm investing in stocks. I'm going to start a hedge fund."}, {"timestamp": [5017.94, 5019.42], "text": " I'm going to sell short in stocks."}, {"timestamp": [5019.68, 5022.0], "text": " And that's exactly what John, I mean,"}, {"timestamp": [5022.08, 5024.14], "text": " this room is funded by somebody who"}, {"timestamp": [5024.14, 5025.86], "text": " looked at real estate risk premiums."}, {"timestamp": [5025.86, 5027.18], "text": " He might not have used my approach."}, {"timestamp": [5027.18, 5085.26], "text": " And he said, this is absurd. this looks like a market mistake to me. So I think that's the niche that, and most hedge funds are just like investment banks. They follow the herd, they get priced, they get, you know. But there are some that I think, you know, stand out because they're willing to say,"}, {"timestamp": [5085.34, 5086.78], "text": " look, you know, we're not going to do"}, {"timestamp": [5086.78, 5087.9], "text": " what everybody else does."}, {"timestamp": [5088.58, 5092.78], "text": " And now we have the instruments to trade on mistakes, right?"}, {"timestamp": [5092.78, 5095.4], "text": " For the longest time, real estate was overvalued."}, {"timestamp": [5137.03, 5142.29], "text": " way we do it. We have a risk-free rate. We have a beta. We have an equity risk premium we got from Kroll and Duff and Phelps. We had a small cap premium. We had a company-specific risk premium."}, {"timestamp": [5142.45, 5146.25], "text": " We're coming to 21%. You're asking us to use 12%. That doesn't sound right. We're going to go with"}, {"timestamp": [5146.25, 5154.21], "text": " the 21%. So don't expect an easy audience, even if you get the number. But I think it's well worth"}, {"timestamp": [5154.21, 5217.14], "text": " doing. All right. Thank you, Professor. You're welcome whatever's been written about the drug. I mean, this is not a process. We're the first ones going through this. And you can look at the FDA, actually, it's public information. They can tell you what percentage of drugs working through"}, {"timestamp": [5217.14, 5223.32], "text": " each stage of the pipeline make it to the next stage. So first check where their drugs are in"}, {"timestamp": [5223.32, 5284.52], "text": " the pipeline. You might not need a decision tree if they've already made it all the way to the cystic fibrosis is not something you're going to be able to read up easily on Google search or make a gut feeling conclusion. It will require delving through. It's in the public domain, but you'll have to read through a journal article on a drug which talks about why this drug is"}, {"timestamp": [5284.52, 5288.16], "text": " better than the other three drugs. I'm not putting up by a major."}, {"timestamp": [5288.8, 5350.75], "text": " You should be able to. I mean, let's face it, second one is going to be too much. It'll be a single drug. It's less a company and more a drug. Because my guess is many of the companies that look like your second one never make it as going concerns. They get bought out by some large pharma company because that's the way pharma is evolving,"}, {"timestamp": [5356.37, 5417.86], "text": " is they let some young company develop a drug, you'd still be forecasting, right? Okay. Sounds good. So for the, like, estimate, if it's, like, phase two or something, you just get, like, sort of a general market, like, perception? Yeah, I wouldn't get to... Remember, the more of a portfolio you have,"}, {"timestamp": [5417.94, 5421.82], "text": " the less payoff there is to breaking it down into individual elements."}, {"timestamp": [5421.82, 5424.5], "text": " I would never take a Merck or an Upjohn or a Pfizer"}, {"timestamp": [5424.5, 5427.4], "text": " and break down its revenues to buy a drug."}, {"timestamp": [5427.5, 5428.48], "text": " It's not worth the effort."}, {"timestamp": [5472.4, 5478.28], "text": " out of this pipeline. And that's going to be built into your value as well. So at the end of the process, even if you get all four drugs they have valued and add them up, it might not be the value"}, {"timestamp": [5478.28, 5482.4], "text": " of the company because people might attach a premium to the fact that they have the great"}, {"timestamp": [5482.4, 5487.02], "text": " R&D department that's worked on these four drugs. And remember, when you're successful with a drug,"}, {"timestamp": [5487.02, 5492.5], "text": " it gives you these little offshoots that you can use to develop, like Moderna, the mRNA,"}, {"timestamp": [5538.57, 5540.65], "text": " It's graduated last and her class is a big help you"}, {"timestamp": [5541.79, 5542.21], "text": " Sure. What's his name."}, {"timestamp": [5544.41, 5546.09], "text": " Our goal and Jason Jason"}, {"timestamp": [5546.57, 5554.01], "text": " Jason"}, {"timestamp": [5555.69, 5557.13], "text": " He said he took my class last year."}, {"timestamp": [5558.23, 5563.21], "text": " Yeah, I don't know."}]}
+{
+  "text": " I had a question about like valuing a biotech or healthcare. Should I ask you? No. okay folks You think the entire distribution might have gone? That's what it is, right? Stock prices at 200. If you did the evaluation today, could it be higher? Absolutely. The stock price, I mean, the notion that you can somehow be objective, I wanted to set it aside. Please be honest with yourself. Things affect you. And that can show up in the evaluation. So that was just, you know, I don't. But that's the way most people still get historic risk premiums. is pure icing on the cake, right? If you told me $1, I probably wouldn't sell you the investment, right? In fact, I'll probably give you the trigger at which I'd sell it to you. So you want to stick with the dollar or you want to try another number? $5. If you take $5, what are you requiring as a rate of return? You're going to get $1 every year. Remember, the principal doesn't come back. You paid $5. You're going to make 20%. So you're telling me you want a risk-free investment that will deliver 20%. suppose I came to you with the same kind of bet, but now I'm going to give you a dollar, but it's going to come from an average risk business. This is an expected cash flow. So this says the average risk equity. You're going to get a $1 each year forever. So let me stay with you. You offer $25 for that risk-free. Will you offer less or more for the second bet? So give me a number. $10. He said $10 It's just a mechanics of, I don't trust people when they tell me this is what I'd like to make, but I can see what they pay. And I'm going to back out of that, what the equity risk premium should be. So let's build on, right? So you wanted a 10% risk premium. I'm sorry, 6% or roughly 6 you hit the bottom. There's an option trade, risk aversion, some of it you're just born with. Some of us are more risk averse than others. So match.com probably should have a risk aversion section, right? Now what's your risk aversion coefficient? But risk aversion does also change over time. Studies consistently show that as people age, premiums are going to go up, right? Because as you get older, you get more risk aversion. The market's getting older. You're going to see the risk. So you can see that risk aversion can change because of demographics. So risk aversion can be different because you're born with different risk aversion can change because of demographics. Let's complete the process. Let's suppose while you're sitting here today, don't freak out. Nothing bad's happened. But let's say that You know where we are. Equity risk premiums can vary across people. It can vary because of demographics and it can vary across time. I'm making an argument that whatever approach we use to estimate equity risk premiums needs to be dynamic. It needs to be dynamic because you can't have a number that stays the same as we're going through crisis and good times and in bad times. It doesn't work that way. about why I'm doing it. And if you don't like it, what your middle ground is going to be because you can pick a different approach, but it's got to be dynamic. It's got to be forward-looking and you got to come up with numbers that reflect the times you're in. So let's turn back to, I think page 64 was where we were in the notes. Okay. even getting there, what do I start with? I start with the price you paid for the bond. Then I get the coupons every year. And then I look at the face value and the yield to maturity actually doesn't take into account reinvestment. It just says what discount rate makes the present value of my coupons and face value. Implicit there are assumptions about reinvestment, but the yield to maturity is like an IRR, right? It's an IRR for a bond, price of the bond, coupons and cashflow. I might even be able to get estimates of what people are expecting earnings and cash flows to grow. So it's a little messier than a bond, but still the same problem, right? You got the price, you got the cash flows. And just as I compute a discount rate that makes the present value of the bond cash flows equal to the price of the bond, I can compute a discount rate that makes the present value of cash flows on equities equal to what you paid up for. So this isn't rocket science. It's just taking be in the future, but I can tell you what the dividends and buybacks were in the 12 months leading into the start of 2020. And dividends and buybacks were 150.50. None of this is difficult to get. They're all public information. You can go to the S&P website, look up dividends, look up buybacks. So I know what you paid. I know what the cash flows were last year. Let me bring in at the end of the fifth year, I put these companies collectively into stable growth. Remember, we talked about that as a closure. What's a stable growth rate? A growth rate at which the economy can grow at over time. And I use the risk-free rate as my proxy for the growth rate. You're going to see me do this repeatedly, because I'm going to say that's the best estimate. That is 1.92%. So think of this as a present value problem. I know what you paid. There are my cash flows. paid for stocks you can expect to make 7.12% a year. The risk-free rate, T-bond rate was 1.92%. The difference is an implied equity risk premium. You see why I call it implied? I'm backing it out from what you paid. You don't like it? You paid for it. You think it's too low? Then stop buying stocks. I am not forcing you to do it. There's why I picked the start of 2020? Because six weeks later, COVID hit. February 14th, I think, was the official day when the Italians announced. Because until then, we thought it was on China and cruise ships and will never come abroad here. It's amazing how much in denial you are. And February 14th, we heard that there are a couple of hundred Italians who'd never been to China on a cruise ship. or 4.7, 4.5 or 4.6%, almost to 8%. Are you surprised? I mean, you guys lived through those six weeks, but imagine we had no idea what was coming. The economy was shutting down. This could have been a depression. It could wipe out half the population. Nobody knew what was coming. Of course, risk premiums are going to reflect that. March 23rd of 2020 was the absolute bottom my feeling, but I wanted to record in real time. Because after the crisis passed, it's amazing how with the benefit of hindsight, I knew everything was going to be okay. Really? I didn't. And some, I mean, if you want to see what happened in March 23rd, something broke the crisis. And it was one of the most amazing returns back to keep tabs on what that equity risk premium looks like right now, because you're valuing a company on February 12th of 2020. It doesn't matter what the equity risk premiums will look like in the future. You are valuing a company in the market you're in, and you got to build in. So you're right. I'm estimating cash flows and I could be wrong, right? And it'll show up as what? A standard error around my implied equity risk. So I compute that. In fact, if you go to my, and I'll send you the spreadsheet after today's email of my February And here I'm willing to live with that range. It's a narrower range because there are fewer things I can go wrong on. Any other questions? Yes. Like the VIX? It's a contemporaneous variable, right? In other words, so let's say I gave you the VIX, so you can measure it on a daily basis. How do you convert that into a percentage premium? my reaction was, how much can it change in a year? And then came 2008. And I learned how much it can change in a year. So starting in September of 2008, I've been reporting this number on a monthly basis on my website. It's the very front page. I said, this is what it's the start of the month. And you'd see, you can get the monthly ER let me bring you up to January 2023. Started this year, the index was at 38.39.50. You can drop the last two decimals if you want've tracked. I've tracked this from 1960 to 2022. It's the biggest one-year change in expected return because you got a double whammy last year. T-bond rates went up and equity risk premiums went up as well. In 2008, equity risk premiums went up, but because it's sticky. It seems to take a while for them. It's not that they don't update it often enough, but their updates are not as big as they should be in periods. So that earnings number has gone down about 6% over the last year as stock has gone from, there's no recession to recession. It's almost like the analyst saying, what recession? So there is that stickiness in earnings. And here's what it will mean. I would argue that every statement you hear about stocks is really a statement about equity risk premiums. You know what I mean by that. Stocks are overvalued. Stocks are undervalued. I can restate it as a statement about equity risk premiums. So when you tell me stocks are overvalued, what are you telling me about equity risk premiums? That they're too low or too high? Too low. And you want them to be higher. So basically you're saying, hey, equity risk premiums become too low. When you tell me stocks are undervalued, you're making a statement. and the premiums reflect that stability. 1970, something is going on, right? What's happening to the equity risk premium? It's shooting through the roof. And what was the trigger? What did he say? Oil embargo, you mean? But remember, the oil embargo by itself was what started the ball rolling, but what did it create in the following years? Inflation. them a choice of two economies. One has 5% inflation, the other is 3% inflation. And so which one would you prefer to invest and do business in? Most of them say, I'll take the 3%. And they say, let me add to those facts. Let's suppose in the first economy, not only is inflation 5%, it'll be guaranteed to be 5% every year forever. And in the second economy, inflation is 3%, but it could be one of five. I'll take the first economy over the second one. Because 800. There were three numbers in the Dow. Can you imagine that? Three numbers. What is it now? 20-something thousand? In fact, Businessweek ran a headline, Stocks are Dead, which to me should be a sign that any time business magazines put a headline like that, it's time to buy. Because if you bought stocks in 1978, you rode one of the great bull markets of all time. The stories were there will never be a recession again. We've discovered the secret to everlasting growth with dot-com at the end. The moment didn't last that long because in the two years after you had the dot-com bust, equity risk bounce back to 4%, they settled in for a period between 4% to 5%. Nice stable period again. This is the thing about markets. They lull you into a sense of false complacency Since 2008, equity risk premiums have been both higher and more volatile than they were pre-2008. And I don't think that's going to change. You know why? Welcome to globalization. What does globalization do? It links us all at the hip. In 1988, if there was a crisis in Sao Paulo, you know what happened to U.S. stocks? So where's Sao Paulo? Somewhere in Latin America. It doesn't bother us. spending, you know, sell everything people. They've been saying that for 10 years now. They might have a good reason. Michael Burry might have a good reason for saying sell everything. But I don't see it backed up in the equity risk premium. So in fact, first week of 2023, somebody asked me, what do you think about stocks? I've had a terrible year. I said, you know, they've had a terrible year. That's true. I mean, who can contest it? It's a fact. So I'm sure you've heard a lot of people always think about soft landing. That's about the economy, right? Less about the market and more about the economy, right? That's an earnings growth story. Because right now, if you're bearish about markets, remember I've used that 6% growth, the drop in 2023 bounce, but that's a soft landing for earnings. So even if there's a recession, we're assuming it's going to be a one-year effect. It's not going to be cash flows. It's got to be growth. And then work out what the implied equity risk premium is with that, because otherwise it becomes a one hand on the other hand, right? I'm going to say something about market strategies and forecasts that I find, please, they irritate me. I'd rather be transparently wrong than opaquely right. show up. So if inflation is your concern, think about where it shows up in those numbers. If inflation continues to go up, what's going to happen? T-bond rates are going to continue to rise. Your equity risk premium will get higher because you need higher risk premiums. Every concern becomes a question you can ask about implied equity risk premiums. At the start of last year, the implied equity risk premiums went up. So there's advantage to tracking both the equity risk premium and the total expected return. On both dimensions, the start of 2023 looks a lot better than the start of 2022. Even though people felt better at the start of 2022, right? Because they were coming off a bullish year. So sometimes how people feel is actually a cont's a price of risk in the bond market. That number also goes up and down. What causes it to go up and down? In good times, you stop worrying about default risk, you charge lower spreads. In bad times, you start more. And most of the time, the two move together, I will not let the U.S. economy go into recession. And he actually tried to engineer a scenario where the U.S. economy wouldn't go into recession. The way he did it was he essentially pumped up the bond market and default spreads. If you look at what happened after 2021, default spreads dropped to 2002, 2000. So people are charging less and less for risk in the bond market while charging actually higher the first crisis in the last century where the bond market is really more responsible than the stock market. People pushing down spreads too much. In contrast, go to the late 90s. Late 90s, default spreads are staying pretty stable. But equity risk premiums are plummeting. You're in this dot-com boom. People are pushing up stock prices. because you were getting a 2% spread on the safe bond and pulling it out of stock. And 2007, you'd be doing the exact opposite. Now, one of my problems with the way financial markets are structured is you get a job, you get put into a segment of the market, you get tunnel vision. Equity people talk to equity people, fixed income people talk to fixed income people. And sometimes you can have the two markets diverging and they're not even talking to each other. a family business, a real estate. You know what a cap rate is? Anybody want to tell me what a cap rate in real estate is? Cap rate is a capitalization rate. It's a fancy word for if you give me the rental income on a property, this is the rate that I use to capitalize it. So if you have a 10% cap rate and you have income of a million, you'll be willing to pay 10 million for a property because you get a million on the 10 million. A cap rate is like a cost way real estate is taught and dealt with in investing. When I was taking my classes in investing, you know what I was told? I was told that if you have your money in financial assets, you should buy real estate. Why? Because it moves in different ways than financial assets. Now, I got my MBA in the early 80s. And in the 1980s, that was true. Take a look at what the real estate is no longer operating as an asset class. Why might that be? What did we do to screw up real estate that's made it stop being this different asset class? We celebrated what we did to screw it up, actually. It's probably taught in business schools that this is what we need to do. What did we do? We securitized it. Lou Ranieri. Prior to the 1980s, starts to behave like a financial asset. It's made our lives more difficult, right? The easy way to diversify is not gone. Just because you bought a house or an apartment and you thought you were safe, that's no longer true. So it'll be good to track these risk premiums by markets because when somebody says Bitcoin, that's a great investment. It's going to buffer your portfolio. What's the new thing? You put up the, I wager, Let's see if that's enough of a defense. For instance, let's assume that every analyst in your group uses the arithmetic average historical risk premium of 8.17% to come up with cost of equity for companies. In other words, they're doing it because, and it's the same number, everybody's using the same number. And let's say the implied equity risk premium is 5.94%. Standard 2023, 5.94%. the S&P 500 should be 30% higher than it is today. And if they're right on that, why the heck are you valuing the stock, right? Go buy the index and buy index futures. Whenever you use a premium that deviates from the current implied premium, you're bringing a market view into your valuation. What do you think about markets? And that's not a good place to be, right? I want you to value Coca-Cola, not value Coca-Cola and tell me what you think about the S&P 500 at the same time. It's 143 pages. Use it to fall asleep. It's incredibly boring. But I take everything and I look at historic. And at the end, in the last section, here's what I do. I present you the six or seven different ways. Some people use earnings to price ratios to get in place. It's called the Fed model to get in. I take all these models and ask a simple question. Which of these is the best estimate of returns in the next five years in the next 10 years? Because ultimately, that's what a good equity risk premium should do I want? I want a high positive correlation. Let's debate the best positive correlations. But'll take that over the historical premium every single day. So as you think about equity risk premiums, open the door to this possibility because you're going to have to have this argument with people you go work for because they're going to be trained in historical premiums. The safest place to be is where everybody else is. But I want you to open the door to at least thinking about implied premiums. I'll give you one other advantage of implied premiums. What was the reason I could not compute a historical risk premium for Vietnam? There's not enough history, right? In fact, that's going to be true for a lot of emerging markets around the world. What do I need for an implied premium? I need a level of the index today, which I should be able to get for any market. can't wait for that day to arrive because that'll mean I have premiums that actually reflect what people are demanding in that market. Because right now it's a little artificial, right? I take the US premium, I take the default spread, I do this elaborate dance. I might convince you, I might not convince you. But this way you bypass it. What are people paying? So this was actually in 2007. I wanted to compute the implied equity risk premium in the CENSEX, the Indian Equity Index. So I got the level of the index. 6%. I set that as my growth rate beyond 0.5. So I'm doing with the Sensex exactly what I did with the S&P 500. Same mechanical process I solve for R. I get an expected return of 11.18%. What does that tell me? In September of 2007, given how Indian stocks were priced, my expected risk premium in India is 11.18 minus 6.76, 4.42%. really, really, really difficult to do. You see where I'm going, right? You have a market where investors are kind of penned in. Penned in in what sense? You have a choice. You want to buy Indian stocks or you want to buy Indian stocks. You say, but Indian stocks are overvalued. Let me ask you again. Do you want to buy Indian stocks? Do you want to buy Indian stocks? Do you see what can happen? If you pen in a market, the equity risk premium can actually drop below what it is. True in mainland China. China has been wrestling with how do we open up the conduits for mainland Chinese to invest in Hong Kong stocks. Forget about U.S. stocks. And they open the conduit. Let me close it up again. When India and China were small economies, this was not a big deal, right? You could do this. Nobody cared. But we have the second largest ands allow you to make the judgment. And one final point about equity risk premiums, and we'll shut the door on this topic. I actually, at the start of every year, So you're comparing apples to apples. Start of 2004, the differential was 3.27%. Investors were charging 3.27% more for investing in emerging market companies than in developed market companies. You see, that makes sense. I'm not even sure if it makes sense or doesn't make sense. But look at the trend line of that number as you go through time. 2004, 2005, it keeps dropping. 2008 is a little bounce back up. That's a crisis pushing the extra risk. So the implied approach actually gives you a way of reverse engineering what you can make as an expected return and saying, where do I go to get the most bang for my buck, the highest return for the risk I take? And looking across markets geographically, looking across asset classes, you can get a better sense of, hey, these are the classes that deliver the highest returns. Any questions on implied equity risk groups? beta. What a terrible way to think about betas. Because you know already what you've done. You've converted into a statistical number. You're under regression. You get the slope. You get a beta. Just as I dug a hole and buried historical risk streams, I'm going to dig an even deeper hole and bury this notion that betas come from regression. And there are three arguments I'm going to make against regression betas. So if this upends Returns for the next five years against my, how can I get returns for the next five years? I get it for the last five years. It's the ultimate backward looking number, right? And if your business mix has changed, God help me, even across the regression, it's giving me a beta for the last five years. And I'm going to argue that betas are affected by how much debt you have. Equity becomes riskier for any firm if you borrow more money and company's debt to equity ratios change, the beta changes. so this is the beta page for a company called gopro you know what gopro did what do they make cameras for hyperactive oversharing individuals right basically you know they put the gopro on their head and they go on a three-hour hike and they record the whole damn thing as if you care they're eating their lunch 45 minutes goproing the whole thing it's disgusting but remember your statistics keep going down oh standard error beta 0.50 somebody help me out here i get a regression beta 1.60 with a standard error of 0.50 and i ask you what's a fair beta for gopro what's the range you're going to give me that's with 67 confidence you like 67 confidence Two thirds times the raw beta plus one third times one. If you don't believe me, print out the betas for 40,000 companies. Try every single one of the companies. It's two thirds times the raw beta. You're saying, what? See, raw beta is 1.5. Two thirds of 1.5 is one. One third of one is 0.33. A 1.5 will become 1.33. 1.2 will become 1.13. As I go through each of these, look to see if you see a pattern. 1.8 is going to become 1.53. 0.6 is going to become 0.73. man oh this is a company maybe i should have called the mayor they i called them and i said look i want to talk to somebody about your beta page is they put me in touch with the beta calculation guy there is a guy at bloomberg whose life it is to maintain this page can you imagine how exciting his life must be he goes to a and says i don't know it was here when i got here i said what does that even mean he said it was hired two years ago it was already built in don't blame me i'm saying i'm not trying to blame you i just want to know where these numbers come from here when i got here you know how often you're going to get that answer to questions you ask at your work about numbers used every day why are we using a five percent equity risk cream for the it's noisy and the adjusted beta doesn't do much but once in a while you will get a great looking beta you're going to start celebrating the best looking beta page ever beta page are printed off for nokia like 2001 at that time bloomberg actually used to report the adjusted beta they going to Helsinki for? Nokia is a Finnish company. Bloomberg is very parochial about the way it estimates betas. You go look up the beta for a Chinese stock, it'll be against the Shenzhen if it's listed in the Shanghai exchange, or it can be against if you take a Hong Kong. So whatever stock you pick, they'll pick the local exchange. You see, so what? I'll make a confession. I had no idea what was in the hex. DAX 30 stocks, CIC 30 stocks are narrow indices, which makes their betas completely nonsensical. Because the marginal investor in Nokia in 2001 was Barclays. They bought it for their global index fund. And if you're buying Nokia for your global index fund, you know how you measure risk, right? You don't measure it against a hex. You measure it against the MSCI or a global index. It makes your betas go down. So if I take, for instance, GameStop, and this was at the peak of that craziness, you know what happened to that beta? It went to minus point, let's take the raw beta, minus 0.08. You're saying, what happened? What happened during that craziness? People kept buying stocks no matter what, or selling stocks no matter what. You have nothing to do with the market anymore. And since beta measures how you move with the market, the starting point, the ending point, daily, weekly. Which means that what you see as a printed beta page on Bloomberg might just be the 54th iteration that this person tried and said, this is the beta for the company. So when we get back on Monday, we're going to talk about what to do instead, because we've dug the grave for betas. We're going to bury it. And then we said, there must be a different way of thinking about it. something i enjoy teaching you ask me to rank which do you which is the bigger passion teaching is my passion finance is not a passion it's an interest okay yeah what why why do i enjoy it because you got to pick what you came you know in life what gives you the most joy and to me the joy comes from teaching it doesn't come from i mean i like finance i enjoy financial progress to be curious, 5% premium in the last 20 years. I mean, this is a market price for risk, right? There can't be a good number. There can be a number that is not out of sync with what people accept over time. That's why I have that graph of over time, what does the most premium look like relative to the last 20 years, the last 10 years, the last 50 years. But that's all you can do. No. Yeah. Thank you. on the, you know, but I have S&P Capital IQ, you can take all energy stocks, add up their earnings, add up their cash flows, you can do an implied equity risk premium for energy companies, an implied, and if you do that, you can skip the beta part, right, because then you can go directly and add that equity risk to the risk-free rate, you've got your cost of equity, so with those people who don't like betas, and I know quite a few people who refuse to use betas, they think, you know, I don't like it, I say, okay, you don't like things are missing there. And you can take the same spreadsheet I would send you for the S&P 500. Just use it for any sector. The spreadsheet itself is malleable enough to be the collecting of the cash flow data is going to be the part that you have to go to capital IQ. It's not even digging. thing to do is to actually do what everybody else is doing even if it's wrong this is not a question of pragmatism it's survival right in fact it's more risky doing the right thing if it deviates from historic norm because we do the wrong thing that everybody else is doing when things go wrong or things don't work out you say look i know i just did i use historical risk premiums maybe they were too low but everybody does it so unfortunately the reality of how reward and Because if you're an appraiser, you're an analyst, you have no incentive to change. It's not like you get an upside for being right here. You just get punished for being wrong. But if you're investing your own money, you might say, look, this is crazy that I'm getting the same premium investing in bonds as I'm investing in stocks. I'm going to start a hedge fund. I'm going to sell short in stocks. And that's exactly what John, I mean, this room is funded by somebody who looked at real estate risk premiums. He might not have used my approach. And he said, this is absurd. this looks like a market mistake to me. So I think that's the niche that, and most hedge funds are just like investment banks. They follow the herd, they get priced, they get, you know. But there are some that I think, you know, stand out because they're willing to say, look, you know, we're not going to do what everybody else does. And now we have the instruments to trade on mistakes, right? For the longest time, real estate was overvalued. way we do it. We have a risk-free rate. We have a beta. We have an equity risk premium we got from Kroll and Duff and Phelps. We had a small cap premium. We had a company-specific risk premium. We're coming to 21%. You're asking us to use 12%. That doesn't sound right. We're going to go with the 21%. So don't expect an easy audience, even if you get the number. But I think it's well worth doing. All right. Thank you, Professor. You're welcome whatever's been written about the drug. I mean, this is not a process. We're the first ones going through this. And you can look at the FDA, actually, it's public information. They can tell you what percentage of drugs working through each stage of the pipeline make it to the next stage. So first check where their drugs are in the pipeline. You might not need a decision tree if they've already made it all the way to the cystic fibrosis is not something you're going to be able to read up easily on Google search or make a gut feeling conclusion. It will require delving through. It's in the public domain, but you'll have to read through a journal article on a drug which talks about why this drug is better than the other three drugs. I'm not putting up by a major. You should be able to. I mean, let's face it, second one is going to be too much. It'll be a single drug. It's less a company and more a drug. Because my guess is many of the companies that look like your second one never make it as going concerns. They get bought out by some large pharma company because that's the way pharma is evolving, is they let some young company develop a drug, you'd still be forecasting, right? Okay. Sounds good. So for the, like, estimate, if it's, like, phase two or something, you just get, like, sort of a general market, like, perception? Yeah, I wouldn't get to... Remember, the more of a portfolio you have, the less payoff there is to breaking it down into individual elements. I would never take a Merck or an Upjohn or a Pfizer and break down its revenues to buy a drug. It's not worth the effort. out of this pipeline. And that's going to be built into your value as well. So at the end of the process, even if you get all four drugs they have valued and add them up, it might not be the value of the company because people might attach a premium to the fact that they have the great R&D department that's worked on these four drugs. And remember, when you're successful with a drug, it gives you these little offshoots that you can use to develop, like Moderna, the mRNA, It's graduated last and her class is a big help you Sure. What's his name. Our goal and Jason Jason Jason He said he took my class last year. Yeah, I don't know.",
+  "chunks": [
+    {
+      "timestamp": [0.0, 18.24],
+      "text": " I had a question about like valuing a biotech or healthcare."
+    },
+    { "timestamp": [18.24, 18.98], "text": " Should I ask you?" },
+    { "timestamp": [18.98, 19.48], "text": " No." },
+    {
+      "timestamp": [151.03, 152.23],
+      "text": " okay folks You think the entire distribution might have gone? That's what it is, right? Stock prices at 200. If you did the evaluation today, could it be higher? Absolutely. The stock price, I mean, the notion that you can somehow be objective, I wanted to set it aside. Please be honest with yourself."
+    },
+    { "timestamp": [152.41, 153.25], "text": " Things affect you." },
+    {
+      "timestamp": [153.63, 156.75],
+      "text": " And that can show up in the evaluation."
+    },
+    {
+      "timestamp": [157.69, 223.46],
+      "text": " So that was just, you know, I don't. But that's the way most people still get historic risk premiums."
+    },
+    {
+      "timestamp": [268.11, 268.73],
+      "text": " is pure icing on the cake, right?"
+    },
+    { "timestamp": [269.79, 270.01], "text": " If you told me $1," },
+    {
+      "timestamp": [271.95, 272.95],
+      "text": " I probably wouldn't sell you the investment, right?"
+    },
+    {
+      "timestamp": [274.69, 275.73],
+      "text": " In fact, I'll probably give you the trigger at which I'd sell it to you."
+    },
+    {
+      "timestamp": [275.77, 276.81],
+      "text": " So you want to stick with the dollar"
+    },
+    {
+      "timestamp": [276.81, 277.91],
+      "text": " or you want to try another number?"
+    },
+    { "timestamp": [280.77, 281.13], "text": " $5." },
+    { "timestamp": [281.37, 282.01], "text": " If you take $5," },
+    {
+      "timestamp": [282.31, 283.81],
+      "text": " what are you requiring as a rate of return?"
+    },
+    {
+      "timestamp": [284.71, 286.13],
+      "text": " You're going to get $1 every year."
+    },
+    {
+      "timestamp": [286.17, 287.55],
+      "text": " Remember, the principal doesn't come back."
+    },
+    { "timestamp": [287.61, 288.27], "text": " You paid $5." },
+    { "timestamp": [288.57, 290.27], "text": " You're going to make 20%." },
+    {
+      "timestamp": [290.27, 292.85],
+      "text": " So you're telling me you want a risk-free investment"
+    },
+    {
+      "timestamp": [292.85, 354.95],
+      "text": " that will deliver 20%. suppose I came to you with the same kind of bet, but now I'm going to give you a dollar, but it's going to come from an average risk business. This is an expected cash flow. So this says the average risk equity. You're going to get a $1 each year forever. So let me stay with you. You offer $25 for that risk-free. Will you offer less or more for the second bet?"
+    },
+    {
+      "timestamp": [356.05, 416.88],
+      "text": " So give me a number. $10. He said $10 It's just a mechanics of, I don't trust people when they tell me this is what I'd like to make, but I can see what they pay. And I'm going to back out of that,"
+    },
+    {
+      "timestamp": [423.78, 490.51],
+      "text": " what the equity risk premium should be. So let's build on, right? So you wanted a 10% risk premium. I'm sorry, 6% or roughly 6 you hit the bottom. There's an option trade, risk aversion, some of it you're just born with. Some of us are more risk averse than others. So match.com probably should have a risk aversion section, right? Now what's your risk aversion coefficient? But risk aversion does also change over time. Studies consistently show that as people age,"
+    },
+    {
+      "timestamp": [537.31, 543.37],
+      "text": " premiums are going to go up, right? Because as you get older, you get more risk aversion. The market's getting older. You're going to see the risk. So you can see that risk aversion can change"
+    },
+    {
+      "timestamp": [543.37, 550.95],
+      "text": " because of demographics. So risk aversion can be different because you're born with different"
+    },
+    {
+      "timestamp": [550.95, 556.47],
+      "text": " risk aversion can change because of demographics. Let's complete the process. Let's suppose while"
+    },
+    {
+      "timestamp": [556.47, 617.72],
+      "text": " you're sitting here today, don't freak out. Nothing bad's happened. But let's say that You know where we are. Equity risk premiums can vary across people. It can vary because of demographics and it can vary across time. I'm making an argument that whatever approach we use to estimate equity risk premiums needs to be dynamic."
+    },
+    {
+      "timestamp": [619.26, 628.28],
+      "text": " It needs to be dynamic because you can't have a number that stays the same as we're going through crisis and good times and in bad times. It doesn't work that way."
+    },
+    { "timestamp": [668.21, 668.55], "text": " about why I'm doing it." },
+    { "timestamp": [669.87, 669.95], "text": " And if you don't like it," },
+    {
+      "timestamp": [671.83, 674.09],
+      "text": " what your middle ground is going to be because you can pick a different approach,"
+    },
+    { "timestamp": [674.11, 675.13], "text": " but it's got to be dynamic." },
+    {
+      "timestamp": [675.29, 676.33],
+      "text": " It's got to be forward-looking"
+    },
+    {
+      "timestamp": [676.33, 677.65],
+      "text": " and you got to come up with numbers"
+    },
+    {
+      "timestamp": [677.65, 679.03],
+      "text": " that reflect the times you're in."
+    },
+    {
+      "timestamp": [679.85, 683.83],
+      "text": " So let's turn back to, I think page 64"
+    },
+    {
+      "timestamp": [683.83, 686.81],
+      "text": " was where we were in the notes."
+    },
+    {
+      "timestamp": [694.57, 751.03],
+      "text": " Okay. even getting there, what do I start with? I start with the price you paid for the bond. Then I get the coupons every year. And then I look at the face value and the yield to maturity actually doesn't take into account reinvestment. It just says what discount rate makes the present value"
+    },
+    {
+      "timestamp": [751.03, 756.05],
+      "text": " of my coupons and face value. Implicit there are assumptions about reinvestment, but the yield to"
+    },
+    {
+      "timestamp": [756.05, 760.81],
+      "text": " maturity is like an IRR, right? It's an IRR for a bond, price of the bond, coupons and cashflow."
+    },
+    {
+      "timestamp": [805.42, 806.04],
+      "text": " I might even be able to get estimates of what people are expecting earnings and cash flows to grow."
+    },
+    {
+      "timestamp": [809.64, 809.66],
+      "text": " So it's a little messier than a bond, but still the same problem, right?"
+    },
+    {
+      "timestamp": [811.06, 811.26],
+      "text": " You got the price, you got the cash flows."
+    },
+    {
+      "timestamp": [817.36, 817.9],
+      "text": " And just as I compute a discount rate that makes the present value of the bond cash flows equal to the price of the bond,"
+    },
+    {
+      "timestamp": [824.2, 824.58],
+      "text": " I can compute a discount rate that makes the present value of cash flows on equities equal to what you paid up for."
+    },
+    {
+      "timestamp": [826.16, 886.77],
+      "text": " So this isn't rocket science. It's just taking be in the future, but I can tell you what the dividends and buybacks were in the 12 months leading into the start of 2020. And dividends and buybacks were 150.50. None of this is difficult to get. They're all public information. You can go to the S&P website, look up dividends, look up buybacks. So I know what you paid. I know"
+    },
+    {
+      "timestamp": [886.77, 952.07],
+      "text": " what the cash flows were last year. Let me bring in at the end of the fifth year, I put these companies collectively into stable growth. Remember, we talked about that as a closure. What's a stable growth rate? A growth rate at which the economy can grow at over time. And I use the risk-free rate as my proxy for the growth rate. You're going to see"
+    },
+    {
+      "timestamp": [952.07, 957.35],
+      "text": " me do this repeatedly, because I'm going to say that's the best estimate. That is 1.92%."
+    },
+    {
+      "timestamp": [957.35, 961.61],
+      "text": " So think of this as a present value problem. I know what you paid. There are my cash flows."
+    },
+    {
+      "timestamp": [1009.44, 1015.62],
+      "text": " paid for stocks you can expect to make 7.12% a year. The risk-free rate, T-bond rate was 1.92%. The difference is an implied equity risk premium. You see why I call it implied? I'm backing it out"
+    },
+    {
+      "timestamp": [1015.62, 1021.46],
+      "text": " from what you paid. You don't like it? You paid for it. You think it's too low? Then stop buying"
+    },
+    {
+      "timestamp": [1021.46, 1084.27],
+      "text": " stocks. I am not forcing you to do it. There's why I picked the start of 2020? Because six weeks later, COVID hit. February 14th, I think, was the official day when the Italians announced."
+    },
+    {
+      "timestamp": [1084.51, 1088.25],
+      "text": " Because until then, we thought it was on China and cruise ships and will never come abroad here."
+    },
+    {
+      "timestamp": [1088.73, 1090.89],
+      "text": " It's amazing how much in denial you are."
+    },
+    {
+      "timestamp": [1091.31, 1096.23],
+      "text": " And February 14th, we heard that there are a couple of hundred Italians who'd never been to China on a cruise ship."
+    },
+    {
+      "timestamp": [1138.13, 1140.53],
+      "text": " or 4.7, 4.5 or 4.6%, almost to 8%. Are you surprised?"
+    },
+    {
+      "timestamp": [1141.17, 1143.37],
+      "text": " I mean, you guys lived through those six weeks,"
+    },
+    {
+      "timestamp": [1143.45, 1145.71],
+      "text": " but imagine we had no idea what was coming."
+    },
+    {
+      "timestamp": [1145.79, 1146.95],
+      "text": " The economy was shutting down."
+    },
+    {
+      "timestamp": [1147.03, 1148.33],
+      "text": " This could have been a depression."
+    },
+    {
+      "timestamp": [1148.95, 1151.11],
+      "text": " It could wipe out half the population."
+    },
+    {
+      "timestamp": [1151.27, 1152.43],
+      "text": " Nobody knew what was coming."
+    },
+    {
+      "timestamp": [1153.03, 1156.71],
+      "text": " Of course, risk premiums are going to reflect that."
+    },
+    {
+      "timestamp": [1158.09, 1216.72],
+      "text": " March 23rd of 2020 was the absolute bottom my feeling, but I wanted to record in real time. Because after the crisis passed, it's amazing how with the benefit of hindsight, I knew everything was going to be okay. Really? I didn't. And"
+    },
+    {
+      "timestamp": [1216.72, 1222.24],
+      "text": " some, I mean, if you want to see what happened in March 23rd, something broke the crisis."
+    },
+    {
+      "timestamp": [1223.32, 1283.65],
+      "text": " And it was one of the most amazing returns back to keep tabs on what that equity risk premium looks like"
+    },
+    {
+      "timestamp": [1283.65, 1287.37],
+      "text": " right now, because you're valuing a company on February 12th of 2020. It doesn't matter what"
+    },
+    {
+      "timestamp": [1287.37, 1291.17],
+      "text": " the equity risk premiums will look like in the future. You are valuing a company in the market"
+    },
+    {
+      "timestamp": [1291.17, 1350.19],
+      "text": " you're in, and you got to build in. So you're right. I'm estimating cash flows and I could be wrong, right?"
+    },
+    {
+      "timestamp": [1351.37, 1357.53],
+      "text": " And it'll show up as what? A standard error around my implied equity risk. So I compute that. In"
+    },
+    {
+      "timestamp": [1357.53, 1417.44],
+      "text": " fact, if you go to my, and I'll send you the spreadsheet after today's email of my February And here I'm willing to live with that range. It's a narrower range because there are fewer things I can go wrong on. Any other questions? Yes. Like the VIX?"
+    },
+    {
+      "timestamp": [1418.0, 1420.12],
+      "text": " It's a contemporaneous variable, right?"
+    },
+    {
+      "timestamp": [1421.12, 1423.82],
+      "text": " In other words, so let's say I gave you the VIX,"
+    },
+    {
+      "timestamp": [1423.82, 1426.52],
+      "text": " so you can measure it on a daily basis."
+    },
+    {
+      "timestamp": [1427.2, 1429.44],
+      "text": " How do you convert that into a percentage premium?"
+    },
+    {
+      "timestamp": [1474.11, 1479.67],
+      "text": " my reaction was, how much can it change in a year? And then came 2008. And I learned how much it can change in a year. So starting in September of 2008, I've been reporting this number on a"
+    },
+    {
+      "timestamp": [1479.67, 1484.09],
+      "text": " monthly basis on my website. It's the very front page. I said, this is what it's the start of the"
+    },
+    {
+      "timestamp": [1484.09, 1617.7],
+      "text": " month. And you'd see, you can get the monthly ER let me bring you up to January 2023. Started this year, the index was at 38.39.50. You can drop the last two decimals if you want've tracked. I've tracked this from 1960 to 2022. It's the biggest one-year change in expected return"
+    },
+    {
+      "timestamp": [1617.7, 1623.56],
+      "text": " because you got a double whammy last year. T-bond rates went up and equity risk premiums went up as"
+    },
+    {
+      "timestamp": [1623.56, 1688.19],
+      "text": " well. In 2008, equity risk premiums went up, but because it's sticky. It seems to take a while for them. It's not that they don't update it often enough, but their updates are not as big as they should be in periods. So that earnings number has gone down about 6% over the last year as stock has gone from, there's no recession to recession."
+    },
+    {
+      "timestamp": [1688.35, 1690.65],
+      "text": " It's almost like the analyst saying, what recession?"
+    },
+    {
+      "timestamp": [1691.17, 1693.95],
+      "text": " So there is that stickiness in earnings."
+    },
+    {
+      "timestamp": [1694.31, 1695.51],
+      "text": " And here's what it will mean."
+    },
+    {
+      "timestamp": [1739.33, 1739.37],
+      "text": " I would argue that every statement you hear about stocks is really a statement about equity risk premiums."
+    },
+    {
+      "timestamp": [1742.17, 1742.41],
+      "text": " You know what I mean by that. Stocks are overvalued. Stocks are undervalued."
+    },
+    {
+      "timestamp": [1745.71, 1746.23],
+      "text": " I can restate it as a statement about equity risk premiums."
+    },
+    {
+      "timestamp": [1750.39, 1750.47],
+      "text": " So when you tell me stocks are overvalued, what are you telling me about equity risk premiums?"
+    },
+    {
+      "timestamp": [1754.99, 1757.63],
+      "text": " That they're too low or too high? Too low. And you want them to be higher. So basically you're saying, hey, equity risk premiums become too low."
+    },
+    {
+      "timestamp": [1757.91, 1760.57],
+      "text": " When you tell me stocks are undervalued, you're making a statement."
+    },
+    {
+      "timestamp": [1803.74, 1804.9],
+      "text": " and the premiums reflect that stability."
+    },
+    {
+      "timestamp": [1807.62, 1808.38],
+      "text": " 1970, something is going on, right?"
+    },
+    {
+      "timestamp": [1810.0, 1810.54],
+      "text": " What's happening to the equity risk premium?"
+    },
+    {
+      "timestamp": [1811.96, 1813.02],
+      "text": " It's shooting through the roof."
+    },
+    { "timestamp": [1814.9, 1817.42], "text": " And what was the trigger?" },
+    { "timestamp": [1818.1, 1819.14], "text": " What did he say?" },
+    { "timestamp": [1820.14, 1820.56], "text": " Oil embargo, you mean?" },
+    {
+      "timestamp": [1823.84, 1825.88],
+      "text": " But remember, the oil embargo by itself was what started the ball rolling,"
+    },
+    {
+      "timestamp": [1825.94, 1828.0],
+      "text": " but what did it create in the following years?"
+    },
+    { "timestamp": [1829.0, 1829.56], "text": " Inflation." },
+    {
+      "timestamp": [1871.75, 1875.23],
+      "text": " them a choice of two economies. One has 5% inflation, the other is 3% inflation. And so which one would you prefer to invest and do business in? Most of them say, I'll take the 3%."
+    },
+    {
+      "timestamp": [1875.23, 1879.57],
+      "text": " And they say, let me add to those facts. Let's suppose in the first economy, not only is inflation"
+    },
+    {
+      "timestamp": [1879.57, 1885.73],
+      "text": " 5%, it'll be guaranteed to be 5% every year forever. And in the second economy, inflation"
+    },
+    {
+      "timestamp": [1885.73, 1950.01],
+      "text": " is 3%, but it could be one of five. I'll take the first economy over the second one. Because 800. There were three numbers in the Dow. Can you imagine that? Three numbers. What is it now? 20-something thousand? In fact, Businessweek ran a headline, Stocks are Dead, which to me should be a sign"
+    },
+    {
+      "timestamp": [1950.01, 1953.29],
+      "text": " that any time business magazines put a headline like that,"
+    },
+    { "timestamp": [1953.31, 1954.17], "text": " it's time to buy." },
+    {
+      "timestamp": [1955.75, 1958.17],
+      "text": " Because if you bought stocks in 1978,"
+    },
+    {
+      "timestamp": [1959.09, 1961.79],
+      "text": " you rode one of the great bull markets of all time."
+    },
+    {
+      "timestamp": [2003.52, 2005.0],
+      "text": " The stories were there will never be a recession again."
+    },
+    {
+      "timestamp": [2008.2, 2011.24],
+      "text": " We've discovered the secret to everlasting growth with dot-com at the end."
+    },
+    {
+      "timestamp": [2012.5, 2014.62],
+      "text": " The moment didn't last that long"
+    },
+    {
+      "timestamp": [2014.62, 2017.74],
+      "text": " because in the two years after you had the dot-com bust,"
+    },
+    {
+      "timestamp": [2017.86, 2020.06],
+      "text": " equity risk bounce back to 4%,"
+    },
+    {
+      "timestamp": [2020.06, 2022.92],
+      "text": " they settled in for a period between 4% to 5%."
+    },
+    { "timestamp": [2022.92, 2024.04], "text": " Nice stable period again." },
+    {
+      "timestamp": [2024.94, 2026.3],
+      "text": " This is the thing about markets."
+    },
+    {
+      "timestamp": [2026.3, 2083.63],
+      "text": " They lull you into a sense of false complacency Since 2008, equity risk premiums have been both higher and more volatile than they were pre-2008. And I don't think that's going to change. You know why? Welcome to globalization. What does globalization do?"
+    },
+    { "timestamp": [2085.01, 2085.75], "text": " It links us all at the hip." },
+    {
+      "timestamp": [2090.97, 2092.23],
+      "text": " In 1988, if there was a crisis in Sao Paulo, you know what happened to U.S. stocks? So where's Sao Paulo?"
+    },
+    { "timestamp": [2092.43, 2093.99], "text": " Somewhere in Latin America." },
+    { "timestamp": [2094.01, 2094.81], "text": " It doesn't bother us." },
+    {
+      "timestamp": [2137.45, 2138.67],
+      "text": " spending, you know, sell everything people. They've been saying that for 10 years now."
+    },
+    {
+      "timestamp": [2142.45, 2143.91],
+      "text": " They might have a good reason. Michael Burry might have a good reason for saying sell everything."
+    },
+    {
+      "timestamp": [2151.07, 2153.83],
+      "text": " But I don't see it backed up in the equity risk premium. So in fact, first week of 2023, somebody asked me, what do you think about stocks? I've had a terrible year. I said,"
+    },
+    {
+      "timestamp": [2154.19, 2158.13],
+      "text": " you know, they've had a terrible year. That's true. I mean, who can contest it? It's a fact."
+    },
+    {
+      "timestamp": [2204.72, 2205.54],
+      "text": " So I'm sure you've heard a lot of people always think about soft landing."
+    },
+    {
+      "timestamp": [2207.02, 2207.1],
+      "text": " That's about the economy, right?"
+    },
+    {
+      "timestamp": [2209.8, 2209.98],
+      "text": " Less about the market and more about the economy, right?"
+    },
+    {
+      "timestamp": [2211.32, 2211.74],
+      "text": " That's an earnings growth story."
+    },
+    {
+      "timestamp": [2217.72, 2217.86],
+      "text": " Because right now, if you're bearish about markets, remember I've used that 6% growth,"
+    },
+    {
+      "timestamp": [2221.92, 2222.0],
+      "text": " the drop in 2023 bounce, but that's a soft landing for earnings."
+    },
+    {
+      "timestamp": [2225.32, 2225.38],
+      "text": " So even if there's a recession, we're assuming it's going to be a one-year effect."
+    },
+    {
+      "timestamp": [2227.04, 2288.15],
+      "text": " It's not going to be cash flows. It's got to be growth. And then work out what the implied equity risk premium is with that, because otherwise it becomes a one hand on the other hand, right? I'm going to say something about market strategies and forecasts that I find, please, they irritate"
+    },
+    { "timestamp": [2288.15, 2288.23], "text": " me." },
+    {
+      "timestamp": [2290.51, 2351.47],
+      "text": " I'd rather be transparently wrong than opaquely right. show up. So if inflation is your concern, think about where it shows up in those numbers. If inflation continues to go up, what's going to happen? T-bond rates are going to continue to rise. Your equity risk premium will get higher because you need higher risk premiums. Every concern becomes a question you can ask about implied equity risk premiums."
+    },
+    {
+      "timestamp": [2353.69, 2417.7],
+      "text": " At the start of last year, the implied equity risk premiums went up. So there's advantage to tracking both the equity risk premium and the total expected return. On both dimensions, the start of 2023 looks a lot better than the start of 2022."
+    },
+    {
+      "timestamp": [2420.88, 2420.9],
+      "text": " Even though people felt better at the start of 2022, right?"
+    },
+    {
+      "timestamp": [2422.5, 2423.0],
+      "text": " Because they were coming off a bullish year."
+    },
+    {
+      "timestamp": [2428.74, 2484.15],
+      "text": " So sometimes how people feel is actually a cont's a price of risk in the bond market. That number also goes up and down."
+    },
+    {
+      "timestamp": [2484.23, 2488.65],
+      "text": " What causes it to go up and down? In good times, you stop worrying about default risk, you charge"
+    },
+    {
+      "timestamp": [2488.65, 2493.61],
+      "text": " lower spreads. In bad times, you start more. And most of the time, the two move together,"
+    },
+    {
+      "timestamp": [2536.41, 2538.91],
+      "text": " I will not let the U.S. economy go into recession."
+    },
+    {
+      "timestamp": [2544.07, 2544.23],
+      "text": " And he actually tried to engineer a scenario where the U.S. economy wouldn't go into recession."
+    },
+    {
+      "timestamp": [2550.51, 2556.97],
+      "text": " The way he did it was he essentially pumped up the bond market and default spreads. If you look at what happened after 2021, default spreads dropped to 2002, 2000."
+    },
+    {
+      "timestamp": [2557.13, 2616.76],
+      "text": " So people are charging less and less for risk in the bond market while charging actually higher the first crisis in the last century where the bond market is really more responsible than the stock market. People pushing down spreads too much. In contrast, go to the late 90s."
+    },
+    {
+      "timestamp": [2618.06, 2620.72],
+      "text": " Late 90s, default spreads are staying pretty stable."
+    },
+    {
+      "timestamp": [2621.72, 2624.2],
+      "text": " But equity risk premiums are plummeting."
+    },
+    {
+      "timestamp": [2624.28, 2625.44],
+      "text": " You're in this dot-com boom."
+    },
+    {
+      "timestamp": [2625.54, 2627.14],
+      "text": " People are pushing up stock prices."
+    },
+    {
+      "timestamp": [2669.12, 2670.42],
+      "text": " because you were getting a 2% spread on the safe bond and pulling it out of stock."
+    },
+    {
+      "timestamp": [2670.62, 2673.24],
+      "text": " And 2007, you'd be doing the exact opposite."
+    },
+    { "timestamp": [2675.12, 2676.92], "text": " Now, one of my problems" },
+    {
+      "timestamp": [2676.92, 2678.7],
+      "text": " with the way financial markets are structured"
+    },
+    { "timestamp": [2678.7, 2679.56], "text": " is you get a job," },
+    {
+      "timestamp": [2679.82, 2683.18],
+      "text": " you get put into a segment of the market,"
+    },
+    { "timestamp": [2683.26, 2684.06], "text": " you get tunnel vision." },
+    {
+      "timestamp": [2686.28, 2688.48],
+      "text": " Equity people talk to equity people,"
+    },
+    {
+      "timestamp": [2688.68, 2690.66],
+      "text": " fixed income people talk to fixed income people."
+    },
+    {
+      "timestamp": [2690.66, 2692.92],
+      "text": " And sometimes you can have the two markets diverging"
+    },
+    {
+      "timestamp": [2692.92, 2750.67],
+      "text": " and they're not even talking to each other. a family business, a real estate. You know what a cap rate is? Anybody want to tell me what a cap rate in real estate is? Cap rate is a capitalization rate. It's a fancy word for if you give me the rental income on a property,"
+    },
+    {
+      "timestamp": [2751.17, 2753.19],
+      "text": " this is the rate that I use to"
+    },
+    {
+      "timestamp": [2753.19, 2755.19],
+      "text": " capitalize it. So if you have a 10% cap"
+    },
+    {
+      "timestamp": [2755.19, 2756.43],
+      "text": " rate and you have income of a million,"
+    },
+    {
+      "timestamp": [2756.79, 2759.17],
+      "text": " you'll be willing to pay 10 million for a"
+    },
+    {
+      "timestamp": [2759.17, 2760.97],
+      "text": " property because you get a million on the 10 million."
+    },
+    {
+      "timestamp": [2761.65, 2818.02],
+      "text": " A cap rate is like a cost way real estate is taught and dealt with in investing. When I was taking my classes in investing, you know what I was told? I was told that if you have your money in financial assets, you should buy real estate. Why? Because it moves in different ways than financial assets."
+    },
+    {
+      "timestamp": [2818.7, 2883.44],
+      "text": " Now, I got my MBA in the early 80s. And in the 1980s, that was true. Take a look at what the real estate is no longer operating as an asset class. Why might that be? What did we do to screw up real estate that's made it stop being this different asset class? We celebrated what we did to screw it up, actually."
+    },
+    {
+      "timestamp": [2883.52, 2884.78],
+      "text": " It's probably taught in business schools"
+    },
+    {
+      "timestamp": [2884.78, 2886.14],
+      "text": " that this is what we need to do."
+    },
+    { "timestamp": [2886.88, 2887.46], "text": " What did we do?" },
+    { "timestamp": [2891.34, 2892.9], "text": " We securitized it." },
+    { "timestamp": [2894.18, 2894.88], "text": " Lou Ranieri." },
+    {
+      "timestamp": [2895.2, 2951.55],
+      "text": " Prior to the 1980s, starts to behave like a financial asset. It's made our lives more difficult, right? The easy way to diversify is not gone. Just because you bought a house or an apartment and you thought you were safe, that's no longer true. So it'll be good to track these risk premiums by markets"
+    },
+    {
+      "timestamp": [2951.55, 2953.35],
+      "text": " because when somebody says Bitcoin,"
+    },
+    { "timestamp": [2954.45, 2956.01], "text": " that's a great investment." },
+    {
+      "timestamp": [2957.63, 2959.43],
+      "text": " It's going to buffer your portfolio."
+    },
+    { "timestamp": [2959.55, 2960.11], "text": " What's the new thing?" },
+    {
+      "timestamp": [2960.19, 3018.5],
+      "text": " You put up the, I wager, Let's see if that's enough of a defense. For instance, let's assume that every analyst in your group uses the arithmetic average historical risk premium of 8.17% to come up with cost of equity for companies. In other words, they're doing it because, and it's the same number, everybody's using the same number."
+    },
+    {
+      "timestamp": [3019.4, 3023.52],
+      "text": " And let's say the implied equity risk premium is 5.94%."
+    },
+    {
+      "timestamp": [3025.52, 3087.48],
+      "text": " Standard 2023, 5.94%. the S&P 500 should be 30% higher than it is today. And if they're right on that, why the heck are you valuing the stock, right? Go buy the index and buy index futures. Whenever you use a premium that deviates from the current implied premium, you're bringing a market view into your valuation. What do you think about markets? And that's not a good place to be, right? I want you to value Coca-Cola,"
+    },
+    {
+      "timestamp": [3087.8, 3092.46],
+      "text": " not value Coca-Cola and tell me what you think about the S&P 500 at the same time."
+    },
+    { "timestamp": [3134.69, 3135.93], "text": " It's 143 pages." },
+    { "timestamp": [3137.25, 3137.59], "text": " Use it to fall asleep." },
+    { "timestamp": [3138.63, 3140.87], "text": " It's incredibly boring." },
+    {
+      "timestamp": [3141.97, 3142.81],
+      "text": " But I take everything and I look at historic."
+    },
+    { "timestamp": [3143.05, 3143.91], "text": " And at the end," },
+    { "timestamp": [3143.95, 3144.79], "text": " in the last section," },
+    { "timestamp": [3144.85, 3145.37], "text": " here's what I do." },
+    { "timestamp": [3145.43, 3146.67], "text": " I present you the six" },
+    { "timestamp": [3146.67, 3147.55], "text": " or seven different ways." },
+    { "timestamp": [3147.63, 3148.55], "text": " Some people use earnings" },
+    {
+      "timestamp": [3148.55, 3150.53],
+      "text": " to price ratios to get in place."
+    },
+    {
+      "timestamp": [3150.69, 3152.41],
+      "text": " It's called the Fed model to get in."
+    },
+    { "timestamp": [3152.81, 3153.97], "text": " I take all these models" },
+    { "timestamp": [3153.97, 3154.99], "text": " and ask a simple question." },
+    {
+      "timestamp": [3154.99, 3158.01],
+      "text": " Which of these is the best estimate"
+    },
+    {
+      "timestamp": [3158.01, 3159.97],
+      "text": " of returns in the next five years"
+    },
+    { "timestamp": [3159.97, 3160.71], "text": " in the next 10 years?" },
+    { "timestamp": [3160.73, 3161.55], "text": " Because ultimately," },
+    { "timestamp": [3161.61, 3162.37], "text": " that's what a good equity" },
+    {
+      "timestamp": [3162.37, 3217.8],
+      "text": " risk premium should do I want? I want a high positive correlation."
+    },
+    {
+      "timestamp": [3218.4, 3284.74],
+      "text": " Let's debate the best positive correlations. But'll take that over the historical premium every single day."
+    },
+    {
+      "timestamp": [3287.22, 3287.3],
+      "text": " So as you think about equity risk premiums,"
+    },
+    {
+      "timestamp": [3288.96, 3291.22],
+      "text": " open the door to this possibility because you're going to have to have this argument"
+    },
+    { "timestamp": [3291.22, 3292.56], "text": " with people you go work for" },
+    {
+      "timestamp": [3292.56, 3295.0],
+      "text": " because they're going to be trained in historical premiums."
+    },
+    {
+      "timestamp": [3335.43, 3336.11],
+      "text": " The safest place to be is where everybody else is."
+    },
+    {
+      "timestamp": [3339.25, 3340.25],
+      "text": " But I want you to open the door to at least thinking about implied premiums."
+    },
+    {
+      "timestamp": [3342.79, 3343.39],
+      "text": " I'll give you one other advantage of implied premiums."
+    },
+    {
+      "timestamp": [3346.97, 3348.43],
+      "text": " What was the reason I could not compute a historical risk premium for Vietnam?"
+    },
+    {
+      "timestamp": [3349.81, 3351.71],
+      "text": " There's not enough history, right?"
+    },
+    {
+      "timestamp": [3355.11, 3355.55],
+      "text": " In fact, that's going to be true for a lot of emerging markets around the world."
+    },
+    {
+      "timestamp": [3357.07, 3361.57],
+      "text": " What do I need for an implied premium? I need a level of the index today, which I should be able to get for any market."
+    },
+    {
+      "timestamp": [3402.12, 3404.18],
+      "text": " can't wait for that day to arrive because that'll"
+    },
+    {
+      "timestamp": [3404.18, 3406.22],
+      "text": " mean I have premiums that actually reflect"
+    },
+    {
+      "timestamp": [3406.22, 3408.02],
+      "text": " what people are demanding in that market."
+    },
+    {
+      "timestamp": [3408.12, 3410.02],
+      "text": " Because right now it's a little artificial, right? I take the"
+    },
+    {
+      "timestamp": [3410.02, 3411.78],
+      "text": " US premium, I take the default spread,"
+    },
+    {
+      "timestamp": [3412.02, 3414.06],
+      "text": " I do this elaborate dance. I might"
+    },
+    {
+      "timestamp": [3414.06, 3415.74],
+      "text": " convince you, I might not convince you."
+    },
+    {
+      "timestamp": [3416.3, 3418.08],
+      "text": " But this way you bypass it. What are people"
+    },
+    {
+      "timestamp": [3418.08, 3419.52],
+      "text": " paying? So this was actually in"
+    },
+    { "timestamp": [3419.52, 3421.02], "text": " 2007." },
+    {
+      "timestamp": [3421.74, 3423.88],
+      "text": " I wanted to compute the implied equity risk"
+    },
+    {
+      "timestamp": [3423.88, 3426.16],
+      "text": " premium in the CENSEX, the Indian Equity Index."
+    },
+    { "timestamp": [3426.88, 3428.0], "text": " So I got the level of" },
+    {
+      "timestamp": [3428.0, 3484.32],
+      "text": " the index. 6%. I set that as my growth rate beyond 0.5. So I'm doing with the Sensex exactly what I did with the S&P 500. Same mechanical process I solve for R. I get an expected return of 11.18%. What does that tell me? In September of"
+    },
+    {
+      "timestamp": [3484.32, 3486.6],
+      "text": " 2007, given how Indian stocks"
+    },
+    { "timestamp": [3486.6, 3488.76], "text": " were priced, my expected" },
+    { "timestamp": [3488.76, 3490.56], "text": " risk premium in India" },
+    { "timestamp": [3490.56, 3492.2], "text": " is" },
+    { "timestamp": [3492.2, 3494.28], "text": " 11.18 minus 6.76," },
+    {
+      "timestamp": [3494.28, 3550.91],
+      "text": " 4.42%. really, really, really difficult to do. You see where I'm going, right? You have a market where investors are kind of penned in. Penned in in what sense? You have a choice. You want to buy Indian stocks or you want to buy Indian stocks. You say, but Indian stocks are overvalued."
+    },
+    { "timestamp": [3551.27, 3551.81], "text": " Let me ask you again." },
+    {
+      "timestamp": [3551.87, 3553.03],
+      "text": " Do you want to buy Indian stocks?"
+    },
+    {
+      "timestamp": [3553.11, 3554.19],
+      "text": " Do you want to buy Indian stocks?"
+    },
+    { "timestamp": [3554.51, 3555.37], "text": " Do you see what can happen?" },
+    { "timestamp": [3555.45, 3556.49], "text": " If you pen in a market," },
+    {
+      "timestamp": [3556.73, 3560.97],
+      "text": " the equity risk premium can actually drop below what it is."
+    },
+    {
+      "timestamp": [3607.86, 3608.38],
+      "text": " True in mainland China. China has been wrestling with how do we open up the conduits for mainland Chinese to invest in Hong Kong stocks."
+    },
+    {
+      "timestamp": [3613.1, 3614.26],
+      "text": " Forget about U.S. stocks. And they open the conduit. Let me close it up again."
+    },
+    {
+      "timestamp": [3621.76, 3621.98],
+      "text": " When India and China were small economies, this was not a big deal, right? You could do this. Nobody cared."
+    },
+    {
+      "timestamp": [3625.98, 3684.46],
+      "text": " But we have the second largest ands allow you to make the judgment."
+    },
+    {
+      "timestamp": [3684.88, 3687.68],
+      "text": " And one final point about equity risk premiums,"
+    },
+    {
+      "timestamp": [3687.72, 3689.76],
+      "text": " and we'll shut the door on this topic."
+    },
+    {
+      "timestamp": [3690.62, 3752.23],
+      "text": " I actually, at the start of every year, So you're comparing apples to apples. Start of 2004, the differential was 3.27%. Investors were charging 3.27% more for investing in emerging market companies than in developed market companies. You see, that makes sense. I'm not even sure if it makes sense or doesn't make sense."
+    },
+    {
+      "timestamp": [3752.33, 3755.81],
+      "text": " But look at the trend line of that number as you go through time."
+    },
+    {
+      "timestamp": [3756.25, 3758.55],
+      "text": " 2004, 2005, it keeps dropping."
+    },
+    {
+      "timestamp": [3758.73, 3760.49],
+      "text": " 2008 is a little bounce back up."
+    },
+    {
+      "timestamp": [3760.57, 3817.82],
+      "text": " That's a crisis pushing the extra risk. So the implied approach actually gives you a way of reverse engineering what you can make as an expected return and saying, where do I go to get the most bang for my buck, the highest return for the risk I take? And looking across markets"
+    },
+    {
+      "timestamp": [3817.82, 3823.84],
+      "text": " geographically, looking across asset classes, you can get a better sense of, hey, these are the"
+    },
+    {
+      "timestamp": [3823.84, 3886.96],
+      "text": " classes that deliver the highest returns. Any questions on implied equity risk groups? beta. What a terrible way to think about betas. Because you know already what you've done. You've converted into a statistical number. You're under regression. You get the slope. You get a beta. Just as I dug a hole and buried historical risk streams, I'm going to dig an even deeper hole and bury this notion that betas come from regression."
+    },
+    {
+      "timestamp": [3888.52, 3951.67],
+      "text": " And there are three arguments I'm going to make against regression betas. So if this upends Returns for the next five years against my, how can I get returns for the next five years? I get it for the last five years. It's the ultimate backward looking number, right? And if your business mix has changed, God help me, even across the regression, it's giving me a beta for the last five years."
+    },
+    {
+      "timestamp": [3954.05, 3955.05],
+      "text": " And I'm going to argue that betas are affected by how much debt you have."
+    },
+    {
+      "timestamp": [3955.17, 3956.89],
+      "text": " Equity becomes riskier for any firm"
+    },
+    { "timestamp": [3956.89, 3957.83], "text": " if you borrow more money" },
+    {
+      "timestamp": [3957.83, 3959.91],
+      "text": " and company's debt to equity ratios change,"
+    },
+    { "timestamp": [3959.99, 3960.71], "text": " the beta changes." },
+    {
+      "timestamp": [4007.4, 4014.84],
+      "text": " so this is the beta page for a company called gopro you know what gopro did what do they make cameras for hyperactive oversharing individuals right basically you know they put the gopro on"
+    },
+    {
+      "timestamp": [4014.84, 4018.32],
+      "text": " their head and they go on a three-hour hike and they record the whole damn thing"
+    },
+    {
+      "timestamp": [4018.32, 4085.52],
+      "text": " as if you care they're eating their lunch 45 minutes goproing the whole thing it's disgusting but remember your statistics keep going down oh standard error beta 0.50 somebody help me out here i get a regression beta 1.60 with a standard error of 0.50 and i ask you what's a fair beta for"
+    },
+    {
+      "timestamp": [4085.52, 4150.29],
+      "text": " gopro what's the range you're going to give me that's with 67 confidence you like 67 confidence Two thirds times the raw beta plus one third times one. If you don't believe me, print out the betas for 40,000 companies. Try every single one of the companies. It's two thirds times the raw beta. You're saying, what? See, raw beta is 1.5. Two thirds of 1.5 is one. One third of one is 0.33."
+    },
+    { "timestamp": [4150.45, 4152.17], "text": " A 1.5 will become 1.33." },
+    { "timestamp": [4152.61, 4154.37], "text": " 1.2 will become 1.13." },
+    {
+      "timestamp": [4154.75, 4157.59],
+      "text": " As I go through each of these, look to see if you see a pattern."
+    },
+    {
+      "timestamp": [4158.33, 4160.13],
+      "text": " 1.8 is going to become 1.53."
+    },
+    {
+      "timestamp": [4160.13, 4219.26],
+      "text": " 0.6 is going to become 0.73. man oh this is a company maybe i should have called the mayor they i called them and i said look i want to talk to somebody about your beta page is they put me in touch with the beta calculation guy there is a guy at bloomberg whose life it is to maintain this page can you imagine"
+    },
+    {
+      "timestamp": [4219.26, 4288.32],
+      "text": " how exciting his life must be he goes to a and says i don't know it was here when i got here i said what does that even mean he said it was hired two years ago it was already built in don't blame me i'm saying i'm not trying to blame you i just want to know where these numbers come from here when i got here you know how often you're going to get that answer to questions you ask at your"
+    },
+    {
+      "timestamp": [4288.32, 4352.81],
+      "text": " work about numbers used every day why are we using a five percent equity risk cream for the it's noisy and the adjusted beta doesn't do much but once in a while you will get a great looking beta you're going to start celebrating the best looking beta page ever beta page are printed off for nokia like 2001"
+    },
+    {
+      "timestamp": [4352.81, 4419.76],
+      "text": " at that time bloomberg actually used to report the adjusted beta they going to Helsinki for? Nokia is a Finnish company. Bloomberg is very parochial about the way it estimates betas. You go look up the beta for a Chinese stock, it'll be against the Shenzhen if it's listed in the Shanghai exchange, or it can be against if you take a Hong Kong."
+    },
+    {
+      "timestamp": [4419.94, 4422.6],
+      "text": " So whatever stock you pick, they'll pick the local exchange."
+    },
+    { "timestamp": [4422.82, 4423.88], "text": " You see, so what?" },
+    { "timestamp": [4424.66, 4425.42], "text": " I'll make a confession." },
+    {
+      "timestamp": [4425.54, 4427.42],
+      "text": " I had no idea what was in the hex."
+    },
+    {
+      "timestamp": [4476.64, 4478.84],
+      "text": " DAX 30 stocks, CIC 30 stocks are narrow indices, which makes their betas completely nonsensical."
+    },
+    {
+      "timestamp": [4484.16, 4484.64],
+      "text": " Because the marginal investor in Nokia in 2001 was Barclays."
+    },
+    {
+      "timestamp": [4486.7, 4487.4],
+      "text": " They bought it for their global index fund."
+    },
+    {
+      "timestamp": [4492.2, 4493.42],
+      "text": " And if you're buying Nokia for your global index fund, you know how you measure risk, right? You don't measure it against a hex."
+    },
+    {
+      "timestamp": [4493.46, 4550.65],
+      "text": " You measure it against the MSCI or a global index. It makes your betas go down. So if I take, for instance, GameStop, and this was at the peak of that craziness, you know what happened to that beta? It went to minus point, let's take the raw beta, minus 0.08."
+    },
+    {
+      "timestamp": [4551.73, 4552.41],
+      "text": " You're saying, what happened?"
+    },
+    {
+      "timestamp": [4554.31, 4557.01],
+      "text": " What happened during that craziness? People kept buying stocks no matter what,"
+    },
+    {
+      "timestamp": [4557.07, 4558.71],
+      "text": " or selling stocks no matter what."
+    },
+    {
+      "timestamp": [4558.93, 4560.57],
+      "text": " You have nothing to do with the market anymore."
+    },
+    {
+      "timestamp": [4560.77, 4562.97],
+      "text": " And since beta measures how you move with the market,"
+    },
+    {
+      "timestamp": [4602.08, 4603.94],
+      "text": " the starting point, the ending point, daily, weekly."
+    },
+    {
+      "timestamp": [4607.98, 4611.3],
+      "text": " Which means that what you see as a printed beta page on Bloomberg might just be the 54th iteration that this person tried and said,"
+    },
+    {
+      "timestamp": [4611.38, 4612.46],
+      "text": " this is the beta for the company."
+    },
+    {
+      "timestamp": [4615.5, 4617.36],
+      "text": " So when we get back on Monday,"
+    },
+    {
+      "timestamp": [4617.36, 4619.6],
+      "text": " we're going to talk about what to do instead,"
+    },
+    {
+      "timestamp": [4619.8, 4621.46],
+      "text": " because we've dug the grave for betas."
+    },
+    { "timestamp": [4621.5, 4622.32], "text": " We're going to bury it." },
+    { "timestamp": [4622.4, 4622.66], "text": " And then we said," },
+    {
+      "timestamp": [4622.84, 4687.54],
+      "text": " there must be a different way of thinking about it. something i enjoy teaching you ask me to rank which do you which is the bigger passion teaching is my passion finance is not a passion it's an interest okay yeah what why why do i enjoy it because you got to pick what you came you know in life what gives you the most joy and to me"
+    },
+    {
+      "timestamp": [4687.54, 4750.45],
+      "text": " the joy comes from teaching it doesn't come from i mean i like finance i enjoy financial progress to be curious, 5% premium in the last 20 years. I mean, this is a market price for risk, right? There can't be a good number. There can be a number that is not out of sync with what people accept over time. That's why I have that graph of over time,"
+    },
+    {
+      "timestamp": [4750.53, 4752.39],
+      "text": " what does the most premium look like relative"
+    },
+    {
+      "timestamp": [4752.39, 4755.43],
+      "text": " to the last 20 years, the last 10 years, the last 50 years."
+    },
+    { "timestamp": [4755.73, 4757.07], "text": " But that's all you can do." },
+    { "timestamp": [4757.07, 4757.71], "text": " No." },
+    { "timestamp": [4758.67, 4758.95], "text": " Yeah." },
+    { "timestamp": [4759.43, 4760.43], "text": " Thank you." },
+    {
+      "timestamp": [4805.4, 4805.48],
+      "text": " on the, you know, but I have S&P Capital IQ, you can take all energy stocks, add up their earnings,"
+    },
+    {
+      "timestamp": [4809.52, 4814.04],
+      "text": " add up their cash flows, you can do an implied equity risk premium for energy companies, an implied, and if you do that, you can skip the beta part, right, because then you can go directly and"
+    },
+    {
+      "timestamp": [4814.04, 4818.0],
+      "text": " add that equity risk to the risk-free rate, you've got your cost of equity, so with those people who"
+    },
+    {
+      "timestamp": [4818.0, 4822.66],
+      "text": " don't like betas, and I know quite a few people who refuse to use betas, they think, you know,"
+    },
+    {
+      "timestamp": [4822.72, 4885.58],
+      "text": " I don't like it, I say, okay, you don't like things are missing there. And you can take the same spreadsheet I would send you for the S&P 500. Just use it for any sector. The spreadsheet itself is malleable enough to be"
+    },
+    {
+      "timestamp": [4885.58, 4890.54],
+      "text": " the collecting of the cash flow data is going to be the part"
+    },
+    {
+      "timestamp": [4890.54, 4950.51],
+      "text": " that you have to go to capital IQ. It's not even digging. thing to do is to actually do what everybody else is doing even if it's wrong this is not a question of pragmatism it's survival right in fact it's more risky doing the right thing if it deviates from historic norm because we do the wrong thing that everybody else is doing when things go wrong"
+    },
+    {
+      "timestamp": [4950.51, 4955.83],
+      "text": " or things don't work out you say look i know i just did i use historical risk premiums maybe"
+    },
+    {
+      "timestamp": [4955.83, 5017.48],
+      "text": " they were too low but everybody does it so unfortunately the reality of how reward and Because if you're an appraiser, you're an analyst, you have no incentive to change. It's not like you get an upside for being right here. You just get punished for being wrong. But if you're investing your own money, you might say, look, this is crazy that I'm getting the same premium investing in bonds as I'm investing in stocks. I'm going to start a hedge fund."
+    },
+    {
+      "timestamp": [5017.94, 5019.42],
+      "text": " I'm going to sell short in stocks."
+    },
+    {
+      "timestamp": [5019.68, 5022.0],
+      "text": " And that's exactly what John, I mean,"
+    },
+    {
+      "timestamp": [5022.08, 5024.14],
+      "text": " this room is funded by somebody who"
+    },
+    {
+      "timestamp": [5024.14, 5025.86],
+      "text": " looked at real estate risk premiums."
+    },
+    {
+      "timestamp": [5025.86, 5027.18],
+      "text": " He might not have used my approach."
+    },
+    {
+      "timestamp": [5027.18, 5085.26],
+      "text": " And he said, this is absurd. this looks like a market mistake to me. So I think that's the niche that, and most hedge funds are just like investment banks. They follow the herd, they get priced, they get, you know. But there are some that I think, you know, stand out because they're willing to say,"
+    },
+    {
+      "timestamp": [5085.34, 5086.78],
+      "text": " look, you know, we're not going to do"
+    },
+    { "timestamp": [5086.78, 5087.9], "text": " what everybody else does." },
+    {
+      "timestamp": [5088.58, 5092.78],
+      "text": " And now we have the instruments to trade on mistakes, right?"
+    },
+    {
+      "timestamp": [5092.78, 5095.4],
+      "text": " For the longest time, real estate was overvalued."
+    },
+    {
+      "timestamp": [5137.03, 5142.29],
+      "text": " way we do it. We have a risk-free rate. We have a beta. We have an equity risk premium we got from Kroll and Duff and Phelps. We had a small cap premium. We had a company-specific risk premium."
+    },
+    {
+      "timestamp": [5142.45, 5146.25],
+      "text": " We're coming to 21%. You're asking us to use 12%. That doesn't sound right. We're going to go with"
+    },
+    {
+      "timestamp": [5146.25, 5154.21],
+      "text": " the 21%. So don't expect an easy audience, even if you get the number. But I think it's well worth"
+    },
+    {
+      "timestamp": [5154.21, 5217.14],
+      "text": " doing. All right. Thank you, Professor. You're welcome whatever's been written about the drug. I mean, this is not a process. We're the first ones going through this. And you can look at the FDA, actually, it's public information. They can tell you what percentage of drugs working through"
+    },
+    {
+      "timestamp": [5217.14, 5223.32],
+      "text": " each stage of the pipeline make it to the next stage. So first check where their drugs are in"
+    },
+    {
+      "timestamp": [5223.32, 5284.52],
+      "text": " the pipeline. You might not need a decision tree if they've already made it all the way to the cystic fibrosis is not something you're going to be able to read up easily on Google search or make a gut feeling conclusion. It will require delving through. It's in the public domain, but you'll have to read through a journal article on a drug which talks about why this drug is"
+    },
+    {
+      "timestamp": [5284.52, 5288.16],
+      "text": " better than the other three drugs. I'm not putting up by a major."
+    },
+    {
+      "timestamp": [5288.8, 5350.75],
+      "text": " You should be able to. I mean, let's face it, second one is going to be too much. It'll be a single drug. It's less a company and more a drug. Because my guess is many of the companies that look like your second one never make it as going concerns. They get bought out by some large pharma company because that's the way pharma is evolving,"
+    },
+    {
+      "timestamp": [5356.37, 5417.86],
+      "text": " is they let some young company develop a drug, you'd still be forecasting, right? Okay. Sounds good. So for the, like, estimate, if it's, like, phase two or something, you just get, like, sort of a general market, like, perception? Yeah, I wouldn't get to... Remember, the more of a portfolio you have,"
+    },
+    {
+      "timestamp": [5417.94, 5421.82],
+      "text": " the less payoff there is to breaking it down into individual elements."
+    },
+    {
+      "timestamp": [5421.82, 5424.5],
+      "text": " I would never take a Merck or an Upjohn or a Pfizer"
+    },
+    {
+      "timestamp": [5424.5, 5427.4],
+      "text": " and break down its revenues to buy a drug."
+    },
+    { "timestamp": [5427.5, 5428.48], "text": " It's not worth the effort." },
+    {
+      "timestamp": [5472.4, 5478.28],
+      "text": " out of this pipeline. And that's going to be built into your value as well. So at the end of the process, even if you get all four drugs they have valued and add them up, it might not be the value"
+    },
+    {
+      "timestamp": [5478.28, 5482.4],
+      "text": " of the company because people might attach a premium to the fact that they have the great"
+    },
+    {
+      "timestamp": [5482.4, 5487.02],
+      "text": " R&D department that's worked on these four drugs. And remember, when you're successful with a drug,"
+    },
+    {
+      "timestamp": [5487.02, 5492.5],
+      "text": " it gives you these little offshoots that you can use to develop, like Moderna, the mRNA,"
+    },
+    {
+      "timestamp": [5538.57, 5540.65],
+      "text": " It's graduated last and her class is a big help you"
+    },
+    { "timestamp": [5541.79, 5542.21], "text": " Sure. What's his name." },
+    { "timestamp": [5544.41, 5546.09], "text": " Our goal and Jason Jason" },
+    { "timestamp": [5546.57, 5554.01], "text": " Jason" },
+    {
+      "timestamp": [5555.69, 5557.13],
+      "text": " He said he took my class last year."
+    },
+    { "timestamp": [5558.23, 5563.21], "text": " Yeah, I don't know." }
+  ]
+}

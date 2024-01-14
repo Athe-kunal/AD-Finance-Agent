@@ -1,1 +1,779 @@
-{"text": " Thank you. I don't know. You would read the slide. Okay. So where were you? I missed you the last two classes. Yeah. make sure that you rotate fairly. I think two-thirds of the class have already been out of this room. There's another one-third. They will get first tips on it. The final, I have no idea how I'm going to do. I have to toss a coin. I really have no idea. The material for the third quiz will cover everything in Packet 2, which we will finish today. We'll be done with Packet 2, which means next Monday, please make sure you download the third and last packet. It's a much slimmer packet. Last packet of the class. completely undiversified. So today we're going to go through the mechanics of what to do, but I want you to give me the intuition as to what is going to happen to your cost of equity and cost of capital when a buyer is not diversified. So when a buyer is diversified and we focus on beta, we come up with the cost of equity and the cost of capital, right? Let's say you take the same business, but now you're looking at a buyer who's completely undiversified. They're going to put all of their money in that company. Will they see more risk in the company or less risk? managing you know what binds them together right the owner is steve cohen and both so somebody was in steve cohen's office asked you know can you come to talk to the point because i've done that before and i said sure so i'm going to go talk to them about narrative and numbers because these are young analysts they've come through they've made the they've made it to in a sense to one of the peak hedge fund like places and i want so i said sure and then later i got a call saying oh Japanese yen or a euro, but what equity risk premium should I use? Same equity risk premium I'd use elsewhere. The price of risk is the price of risk, which leads me to the question of balance. How many publicly traded sports franchises are there in the US? One. Actually, just one. It's Madison Square Gardens, the closest thing you can get. Even that is not a pure franchise. It owns the Knicks, but to a concert. So I said, it's like entertainment. The average beta for entertainment companies is 1.10. But no matter which beta I use, I'm focusing only on the risk that cannot be diversified away, right? But is Steve Cohen an undiversified owner? Is the only thing Steve Cohen owns the Mets? No, he's one of, you know, he's all I think worth 15 billion, maybe 18 billion, $3 billion or $4 billion, Steinbrenner family. How much of the Steinbrenner family is tied up in the Yankees, you think? Almost all of it. It's a $7 billion franchise. They're not rich outside of this. They might have 100 million or 100 million there. The Steinbrenner family is almost completely undiversified. So you know what that means, right? If you think in purely financial terms, the Mets should have a lower cost of equity than the Yankees right now. I don't know how this will play out. But file that away for future reference valuation and why I think it's wrong. And here's what appraisers do to deal with the liquidity. So there are far more private business appraisers than publicly traded company analysts in this country. There are thousands and thousands of appraisers. And the way they value private generating company to a long-term buyer, a profitable cash flow generating company to a cash constrained buyer. So two different buyers. Or you can have an unprofitable negative cash flow company to a long-term buyer or cash constrained buyer. So let's focus on first the money making versus the money losing cash flow. Which should have the larger liquidity discount, the cash flow generating company or the negative cash flow company? The negative cash flow company, why? why because you need the cash flow much sooner right you worry about liquidity you're gonna you see already i'm setting up a nightmare scenario for you because if i'm a private company owner and i come to you and say can you estimate what my liquidity discount should be you can't answer the question until you deal with two things one is what kind of company am i am i money making or money losing do i have cash flows that depending on the company and the buyers, they're going to be different across time. So we'll at least set up the framework for thinking about illiquidity today. One final point. Given what I've said so far about potential buyers and divers publicly direct company well that's kind of a deceptive reason right what what's the first thing i started with we talked private buyer and what the private company is worth to a... That's how private equity funds make their money. They buy it at somewhere in the middle, and they either take the company public or they sell it to a public company. That's their exit. So let's go back to where we were in the notes and kind of fill in the details. I'm also the chef. This restaurant is well regarded. In the most recent year, and I show you the income statement, they made $400,000 in pre-tax operating profit on $1.2 million in revenue. So I'm going to give you three years of financials. The company has no debt outstanding, but it does have a lease commitment of $120,000 each year for the next 12 years. The restaurant sits on this all even if you there are no no I'm not pulling any shenanigans here the numbers are what they are if you buy this restaurant based on what you see on this income statement say look that seems like a lot of money what's the problem you're need to build in that cost into your income statement. So already you can see the work coming into play. To value this restaurant, you need to bring in all the pieces you will need to run the restaurant. So let's go through the process of valuing the restaurant, starting with a discount rate. What do we need for a discount rate? I need a beta and a risk. It's a risk-free rate and risk-free, I'm going to come same space. So initially, that's what I did. I went and looked up publicly traded restaurants. And I came up with the beta, but it wasn't the kind of beta that you're going to be happy with. So here, I'm going to start exactly the same way that I start with public companies. But I still have to deal with that problem of lack of diversification. But the beta that to get, look at other companies that do well when you do well and do badly when you do badly. And here I'm going with a group of companies that I think is closer to my business in terms of up and down movements than looking at just restaurants. So I got an unlevered beta. So that part of the process was pretty similar to what I do with public companies. I'm just looking at other publicly traded companies in the space coming up with the beta. We'll have to deal with the lack of diversification, but I have an to adjust your beta. So here's what I did. I went into my bottom of beta page. Remember, I got the publicly traded companies and betas. And if you remember, when you look at a regression bring it into play. In addition to looking at the betas, I also looked at the average R-squared across these high-end retailers. The average R-squared was 25%. There's a little statistical tangent. R-squareds measure the proportion of the variance in your stock that is explained by the market. Beta is a standard deviation measure. square root of the R squared. I won't insult you by asking you what the square root of the R squared is. It's obviously going to be the correlation coefficient, which is the R. So here, what I'm going to do is I'm going to take the correlation coefficient, which is 0.5, and I'm going to play a little algebra again. The 1.18 that I computed was a market bait. It captured the market risk in the company. And if I were diversified, I'd traded companies, after you came up with an unlevered beta for your company, what did you have to do to come up with a beta to use for your stock? You had to lever the beta, and to lever the beta, you needed a debt-to-equity ratio. And that debt-to-equity, was it a book debt or market debt-to-equity ratio? After two quizzes, I hope you get the right answer. It always is market debt-to-equity. And with a private company, 2.56 and a cost of equity of 14.5%. But that's assuming that private businesses borrow roughly the same as public companies in that space. What if you don't want to do that? Is there another way I can come up with a debt to equity ratio for a private company? Where I don't assume that it moves to the industrial average. What do I not have? company a function of your own estimated value of equity. So I'm not doing it here, but if you want to do it in the spreadsheet, you can, but just make sure the iteration box is checked. Otherwise, you're going to get lines all through your spreadsheet about circular reason. So two choices with debt to equity, where you can either use the industry average, which is what I've done here, or you can go with this debt to equity that came from your own estimated value of equity. I'm almost there. I have a cost of equity. I need a private company valuation much higher than the discount rate for an otherwise similar public company because I'm using that total beta. Second stop, I had to clean up the income statement. Cleaning up here basically meant paying for a chef who's actually going to cook $150,000. That pushes up my expenses, and I capitalized leases because that's the right thing to do. if I buy the restaurant with a new chef. So I estimated that loss of revenue that I'm going to get if the chef leaves to be 20% of my operating income. So I'm going to take 370,000 and knock it down by 20%. This is the key person discount we talked about towards the end of each class. It's lowering my operating income. So I've got a discount rate. I started with the operating income. I've adjusted it for the loss of a key person. So I put in a 2% growth rate, 2% divided by 20% gives me a reinvestment rate of 10%. So I've got my discount rate, I've got my income, I've got my reinvestment rate. I bring it together in my valuation. So there's the key person adjusted operating income growing at 2% next year, one minus the tax rate times one minus the reinvestment rate. So that's expected free cash for the firm next year illiquidity. So I'm going to reinforce what I said at the start of the class today. I mean, the standard practice for illiquidity discounts is to knock a fixed number off. I call this the bludgeon approach. Take 20% off every private company valuation. But I think the right practice is to allow it to vary across companies. Some companies should have bigger discounts than others. Healthy companies over unhealthy companies. Money making over money losing. Should also depend on when you're trying to do space. It's a thousand page book. It's a manual on what to do to value private companies. And one of the things, of course, he had to deal with is the liquidity discount. So he set up a firm in Oregon called Williamette, and they started doing research on the liquidity discount. And observe how much of a discount I get. So to estimate a liquidity discount, I need to observe what the price would be without the discount and the price with the discount with restricted stock I get to observe. And there are dozens and dozens of studies of restricted stock and they seem to find a discount of about 30 to 35%. It's a pretty big discount. The second set of studies look at their restricted stock studies, many of the early studies just looked at the median discount. They'd look at 15 or 20 or 50 different restricted stock offerings. There aren't that many each year, so it's got to be a small sample, and they compute if the restricted stock price is $8 and the stock and the actual market price before was 10, 8 divided by 10 is 0.8. So think of the left-hand side as 1 minus the discount. And he threw in three variables. One is he threw in the level of revenue. His hypothesis was bigger companies should see smaller illiquidity discounts in smaller companies. And he backed that up. Second, he looked at how big that restricted block was. His argument being, you're trying to put restricted shares with a customer. Maybe they're getting side deals and they're willing to pay a higher price. So he ran this regression and I, you know, basically became a paper. But a few years later, I decided to steal Bill Silver's regression and use it to kind of come up with a way of coming up with different liquidity discounts for different companies. It's still within the restricted stock study. So it's got its limitations. But here's what I did. the same discount. I'm giving smaller discounts to bigger companies and I'm giving smaller discounts to money-making companies, a way of discriminating across companies. But here's the problem with restricted stock studies that you cannot run away from no matter how much you finesse. What did I say has to happen in restricted stock offering? I've got to offer a big discount, right? 20%, 30% on the table. What kind of healthy company is ever going to do that? the IRS actually hired somebody who knew enough statistics to take a look at these restricted stock studies and separate out how much of the 35% discount you were seeing came from the sampling bias. There's actually statistical ways of doing this. And at the end of the study concluded that about 20 to 25% of the 35% came from having a bad sample. Only about 10 to 15% was the liquidity I said, there is an illiquidity discount, right? It's called a bid-ask spread. You say, how big can it be? For an apple, it's tiny, 0.1%. You bid-ask spread divided by the price. But if you decided to do this with a small NASDAQ stock, lightly traded, you know how much, so it's a $2 stock. The bid-ask spread could be 50 cents. In other words, if you buy the stock, it'll cost you $2. One second later, you try to sell the stock, you might want to go there, right? I don't care that much, but if you cared, you could go and look at this. So I have 7,500 companies in my spreadsheet. I have the spread as a percentage of the stock price for every single company. I did what Bill Silber did with the small restricted stock study. I tried to figure out why the spread was higher for some companies and lower for others. And here were the variables that I threw into my regression. I threw in how much the company had in revenues. Not surprisingly, companies which have high trading volume have much smaller bid-ask spreads than companies that don't trade as much. You say, what's this got to do with private companies? These are public companies. We're explaining differences in bid-ask spreads across public companies. Take a look at this regression. Could I get these numbers for my restaurant? I have the revenues, right? 1.2 million. I can plug it in there. Is it a money-making restaurant? buyers. It's a huge sample. Of course, I like to keep redoing it. This is a 15-year-old regression, so it's aged. But if this was at the center of your practice, you could update this every year. The data is there. It's easy to do. And you'd have an updated way of estimating what the illiquid discount is at any point in time, and you can vary it across companies based on the characteristics. To show you how different these numbers've got to adjust for the lack of diversification. You've got to come up with this illiquidity discount after you're done to reduce value. And every dark force in valuation is working against you as you go along because you have so many things market price. So you can use any kind of book value-based number, anything that comes out of income statements and balance sheets. And if you wanted a higher R-squared, you could get there because spreads are pretty explainable. And the other advantage is if you do this on an updated basis, they would reflect the market you're in right now. If you're in a crisis, the spreads for all companies go up, it'll show up in the intercept. So it's a kind of a company, but you're investing other people's money, right? You're investors in your company. Are they diversified? Yes. Public to private to public. I go back to a market beta because I don't have to worry about this diversification issue. So instead of using the 2.36 beta, I'm going to go back to the 1.18 beta. Second, on the liquidity discount issue, you're a public company. You're buying this illiquid private company. What happens after it becomes part of your company? thousand four eighty three. So notice the liquid discount is gone. I'm using a market beta. This is very much like every valuation we've done so far in this class. So if you have a private company being sold to a public company, you can pull up the template you had for valuing public companies and get away with it. So you have two values, right, for this company, for this restaurant. I don't care what I look like. You're a private company and your next best alternative is another private buyer. So I'm going to start at 453,000. And if I'm the only game in town, I'm the only public buyer and everybody else is a private buyer, guess who's going to end up winning this game? I'm going to end up getting it for close to 453,000. But if you can get a second public buyer interested in you, then we might start bidding against each other companies, you roll them up into a public company. Blockbuster, now of course it's gone, built itself up as a company by buying small video rental stores around the country, bundling them up and becoming a public company. Browning Fares, which is a garbage disposal company, went around the country buying small privately owned garbage disposal companies. You see why there's a potential for value creation? Because what do I do as a public traded company. So again, let me emphasize, it's not that publicly traded companies are diversified, it's that investors in these companies are diversified, so they don't have to worry about total beta. It's not that a liquidity doesn't matter, but a liquidity doesn't matter to them because their investors can buy and sell shares, they get the liquidity a different way. And that's where the increase in value is coming from. So I've looked at. One software company, your correlation is 0.2. You take a portfolio of 25 software companies and you look at the correlation with the market. Is it going to be higher than 0.2, lower than 0.2? What's going to happen when I create a portfolio of software companies? It's going to get higher because some of the risk in a software company is very company-specific risk. So when I know whether they still have it, but if they have it, I've kind of withdrawn from it. But they always come to professors and say, can you offer something we can sell? What am I going to offer other than I'll value a company? So I put that into the bid. And usually people bid a couple of hundred dollars or $300. They get a business value. They walk away happy. I walk away not unhappy. So we're both fun company to value because, I mean, you had corporate governance issues, obviously, because you had multiple, it was like the third or the fourth generation family members all over the place. But it's obviously a niche product. It's got a brand name. So that was a case where a private company stayed private, notwithstanding the expressions. Most private companies will buckle at some point and either become part of public companies or go So let's look at the third scenario. Private company valuation as a lead-in to an initial public offer. So now you're valuing the company, not because you want to sell to a private buyer or a public buyer, but because you want to go public. So I want to talk about the issues that come up when you value companies ahead of IPOs. Is everybody familiar about the process of IP IPO evaluation. This evaluation I did of Twitter ahead of their IPO in 2013. Usually when companies file their prospectus of the company I'm interested in, I value the company right after the prospectus is filed. I did this with Alibaba. I did it with Twitter. I do it right after the prospectus is filed because there's no bias in the process. You say, what do you mean? What are the different choices a company has when it comes to cash raised on an offering? What can it do? Yep. One is you can set it aside for future reinvestment. Cash comes in, leaves almost instantaneous. So second thing you could do is let existing owners cash out. The third thing you can do is use the cash to pay down venture debt or debt you might have taken on as bridge financing to get it off the books. You need to tell me what you plan to do with the proceeds in evaluation. And every prospect is there will be a section on what a company plans to do with the proceeds. So pick up a prospect as a high profile company, read through the prospectus, get to that section because you need that section. them to go to venture capitalists over and over again. Twitter had had seven VC rounds before it went public. You're saying, so what? Each time you have a VC round, you raise capital from venture capitalists, you often create a new class of shares. Twitter had seven classes of convertible preferred shares, reflecting their seven rounds. Pain in the neck, right? What am I going to do with seven classes of shares? They'd also, because they will value your company when, in fact, they will price your company, but that's okay. We'll let them use the word value. What else do bankers do for IPOs, for young companies planning to go public? They will do a road show, which means the bankers will wear expensive suits, go around the country, do nice looking charts, multiple font sizes, different colors, but along the way, they might I can sell you sell your house at. You know why you should pay nothing for that guarantee? What did I forget to tell you? I forgot to tell you the price. Can I sell your price? I guarantee I can sell your house at 20% below the mark. Anybody can do that. And that's what bankers do. They offer an underwriting guarantee, but the guaranteed price is often valuation issues first, and then we come back to the pricing issues. As I said, there are three things you can do with the cash. One is you can keep the cash in the company as part of your cash balance and use it to cover future capex. The second is you can let owners cash out. And the third is you can use the cash to pay down debt. If you decide to take the cash out of the company plans to use for proceeds. Second stop, in the case of Twitter, they actually in their prospectus told me that they're going to use the billion dollars in proceeds to hold this cash. And it is required as part of the prospectus to specify 337 million shares outstanding in the company. Oh, by the way, we have excluded these 73 I had one. Here, I don't have a market price. I use the intrinsic value per share. I estimated the $17 to value the options. That value for the options was $805 million. I'm going to subtract that from the value of equity. In fact, you saw that in the big picture to get to the value of equity in the company. discount the price you give me or add a premium to that price what's going to make your life easier if you set the price at zero think how much easier life would be you can't do that but you're going to try to discount it but how much it's amazing if you're going to work for an investment bank in the ipo section if you look at manuals it's actually written right there in the manual value the company or you know price the company take 15 So you have an offering price. And on the opening day of trading, you have a starting price for the stock. So the offering price is set at $30. Market opens for trading. Doesn't open at $30. It opens at $34, $35, $36. start a mutual fund here's what you're going to do you're going to buy a thousand shares in every IPO that comes up in the next year just make money handover first right and mutual funds have tried this and they don't make money so tell me what the slip is between the cup and the lip that leads these this 15 percent that you see on paper to kind of dissipate so let's play this through in all the most underpriced companies and a thousand shares in the most overpriced companies. So when you look at the returns on your fund, you say, what happened? What happened was you didn't get an equally weighted portfolio here. You got a portfolio that's overweighted with stocks that were overpriced and underweighted. So if you're planning to make money in IPOs, you can't just buy every IPO. If you have a way of discriminating across IPOs to figure out which ones are underpriced and which ones are overpriced, as this company built up, right? You decide to go public. And let's say your fair price is $20. And I did put a 15% discount on that price when I set the offering price. That's money coming out of your pockets. And the question that people often ask is, why do founders go along with this? Why do they allow bankers to knock 15% off? So let's say you have a $10 billion company. Lost leaders are those things they put in the table to suck you further and further into the store. Socks are 20 cents. You don't need socks, but 20 cents, you might as well buy them just in case. They're not even your size. So cheap. So lost leader, you're basically selling stuff for below cost because you want me to get to the Ralph Lauren section, which is near the fifth table and the moment of weakness I could, you know, you don't need a banker to do it. They price your company. Really, this is what they do when the price doubles on the first day. That's not great pricing. I'd probably have asked my doorman to price the stock and it'd be better pricing. So that's not very good. Or they sell your company. the banker out. What do you mean cut the banker out of the process? He said, why don't you just go directly to the market? It's called a direct listing. The direct listing, you know what you do? You specify the opening day. We're going to start trading on May 15. There's no offering price. You say, what? What are we going to do? How do markets set prices? Demand and supply. They open up. There's demand and supply. There's no discount on the price. It's much fairer because nobody's getting the shares at a special price. It's called a direct listing. That's why Spotify actually had to let owners cash out because they made a direct listing. It wasn't a traditional IPO. So the direct listings have not taken off the way they could have without those constraints. And in the last three years, there's been a third way to go public, right? What are SPACs? What do you do in a SPAC? Do you want to tell me, describe what you do in a SPAC? So you start a SPACs you take the 20 percent off and take the remaining 80 million with that 20 percent cut it's never going to take off but the process is getting shaken up and I don't know how it'll evolve but I think we're going to see change in the IPO process the existing way of going public is not working and the new ways are not good enough yet to make", "chunks": [{"timestamp": [0.0, 88.67], "text": " Thank you. I don't know. You would read the slide. Okay."}, {"timestamp": [91.67, 151.17], "text": " So where were you? I missed you the last two classes. Yeah. make sure that you rotate fairly. I think two-thirds of the class have already been out of this room. There's another one-third. They will get first tips on it. The final, I have no idea how I'm going to do. I have to toss a coin. I really have no idea. The material for the third quiz will cover"}, {"timestamp": [151.17, 153.07], "text": " everything in Packet 2, which we will"}, {"timestamp": [153.07, 155.29], "text": " finish today. We'll be done with Packet 2,"}, {"timestamp": [155.41, 157.35], "text": " which means next Monday, please"}, {"timestamp": [157.35, 159.27], "text": " make sure you download the third and"}, {"timestamp": [159.27, 161.13], "text": " last packet. It's a much slimmer packet."}, {"timestamp": [161.77, 217.12], "text": " Last packet of the class. completely undiversified. So today we're going to go through the mechanics of what to do, but I want you to give me the intuition as to what is going to happen to your cost of equity and cost of capital when a buyer is not diversified. So when a buyer is diversified and we focus on beta, we come up with the cost of equity and the cost of capital, right?"}, {"timestamp": [217.7, 219.2], "text": " Let's say you take the same business,"}, {"timestamp": [219.52, 223.98], "text": " but now you're looking at a buyer who's completely undiversified."}, {"timestamp": [223.98, 226.64], "text": " They're going to put all of their money in that company."}, {"timestamp": [227.38, 287.13], "text": " Will they see more risk in the company or less risk? managing you know what binds them together right the owner is steve cohen and both so somebody was in steve cohen's office asked you know can you come to talk to the point because i've done that before and i said sure so i'm going to go talk to them about narrative and numbers because these are young analysts they've come through they've made the they've made it to in a sense to one of"}, {"timestamp": [287.13, 350.49], "text": " the peak hedge fund like places and i want so i said sure and then later i got a call saying oh Japanese yen or a euro, but what equity risk premium should I use? Same equity risk premium I'd use elsewhere. The price of risk is the price of risk, which leads me to the question of balance. How many publicly traded sports franchises are there in the US?"}, {"timestamp": [352.63, 352.91], "text": " One."}, {"timestamp": [353.37, 355.31], "text": " Actually, just one. It's Madison Square"}, {"timestamp": [355.31, 357.25], "text": " Gardens, the closest thing you can get."}, {"timestamp": [357.25, 359.29], "text": " Even that is not a pure franchise."}, {"timestamp": [359.55, 417.9], "text": " It owns the Knicks, but to a concert. So I said, it's like entertainment. The average beta for entertainment companies is 1.10. But no matter which beta I use, I'm focusing only on the risk that cannot be diversified away, right? But is Steve Cohen an undiversified owner?"}, {"timestamp": [419.46, 421.44], "text": " Is the only thing Steve Cohen owns the Mets?"}, {"timestamp": [421.56, 422.5], "text": " No, he's one of, you know,"}, {"timestamp": [422.56, 425.68], "text": " he's all I think worth 15 billion, maybe 18 billion,"}, {"timestamp": [426.28, 427.84], "text": " $3 billion or $4 billion,"}, {"timestamp": [471.13, 472.13], "text": " Steinbrenner family. How much of the Steinbrenner family is tied up in the Yankees, you think?"}, {"timestamp": [476.69, 481.49], "text": " Almost all of it. It's a $7 billion franchise. They're not rich outside of this. They might have 100 million or 100 million there. The Steinbrenner family is almost completely"}, {"timestamp": [481.49, 485.95], "text": " undiversified. So you know what that means, right? If you think in purely financial terms,"}, {"timestamp": [486.31, 491.13], "text": " the Mets should have a lower cost of equity than the Yankees right now. I don't know how this will"}, {"timestamp": [491.13, 551.17], "text": " play out. But file that away for future reference valuation and why I think it's wrong. And here's what appraisers do to deal with the liquidity."}, {"timestamp": [551.73, 557.49], "text": " So there are far more private business appraisers than publicly traded company analysts in this"}, {"timestamp": [557.49, 620.66], "text": " country. There are thousands and thousands of appraisers. And the way they value private generating company to a long-term buyer, a profitable cash flow generating company to a cash constrained buyer. So two different buyers. Or you can have an unprofitable negative cash flow company to a long-term buyer or cash constrained buyer. So let's focus on first the money making versus the money losing cash flow. Which should have the larger liquidity discount, the cash flow"}, {"timestamp": [620.66, 627.34], "text": " generating company or the negative cash flow company? The negative cash flow company, why?"}, {"timestamp": [672.35, 676.59], "text": " why because you need the cash flow much sooner right you worry about liquidity you're gonna you see already i'm setting up a nightmare scenario for you because if i'm a private"}, {"timestamp": [676.59, 682.23], "text": " company owner and i come to you and say can you estimate what my liquidity discount should be you"}, {"timestamp": [682.23, 686.99], "text": " can't answer the question until you deal with two things one is what kind of company am i am i money"}, {"timestamp": [686.99, 752.73], "text": " making or money losing do i have cash flows that depending on the company and the buyers, they're going to be different across time. So we'll at least set up the framework for thinking about illiquidity today."}, {"timestamp": [752.73, 754.07], "text": " One final point."}, {"timestamp": [755.13, 822.96], "text": " Given what I've said so far about potential buyers and divers publicly direct company well that's kind of a deceptive reason right what"}, {"timestamp": [822.96, 885.69], "text": " what's the first thing i started with we talked private buyer and what the private company is worth to a... That's how private equity funds make their money. They buy it at somewhere in the middle, and they either take the company public or they sell it to a public company. That's their exit. So let's go"}, {"timestamp": [885.69, 950.43], "text": " back to where we were in the notes and kind of fill in the details. I'm also the chef. This restaurant is well regarded. In the most recent year, and I show you the income statement, they made $400,000 in pre-tax operating profit on $1.2 million in revenue. So I'm going to give you three years of financials."}, {"timestamp": [956.95, 957.03], "text": " The company has no debt outstanding, but it does have a lease commitment of $120,000 each year for the next 12 years."}, {"timestamp": [958.25, 1017.7], "text": " The restaurant sits on this all even if you there are no no I'm not pulling any shenanigans"}, {"timestamp": [1017.7, 1023.16], "text": " here the numbers are what they are if you buy this restaurant based on what you see on this"}, {"timestamp": [1023.16, 1087.81], "text": " income statement say look that seems like a lot of money what's the problem you're need to build in that cost into your income statement. So already you can see the work coming into play. To value this restaurant, you need to bring in all the pieces you will need to run the restaurant. So let's go through the process of valuing the restaurant, starting with a discount rate. What do we need for a discount rate? I need a beta and a risk. It's a risk-free"}, {"timestamp": [1087.81, 1151.41], "text": " rate and risk-free, I'm going to come same space. So initially, that's what I did. I went and looked up publicly traded restaurants. And I came up with the beta, but it wasn't the kind of beta that you're going to be happy with. So here, I'm going to start"}, {"timestamp": [1151.41, 1156.37], "text": " exactly the same way that I start with public companies. But I still have to deal with that"}, {"timestamp": [1156.37, 1216.86], "text": " problem of lack of diversification. But the beta that to get, look at other companies that do well when you do well and do badly when you do badly. And here I'm going with a group of companies that I think is closer to my business in terms of up and down movements than looking at just restaurants. So I got an unlevered beta."}, {"timestamp": [1219.52, 1220.84], "text": " So that part of the process was pretty similar to what I do with public companies."}, {"timestamp": [1220.84, 1223.8], "text": " I'm just looking at other publicly traded companies"}, {"timestamp": [1223.8, 1225.36], "text": " in the space coming up with the beta."}, {"timestamp": [1225.78, 1227.94], "text": " We'll have to deal with the lack of diversification,"}, {"timestamp": [1228.06, 1287.35], "text": " but I have an to adjust your beta. So here's what I did. I went into my bottom of beta page. Remember, I got the publicly traded companies and betas."}, {"timestamp": [1287.85, 1351.05], "text": " And if you remember, when you look at a regression bring it into play. In addition to looking at the betas, I also looked at the average R-squared across these high-end retailers. The average R-squared was 25%. There's a little statistical tangent."}, {"timestamp": [1351.91, 1354.51], "text": " R-squareds measure the proportion of the variance"}, {"timestamp": [1354.51, 1356.89], "text": " in your stock that is explained by the market."}, {"timestamp": [1358.03, 1360.57], "text": " Beta is a standard deviation measure."}, {"timestamp": [1405.28, 1412.86], "text": " square root of the R squared. I won't insult you by asking you what the square root of the R squared is. It's obviously going to be the correlation coefficient, which is the R. So here, what I'm"}, {"timestamp": [1412.86, 1417.5], "text": " going to do is I'm going to take the correlation coefficient, which is 0.5, and I'm going to play"}, {"timestamp": [1417.5, 1423.56], "text": " a little algebra again. The 1.18 that I computed was a market bait. It captured the market risk in"}, {"timestamp": [1423.56, 1484.61], "text": " the company. And if I were diversified, I'd traded companies, after you came up with an unlevered beta for your company, what did you have to do to come up with a beta to use for your stock? You had to lever the beta, and to lever the beta, you needed a debt-to-equity ratio. And that"}, {"timestamp": [1484.61, 1486.49], "text": " debt-to-equity, was it a book debt or market"}, {"timestamp": [1486.49, 1487.57], "text": " debt-to-equity ratio?"}, {"timestamp": [1488.43, 1490.63], "text": " After two quizzes, I hope you get the right"}, {"timestamp": [1490.63, 1492.83], "text": " answer. It always is market"}, {"timestamp": [1492.83, 1494.65], "text": " debt-to-equity. And"}, {"timestamp": [1494.65, 1550.85], "text": " with a private company, 2.56 and a cost of equity of 14.5%. But that's assuming that private businesses borrow roughly the same as public companies in that space. What if you don't want to do that?"}, {"timestamp": [1554.81, 1556.35], "text": " Is there another way I can come up with a debt to equity ratio for a private company?"}, {"timestamp": [1559.15, 1561.37], "text": " Where I don't assume that it moves to the industrial average."}, {"timestamp": [1619.32, 1624.84], "text": " What do I not have? company a function of your own estimated value of equity. So I'm not doing it here, but if you want to do it in the spreadsheet, you can, but just make sure the iteration box is checked. Otherwise, you're going to get lines all through your spreadsheet about circular reason. So two choices with debt to equity, where you can either use the industry average, which is what I've done here, or you can go with this debt to equity that came from your own estimated value of equity."}, {"timestamp": [1625.76, 1690.17], "text": " I'm almost there. I have a cost of equity. I need a private company valuation much higher than the discount rate for an otherwise similar public company because I'm using that total beta. Second stop, I had to clean up the income statement. Cleaning up here basically meant paying for a chef who's actually going to cook $150,000. That pushes up my expenses, and I capitalized leases because that's the right thing to do."}, {"timestamp": [1739.57, 1747.19], "text": " if I buy the restaurant with a new chef. So I estimated that loss of revenue that I'm going to get if the chef leaves to be 20% of my operating income. So I'm going to take 370,000 and knock it"}, {"timestamp": [1747.19, 1752.31], "text": " down by 20%. This is the key person discount we talked about towards the end of each class."}, {"timestamp": [1752.49, 1757.13], "text": " It's lowering my operating income. So I've got a discount rate. I started with the operating"}, {"timestamp": [1757.13, 1818.04], "text": " income. I've adjusted it for the loss of a key person. So I put in a 2% growth rate, 2% divided by 20% gives me a reinvestment rate of 10%. So I've got my discount rate, I've got my income, I've got my reinvestment rate. I bring it together in my valuation."}, {"timestamp": [1818.24, 1823.72], "text": " So there's the key person adjusted operating income growing at 2% next year, one minus the"}, {"timestamp": [1823.72, 1828.66], "text": " tax rate times one minus the reinvestment rate. So that's expected free cash for the firm next year"}, {"timestamp": [1871.43, 1871.47], "text": " illiquidity. So I'm going to reinforce what I said at the start of the class today. I mean,"}, {"timestamp": [1876.43, 1881.59], "text": " the standard practice for illiquidity discounts is to knock a fixed number off. I call this the bludgeon approach. Take 20% off every private company valuation. But I think the right practice"}, {"timestamp": [1881.59, 1885.93], "text": " is to allow it to vary across companies. Some companies should have bigger discounts than"}, {"timestamp": [1885.93, 1890.13], "text": " others. Healthy companies over unhealthy companies. Money making over money losing."}, {"timestamp": [1890.83, 1954.87], "text": " Should also depend on when you're trying to do space. It's a thousand page book. It's a manual on what to do to value private companies. And one of the things, of course, he had to deal with is the liquidity discount. So he set up a firm in Oregon called Williamette, and"}, {"timestamp": [1954.87, 2018.32], "text": " they started doing research on the liquidity discount. And observe how much of a discount I get. So to estimate a liquidity discount, I need to observe what the price would be without the discount and the price with the discount with restricted stock I get to observe. And there are dozens and dozens of studies of restricted stock and they seem to find a discount of about 30 to 35%."}, {"timestamp": [2018.32, 2019.86], "text": " It's a pretty big discount."}, {"timestamp": [2020.94, 2087.53], "text": " The second set of studies look at their restricted stock studies, many of the early studies just looked at the median discount. They'd look at 15 or 20 or 50 different restricted stock"}, {"timestamp": [2087.53, 2155.69], "text": " offerings. There aren't that many each year, so it's got to be a small sample, and they compute if the restricted stock price is $8 and the stock and the actual market price before was 10, 8 divided by 10 is 0.8. So think of the left-hand side as 1 minus the discount. And he threw in three variables. One is he threw in the level of revenue. His hypothesis was bigger companies should see smaller illiquidity discounts in smaller companies. And he backed"}, {"timestamp": [2155.69, 2220.68], "text": " that up. Second, he looked at how big that restricted block was. His argument being, you're trying to put restricted shares with a customer. Maybe they're getting side deals and they're willing to pay a higher price. So he ran this regression and I, you know, basically became a paper. But a few years later, I decided to steal Bill Silver's regression and use it to kind of come up with a way of coming up with different liquidity discounts for different companies."}, {"timestamp": [2220.72, 2222.76], "text": " It's still within the restricted stock study."}, {"timestamp": [2222.88, 2224.06], "text": " So it's got its limitations."}, {"timestamp": [2224.8, 2225.66], "text": " But here's what I did."}, {"timestamp": [2272.51, 2278.49], "text": " the same discount. I'm giving smaller discounts to bigger companies and I'm giving smaller discounts to money-making companies, a way of discriminating across companies. But here's the problem with"}, {"timestamp": [2278.49, 2282.31], "text": " restricted stock studies that you cannot run away from no matter how much you finesse."}, {"timestamp": [2283.45, 2288.03], "text": " What did I say has to happen in restricted stock offering? I've got to offer a big discount, right?"}, {"timestamp": [2288.93, 2293.97], "text": " 20%, 30% on the table. What kind of healthy company is ever going to do that?"}, {"timestamp": [2338.43, 2344.83], "text": " the IRS actually hired somebody who knew enough statistics to take a look at these restricted stock studies and separate out how much of the 35% discount you were seeing came from the sampling"}, {"timestamp": [2344.83, 2349.97], "text": " bias. There's actually statistical ways of doing this. And at the end of the study concluded that"}, {"timestamp": [2349.97, 2416.7], "text": " about 20 to 25% of the 35% came from having a bad sample. Only about 10 to 15% was the liquidity I said, there is an illiquidity discount, right? It's called a bid-ask spread. You say, how big can it be? For an apple, it's tiny, 0.1%. You bid-ask spread divided by the price. But if you decided to do this with a small NASDAQ stock, lightly traded,"}, {"timestamp": [2420.26, 2420.72], "text": " you know how much, so it's a $2 stock. The bid-ask spread could be 50 cents."}, {"timestamp": [2423.18, 2423.52], "text": " In other words, if you buy the stock, it'll cost you $2."}, {"timestamp": [2427.82, 2484.75], "text": " One second later, you try to sell the stock, you might want to go there, right? I don't care that much, but if you cared, you could go and look at this. So I have 7,500 companies in my spreadsheet. I have the spread as a percentage of the stock price for every single company. I did what Bill Silber did with the small restricted stock study."}, {"timestamp": [2484.83, 2487.67], "text": " I tried to figure out why the spread was higher"}, {"timestamp": [2487.67, 2489.73], "text": " for some companies and lower for others."}, {"timestamp": [2489.91, 2491.03], "text": " And here were the variables"}, {"timestamp": [2491.03, 2492.19], "text": " that I threw into my regression."}, {"timestamp": [2492.19, 2494.97], "text": " I threw in how much the company had in revenues."}, {"timestamp": [2540.67, 2541.49], "text": " Not surprisingly, companies which have high trading volume have much smaller bid-ask spreads than companies that don't trade as much."}, {"timestamp": [2543.09, 2544.19], "text": " You say, what's this got to do with private companies? These are public companies."}, {"timestamp": [2544.19, 2549.51], "text": " We're explaining differences in bid-ask spreads across public companies."}, {"timestamp": [2550.45, 2551.49], "text": " Take a look at this regression."}, {"timestamp": [2552.79, 2556.83], "text": " Could I get these numbers for my restaurant?"}, {"timestamp": [2557.31, 2558.37], "text": " I have the revenues, right?"}, {"timestamp": [2558.39, 2559.13], "text": " 1.2 million."}, {"timestamp": [2559.25, 2560.13], "text": " I can plug it in there."}, {"timestamp": [2560.51, 2561.73], "text": " Is it a money-making restaurant?"}, {"timestamp": [2606.52, 2606.8], "text": " buyers. It's a huge sample. Of course, I like to keep redoing it. This is a 15-year-old regression,"}, {"timestamp": [2613.24, 2613.28], "text": " so it's aged. But if this was at the center of your practice, you could update this every year."}, {"timestamp": [2618.24, 2622.78], "text": " The data is there. It's easy to do. And you'd have an updated way of estimating what the illiquid discount is at any point in time, and you can vary it across companies based on the characteristics."}, {"timestamp": [2623.52, 2683.72], "text": " To show you how different these numbers've got to adjust for the lack of diversification."}, {"timestamp": [2685.56, 2687.1], "text": " You've got to come up with this illiquidity discount after you're done to reduce value."}, {"timestamp": [2688.1, 2692.58], "text": " And every dark force in valuation is working against you as you go along"}, {"timestamp": [2692.58, 2752.89], "text": " because you have so many things market price. So you can use any kind of book value-based number, anything that comes out of income statements and balance sheets. And if you wanted a higher R-squared, you could get there because spreads are pretty explainable. And the other advantage is if you do this on an updated"}, {"timestamp": [2752.89, 2757.09], "text": " basis, they would reflect the market you're in right now. If you're in a crisis, the spreads"}, {"timestamp": [2757.09, 2817.28], "text": " for all companies go up, it'll show up in the intercept. So it's a kind of a company, but you're investing other people's money, right? You're investors in your company. Are they diversified? Yes. Public to private to public. I go back to a market beta because I don't have to worry about this diversification issue. So instead of using the 2.36 beta, I'm going to go back to the 1.18 beta."}, {"timestamp": [2818.92, 2822.46], "text": " Second, on the liquidity discount issue, you're a public company."}, {"timestamp": [2823.22, 2825.92], "text": " You're buying this illiquid private company."}, {"timestamp": [2826.4, 2828.56], "text": " What happens after it becomes part of your company?"}, {"timestamp": [2871.4, 2877.2], "text": " thousand four eighty three. So notice the liquid discount is gone. I'm using a market beta. This is very much like every valuation we've done so far in this class. So if you have a private company"}, {"timestamp": [2877.2, 2881.3], "text": " being sold to a public company, you can pull up the template you had for valuing public companies"}, {"timestamp": [2881.3, 2886.74], "text": " and get away with it. So you have two values, right, for this company, for this restaurant."}, {"timestamp": [2935.55, 2935.63], "text": " I don't care what I look like."}, {"timestamp": [2936.69, 2940.31], "text": " You're a private company and your next best alternative is another private buyer."}, {"timestamp": [2940.53, 2942.95], "text": " So I'm going to start at 453,000."}, {"timestamp": [2944.15, 2946.11], "text": " And if I'm the only game in town,"}, {"timestamp": [2946.17, 2947.43], "text": " I'm the only public buyer"}, {"timestamp": [2947.43, 2949.13], "text": " and everybody else is a private buyer,"}, {"timestamp": [2949.29, 2951.19], "text": " guess who's going to end up winning this game?"}, {"timestamp": [2952.01, 2955.39], "text": " I'm going to end up getting it for close to 453,000."}, {"timestamp": [2955.75, 2958.89], "text": " But if you can get a second public buyer interested in you,"}, {"timestamp": [2959.07, 3020.9], "text": " then we might start bidding against each other companies, you roll them up into a public company. Blockbuster, now of course it's gone, built itself up as a company by buying small video rental stores around the country, bundling them up and becoming a public company. Browning Fares, which is a garbage disposal company, went around the country buying small privately owned garbage disposal companies."}, {"timestamp": [3020.9, 3085.78], "text": " You see why there's a potential for value creation? Because what do I do as a public traded company. So again, let me emphasize, it's not that publicly traded companies are diversified, it's that investors in these companies are diversified, so they don't have to worry about total beta. It's not that a liquidity doesn't matter, but a liquidity doesn't matter to them because their investors can buy and sell shares, they get the liquidity a different way. And that's"}, {"timestamp": [3085.78, 3154.21], "text": " where the increase in value is coming from. So I've looked at. One software company, your correlation is 0.2. You take a portfolio of 25 software companies and you look at the correlation with the market. Is it going to be higher than 0.2, lower than 0.2? What's going to happen when I create a portfolio of software companies? It's going to get higher because some of the risk in a software"}, {"timestamp": [3154.21, 3218.54], "text": " company is very company-specific risk. So when I know whether they still have it, but if they have it, I've kind of withdrawn from it. But they always come to professors and say, can you offer something we can sell? What am I going to offer other than I'll value a company? So I put that into the bid. And usually people bid a couple of hundred dollars or $300. They get a business value."}, {"timestamp": [3218.96, 3284.6], "text": " They walk away happy. I walk away not unhappy. So we're both fun company to value because, I mean, you had corporate governance issues, obviously, because you had multiple, it was like the third or the fourth generation family members all over the place. But it's obviously a niche product. It's got a brand"}, {"timestamp": [3284.6, 3291.56], "text": " name. So that was a case where a private company stayed private, notwithstanding the expressions."}, {"timestamp": [3291.88, 3353.33], "text": " Most private companies will buckle at some point and either become part of public companies or go So let's look at the third scenario. Private company valuation as a lead-in to an initial public offer. So now you're valuing the company, not because you want to sell to a private buyer or a public buyer, but because you want to go public. So I want to talk about the issues that come up when you value companies ahead of IPOs."}, {"timestamp": [3353.33, 3417.3], "text": " Is everybody familiar about the process of IP IPO evaluation. This evaluation I did of Twitter ahead of their IPO in 2013. Usually when companies file their prospectus of the company I'm interested in, I value the company right after the prospectus"}, {"timestamp": [3417.3, 3423.56], "text": " is filed. I did this with Alibaba. I did it with Twitter. I do it right after the prospectus is"}, {"timestamp": [3423.56, 3485.0], "text": " filed because there's no bias in the process. You say, what do you mean? What are the different choices a company has"}, {"timestamp": [3485.0, 3487.02], "text": " when it comes to cash raised on an offering?"}, {"timestamp": [3487.14, 3487.7], "text": " What can it do?"}, {"timestamp": [3491.46, 3491.9], "text": " Yep."}, {"timestamp": [3493.18, 3495.6], "text": " One is you can set it aside for future reinvestment."}, {"timestamp": [3535.17, 3535.37], "text": " Cash comes in, leaves almost instantaneous."}, {"timestamp": [3538.61, 3538.73], "text": " So second thing you could do is let existing owners cash out."}, {"timestamp": [3542.59, 3545.25], "text": " The third thing you can do is use the cash to pay down venture debt or debt you might have taken on as bridge financing to get it off the books."}, {"timestamp": [3546.13, 3550.77], "text": " You need to tell me what you plan to do with the proceeds in evaluation."}, {"timestamp": [3550.93, 3554.91], "text": " And every prospect is there will be a section on what a company plans to do with the proceeds."}, {"timestamp": [3554.91, 3559.77], "text": " So pick up a prospect as a high profile company, read through the prospectus, get to that section"}, {"timestamp": [3559.77, 3560.99], "text": " because you need that section."}, {"timestamp": [3606.42, 3611.2], "text": " them to go to venture capitalists over and over again. Twitter had had seven VC rounds before it went public. You're saying, so what? Each time you have a VC round, you raise capital from venture"}, {"timestamp": [3611.2, 3616.92], "text": " capitalists, you often create a new class of shares. Twitter had seven classes of convertible"}, {"timestamp": [3616.92, 3622.06], "text": " preferred shares, reflecting their seven rounds. Pain in the neck, right? What am I going to do"}, {"timestamp": [3622.06, 3687.06], "text": " with seven classes of shares? They'd also, because they will value your company when, in fact, they will price your company, but that's okay. We'll let them use the word value. What else do bankers do for IPOs, for young companies planning to go public? They will do a road show, which means the bankers will wear expensive suits, go around the country,"}, {"timestamp": [3687.24, 3753.25], "text": " do nice looking charts, multiple font sizes, different colors, but along the way, they might I can sell you sell your house at. You know why you should pay nothing for that guarantee? What did I forget to tell you? I forgot to tell you the price. Can I sell your price? I guarantee I can sell your house at 20% below the mark. Anybody can do that. And that's what bankers do. They offer an"}, {"timestamp": [3753.25, 3819.86], "text": " underwriting guarantee, but the guaranteed price is often valuation issues first, and then we come back to the pricing issues. As I said, there are three things you can do with the cash. One is you can keep the cash in the company as part of your cash balance and use it to cover future capex. The second is you can let owners cash out. And the third is you can use the cash to pay down debt."}, {"timestamp": [3820.98, 3885.9], "text": " If you decide to take the cash out of the company plans to use for proceeds. Second stop, in the case of Twitter, they actually in their prospectus told me that they're going to use the billion dollars in proceeds to hold this cash. And it is required"}, {"timestamp": [3885.9, 3953.87], "text": " as part of the prospectus to specify 337 million shares outstanding in the company."}, {"timestamp": [3953.93, 4019.88], "text": " Oh, by the way, we have excluded these 73 I had one. Here, I don't have a market price. I use the intrinsic value per share. I estimated the $17 to value the options. That value for the options was $805 million."}, {"timestamp": [4020.0, 4022.12], "text": " I'm going to subtract that from the value of equity."}, {"timestamp": [4022.74, 4026.4], "text": " In fact, you saw that in the big picture to get to the value of equity in the company."}, {"timestamp": [4071.88, 4077.02], "text": " discount the price you give me or add a premium to that price what's going to make your life easier if you set the price at zero think how much easier life would be you can't do that but you're going"}, {"timestamp": [4077.02, 4082.18], "text": " to try to discount it but how much it's amazing if you're going to work for an investment bank in"}, {"timestamp": [4082.18, 4087.1], "text": " the ipo section if you look at manuals it's actually written right there in the manual value"}, {"timestamp": [4087.1, 4150.41], "text": " the company or you know price the company take 15 So you have an offering price. And on the opening day of trading, you have a starting price for the stock. So the offering price is set at $30."}, {"timestamp": [4151.59, 4152.45], "text": " Market opens for trading."}, {"timestamp": [4153.59, 4153.65], "text": " Doesn't open at $30."}, {"timestamp": [4155.67, 4219.3], "text": " It opens at $34, $35, $36. start a mutual fund here's what you're going to do you're going to buy a thousand shares in every IPO that comes up in the next year just make money handover first right and mutual funds have tried this and they don't make money so tell me what the slip is between the cup and the lip that leads"}, {"timestamp": [4219.3, 4284.04], "text": " these this 15 percent that you see on paper to kind of dissipate so let's play this through in all the most underpriced companies and a thousand shares in the most overpriced companies. So when you look at the returns on your fund, you say, what happened? What happened was you didn't get an equally weighted portfolio here. You got a portfolio that's overweighted with stocks that were overpriced and underweighted."}, {"timestamp": [4284.4, 4286.4], "text": " So if you're planning to make money in IPOs,"}, {"timestamp": [4286.48, 4288.22], "text": " you can't just buy every IPO."}, {"timestamp": [4288.32, 4291.1], "text": " If you have a way of discriminating across IPOs"}, {"timestamp": [4291.1, 4292.84], "text": " to figure out which ones are underpriced"}, {"timestamp": [4292.84, 4294.2], "text": " and which ones are overpriced,"}, {"timestamp": [4334.69, 4335.99], "text": " as this company built up, right?"}, {"timestamp": [4337.35, 4338.69], "text": " You decide to go public."}, {"timestamp": [4340.89, 4342.41], "text": " And let's say your fair price is $20."}, {"timestamp": [4345.79, 4346.95], "text": " And I did put a 15% discount on that price when I set the offering price."}, {"timestamp": [4347.79, 4349.65], "text": " That's money coming out of your pockets."}, {"timestamp": [4350.21, 4352.21], "text": " And the question that people often ask is,"}, {"timestamp": [4352.45, 4355.11], "text": " why do founders go along with this?"}, {"timestamp": [4355.11, 4358.17], "text": " Why do they allow bankers to knock 15% off?"}, {"timestamp": [4358.73, 4360.53], "text": " So let's say you have a $10 billion company."}, {"timestamp": [4404.0, 4405.26], "text": " Lost leaders are those things they put in the table to suck you further and further into the store."}, {"timestamp": [4410.12, 4410.44], "text": " Socks are 20 cents. You don't need socks, but 20 cents, you might as well buy them just in case."}, {"timestamp": [4413.44, 4413.94], "text": " They're not even your size. So cheap."}, {"timestamp": [4420.96, 4421.1], "text": " So lost leader, you're basically selling stuff for below cost because you want me to get to the Ralph Lauren section,"}, {"timestamp": [4426.42, 4483.92], "text": " which is near the fifth table and the moment of weakness I could, you know, you don't need a banker to do it. They price your company."}, {"timestamp": [4484.02, 4485.42], "text": " Really, this is what they do"}, {"timestamp": [4485.42, 4487.08], "text": " when the price doubles on the first day."}, {"timestamp": [4487.1, 4488.04], "text": " That's not great pricing."}, {"timestamp": [4488.14, 4490.32], "text": " I'd probably have asked my doorman to price the stock"}, {"timestamp": [4490.32, 4491.36], "text": " and it'd be better pricing."}, {"timestamp": [4491.7, 4492.82], "text": " So that's not very good."}, {"timestamp": [4493.16, 4551.41], "text": " Or they sell your company. the banker out. What do you mean cut the banker out of the process? He said, why don't you just go directly to the market? It's called a direct listing. The direct listing, you know what you do? You specify the opening day. We're going to start trading on May 15. There's no offering price. You say, what? What are we going to do? How do markets set prices?"}, {"timestamp": [4551.59, 4553.31], "text": " Demand and supply. They open"}, {"timestamp": [4553.31, 4554.51], "text": " up. There's demand and supply."}, {"timestamp": [4554.73, 4557.27], "text": " There's no discount on the price. It's much"}, {"timestamp": [4557.27, 4558.81], "text": " fairer because nobody's getting the"}, {"timestamp": [4558.81, 4561.21], "text": " shares at a special price. It's called"}, {"timestamp": [4561.21, 4623.28], "text": " a direct listing. That's why Spotify actually had to let owners cash out because they made a direct listing. It wasn't a traditional IPO. So the direct listings have not taken off the way they could have without those constraints. And in the last three years, there's been a third way to go public, right? What are SPACs? What do you do in a SPAC? Do you want to tell me, describe"}, {"timestamp": [4623.28, 4683.6], "text": " what you do in a SPAC? So you start a SPACs you take the 20 percent off and take the remaining 80 million with that 20 percent cut it's never going to take off but the process is getting shaken up"}, {"timestamp": [4683.6, 4688.84], "text": " and I don't know how it'll evolve but I think we're going to see change in the IPO process"}, {"timestamp": [4688.84, 4695.32], "text": " the existing way of going public is not working and the new ways are not good enough yet to make"}]}
+{
+  "text": " Thank you. I don't know. You would read the slide. Okay. So where were you? I missed you the last two classes. Yeah. make sure that you rotate fairly. I think two-thirds of the class have already been out of this room. There's another one-third. They will get first tips on it. The final, I have no idea how I'm going to do. I have to toss a coin. I really have no idea. The material for the third quiz will cover everything in Packet 2, which we will finish today. We'll be done with Packet 2, which means next Monday, please make sure you download the third and last packet. It's a much slimmer packet. Last packet of the class. completely undiversified. So today we're going to go through the mechanics of what to do, but I want you to give me the intuition as to what is going to happen to your cost of equity and cost of capital when a buyer is not diversified. So when a buyer is diversified and we focus on beta, we come up with the cost of equity and the cost of capital, right? Let's say you take the same business, but now you're looking at a buyer who's completely undiversified. They're going to put all of their money in that company. Will they see more risk in the company or less risk? managing you know what binds them together right the owner is steve cohen and both so somebody was in steve cohen's office asked you know can you come to talk to the point because i've done that before and i said sure so i'm going to go talk to them about narrative and numbers because these are young analysts they've come through they've made the they've made it to in a sense to one of the peak hedge fund like places and i want so i said sure and then later i got a call saying oh Japanese yen or a euro, but what equity risk premium should I use? Same equity risk premium I'd use elsewhere. The price of risk is the price of risk, which leads me to the question of balance. How many publicly traded sports franchises are there in the US? One. Actually, just one. It's Madison Square Gardens, the closest thing you can get. Even that is not a pure franchise. It owns the Knicks, but to a concert. So I said, it's like entertainment. The average beta for entertainment companies is 1.10. But no matter which beta I use, I'm focusing only on the risk that cannot be diversified away, right? But is Steve Cohen an undiversified owner? Is the only thing Steve Cohen owns the Mets? No, he's one of, you know, he's all I think worth 15 billion, maybe 18 billion, $3 billion or $4 billion, Steinbrenner family. How much of the Steinbrenner family is tied up in the Yankees, you think? Almost all of it. It's a $7 billion franchise. They're not rich outside of this. They might have 100 million or 100 million there. The Steinbrenner family is almost completely undiversified. So you know what that means, right? If you think in purely financial terms, the Mets should have a lower cost of equity than the Yankees right now. I don't know how this will play out. But file that away for future reference valuation and why I think it's wrong. And here's what appraisers do to deal with the liquidity. So there are far more private business appraisers than publicly traded company analysts in this country. There are thousands and thousands of appraisers. And the way they value private generating company to a long-term buyer, a profitable cash flow generating company to a cash constrained buyer. So two different buyers. Or you can have an unprofitable negative cash flow company to a long-term buyer or cash constrained buyer. So let's focus on first the money making versus the money losing cash flow. Which should have the larger liquidity discount, the cash flow generating company or the negative cash flow company? The negative cash flow company, why? why because you need the cash flow much sooner right you worry about liquidity you're gonna you see already i'm setting up a nightmare scenario for you because if i'm a private company owner and i come to you and say can you estimate what my liquidity discount should be you can't answer the question until you deal with two things one is what kind of company am i am i money making or money losing do i have cash flows that depending on the company and the buyers, they're going to be different across time. So we'll at least set up the framework for thinking about illiquidity today. One final point. Given what I've said so far about potential buyers and divers publicly direct company well that's kind of a deceptive reason right what what's the first thing i started with we talked private buyer and what the private company is worth to a... That's how private equity funds make their money. They buy it at somewhere in the middle, and they either take the company public or they sell it to a public company. That's their exit. So let's go back to where we were in the notes and kind of fill in the details. I'm also the chef. This restaurant is well regarded. In the most recent year, and I show you the income statement, they made $400,000 in pre-tax operating profit on $1.2 million in revenue. So I'm going to give you three years of financials. The company has no debt outstanding, but it does have a lease commitment of $120,000 each year for the next 12 years. The restaurant sits on this all even if you there are no no I'm not pulling any shenanigans here the numbers are what they are if you buy this restaurant based on what you see on this income statement say look that seems like a lot of money what's the problem you're need to build in that cost into your income statement. So already you can see the work coming into play. To value this restaurant, you need to bring in all the pieces you will need to run the restaurant. So let's go through the process of valuing the restaurant, starting with a discount rate. What do we need for a discount rate? I need a beta and a risk. It's a risk-free rate and risk-free, I'm going to come same space. So initially, that's what I did. I went and looked up publicly traded restaurants. And I came up with the beta, but it wasn't the kind of beta that you're going to be happy with. So here, I'm going to start exactly the same way that I start with public companies. But I still have to deal with that problem of lack of diversification. But the beta that to get, look at other companies that do well when you do well and do badly when you do badly. And here I'm going with a group of companies that I think is closer to my business in terms of up and down movements than looking at just restaurants. So I got an unlevered beta. So that part of the process was pretty similar to what I do with public companies. I'm just looking at other publicly traded companies in the space coming up with the beta. We'll have to deal with the lack of diversification, but I have an to adjust your beta. So here's what I did. I went into my bottom of beta page. Remember, I got the publicly traded companies and betas. And if you remember, when you look at a regression bring it into play. In addition to looking at the betas, I also looked at the average R-squared across these high-end retailers. The average R-squared was 25%. There's a little statistical tangent. R-squareds measure the proportion of the variance in your stock that is explained by the market. Beta is a standard deviation measure. square root of the R squared. I won't insult you by asking you what the square root of the R squared is. It's obviously going to be the correlation coefficient, which is the R. So here, what I'm going to do is I'm going to take the correlation coefficient, which is 0.5, and I'm going to play a little algebra again. The 1.18 that I computed was a market bait. It captured the market risk in the company. And if I were diversified, I'd traded companies, after you came up with an unlevered beta for your company, what did you have to do to come up with a beta to use for your stock? You had to lever the beta, and to lever the beta, you needed a debt-to-equity ratio. And that debt-to-equity, was it a book debt or market debt-to-equity ratio? After two quizzes, I hope you get the right answer. It always is market debt-to-equity. And with a private company, 2.56 and a cost of equity of 14.5%. But that's assuming that private businesses borrow roughly the same as public companies in that space. What if you don't want to do that? Is there another way I can come up with a debt to equity ratio for a private company? Where I don't assume that it moves to the industrial average. What do I not have? company a function of your own estimated value of equity. So I'm not doing it here, but if you want to do it in the spreadsheet, you can, but just make sure the iteration box is checked. Otherwise, you're going to get lines all through your spreadsheet about circular reason. So two choices with debt to equity, where you can either use the industry average, which is what I've done here, or you can go with this debt to equity that came from your own estimated value of equity. I'm almost there. I have a cost of equity. I need a private company valuation much higher than the discount rate for an otherwise similar public company because I'm using that total beta. Second stop, I had to clean up the income statement. Cleaning up here basically meant paying for a chef who's actually going to cook $150,000. That pushes up my expenses, and I capitalized leases because that's the right thing to do. if I buy the restaurant with a new chef. So I estimated that loss of revenue that I'm going to get if the chef leaves to be 20% of my operating income. So I'm going to take 370,000 and knock it down by 20%. This is the key person discount we talked about towards the end of each class. It's lowering my operating income. So I've got a discount rate. I started with the operating income. I've adjusted it for the loss of a key person. So I put in a 2% growth rate, 2% divided by 20% gives me a reinvestment rate of 10%. So I've got my discount rate, I've got my income, I've got my reinvestment rate. I bring it together in my valuation. So there's the key person adjusted operating income growing at 2% next year, one minus the tax rate times one minus the reinvestment rate. So that's expected free cash for the firm next year illiquidity. So I'm going to reinforce what I said at the start of the class today. I mean, the standard practice for illiquidity discounts is to knock a fixed number off. I call this the bludgeon approach. Take 20% off every private company valuation. But I think the right practice is to allow it to vary across companies. Some companies should have bigger discounts than others. Healthy companies over unhealthy companies. Money making over money losing. Should also depend on when you're trying to do space. It's a thousand page book. It's a manual on what to do to value private companies. And one of the things, of course, he had to deal with is the liquidity discount. So he set up a firm in Oregon called Williamette, and they started doing research on the liquidity discount. And observe how much of a discount I get. So to estimate a liquidity discount, I need to observe what the price would be without the discount and the price with the discount with restricted stock I get to observe. And there are dozens and dozens of studies of restricted stock and they seem to find a discount of about 30 to 35%. It's a pretty big discount. The second set of studies look at their restricted stock studies, many of the early studies just looked at the median discount. They'd look at 15 or 20 or 50 different restricted stock offerings. There aren't that many each year, so it's got to be a small sample, and they compute if the restricted stock price is $8 and the stock and the actual market price before was 10, 8 divided by 10 is 0.8. So think of the left-hand side as 1 minus the discount. And he threw in three variables. One is he threw in the level of revenue. His hypothesis was bigger companies should see smaller illiquidity discounts in smaller companies. And he backed that up. Second, he looked at how big that restricted block was. His argument being, you're trying to put restricted shares with a customer. Maybe they're getting side deals and they're willing to pay a higher price. So he ran this regression and I, you know, basically became a paper. But a few years later, I decided to steal Bill Silver's regression and use it to kind of come up with a way of coming up with different liquidity discounts for different companies. It's still within the restricted stock study. So it's got its limitations. But here's what I did. the same discount. I'm giving smaller discounts to bigger companies and I'm giving smaller discounts to money-making companies, a way of discriminating across companies. But here's the problem with restricted stock studies that you cannot run away from no matter how much you finesse. What did I say has to happen in restricted stock offering? I've got to offer a big discount, right? 20%, 30% on the table. What kind of healthy company is ever going to do that? the IRS actually hired somebody who knew enough statistics to take a look at these restricted stock studies and separate out how much of the 35% discount you were seeing came from the sampling bias. There's actually statistical ways of doing this. And at the end of the study concluded that about 20 to 25% of the 35% came from having a bad sample. Only about 10 to 15% was the liquidity I said, there is an illiquidity discount, right? It's called a bid-ask spread. You say, how big can it be? For an apple, it's tiny, 0.1%. You bid-ask spread divided by the price. But if you decided to do this with a small NASDAQ stock, lightly traded, you know how much, so it's a $2 stock. The bid-ask spread could be 50 cents. In other words, if you buy the stock, it'll cost you $2. One second later, you try to sell the stock, you might want to go there, right? I don't care that much, but if you cared, you could go and look at this. So I have 7,500 companies in my spreadsheet. I have the spread as a percentage of the stock price for every single company. I did what Bill Silber did with the small restricted stock study. I tried to figure out why the spread was higher for some companies and lower for others. And here were the variables that I threw into my regression. I threw in how much the company had in revenues. Not surprisingly, companies which have high trading volume have much smaller bid-ask spreads than companies that don't trade as much. You say, what's this got to do with private companies? These are public companies. We're explaining differences in bid-ask spreads across public companies. Take a look at this regression. Could I get these numbers for my restaurant? I have the revenues, right? 1.2 million. I can plug it in there. Is it a money-making restaurant? buyers. It's a huge sample. Of course, I like to keep redoing it. This is a 15-year-old regression, so it's aged. But if this was at the center of your practice, you could update this every year. The data is there. It's easy to do. And you'd have an updated way of estimating what the illiquid discount is at any point in time, and you can vary it across companies based on the characteristics. To show you how different these numbers've got to adjust for the lack of diversification. You've got to come up with this illiquidity discount after you're done to reduce value. And every dark force in valuation is working against you as you go along because you have so many things market price. So you can use any kind of book value-based number, anything that comes out of income statements and balance sheets. And if you wanted a higher R-squared, you could get there because spreads are pretty explainable. And the other advantage is if you do this on an updated basis, they would reflect the market you're in right now. If you're in a crisis, the spreads for all companies go up, it'll show up in the intercept. So it's a kind of a company, but you're investing other people's money, right? You're investors in your company. Are they diversified? Yes. Public to private to public. I go back to a market beta because I don't have to worry about this diversification issue. So instead of using the 2.36 beta, I'm going to go back to the 1.18 beta. Second, on the liquidity discount issue, you're a public company. You're buying this illiquid private company. What happens after it becomes part of your company? thousand four eighty three. So notice the liquid discount is gone. I'm using a market beta. This is very much like every valuation we've done so far in this class. So if you have a private company being sold to a public company, you can pull up the template you had for valuing public companies and get away with it. So you have two values, right, for this company, for this restaurant. I don't care what I look like. You're a private company and your next best alternative is another private buyer. So I'm going to start at 453,000. And if I'm the only game in town, I'm the only public buyer and everybody else is a private buyer, guess who's going to end up winning this game? I'm going to end up getting it for close to 453,000. But if you can get a second public buyer interested in you, then we might start bidding against each other companies, you roll them up into a public company. Blockbuster, now of course it's gone, built itself up as a company by buying small video rental stores around the country, bundling them up and becoming a public company. Browning Fares, which is a garbage disposal company, went around the country buying small privately owned garbage disposal companies. You see why there's a potential for value creation? Because what do I do as a public traded company. So again, let me emphasize, it's not that publicly traded companies are diversified, it's that investors in these companies are diversified, so they don't have to worry about total beta. It's not that a liquidity doesn't matter, but a liquidity doesn't matter to them because their investors can buy and sell shares, they get the liquidity a different way. And that's where the increase in value is coming from. So I've looked at. One software company, your correlation is 0.2. You take a portfolio of 25 software companies and you look at the correlation with the market. Is it going to be higher than 0.2, lower than 0.2? What's going to happen when I create a portfolio of software companies? It's going to get higher because some of the risk in a software company is very company-specific risk. So when I know whether they still have it, but if they have it, I've kind of withdrawn from it. But they always come to professors and say, can you offer something we can sell? What am I going to offer other than I'll value a company? So I put that into the bid. And usually people bid a couple of hundred dollars or $300. They get a business value. They walk away happy. I walk away not unhappy. So we're both fun company to value because, I mean, you had corporate governance issues, obviously, because you had multiple, it was like the third or the fourth generation family members all over the place. But it's obviously a niche product. It's got a brand name. So that was a case where a private company stayed private, notwithstanding the expressions. Most private companies will buckle at some point and either become part of public companies or go So let's look at the third scenario. Private company valuation as a lead-in to an initial public offer. So now you're valuing the company, not because you want to sell to a private buyer or a public buyer, but because you want to go public. So I want to talk about the issues that come up when you value companies ahead of IPOs. Is everybody familiar about the process of IP IPO evaluation. This evaluation I did of Twitter ahead of their IPO in 2013. Usually when companies file their prospectus of the company I'm interested in, I value the company right after the prospectus is filed. I did this with Alibaba. I did it with Twitter. I do it right after the prospectus is filed because there's no bias in the process. You say, what do you mean? What are the different choices a company has when it comes to cash raised on an offering? What can it do? Yep. One is you can set it aside for future reinvestment. Cash comes in, leaves almost instantaneous. So second thing you could do is let existing owners cash out. The third thing you can do is use the cash to pay down venture debt or debt you might have taken on as bridge financing to get it off the books. You need to tell me what you plan to do with the proceeds in evaluation. And every prospect is there will be a section on what a company plans to do with the proceeds. So pick up a prospect as a high profile company, read through the prospectus, get to that section because you need that section. them to go to venture capitalists over and over again. Twitter had had seven VC rounds before it went public. You're saying, so what? Each time you have a VC round, you raise capital from venture capitalists, you often create a new class of shares. Twitter had seven classes of convertible preferred shares, reflecting their seven rounds. Pain in the neck, right? What am I going to do with seven classes of shares? They'd also, because they will value your company when, in fact, they will price your company, but that's okay. We'll let them use the word value. What else do bankers do for IPOs, for young companies planning to go public? They will do a road show, which means the bankers will wear expensive suits, go around the country, do nice looking charts, multiple font sizes, different colors, but along the way, they might I can sell you sell your house at. You know why you should pay nothing for that guarantee? What did I forget to tell you? I forgot to tell you the price. Can I sell your price? I guarantee I can sell your house at 20% below the mark. Anybody can do that. And that's what bankers do. They offer an underwriting guarantee, but the guaranteed price is often valuation issues first, and then we come back to the pricing issues. As I said, there are three things you can do with the cash. One is you can keep the cash in the company as part of your cash balance and use it to cover future capex. The second is you can let owners cash out. And the third is you can use the cash to pay down debt. If you decide to take the cash out of the company plans to use for proceeds. Second stop, in the case of Twitter, they actually in their prospectus told me that they're going to use the billion dollars in proceeds to hold this cash. And it is required as part of the prospectus to specify 337 million shares outstanding in the company. Oh, by the way, we have excluded these 73 I had one. Here, I don't have a market price. I use the intrinsic value per share. I estimated the $17 to value the options. That value for the options was $805 million. I'm going to subtract that from the value of equity. In fact, you saw that in the big picture to get to the value of equity in the company. discount the price you give me or add a premium to that price what's going to make your life easier if you set the price at zero think how much easier life would be you can't do that but you're going to try to discount it but how much it's amazing if you're going to work for an investment bank in the ipo section if you look at manuals it's actually written right there in the manual value the company or you know price the company take 15 So you have an offering price. And on the opening day of trading, you have a starting price for the stock. So the offering price is set at $30. Market opens for trading. Doesn't open at $30. It opens at $34, $35, $36. start a mutual fund here's what you're going to do you're going to buy a thousand shares in every IPO that comes up in the next year just make money handover first right and mutual funds have tried this and they don't make money so tell me what the slip is between the cup and the lip that leads these this 15 percent that you see on paper to kind of dissipate so let's play this through in all the most underpriced companies and a thousand shares in the most overpriced companies. So when you look at the returns on your fund, you say, what happened? What happened was you didn't get an equally weighted portfolio here. You got a portfolio that's overweighted with stocks that were overpriced and underweighted. So if you're planning to make money in IPOs, you can't just buy every IPO. If you have a way of discriminating across IPOs to figure out which ones are underpriced and which ones are overpriced, as this company built up, right? You decide to go public. And let's say your fair price is $20. And I did put a 15% discount on that price when I set the offering price. That's money coming out of your pockets. And the question that people often ask is, why do founders go along with this? Why do they allow bankers to knock 15% off? So let's say you have a $10 billion company. Lost leaders are those things they put in the table to suck you further and further into the store. Socks are 20 cents. You don't need socks, but 20 cents, you might as well buy them just in case. They're not even your size. So cheap. So lost leader, you're basically selling stuff for below cost because you want me to get to the Ralph Lauren section, which is near the fifth table and the moment of weakness I could, you know, you don't need a banker to do it. They price your company. Really, this is what they do when the price doubles on the first day. That's not great pricing. I'd probably have asked my doorman to price the stock and it'd be better pricing. So that's not very good. Or they sell your company. the banker out. What do you mean cut the banker out of the process? He said, why don't you just go directly to the market? It's called a direct listing. The direct listing, you know what you do? You specify the opening day. We're going to start trading on May 15. There's no offering price. You say, what? What are we going to do? How do markets set prices? Demand and supply. They open up. There's demand and supply. There's no discount on the price. It's much fairer because nobody's getting the shares at a special price. It's called a direct listing. That's why Spotify actually had to let owners cash out because they made a direct listing. It wasn't a traditional IPO. So the direct listings have not taken off the way they could have without those constraints. And in the last three years, there's been a third way to go public, right? What are SPACs? What do you do in a SPAC? Do you want to tell me, describe what you do in a SPAC? So you start a SPACs you take the 20 percent off and take the remaining 80 million with that 20 percent cut it's never going to take off but the process is getting shaken up and I don't know how it'll evolve but I think we're going to see change in the IPO process the existing way of going public is not working and the new ways are not good enough yet to make",
+  "chunks": [
+    {
+      "timestamp": [0.0, 88.67],
+      "text": " Thank you. I don't know. You would read the slide. Okay."
+    },
+    {
+      "timestamp": [91.67, 151.17],
+      "text": " So where were you? I missed you the last two classes. Yeah. make sure that you rotate fairly. I think two-thirds of the class have already been out of this room. There's another one-third. They will get first tips on it. The final, I have no idea how I'm going to do. I have to toss a coin. I really have no idea. The material for the third quiz will cover"
+    },
+    {
+      "timestamp": [151.17, 153.07],
+      "text": " everything in Packet 2, which we will"
+    },
+    {
+      "timestamp": [153.07, 155.29],
+      "text": " finish today. We'll be done with Packet 2,"
+    },
+    {
+      "timestamp": [155.41, 157.35],
+      "text": " which means next Monday, please"
+    },
+    {
+      "timestamp": [157.35, 159.27],
+      "text": " make sure you download the third and"
+    },
+    {
+      "timestamp": [159.27, 161.13],
+      "text": " last packet. It's a much slimmer packet."
+    },
+    {
+      "timestamp": [161.77, 217.12],
+      "text": " Last packet of the class. completely undiversified. So today we're going to go through the mechanics of what to do, but I want you to give me the intuition as to what is going to happen to your cost of equity and cost of capital when a buyer is not diversified. So when a buyer is diversified and we focus on beta, we come up with the cost of equity and the cost of capital, right?"
+    },
+    {
+      "timestamp": [217.7, 219.2],
+      "text": " Let's say you take the same business,"
+    },
+    {
+      "timestamp": [219.52, 223.98],
+      "text": " but now you're looking at a buyer who's completely undiversified."
+    },
+    {
+      "timestamp": [223.98, 226.64],
+      "text": " They're going to put all of their money in that company."
+    },
+    {
+      "timestamp": [227.38, 287.13],
+      "text": " Will they see more risk in the company or less risk? managing you know what binds them together right the owner is steve cohen and both so somebody was in steve cohen's office asked you know can you come to talk to the point because i've done that before and i said sure so i'm going to go talk to them about narrative and numbers because these are young analysts they've come through they've made the they've made it to in a sense to one of"
+    },
+    {
+      "timestamp": [287.13, 350.49],
+      "text": " the peak hedge fund like places and i want so i said sure and then later i got a call saying oh Japanese yen or a euro, but what equity risk premium should I use? Same equity risk premium I'd use elsewhere. The price of risk is the price of risk, which leads me to the question of balance. How many publicly traded sports franchises are there in the US?"
+    },
+    { "timestamp": [352.63, 352.91], "text": " One." },
+    {
+      "timestamp": [353.37, 355.31],
+      "text": " Actually, just one. It's Madison Square"
+    },
+    {
+      "timestamp": [355.31, 357.25],
+      "text": " Gardens, the closest thing you can get."
+    },
+    {
+      "timestamp": [357.25, 359.29],
+      "text": " Even that is not a pure franchise."
+    },
+    {
+      "timestamp": [359.55, 417.9],
+      "text": " It owns the Knicks, but to a concert. So I said, it's like entertainment. The average beta for entertainment companies is 1.10. But no matter which beta I use, I'm focusing only on the risk that cannot be diversified away, right? But is Steve Cohen an undiversified owner?"
+    },
+    {
+      "timestamp": [419.46, 421.44],
+      "text": " Is the only thing Steve Cohen owns the Mets?"
+    },
+    { "timestamp": [421.56, 422.5], "text": " No, he's one of, you know," },
+    {
+      "timestamp": [422.56, 425.68],
+      "text": " he's all I think worth 15 billion, maybe 18 billion,"
+    },
+    { "timestamp": [426.28, 427.84], "text": " $3 billion or $4 billion," },
+    {
+      "timestamp": [471.13, 472.13],
+      "text": " Steinbrenner family. How much of the Steinbrenner family is tied up in the Yankees, you think?"
+    },
+    {
+      "timestamp": [476.69, 481.49],
+      "text": " Almost all of it. It's a $7 billion franchise. They're not rich outside of this. They might have 100 million or 100 million there. The Steinbrenner family is almost completely"
+    },
+    {
+      "timestamp": [481.49, 485.95],
+      "text": " undiversified. So you know what that means, right? If you think in purely financial terms,"
+    },
+    {
+      "timestamp": [486.31, 491.13],
+      "text": " the Mets should have a lower cost of equity than the Yankees right now. I don't know how this will"
+    },
+    {
+      "timestamp": [491.13, 551.17],
+      "text": " play out. But file that away for future reference valuation and why I think it's wrong. And here's what appraisers do to deal with the liquidity."
+    },
+    {
+      "timestamp": [551.73, 557.49],
+      "text": " So there are far more private business appraisers than publicly traded company analysts in this"
+    },
+    {
+      "timestamp": [557.49, 620.66],
+      "text": " country. There are thousands and thousands of appraisers. And the way they value private generating company to a long-term buyer, a profitable cash flow generating company to a cash constrained buyer. So two different buyers. Or you can have an unprofitable negative cash flow company to a long-term buyer or cash constrained buyer. So let's focus on first the money making versus the money losing cash flow. Which should have the larger liquidity discount, the cash flow"
+    },
+    {
+      "timestamp": [620.66, 627.34],
+      "text": " generating company or the negative cash flow company? The negative cash flow company, why?"
+    },
+    {
+      "timestamp": [672.35, 676.59],
+      "text": " why because you need the cash flow much sooner right you worry about liquidity you're gonna you see already i'm setting up a nightmare scenario for you because if i'm a private"
+    },
+    {
+      "timestamp": [676.59, 682.23],
+      "text": " company owner and i come to you and say can you estimate what my liquidity discount should be you"
+    },
+    {
+      "timestamp": [682.23, 686.99],
+      "text": " can't answer the question until you deal with two things one is what kind of company am i am i money"
+    },
+    {
+      "timestamp": [686.99, 752.73],
+      "text": " making or money losing do i have cash flows that depending on the company and the buyers, they're going to be different across time. So we'll at least set up the framework for thinking about illiquidity today."
+    },
+    { "timestamp": [752.73, 754.07], "text": " One final point." },
+    {
+      "timestamp": [755.13, 822.96],
+      "text": " Given what I've said so far about potential buyers and divers publicly direct company well that's kind of a deceptive reason right what"
+    },
+    {
+      "timestamp": [822.96, 885.69],
+      "text": " what's the first thing i started with we talked private buyer and what the private company is worth to a... That's how private equity funds make their money. They buy it at somewhere in the middle, and they either take the company public or they sell it to a public company. That's their exit. So let's go"
+    },
+    {
+      "timestamp": [885.69, 950.43],
+      "text": " back to where we were in the notes and kind of fill in the details. I'm also the chef. This restaurant is well regarded. In the most recent year, and I show you the income statement, they made $400,000 in pre-tax operating profit on $1.2 million in revenue. So I'm going to give you three years of financials."
+    },
+    {
+      "timestamp": [956.95, 957.03],
+      "text": " The company has no debt outstanding, but it does have a lease commitment of $120,000 each year for the next 12 years."
+    },
+    {
+      "timestamp": [958.25, 1017.7],
+      "text": " The restaurant sits on this all even if you there are no no I'm not pulling any shenanigans"
+    },
+    {
+      "timestamp": [1017.7, 1023.16],
+      "text": " here the numbers are what they are if you buy this restaurant based on what you see on this"
+    },
+    {
+      "timestamp": [1023.16, 1087.81],
+      "text": " income statement say look that seems like a lot of money what's the problem you're need to build in that cost into your income statement. So already you can see the work coming into play. To value this restaurant, you need to bring in all the pieces you will need to run the restaurant. So let's go through the process of valuing the restaurant, starting with a discount rate. What do we need for a discount rate? I need a beta and a risk. It's a risk-free"
+    },
+    {
+      "timestamp": [1087.81, 1151.41],
+      "text": " rate and risk-free, I'm going to come same space. So initially, that's what I did. I went and looked up publicly traded restaurants. And I came up with the beta, but it wasn't the kind of beta that you're going to be happy with. So here, I'm going to start"
+    },
+    {
+      "timestamp": [1151.41, 1156.37],
+      "text": " exactly the same way that I start with public companies. But I still have to deal with that"
+    },
+    {
+      "timestamp": [1156.37, 1216.86],
+      "text": " problem of lack of diversification. But the beta that to get, look at other companies that do well when you do well and do badly when you do badly. And here I'm going with a group of companies that I think is closer to my business in terms of up and down movements than looking at just restaurants. So I got an unlevered beta."
+    },
+    {
+      "timestamp": [1219.52, 1220.84],
+      "text": " So that part of the process was pretty similar to what I do with public companies."
+    },
+    {
+      "timestamp": [1220.84, 1223.8],
+      "text": " I'm just looking at other publicly traded companies"
+    },
+    {
+      "timestamp": [1223.8, 1225.36],
+      "text": " in the space coming up with the beta."
+    },
+    {
+      "timestamp": [1225.78, 1227.94],
+      "text": " We'll have to deal with the lack of diversification,"
+    },
+    {
+      "timestamp": [1228.06, 1287.35],
+      "text": " but I have an to adjust your beta. So here's what I did. I went into my bottom of beta page. Remember, I got the publicly traded companies and betas."
+    },
+    {
+      "timestamp": [1287.85, 1351.05],
+      "text": " And if you remember, when you look at a regression bring it into play. In addition to looking at the betas, I also looked at the average R-squared across these high-end retailers. The average R-squared was 25%. There's a little statistical tangent."
+    },
+    {
+      "timestamp": [1351.91, 1354.51],
+      "text": " R-squareds measure the proportion of the variance"
+    },
+    {
+      "timestamp": [1354.51, 1356.89],
+      "text": " in your stock that is explained by the market."
+    },
+    {
+      "timestamp": [1358.03, 1360.57],
+      "text": " Beta is a standard deviation measure."
+    },
+    {
+      "timestamp": [1405.28, 1412.86],
+      "text": " square root of the R squared. I won't insult you by asking you what the square root of the R squared is. It's obviously going to be the correlation coefficient, which is the R. So here, what I'm"
+    },
+    {
+      "timestamp": [1412.86, 1417.5],
+      "text": " going to do is I'm going to take the correlation coefficient, which is 0.5, and I'm going to play"
+    },
+    {
+      "timestamp": [1417.5, 1423.56],
+      "text": " a little algebra again. The 1.18 that I computed was a market bait. It captured the market risk in"
+    },
+    {
+      "timestamp": [1423.56, 1484.61],
+      "text": " the company. And if I were diversified, I'd traded companies, after you came up with an unlevered beta for your company, what did you have to do to come up with a beta to use for your stock? You had to lever the beta, and to lever the beta, you needed a debt-to-equity ratio. And that"
+    },
+    {
+      "timestamp": [1484.61, 1486.49],
+      "text": " debt-to-equity, was it a book debt or market"
+    },
+    { "timestamp": [1486.49, 1487.57], "text": " debt-to-equity ratio?" },
+    {
+      "timestamp": [1488.43, 1490.63],
+      "text": " After two quizzes, I hope you get the right"
+    },
+    { "timestamp": [1490.63, 1492.83], "text": " answer. It always is market" },
+    { "timestamp": [1492.83, 1494.65], "text": " debt-to-equity. And" },
+    {
+      "timestamp": [1494.65, 1550.85],
+      "text": " with a private company, 2.56 and a cost of equity of 14.5%. But that's assuming that private businesses borrow roughly the same as public companies in that space. What if you don't want to do that?"
+    },
+    {
+      "timestamp": [1554.81, 1556.35],
+      "text": " Is there another way I can come up with a debt to equity ratio for a private company?"
+    },
+    {
+      "timestamp": [1559.15, 1561.37],
+      "text": " Where I don't assume that it moves to the industrial average."
+    },
+    {
+      "timestamp": [1619.32, 1624.84],
+      "text": " What do I not have? company a function of your own estimated value of equity. So I'm not doing it here, but if you want to do it in the spreadsheet, you can, but just make sure the iteration box is checked. Otherwise, you're going to get lines all through your spreadsheet about circular reason. So two choices with debt to equity, where you can either use the industry average, which is what I've done here, or you can go with this debt to equity that came from your own estimated value of equity."
+    },
+    {
+      "timestamp": [1625.76, 1690.17],
+      "text": " I'm almost there. I have a cost of equity. I need a private company valuation much higher than the discount rate for an otherwise similar public company because I'm using that total beta. Second stop, I had to clean up the income statement. Cleaning up here basically meant paying for a chef who's actually going to cook $150,000. That pushes up my expenses, and I capitalized leases because that's the right thing to do."
+    },
+    {
+      "timestamp": [1739.57, 1747.19],
+      "text": " if I buy the restaurant with a new chef. So I estimated that loss of revenue that I'm going to get if the chef leaves to be 20% of my operating income. So I'm going to take 370,000 and knock it"
+    },
+    {
+      "timestamp": [1747.19, 1752.31],
+      "text": " down by 20%. This is the key person discount we talked about towards the end of each class."
+    },
+    {
+      "timestamp": [1752.49, 1757.13],
+      "text": " It's lowering my operating income. So I've got a discount rate. I started with the operating"
+    },
+    {
+      "timestamp": [1757.13, 1818.04],
+      "text": " income. I've adjusted it for the loss of a key person. So I put in a 2% growth rate, 2% divided by 20% gives me a reinvestment rate of 10%. So I've got my discount rate, I've got my income, I've got my reinvestment rate. I bring it together in my valuation."
+    },
+    {
+      "timestamp": [1818.24, 1823.72],
+      "text": " So there's the key person adjusted operating income growing at 2% next year, one minus the"
+    },
+    {
+      "timestamp": [1823.72, 1828.66],
+      "text": " tax rate times one minus the reinvestment rate. So that's expected free cash for the firm next year"
+    },
+    {
+      "timestamp": [1871.43, 1871.47],
+      "text": " illiquidity. So I'm going to reinforce what I said at the start of the class today. I mean,"
+    },
+    {
+      "timestamp": [1876.43, 1881.59],
+      "text": " the standard practice for illiquidity discounts is to knock a fixed number off. I call this the bludgeon approach. Take 20% off every private company valuation. But I think the right practice"
+    },
+    {
+      "timestamp": [1881.59, 1885.93],
+      "text": " is to allow it to vary across companies. Some companies should have bigger discounts than"
+    },
+    {
+      "timestamp": [1885.93, 1890.13],
+      "text": " others. Healthy companies over unhealthy companies. Money making over money losing."
+    },
+    {
+      "timestamp": [1890.83, 1954.87],
+      "text": " Should also depend on when you're trying to do space. It's a thousand page book. It's a manual on what to do to value private companies. And one of the things, of course, he had to deal with is the liquidity discount. So he set up a firm in Oregon called Williamette, and"
+    },
+    {
+      "timestamp": [1954.87, 2018.32],
+      "text": " they started doing research on the liquidity discount. And observe how much of a discount I get. So to estimate a liquidity discount, I need to observe what the price would be without the discount and the price with the discount with restricted stock I get to observe. And there are dozens and dozens of studies of restricted stock and they seem to find a discount of about 30 to 35%."
+    },
+    { "timestamp": [2018.32, 2019.86], "text": " It's a pretty big discount." },
+    {
+      "timestamp": [2020.94, 2087.53],
+      "text": " The second set of studies look at their restricted stock studies, many of the early studies just looked at the median discount. They'd look at 15 or 20 or 50 different restricted stock"
+    },
+    {
+      "timestamp": [2087.53, 2155.69],
+      "text": " offerings. There aren't that many each year, so it's got to be a small sample, and they compute if the restricted stock price is $8 and the stock and the actual market price before was 10, 8 divided by 10 is 0.8. So think of the left-hand side as 1 minus the discount. And he threw in three variables. One is he threw in the level of revenue. His hypothesis was bigger companies should see smaller illiquidity discounts in smaller companies. And he backed"
+    },
+    {
+      "timestamp": [2155.69, 2220.68],
+      "text": " that up. Second, he looked at how big that restricted block was. His argument being, you're trying to put restricted shares with a customer. Maybe they're getting side deals and they're willing to pay a higher price. So he ran this regression and I, you know, basically became a paper. But a few years later, I decided to steal Bill Silver's regression and use it to kind of come up with a way of coming up with different liquidity discounts for different companies."
+    },
+    {
+      "timestamp": [2220.72, 2222.76],
+      "text": " It's still within the restricted stock study."
+    },
+    {
+      "timestamp": [2222.88, 2224.06],
+      "text": " So it's got its limitations."
+    },
+    { "timestamp": [2224.8, 2225.66], "text": " But here's what I did." },
+    {
+      "timestamp": [2272.51, 2278.49],
+      "text": " the same discount. I'm giving smaller discounts to bigger companies and I'm giving smaller discounts to money-making companies, a way of discriminating across companies. But here's the problem with"
+    },
+    {
+      "timestamp": [2278.49, 2282.31],
+      "text": " restricted stock studies that you cannot run away from no matter how much you finesse."
+    },
+    {
+      "timestamp": [2283.45, 2288.03],
+      "text": " What did I say has to happen in restricted stock offering? I've got to offer a big discount, right?"
+    },
+    {
+      "timestamp": [2288.93, 2293.97],
+      "text": " 20%, 30% on the table. What kind of healthy company is ever going to do that?"
+    },
+    {
+      "timestamp": [2338.43, 2344.83],
+      "text": " the IRS actually hired somebody who knew enough statistics to take a look at these restricted stock studies and separate out how much of the 35% discount you were seeing came from the sampling"
+    },
+    {
+      "timestamp": [2344.83, 2349.97],
+      "text": " bias. There's actually statistical ways of doing this. And at the end of the study concluded that"
+    },
+    {
+      "timestamp": [2349.97, 2416.7],
+      "text": " about 20 to 25% of the 35% came from having a bad sample. Only about 10 to 15% was the liquidity I said, there is an illiquidity discount, right? It's called a bid-ask spread. You say, how big can it be? For an apple, it's tiny, 0.1%. You bid-ask spread divided by the price. But if you decided to do this with a small NASDAQ stock, lightly traded,"
+    },
+    {
+      "timestamp": [2420.26, 2420.72],
+      "text": " you know how much, so it's a $2 stock. The bid-ask spread could be 50 cents."
+    },
+    {
+      "timestamp": [2423.18, 2423.52],
+      "text": " In other words, if you buy the stock, it'll cost you $2."
+    },
+    {
+      "timestamp": [2427.82, 2484.75],
+      "text": " One second later, you try to sell the stock, you might want to go there, right? I don't care that much, but if you cared, you could go and look at this. So I have 7,500 companies in my spreadsheet. I have the spread as a percentage of the stock price for every single company. I did what Bill Silber did with the small restricted stock study."
+    },
+    {
+      "timestamp": [2484.83, 2487.67],
+      "text": " I tried to figure out why the spread was higher"
+    },
+    {
+      "timestamp": [2487.67, 2489.73],
+      "text": " for some companies and lower for others."
+    },
+    { "timestamp": [2489.91, 2491.03], "text": " And here were the variables" },
+    {
+      "timestamp": [2491.03, 2492.19],
+      "text": " that I threw into my regression."
+    },
+    {
+      "timestamp": [2492.19, 2494.97],
+      "text": " I threw in how much the company had in revenues."
+    },
+    {
+      "timestamp": [2540.67, 2541.49],
+      "text": " Not surprisingly, companies which have high trading volume have much smaller bid-ask spreads than companies that don't trade as much."
+    },
+    {
+      "timestamp": [2543.09, 2544.19],
+      "text": " You say, what's this got to do with private companies? These are public companies."
+    },
+    {
+      "timestamp": [2544.19, 2549.51],
+      "text": " We're explaining differences in bid-ask spreads across public companies."
+    },
+    {
+      "timestamp": [2550.45, 2551.49],
+      "text": " Take a look at this regression."
+    },
+    {
+      "timestamp": [2552.79, 2556.83],
+      "text": " Could I get these numbers for my restaurant?"
+    },
+    { "timestamp": [2557.31, 2558.37], "text": " I have the revenues, right?" },
+    { "timestamp": [2558.39, 2559.13], "text": " 1.2 million." },
+    { "timestamp": [2559.25, 2560.13], "text": " I can plug it in there." },
+    {
+      "timestamp": [2560.51, 2561.73],
+      "text": " Is it a money-making restaurant?"
+    },
+    {
+      "timestamp": [2606.52, 2606.8],
+      "text": " buyers. It's a huge sample. Of course, I like to keep redoing it. This is a 15-year-old regression,"
+    },
+    {
+      "timestamp": [2613.24, 2613.28],
+      "text": " so it's aged. But if this was at the center of your practice, you could update this every year."
+    },
+    {
+      "timestamp": [2618.24, 2622.78],
+      "text": " The data is there. It's easy to do. And you'd have an updated way of estimating what the illiquid discount is at any point in time, and you can vary it across companies based on the characteristics."
+    },
+    {
+      "timestamp": [2623.52, 2683.72],
+      "text": " To show you how different these numbers've got to adjust for the lack of diversification."
+    },
+    {
+      "timestamp": [2685.56, 2687.1],
+      "text": " You've got to come up with this illiquidity discount after you're done to reduce value."
+    },
+    {
+      "timestamp": [2688.1, 2692.58],
+      "text": " And every dark force in valuation is working against you as you go along"
+    },
+    {
+      "timestamp": [2692.58, 2752.89],
+      "text": " because you have so many things market price. So you can use any kind of book value-based number, anything that comes out of income statements and balance sheets. And if you wanted a higher R-squared, you could get there because spreads are pretty explainable. And the other advantage is if you do this on an updated"
+    },
+    {
+      "timestamp": [2752.89, 2757.09],
+      "text": " basis, they would reflect the market you're in right now. If you're in a crisis, the spreads"
+    },
+    {
+      "timestamp": [2757.09, 2817.28],
+      "text": " for all companies go up, it'll show up in the intercept. So it's a kind of a company, but you're investing other people's money, right? You're investors in your company. Are they diversified? Yes. Public to private to public. I go back to a market beta because I don't have to worry about this diversification issue. So instead of using the 2.36 beta, I'm going to go back to the 1.18 beta."
+    },
+    {
+      "timestamp": [2818.92, 2822.46],
+      "text": " Second, on the liquidity discount issue, you're a public company."
+    },
+    {
+      "timestamp": [2823.22, 2825.92],
+      "text": " You're buying this illiquid private company."
+    },
+    {
+      "timestamp": [2826.4, 2828.56],
+      "text": " What happens after it becomes part of your company?"
+    },
+    {
+      "timestamp": [2871.4, 2877.2],
+      "text": " thousand four eighty three. So notice the liquid discount is gone. I'm using a market beta. This is very much like every valuation we've done so far in this class. So if you have a private company"
+    },
+    {
+      "timestamp": [2877.2, 2881.3],
+      "text": " being sold to a public company, you can pull up the template you had for valuing public companies"
+    },
+    {
+      "timestamp": [2881.3, 2886.74],
+      "text": " and get away with it. So you have two values, right, for this company, for this restaurant."
+    },
+    {
+      "timestamp": [2935.55, 2935.63],
+      "text": " I don't care what I look like."
+    },
+    {
+      "timestamp": [2936.69, 2940.31],
+      "text": " You're a private company and your next best alternative is another private buyer."
+    },
+    {
+      "timestamp": [2940.53, 2942.95],
+      "text": " So I'm going to start at 453,000."
+    },
+    {
+      "timestamp": [2944.15, 2946.11],
+      "text": " And if I'm the only game in town,"
+    },
+    { "timestamp": [2946.17, 2947.43], "text": " I'm the only public buyer" },
+    {
+      "timestamp": [2947.43, 2949.13],
+      "text": " and everybody else is a private buyer,"
+    },
+    {
+      "timestamp": [2949.29, 2951.19],
+      "text": " guess who's going to end up winning this game?"
+    },
+    {
+      "timestamp": [2952.01, 2955.39],
+      "text": " I'm going to end up getting it for close to 453,000."
+    },
+    {
+      "timestamp": [2955.75, 2958.89],
+      "text": " But if you can get a second public buyer interested in you,"
+    },
+    {
+      "timestamp": [2959.07, 3020.9],
+      "text": " then we might start bidding against each other companies, you roll them up into a public company. Blockbuster, now of course it's gone, built itself up as a company by buying small video rental stores around the country, bundling them up and becoming a public company. Browning Fares, which is a garbage disposal company, went around the country buying small privately owned garbage disposal companies."
+    },
+    {
+      "timestamp": [3020.9, 3085.78],
+      "text": " You see why there's a potential for value creation? Because what do I do as a public traded company. So again, let me emphasize, it's not that publicly traded companies are diversified, it's that investors in these companies are diversified, so they don't have to worry about total beta. It's not that a liquidity doesn't matter, but a liquidity doesn't matter to them because their investors can buy and sell shares, they get the liquidity a different way. And that's"
+    },
+    {
+      "timestamp": [3085.78, 3154.21],
+      "text": " where the increase in value is coming from. So I've looked at. One software company, your correlation is 0.2. You take a portfolio of 25 software companies and you look at the correlation with the market. Is it going to be higher than 0.2, lower than 0.2? What's going to happen when I create a portfolio of software companies? It's going to get higher because some of the risk in a software"
+    },
+    {
+      "timestamp": [3154.21, 3218.54],
+      "text": " company is very company-specific risk. So when I know whether they still have it, but if they have it, I've kind of withdrawn from it. But they always come to professors and say, can you offer something we can sell? What am I going to offer other than I'll value a company? So I put that into the bid. And usually people bid a couple of hundred dollars or $300. They get a business value."
+    },
+    {
+      "timestamp": [3218.96, 3284.6],
+      "text": " They walk away happy. I walk away not unhappy. So we're both fun company to value because, I mean, you had corporate governance issues, obviously, because you had multiple, it was like the third or the fourth generation family members all over the place. But it's obviously a niche product. It's got a brand"
+    },
+    {
+      "timestamp": [3284.6, 3291.56],
+      "text": " name. So that was a case where a private company stayed private, notwithstanding the expressions."
+    },
+    {
+      "timestamp": [3291.88, 3353.33],
+      "text": " Most private companies will buckle at some point and either become part of public companies or go So let's look at the third scenario. Private company valuation as a lead-in to an initial public offer. So now you're valuing the company, not because you want to sell to a private buyer or a public buyer, but because you want to go public. So I want to talk about the issues that come up when you value companies ahead of IPOs."
+    },
+    {
+      "timestamp": [3353.33, 3417.3],
+      "text": " Is everybody familiar about the process of IP IPO evaluation. This evaluation I did of Twitter ahead of their IPO in 2013. Usually when companies file their prospectus of the company I'm interested in, I value the company right after the prospectus"
+    },
+    {
+      "timestamp": [3417.3, 3423.56],
+      "text": " is filed. I did this with Alibaba. I did it with Twitter. I do it right after the prospectus is"
+    },
+    {
+      "timestamp": [3423.56, 3485.0],
+      "text": " filed because there's no bias in the process. You say, what do you mean? What are the different choices a company has"
+    },
+    {
+      "timestamp": [3485.0, 3487.02],
+      "text": " when it comes to cash raised on an offering?"
+    },
+    { "timestamp": [3487.14, 3487.7], "text": " What can it do?" },
+    { "timestamp": [3491.46, 3491.9], "text": " Yep." },
+    {
+      "timestamp": [3493.18, 3495.6],
+      "text": " One is you can set it aside for future reinvestment."
+    },
+    {
+      "timestamp": [3535.17, 3535.37],
+      "text": " Cash comes in, leaves almost instantaneous."
+    },
+    {
+      "timestamp": [3538.61, 3538.73],
+      "text": " So second thing you could do is let existing owners cash out."
+    },
+    {
+      "timestamp": [3542.59, 3545.25],
+      "text": " The third thing you can do is use the cash to pay down venture debt or debt you might have taken on as bridge financing to get it off the books."
+    },
+    {
+      "timestamp": [3546.13, 3550.77],
+      "text": " You need to tell me what you plan to do with the proceeds in evaluation."
+    },
+    {
+      "timestamp": [3550.93, 3554.91],
+      "text": " And every prospect is there will be a section on what a company plans to do with the proceeds."
+    },
+    {
+      "timestamp": [3554.91, 3559.77],
+      "text": " So pick up a prospect as a high profile company, read through the prospectus, get to that section"
+    },
+    {
+      "timestamp": [3559.77, 3560.99],
+      "text": " because you need that section."
+    },
+    {
+      "timestamp": [3606.42, 3611.2],
+      "text": " them to go to venture capitalists over and over again. Twitter had had seven VC rounds before it went public. You're saying, so what? Each time you have a VC round, you raise capital from venture"
+    },
+    {
+      "timestamp": [3611.2, 3616.92],
+      "text": " capitalists, you often create a new class of shares. Twitter had seven classes of convertible"
+    },
+    {
+      "timestamp": [3616.92, 3622.06],
+      "text": " preferred shares, reflecting their seven rounds. Pain in the neck, right? What am I going to do"
+    },
+    {
+      "timestamp": [3622.06, 3687.06],
+      "text": " with seven classes of shares? They'd also, because they will value your company when, in fact, they will price your company, but that's okay. We'll let them use the word value. What else do bankers do for IPOs, for young companies planning to go public? They will do a road show, which means the bankers will wear expensive suits, go around the country,"
+    },
+    {
+      "timestamp": [3687.24, 3753.25],
+      "text": " do nice looking charts, multiple font sizes, different colors, but along the way, they might I can sell you sell your house at. You know why you should pay nothing for that guarantee? What did I forget to tell you? I forgot to tell you the price. Can I sell your price? I guarantee I can sell your house at 20% below the mark. Anybody can do that. And that's what bankers do. They offer an"
+    },
+    {
+      "timestamp": [3753.25, 3819.86],
+      "text": " underwriting guarantee, but the guaranteed price is often valuation issues first, and then we come back to the pricing issues. As I said, there are three things you can do with the cash. One is you can keep the cash in the company as part of your cash balance and use it to cover future capex. The second is you can let owners cash out. And the third is you can use the cash to pay down debt."
+    },
+    {
+      "timestamp": [3820.98, 3885.9],
+      "text": " If you decide to take the cash out of the company plans to use for proceeds. Second stop, in the case of Twitter, they actually in their prospectus told me that they're going to use the billion dollars in proceeds to hold this cash. And it is required"
+    },
+    {
+      "timestamp": [3885.9, 3953.87],
+      "text": " as part of the prospectus to specify 337 million shares outstanding in the company."
+    },
+    {
+      "timestamp": [3953.93, 4019.88],
+      "text": " Oh, by the way, we have excluded these 73 I had one. Here, I don't have a market price. I use the intrinsic value per share. I estimated the $17 to value the options. That value for the options was $805 million."
+    },
+    {
+      "timestamp": [4020.0, 4022.12],
+      "text": " I'm going to subtract that from the value of equity."
+    },
+    {
+      "timestamp": [4022.74, 4026.4],
+      "text": " In fact, you saw that in the big picture to get to the value of equity in the company."
+    },
+    {
+      "timestamp": [4071.88, 4077.02],
+      "text": " discount the price you give me or add a premium to that price what's going to make your life easier if you set the price at zero think how much easier life would be you can't do that but you're going"
+    },
+    {
+      "timestamp": [4077.02, 4082.18],
+      "text": " to try to discount it but how much it's amazing if you're going to work for an investment bank in"
+    },
+    {
+      "timestamp": [4082.18, 4087.1],
+      "text": " the ipo section if you look at manuals it's actually written right there in the manual value"
+    },
+    {
+      "timestamp": [4087.1, 4150.41],
+      "text": " the company or you know price the company take 15 So you have an offering price. And on the opening day of trading, you have a starting price for the stock. So the offering price is set at $30."
+    },
+    { "timestamp": [4151.59, 4152.45], "text": " Market opens for trading." },
+    { "timestamp": [4153.59, 4153.65], "text": " Doesn't open at $30." },
+    {
+      "timestamp": [4155.67, 4219.3],
+      "text": " It opens at $34, $35, $36. start a mutual fund here's what you're going to do you're going to buy a thousand shares in every IPO that comes up in the next year just make money handover first right and mutual funds have tried this and they don't make money so tell me what the slip is between the cup and the lip that leads"
+    },
+    {
+      "timestamp": [4219.3, 4284.04],
+      "text": " these this 15 percent that you see on paper to kind of dissipate so let's play this through in all the most underpriced companies and a thousand shares in the most overpriced companies. So when you look at the returns on your fund, you say, what happened? What happened was you didn't get an equally weighted portfolio here. You got a portfolio that's overweighted with stocks that were overpriced and underweighted."
+    },
+    {
+      "timestamp": [4284.4, 4286.4],
+      "text": " So if you're planning to make money in IPOs,"
+    },
+    {
+      "timestamp": [4286.48, 4288.22],
+      "text": " you can't just buy every IPO."
+    },
+    {
+      "timestamp": [4288.32, 4291.1],
+      "text": " If you have a way of discriminating across IPOs"
+    },
+    {
+      "timestamp": [4291.1, 4292.84],
+      "text": " to figure out which ones are underpriced"
+    },
+    {
+      "timestamp": [4292.84, 4294.2],
+      "text": " and which ones are overpriced,"
+    },
+    {
+      "timestamp": [4334.69, 4335.99],
+      "text": " as this company built up, right?"
+    },
+    { "timestamp": [4337.35, 4338.69], "text": " You decide to go public." },
+    {
+      "timestamp": [4340.89, 4342.41],
+      "text": " And let's say your fair price is $20."
+    },
+    {
+      "timestamp": [4345.79, 4346.95],
+      "text": " And I did put a 15% discount on that price when I set the offering price."
+    },
+    {
+      "timestamp": [4347.79, 4349.65],
+      "text": " That's money coming out of your pockets."
+    },
+    {
+      "timestamp": [4350.21, 4352.21],
+      "text": " And the question that people often ask is,"
+    },
+    {
+      "timestamp": [4352.45, 4355.11],
+      "text": " why do founders go along with this?"
+    },
+    {
+      "timestamp": [4355.11, 4358.17],
+      "text": " Why do they allow bankers to knock 15% off?"
+    },
+    {
+      "timestamp": [4358.73, 4360.53],
+      "text": " So let's say you have a $10 billion company."
+    },
+    {
+      "timestamp": [4404.0, 4405.26],
+      "text": " Lost leaders are those things they put in the table to suck you further and further into the store."
+    },
+    {
+      "timestamp": [4410.12, 4410.44],
+      "text": " Socks are 20 cents. You don't need socks, but 20 cents, you might as well buy them just in case."
+    },
+    {
+      "timestamp": [4413.44, 4413.94],
+      "text": " They're not even your size. So cheap."
+    },
+    {
+      "timestamp": [4420.96, 4421.1],
+      "text": " So lost leader, you're basically selling stuff for below cost because you want me to get to the Ralph Lauren section,"
+    },
+    {
+      "timestamp": [4426.42, 4483.92],
+      "text": " which is near the fifth table and the moment of weakness I could, you know, you don't need a banker to do it. They price your company."
+    },
+    {
+      "timestamp": [4484.02, 4485.42],
+      "text": " Really, this is what they do"
+    },
+    {
+      "timestamp": [4485.42, 4487.08],
+      "text": " when the price doubles on the first day."
+    },
+    { "timestamp": [4487.1, 4488.04], "text": " That's not great pricing." },
+    {
+      "timestamp": [4488.14, 4490.32],
+      "text": " I'd probably have asked my doorman to price the stock"
+    },
+    { "timestamp": [4490.32, 4491.36], "text": " and it'd be better pricing." },
+    { "timestamp": [4491.7, 4492.82], "text": " So that's not very good." },
+    {
+      "timestamp": [4493.16, 4551.41],
+      "text": " Or they sell your company. the banker out. What do you mean cut the banker out of the process? He said, why don't you just go directly to the market? It's called a direct listing. The direct listing, you know what you do? You specify the opening day. We're going to start trading on May 15. There's no offering price. You say, what? What are we going to do? How do markets set prices?"
+    },
+    {
+      "timestamp": [4551.59, 4553.31],
+      "text": " Demand and supply. They open"
+    },
+    {
+      "timestamp": [4553.31, 4554.51],
+      "text": " up. There's demand and supply."
+    },
+    {
+      "timestamp": [4554.73, 4557.27],
+      "text": " There's no discount on the price. It's much"
+    },
+    {
+      "timestamp": [4557.27, 4558.81],
+      "text": " fairer because nobody's getting the"
+    },
+    {
+      "timestamp": [4558.81, 4561.21],
+      "text": " shares at a special price. It's called"
+    },
+    {
+      "timestamp": [4561.21, 4623.28],
+      "text": " a direct listing. That's why Spotify actually had to let owners cash out because they made a direct listing. It wasn't a traditional IPO. So the direct listings have not taken off the way they could have without those constraints. And in the last three years, there's been a third way to go public, right? What are SPACs? What do you do in a SPAC? Do you want to tell me, describe"
+    },
+    {
+      "timestamp": [4623.28, 4683.6],
+      "text": " what you do in a SPAC? So you start a SPACs you take the 20 percent off and take the remaining 80 million with that 20 percent cut it's never going to take off but the process is getting shaken up"
+    },
+    {
+      "timestamp": [4683.6, 4688.84],
+      "text": " and I don't know how it'll evolve but I think we're going to see change in the IPO process"
+    },
+    {
+      "timestamp": [4688.84, 4695.32],
+      "text": " the existing way of going public is not working and the new ways are not good enough yet to make"
+    }
+  ]
+}

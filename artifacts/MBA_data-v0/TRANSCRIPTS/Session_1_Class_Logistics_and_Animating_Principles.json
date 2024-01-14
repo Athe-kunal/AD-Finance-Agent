@@ -1,1 +1,952 @@
-{"text": " you you you you Okay, folks. I see some familiar faces here. about what we're going to talk about during the course of the class. And let you get a chance to actually see if you can come up with the answer, in which case you're saying, you know, what's the point of the class? And I would like that to be the end game. As much of what we're going to talk in the class, you could have figured out by yourself. Having this class might provide you a structure, but we're going to start every class with a quiz. So since we're going to do that every class, I thought we'd start this class too with a quiz. you define what comprises a science. Is it an art? Is it black magic, white magic, whatever magic you want to call it? Or is there something else, some other word you'd use to describe it? So file that away. We'll come back and address that question sometime during the course of the class. Everybody made a choice? Art, in a nice, stable economy. And the fourth choice is a young company in an unsettled market. Let's start with the two extremes. Which of these four groups of companies is going to be able to value Coca-Cola. In fact, I probably don't even need a person. I could probably automate the process. Not talking chat GPT kind of automation, just very basic Excel automation, and it can value Coca-Cola. Which of the four groups of companies is going to be most difficult to value? Yes. The fourth one. Why? for you as investors, as analysts, as anybody involved in this process to recognize what you're doing. Are you valuing something? Are you pricing it? Which brings me my third and final question. And this is something, again, where I don't expect a right or a wrong answer. I want you to look inward. Each of us has a strong side and a weak side. And I know there's a legend of a left brain and a right brain. I've been told that that's not, that the way through the book. And she said, it's a metaphor. My jaw dropped. And the rest of the class was about hidden meanings and things I didn't even know had a meaning in the first place. I remember coming out of the class with a singular conclusion. I said, never again am I going to subject myself to take 15 history classes. And then you got a numbers degree, accounting, engineering. And then you had a numbers job. And who do you hang out with? Other numbers people. Dangerous place to be when you hang out with people who think just like you. We'll talk about some of the delusions that come in when you're a numbers person more as we go on through the class. But some My guess is more storytellers and number crunches because there's always a self selection bias. The storytellers gravitate towards a strategy class because you can tell story after story after story. Nobody checks your story. You can tell fairy tales, build castles, everybody's happily ever after. But my guess is there are still people in this class. Let me first talk about me. Why? Because I like talking about me. I came to NYU in 1986. I can tell I'm getting old. The other last semester, last year when I taught this class, I got in the elevator. Student gets on, who's an MBA. And she says, my mother took your class. I'm not going to be I'm not going to be I'm not going to be named. It's a class with a long tradition to give me this class and this is need to teach this class I take one look at the class and I'm not teaching this class most boring class ever. Because by 1986 was showing Because by 1986 was showing its age. It was four weeks and stocks and three weeks and bonds and two weeks on options and futures and five weeks on institutional detail, like what there was an entire session on listing requirements for the New York Stock Exchange. And I'm not going to be named. It's a class with a long tradition to give me this class and this is need to fill a class. There were no books on valuation unless you wanted to go with security analysis by Ben Graham. Do you know when that was written? Anybody want to guess the year it was written? 1934 was the first edition. I want you to remember that. When you read security analysis, it is a product of the times. You came out of the Great Depression. What was the first and biggest, you know what would happen, right? A committee will be created. You know what happens when committees get created? You might have experienced committees. They meet and they meet and they forget what they're meeting about and they keep meeting. And then they have baby committees that they call subcommittees and sub-subcommittees. It's all very incestuous. They report to each other. And 35 years later, they come back and say, you can teach the class, but I've been doing it for 22 years. We don't see it listed anywhere in the course listings. I said, that's easy to explain. I've been hijacking all these other classes you've been giving me and teaching valuation instead. For 15 years, they made me teach a class called equity instruments and markets. I don't to say something about this class that's going to encapsulate how I think about valuation. Everything I know about valuation, I've learned in the course of teaching this class. Let me repeat that again. Everything I know about valuation, I've learned in the course of teaching this class. Not, I didn't know it when I walked in. I'll give you a few examples. One year into teaching this class, it was the fall of 1987, specific date, 22%. I want you to think about what a day like that would look like today. If the Dow dropped 22%, maybe what, 8,000 point drop? You'd all freak out, right? And people were freaking out. The reason they were on the street is they could not get their trade. Remember, these were the days of physical trading. They could not get the trades through on the floor. It's too confusing. on that day in October 19th of 1987 stood me in good stead when the dot-com bust came, when 2008 came, when 2020, the first quarter of 2020, when COVID hit. It's something I've gone back to over and over again. And each time you do it, you understand a little bit more about market crisis. You move 10 years forward. I still remember the day somebody in my class puts up their hand and said, have you ever heard of this company called amazon.com? It's an online book retailer. mention of how to value companies with lots of potential, small revenues and big losses. It had never been done before because it was not something that valuation people thought would ever cross their path. Then you get to 2008 and you've got a market crisis, a market crisis created by banks behaving badly. And I remember the question again in class. And the reason I picked Boeing, it was in the epicenter of the crisis, right? Its clients or its customers are airlines and airlines are not flying. They're not buying aircraft. And the question was, will Boeing make it? What's the risk here? And I said, look, let's do this now. And they said, why can't we wait for the crisis to pass? it's not the revenues. It's not, I mean, lots of companies have revenues higher than Facebook. It's got high margins, but Philip Morris has even higher margins. Apple has higher margins. What's the most impressive number about Facebook? 3 billion people in its ecosystem. Think about it. It's mind-boggling. If you combine Facebook, Instagram, WhatsApp, got 3 billion people. One out of every two adults on the face of the earth is on the Facebook ecosystem. You think so, right? Somebody help me out. If I wanted to value a Netflix subscriber, what is the information I would need to do that valuation? Yes. First is I need to know how long a subscriber stays on, which is a function of churn rates. Already you can see things you don't talk about in tradition. What's the churn rate? It's a percentage of people who re-up each year. You say, what about content cost? It's not at the subscriber level, right? But if you were value a Spotify subscriber, it is. You know why? What is it about Spotify that makes it different from Netflix in terms of content cost? They both license, you know, Netflix license the content. It pays a upfront fee. It's a fixed cost. Whereas Spotify, you know how you pay for content? And I used to devalue an Uber rider. Much messier than a Netflix subscriber, right? Because there, it's not the same amount for you. You have heavy Uber users and light Uber users. You got to figure out what the average Uber rider spends on those rides. But these are things, so in 2010, I wasn't thinking about the value of a user subscriber. it's amazing how people have forgotten what inflation can do to valuation and how to deal with inflation and valuation so long story short this class is basically a summation of experiences that i've kind of tried to structure and present in a way saying this is what i've learned so far in valuation there's a long way to go but welcome to the journey because at direct way of getting to me. I don't answer my phone, so we call my number and leave a message. The voicemail is so full that I don't even know how to check the voicemail anymore. It's a very elaborate system, so don't do it. My office hours are basically right before this class, so I will set up, as I said, the Zoom link to you, and the two teaching, it's in Buncee, who was just here, and Rakesh both took this class last answer, so let me reframe the question to make it simple. Is mathematics a science? You want to try? Is mathematics a science? It's the only pure science. In fact, mathematicians are convinced that the rest of us are imposters. So let me follow up. What is a science. Physics is mostly a science. Laws of gravity are the laws of gravity. Does valuation have any chance of being a science? That's a question I'm asking you. You work really hard to value a company. You do everything you can do. You collect all the data on the face of the earth that you can get on the company. You talk to every manager in the company. to talk to you about how you knew that. But the reality is you could have done everything right, but you couldn't have forecast out that COVID was going to come in a few months, which made your entire valuation kind of defunct. Valuation is zero chance of being assigned. So the sooner we accept that, so it's been a long time. He's actually 33, so he's actually aging as I talk. I took him to the going to get, you know, you can turn out all the impressionist paintings you want, but nobody's paying a hundred million dollars for your painting. The essence of an art is you cannot teach it. Thank God valuation is not an art, because if it was an art, I wasted much of my life teaching something that cannot be done. So it's not a science and not an art. What the heck time you cook, guess what happens? Fire alarms go off. Now, I still remember the first time I scrambled eggs. Nobody told me you're supposed to spray the damn pan. I scrambled the egg. Great-looking egg stuck to the pan. Pan and egg goes in the trash, but I learned a very important lesson about scrambling eggs. You learn cooking by cooking. individual company, but it's one company. But every week, I'm also going to put up what I call a valuation of the week. I'll give you a preview. Tomorrow, I'm going to put up my first valuation of the week. It's going to be my valuation of Tesla. And I'm going to emphasize the word my valuation of Tesla with a blog post explaining the valuation. And there's going to be a Google shared spreadsheet. You're saying, for what? I would encourage you to try to value Tesla. And your reaction is going to be, but this is the'm saying good the class is working so i'm going to take you on a pathway we're going to start with tesla then i'm going to go to pz cut you've never heard of pz cousins niger House. It's a PBS show, one of the oldest home shows. It predates the home network. And there used to be a market master carpenter called Norman. I don't even know his last name on it. And he would say, look, you know, I know how to do these things, but to do this, I have to talk to somebody who's done, who's, I have to learn. Same thing about valuation. You think you've got, if you think you've got the thing mastered, the market is waiting for you flow model and make estimates of those. And there we can have room for disagreement. But a value of a business always comes from cash flows, growth and risk. That's what drives value. You know what drives price? It's demand and supply. Are demand and supply driven by cash flows, growth and risk? They could be, but they could also be driven by mood and momentum and revenge. Seek revenge. usual and strange occurred. A group of people gathered together on Reddit and created the site called WallStreetBets. And they decided that they were going to buy GameStop and push the price up. And did they succeed? You know what GameStop stock price went to, right? Anybody know what its high was? It actually got to $415. They made GameStop into, I think, a $100 billion company. because they had big student loans, and they said, it's a hedge fund's fault. You need somebody to blame. And they said, this is who we're going to blame. We're going to push the price up to teach them a lesson. I'm not saying this is good, this is bad, but price is what it is. You think, but that's not rational. In fact, isn't revenge the most human? If you think about strong emotions, revenge versus rational valuation, revenge is going to win out every single time. Price is driven by cash flows, growth, and risk, but it's driven by mood and momentum. hey when you buy a house think of how you decide how much to pay you don't do a discounted cash flow valuation of the house i don't think you look at what other people paid for that's pricing do people do something similar in equity markets how do most equity research analysts decide when something is cheap or expensive they look at the p ratio for the company they compared to 15 other companies they look this company's cheap but this company's expensive they're doing pricing Most of you, if you end up in jobs that you think are valuation jobs, really are pricing jobs. Bankers, price companies, they don't value companies. Equity research analysts, price companies, they don't value companies. So we're going to talk about how to do pricing better. Because I think that it's my job to make sure that that tool set is available to you, because you can't be using a discounted cash flow model if your job is to price things. for Picassos and making judgment on what you pay for Picassos. Already you can see that somebody asks you, is Bitcoin undervalued? They lost the script. Bitcoin cannot be valued. It's a currency. If it's a currency, if it's a collectible, it still can't be valued. But either way, when you think about a currency, you can't value the US dollar. You can price it. In fact, what do we call that pricing? An exchange rate. with a pricing judgment. And finally, I told you that valuation, we've got story people in this room and numbers people in this room. And I know right now, if you're a numbers person, you might say, I feel more comfortable. This is my turf. We're going to work with numbers. And if you're a story person, you're saying, what exactly am I going to do here? And I'm going to argue that a good valuation is a bridge between stories and numbers. So what the heck are you talking about? 280 billion revenues, but also having revenue streams from other businesses, software, carbon offsets. They made 1.8 billion from carbon offsets last year. Maybe AI, maybe automated driving. But I'm telling a story about a company that's going to be incredibly successful.. But that's a story that we can then debate. You can say, I disagree with that story. Whereas if I told you I used a 25% growth rate, how do you disagree? I'll use a 30% growth rate. And that's a completely unhealthy discussion. Good valuations are bridges between stories and numbers. So when I show you a number, I always have to have a story that backs it up. And when you tell me a story about a company, I'm going to put you on the spot andir, like Tesla, you have the obligation then to try to bring all of those factors in. I told you, I started as a number cruncher. For the first few years I taught this class, I taught it a storyteller, I hope you get comfortable enough with numbers that you can tell disciplined stories. Because storytellers tend to kind of wander off, right? They make up fairy tales because there's nothing gripping you. I hope you develop enough discipline to tell disciplined stories. If you're a number cruncher, here's what I hope this class will deliver. you know why you've spent a lifetime bludgeoning your imagination to the ground because you've been told at every step that being telling a story without tying up every loose end is a sign of weakness and i want you to kind of let loose on that it you know it won't come naturally you're going to feel uncomfortable because all these loose ends are going to be out there but you've got to get comfortable with that part it undervalued, I want to be able to buy the stock. You're saying, what's the big deal? Think about it. Let's say, you know, you pick the company, you pick, you value the company, you come up with a value of 50, the stock price is at 35. This is a no-brainer, right? Just go buy the stock. But what might hold you back? First, you have to have faith in your valuation. And by then you're going to realize how many assumptions you had to make to get to the $50. difficult to develop faith because it doesn't happen overnight that's one thing i can't teach in this class i can take you through the process of how i got my faith and i can also take you through the process of when my faith has been tested i've always been uncomfortable with the omaha view of investing which is absolute right if you have faith for that faith to be tested. And sometimes it's okay to say, I don't feel faithful enough to my valuation to hold on because that's a healthy reaction as well in investing. this is about accounting from my perspective and valuation. It's about reading accounting statements and making sure that you do this right. So if you find yourself at stages of this class, finding yourself not quite sure what the difference is between total assets and invested capital, I would strongly encourage you to take the accounting class or at least pieces of it to make sure your accounting is solid. So it's completely optional again. And if you feel that it'll help spreadsheet, change the numbers you don't like. And so don't bitch and moan that you don't like my growth rate, you don't like my margin, just make it yours. Come up with the value, put it on the Google shared spreadsheet. On Wednesday, you'll have class again and email that will be sent out Wednesday. In addition to the post-class test and solution, there'll the evaluation tools of the week, I'll basically take whatever we did that week and talk about, hey, practically, if I had to estimate a risk-free rate in Indonesian rupiah, where would I get the data? How would I use the data? So basically taking to the mechanics of doing something. On Saturday, you'll get an email with a newsletter on what we did during the course of the week. You say, why would I need a newsletter? It just happened. me. And if you don't get an email from me, then you should start thinking about maybe there's something wrong with my email. I'm not getting emails in because, you know, that's unusual. Now, in terms of books, you don't need any textbooks for this class. You can use the lecture notes. I've sent you the link to the first packet. There'll be two more packets coming. But if you do want to get a book, I have five books want something cheap, there's a little book evaluation and it's really little. It kind of covers what I do in the other books in like 200 pages instead of a thousand pages. And if you're really focused in on the story to numbers part evaluation, then I have a book called Narrative and Numbers. There'll be a sixth book that will show up sometime during the semester on the corporate life cycle. It's with the printer. It's going to come from Random House. So I'll tell you the link multiple times, it's up there as well. So it'll have links to everything, the lectures, that email. How do you disprove something like that? So here's what I'm going to do instead. I'm going to put everything into the email chronicles, which means you have no reason for not being aware of what's going on in the class. So every email, and it'll build up. Right now, it's only three emails, because that's all I've said. But it'll build up over the course of the short selling story, it lost $50 billion in market cap on Friday. And I know nothing about the insides of the company, but I want to talk about holding companies. And if you're on family group holding companies, family group holding companies with light float and family group holding companies with light float and political connections, why are you ever surprised that bad things can happen to you? You know, this class, like every other finance class, has to follow a grading. I mean, the other disciplines might not. So strategy, marketing might do whatever they want, but we have a requirement that we follow. So I'm going to follow the same principles about A's and B's and C's. But here's what I'm looking for. Now, if you can value just about anything by the end of this class, then I'm looking to give you an A. If you can value most things, then a B. If you can value something which is not asking as much practice as you want because every past quiz is there will be a final exam in the week after class ends so it could be that final exam week I don't know the exact date yet because I haven you're an adult. I'm an adult. You're not lying to me about this. But if you do miss a quiz, here's what's going to happen. The 10% gets moved to the remaining quizzes and the final. It's always going to get moved forward. You know why? Because otherwise you get strategic quiz miss, which is if you do really well in the first two quizzes, you miss the third quiz because it makes your quizzes worth more. And I played this game long enough to know the gaming that goes on. So it'll always get pushed now and essentially you can use the slides and you can use a calculator you can use a calculator on your device whatever you Four people in the group, there'll be four companies being valued. Now, in my corporate finance class, the project is due on the last day of class, and I kind of let it go because people work on their own timing. In this class, we have this small problem. How many of you losing companies. You can pick any. At least one has to be money losing. At least one of your companies has to have high growth in terms of revenue. Not income growth, but revenue growth. That's to get you valuing the Palantirs of the world and even the Teslas of the world saying high revenue growth. At least one of your companies has to be a non-US company. And I'd prefer you value the company in the local currency. and say, look, you can join the group, but you've got to value the high growth, money losing, emerging market company. Because let's face it, it is more difficult to do it. So if your objective is to minimize your work, you might avoid that company. But if you really want to learn valuation, that's basically where you should go. So you're going to do an intrinsic valuation of your company. And we'll develop the tools over the course of the seven, eight, nine weeks, the first seven, eight weeks where you do this. So by the time you get to March 31st, U.S. market. So you're going to price the company against the market. So at this point, you're going to have three numbers in your company, an intrinsic valuation for your company, a pricing against the sector, and a pricing against the market. You're saying, so what? Last step in this process, oh, actually, there's a fourth number you might get for some of your companies, where I'm going to argue that some companies with contingent cash flows, a young pharmaceutical company with a drug working its way through the pipeline, an oil company with undeveloped reserves, the reserves are all very some of you are going to be chicken and pick the hold and i'm going to let you do it but i'm going to try to push you off that hold now do you see why i emphasize the point you're going to get four different numbers what if you find your company to be undervalued when you did your intrinsic valuation but overpressed or overvalued and underpressed say what do i do you get to pick pick what pick which of those numbers you feel you would like to get a value for. This is not about a number that I'm going to use, it's a number you're going to use. And that's going to be the project for the class. As I said, it's going to run through the semester. It's going to tell you why I do valuation. When I first started teaching valuation, I made the mistake of assuming that everybody else was as interested in valuation as I was. Huge mistake in hindsight, because most people I've discovered don't care that much about valuation. They don't believe in valuation. Even people who do valuation for a living, they say, but they do it all the time. They do it because it's their job. But if you ask them in an honest moment, why is Tesla trading at 172? Their answer is because that's what the market thinks it's worth. It's good mythology. It's a good story. Go with it. I want you to think about why they do it. Why do they run off the cliff? You can see why the first lemming did it, right? He was going too fast. He couldn't stop. Goes off the cliff into the ocean. Incidentally, these guys can't swim. That kind of seals the deal. Dead. Second guy too close. The first guy also dead. But I'd like you to put yourself in the shoes of the very last lemming in that group. I know lemmings don't wear shoes, but kind of hang? $1.2 trillion. It had quadrupled in price over the previous year and had gone up like 12-fold over the previous two years. It's trading about $1,200 per share. First time I valued the company, it came up at $300 per share. Then I heard this voice in the back of my head. They must know something investors in three groups. First group I call proud lemmings. I'm a lemming and I'm proud to be a lemming. They call themselves momentum investors, but that's what they do, right? What do momentum investors do? They look for a crowd, they join and you're buying, I'm buying. You're selling, I'm selling. Why are you buying? I really don't care. The second group of lemmings I call yogi bear lemmings. out myself. That's me. Learning with a life first. That's all I can aspire to be. That's what valuation gives you. It gives you a life first. It gives you something else to hold on to when everybody else changes their mind. It slows the process down for me. I do valuation not because it's going to make me rational. I cannot be rational because human beings are incapable of being rational. But it slows the process down, gives my rational side a chance to mount an argument. Nine times out of ten. You know what I'm going to do?", "chunks": [{"timestamp": [0.0, 2.06], "text": " you"}, {"timestamp": [11.06, 13.12], "text": " you"}, {"timestamp": [15.76, 17.82], "text": " you"}, {"timestamp": [19.0, 84.95], "text": " you Okay, folks."}, {"timestamp": [92.31, 94.47], "text": " I see some familiar faces here."}, {"timestamp": [135.81, 137.11], "text": " about what we're going to talk about during the course of the class."}, {"timestamp": [140.73, 140.83], "text": " And let you get a chance to actually see if you can come up with the answer,"}, {"timestamp": [142.99, 143.09], "text": " in which case you're saying, you know, what's the point of the class?"}, {"timestamp": [145.31, 145.87], "text": " And I would like that to be the end game."}, {"timestamp": [147.79, 147.87], "text": " As much of what we're going to talk in the class,"}, {"timestamp": [150.49, 151.87], "text": " you could have figured out by yourself."}, {"timestamp": [154.17, 154.49], "text": " Having this class might provide you a structure,"}, {"timestamp": [156.59, 158.13], "text": " but we're going to start every class with a quiz. So since we're going to do that every class,"}, {"timestamp": [158.19, 161.27], "text": " I thought we'd start this class too with a quiz."}, {"timestamp": [207.5, 213.32], "text": " you define what comprises a science. Is it an art? Is it black magic, white magic, whatever magic you want to call it? Or is there something else, some other word you'd use to describe it? So file that"}, {"timestamp": [213.32, 216.76], "text": " away. We'll come back and address that question sometime during the course of the class."}, {"timestamp": [217.32, 285.09], "text": " Everybody made a choice? Art, in a nice, stable economy."}, {"timestamp": [285.09, 288.65], "text": " And the fourth choice is a young company"}, {"timestamp": [288.65, 290.01], "text": " in an unsettled market."}, {"timestamp": [290.37, 292.15], "text": " Let's start with the two extremes."}, {"timestamp": [292.61, 294.33], "text": " Which of these four groups of companies"}, {"timestamp": [294.33, 351.65], "text": " is going to be able to value Coca-Cola. In fact, I probably don't even need a person. I could probably automate the process. Not talking chat GPT kind of automation, just very basic Excel automation,"}, {"timestamp": [352.35, 353.57], "text": " and it can value Coca-Cola."}, {"timestamp": [354.33, 356.11], "text": " Which of the four groups of companies"}, {"timestamp": [356.11, 357.69], "text": " is going to be most difficult to value?"}, {"timestamp": [358.69, 359.13], "text": " Yes."}, {"timestamp": [360.07, 360.67], "text": " The fourth one."}, {"timestamp": [361.59, 361.89], "text": " Why?"}, {"timestamp": [405.28, 411.0], "text": " for you as investors, as analysts, as anybody involved in this process to recognize what you're doing. Are you valuing something? Are you pricing it? Which brings me my third and final question."}, {"timestamp": [411.08, 415.14], "text": " And this is something, again, where I don't expect a right or a wrong answer. I want you to look inward."}, {"timestamp": [417.04, 422.74], "text": " Each of us has a strong side and a weak side. And I know there's a legend of a left brain and a right"}, {"timestamp": [422.74, 486.31], "text": " brain. I've been told that that's not, that the way through the book. And she said, it's a metaphor. My jaw dropped. And the rest of the class was about hidden meanings and things I didn't even know had a meaning in the first place."}, {"timestamp": [487.53, 490.17], "text": " I remember coming out of the class with a singular conclusion."}, {"timestamp": [490.17, 550.15], "text": " I said, never again am I going to subject myself to take 15 history classes. And then you got a numbers degree, accounting, engineering. And then you had a numbers job. And who do you hang out with? Other numbers people."}, {"timestamp": [551.31, 553.47], "text": " Dangerous place to be when you hang out with people who think just like you."}, {"timestamp": [553.87, 555.47], "text": " We'll talk about some of the delusions"}, {"timestamp": [555.47, 557.77], "text": " that come in when you're a numbers person"}, {"timestamp": [557.77, 559.47], "text": " more as we go on"}, {"timestamp": [559.47, 619.0], "text": " through the class. But some My guess is more storytellers and number crunches because there's always a self selection bias. The storytellers gravitate towards a strategy class because you can tell story after story after story. Nobody checks your story. You can tell fairy tales, build castles, everybody's happily ever after."}, {"timestamp": [619.0, 685.67], "text": " But my guess is there are still people in this class. Let me first talk about me. Why? Because I like talking about me. I came to NYU in 1986. I can tell I'm getting old. The other last semester, last year when I taught this class, I got in the elevator."}, {"timestamp": [685.67, 688.67], "text": " Student gets on, who's an MBA."}, {"timestamp": [688.67, 750.35], "text": " And she says, my mother took your class. I'm not going to be I'm not going to be I'm not going to be named. It's a class with a long tradition to give me this class and this is need to teach this class I take one look at the class and I'm not teaching this class most boring class ever. Because by 1986 was showing Because by 1986 was showing its age. It was four weeks and stocks and three weeks and bonds and two weeks on options and futures and five weeks on"}, {"timestamp": [750.35, 751.35], "text": " institutional detail, like what"}, {"timestamp": [751.35, 753.35], "text": " there was an entire session on"}, {"timestamp": [753.35, 755.35], "text": " listing requirements for the"}, {"timestamp": [755.35, 757.35], "text": " New York Stock Exchange."}, {"timestamp": [757.35, 759.39], "text": " And I'm not going to be named."}, {"timestamp": [759.39, 760.35], "text": " It's a class with a long tradition"}, {"timestamp": [760.35, 761.35], "text": " to give me this class and this"}, {"timestamp": [761.35, 816.92], "text": " is need to fill a class. There were no books on valuation unless you wanted to go with security analysis by Ben Graham. Do you know when that was written? Anybody want to guess the year it was written?"}, {"timestamp": [818.6, 819.68], "text": " 1934 was the first edition. I want you to remember that."}, {"timestamp": [819.76, 823.84], "text": " When you read security analysis, it is a product of the times."}, {"timestamp": [823.92, 825.38], "text": " You came out of the Great Depression."}, {"timestamp": [825.74, 883.51], "text": " What was the first and biggest, you know what would happen, right? A committee will be created. You know what happens when committees get created? You might have experienced committees. They meet and they meet and they forget"}, {"timestamp": [883.51, 885.83], "text": " what they're meeting about and they keep meeting."}, {"timestamp": [886.65, 887.89], "text": " And then they have baby committees"}, {"timestamp": [887.89, 890.07], "text": " that they call subcommittees and sub-subcommittees."}, {"timestamp": [890.29, 891.25], "text": " It's all very incestuous."}, {"timestamp": [891.35, 892.27], "text": " They report to each other."}, {"timestamp": [892.67, 894.61], "text": " And 35 years later, they come back and say,"}, {"timestamp": [894.61, 951.67], "text": " you can teach the class, but I've been doing it for 22 years. We don't see it listed anywhere in the course listings. I said, that's easy to explain. I've been hijacking all these other classes you've been giving me and teaching valuation instead. For 15 years, they made me teach a class called"}, {"timestamp": [951.67, 1017.02], "text": " equity instruments and markets. I don't to say something about this class that's going to encapsulate how I think about valuation. Everything I know about valuation, I've learned in the course of teaching this class. Let me repeat that again. Everything I know about valuation,"}, {"timestamp": [1017.16, 1019.44], "text": " I've learned in the course of teaching this class."}, {"timestamp": [1020.64, 1022.38], "text": " Not, I didn't know it when I walked in."}, {"timestamp": [1023.16, 1024.32], "text": " I'll give you a few examples."}, {"timestamp": [1025.2, 1026.76], "text": " One year into teaching this class,"}, {"timestamp": [1026.76, 1029.38], "text": " it was the fall of 1987, specific date,"}, {"timestamp": [1073.71, 1075.15], "text": " 22%. I want you to think about what a day like that would look like today. If the Dow dropped 22%,"}, {"timestamp": [1079.79, 1083.95], "text": " maybe what, 8,000 point drop? You'd all freak out, right? And people were freaking out. The reason they were on the street is they could not get their trade. Remember, these were the days of"}, {"timestamp": [1083.95, 1088.75], "text": " physical trading. They could not get the trades through on the floor. It's too confusing."}, {"timestamp": [1139.79, 1146.27], "text": " on that day in October 19th of 1987 stood me in good stead when the dot-com bust came, when 2008 came, when 2020, the first quarter of 2020, when COVID hit. It's something I've gone back to over"}, {"timestamp": [1146.27, 1151.51], "text": " and over again. And each time you do it, you understand a little bit more about market crisis."}, {"timestamp": [1152.73, 1158.55], "text": " You move 10 years forward. I still remember the day somebody in my class puts up their hand and"}, {"timestamp": [1158.55, 1219.82], "text": " said, have you ever heard of this company called amazon.com? It's an online book retailer. mention of how to value companies with lots of potential, small revenues and big losses. It had never been done before because it was not something that valuation people thought would ever cross their path. Then you get to 2008 and you've got a market crisis, a market crisis created by banks"}, {"timestamp": [1219.82, 1284.83], "text": " behaving badly. And I remember the question again in class. And the reason I picked Boeing, it was in the epicenter of the crisis, right? Its clients or its customers are airlines and airlines are not flying. They're"}, {"timestamp": [1284.83, 1289.39], "text": " not buying aircraft. And the question was, will Boeing make it? What's the risk here? And I said,"}, {"timestamp": [1289.45, 1350.67], "text": " look, let's do this now. And they said, why can't we wait for the crisis to pass? it's not the revenues. It's not, I mean, lots of companies have revenues higher than Facebook. It's got high margins, but Philip Morris has even higher margins. Apple has higher margins. What's the most impressive number about Facebook? 3 billion people in its ecosystem."}, {"timestamp": [1350.89, 1351.47], "text": " Think about it."}, {"timestamp": [1351.53, 1352.31], "text": " It's mind-boggling."}, {"timestamp": [1352.31, 1354.89], "text": " If you combine Facebook, Instagram, WhatsApp,"}, {"timestamp": [1355.33, 1356.37], "text": " got 3 billion people."}, {"timestamp": [1357.13, 1358.83], "text": " One out of every two adults"}, {"timestamp": [1358.83, 1359.63], "text": " on the face of the earth"}, {"timestamp": [1359.63, 1360.91], "text": " is on the Facebook ecosystem."}, {"timestamp": [1361.85, 1419.8], "text": " You think so, right? Somebody help me out. If I wanted to value a Netflix subscriber, what is the information I would need to do that valuation? Yes. First is I need to know how long a subscriber stays on,"}, {"timestamp": [1419.9, 1421.68], "text": " which is a function of churn rates."}, {"timestamp": [1421.78, 1424.44], "text": " Already you can see things you don't talk about in tradition."}, {"timestamp": [1424.74, 1425.5], "text": " What's the churn rate?"}, {"timestamp": [1425.56, 1428.48], "text": " It's a percentage of people who re-up each year."}, {"timestamp": [1469.33, 1469.47], "text": " You say, what about content cost?"}, {"timestamp": [1471.21, 1472.15], "text": " It's not at the subscriber level, right?"}, {"timestamp": [1475.07, 1475.21], "text": " But if you were value a Spotify subscriber, it is."}, {"timestamp": [1475.59, 1476.13], "text": " You know why?"}, {"timestamp": [1478.41, 1480.55], "text": " What is it about Spotify that makes it different from Netflix in terms of content cost?"}, {"timestamp": [1481.05, 1487.77], "text": " They both license, you know, Netflix license the content."}, {"timestamp": [1487.93, 1490.27], "text": " It pays a upfront fee."}, {"timestamp": [1490.87, 1492.07], "text": " It's a fixed cost."}, {"timestamp": [1492.19, 1552.05], "text": " Whereas Spotify, you know how you pay for content? And I used to devalue an Uber rider. Much messier than a Netflix subscriber, right? Because there, it's not the same amount for you. You have heavy Uber users and light Uber users. You got to figure out what the average Uber rider spends on those rides."}, {"timestamp": [1557.27, 1619.14], "text": " But these are things, so in 2010, I wasn't thinking about the value of a user subscriber. it's amazing how people have forgotten what inflation can do to valuation and how to deal with inflation and valuation so long story short this class is basically a summation of experiences that i've kind of tried to structure and present in a way saying this is what i've learned so far"}, {"timestamp": [1619.14, 1683.67], "text": " in valuation there's a long way to go but welcome to the journey because at direct way of getting to me. I don't answer my phone, so we call my number and leave a message. The voicemail is so full that I don't even know how to check the voicemail anymore. It's a very elaborate system, so don't do it. My office hours are basically right before this class,"}, {"timestamp": [1685.17, 1691.05], "text": " so I will set up, as I said, the Zoom link to you, and the two teaching, it's in Buncee, who was just"}, {"timestamp": [1691.05, 1751.17], "text": " here, and Rakesh both took this class last answer, so let me reframe the question to make it simple. Is mathematics a science? You want to try? Is"}, {"timestamp": [1751.17, 1756.45], "text": " mathematics a science? It's the only pure science. In fact, mathematicians are convinced that the"}, {"timestamp": [1756.45, 1817.44], "text": " rest of us are imposters. So let me follow up. What is a science. Physics is mostly a science. Laws of gravity are the laws of gravity. Does valuation have any chance of being a science? That's a question I'm asking you. You work really hard to value a company. You do everything you"}, {"timestamp": [1817.44, 1821.86], "text": " can do. You collect all the data on the face of the earth that you can get on the company."}, {"timestamp": [1822.14, 1884.91], "text": " You talk to every manager in the company. to talk to you about how you knew that. But the reality is you could have done everything right, but you couldn't have forecast out that COVID was going to come in a few months, which made your entire valuation kind of defunct. Valuation is zero chance of being assigned."}, {"timestamp": [1885.03, 1952.69], "text": " So the sooner we accept that, so it's been a long time. He's actually 33,"}, {"timestamp": [1952.69, 2018.96], "text": " so he's actually aging as I talk. I took him to the going to get, you know, you can turn out all the impressionist paintings you want, but nobody's paying a hundred million dollars for your painting. The essence of an art is you cannot teach it. Thank God valuation is not an art, because if it was an art, I wasted much of my life teaching something that cannot be done."}, {"timestamp": [2019.7, 2084.53], "text": " So it's not a science and not an art. What the heck time you cook, guess what happens? Fire alarms go off. Now, I still remember the first time I scrambled eggs. Nobody told me you're supposed to spray the damn pan. I scrambled the egg. Great-looking egg stuck to the pan."}, {"timestamp": [2085.71, 2086.69], "text": " Pan and egg goes"}, {"timestamp": [2086.69, 2088.67], "text": " in the trash, but I learned a very important lesson"}, {"timestamp": [2088.67, 2090.01], "text": " about scrambling eggs."}, {"timestamp": [2093.01, 2094.83], "text": " You learn cooking by cooking."}, {"timestamp": [2137.93, 2144.75], "text": " individual company, but it's one company. But every week, I'm also going to put up what I call a valuation of the week. I'll give you a preview. Tomorrow, I'm going to put up my first valuation"}, {"timestamp": [2144.75, 2149.17], "text": " of the week. It's going to be my valuation of Tesla. And I'm going to emphasize the word my"}, {"timestamp": [2149.17, 2154.01], "text": " valuation of Tesla with a blog post explaining the valuation. And there's going to be a Google"}, {"timestamp": [2154.01, 2158.53], "text": " shared spreadsheet. You're saying, for what? I would encourage you to try to value Tesla. And"}, {"timestamp": [2158.53, 2220.66], "text": " your reaction is going to be, but this is the'm saying good the class is working so i'm going to take you on a pathway we're going to start with"}, {"timestamp": [2220.66, 2289.89], "text": " tesla then i'm going to go to pz cut you've never heard of pz cousins niger House. It's a PBS show, one of the oldest home shows. It predates the home network. And there used to be a market master carpenter called Norman. I don't even know his last name on it. And he would say, look, you know, I know how to do these things, but to do this, I have to talk to somebody who's done, who's, I have to learn. Same thing about valuation. You"}, {"timestamp": [2289.89, 2352.37], "text": " think you've got, if you think you've got the thing mastered, the market is waiting for you flow model and make estimates of those. And there we can have room for disagreement. But a value of a business always comes from cash flows, growth and risk. That's what drives value. You know what drives price? It's demand and supply. Are demand and supply driven by cash flows, growth and risk?"}, {"timestamp": [2352.81, 2359.59], "text": " They could be, but they could also be driven by mood and momentum and revenge. Seek revenge."}, {"timestamp": [2406.34, 2414.52], "text": " usual and strange occurred. A group of people gathered together on Reddit and created the site called WallStreetBets. And they decided that they were going to buy GameStop and push the price up."}, {"timestamp": [2414.52, 2419.24], "text": " And did they succeed? You know what GameStop stock price went to, right? Anybody know what"}, {"timestamp": [2419.24, 2429.04], "text": " its high was? It actually got to $415. They made GameStop into, I think, a $100 billion company."}, {"timestamp": [2470.95, 2474.41], "text": " because they had big student loans, and they said, it's a hedge fund's fault. You need somebody to blame. And they said, this is who we're going to blame. We're going to push the price up"}, {"timestamp": [2474.41, 2480.81], "text": " to teach them a lesson. I'm not saying this is good, this is bad, but price is what it is."}, {"timestamp": [2481.25, 2486.57], "text": " You think, but that's not rational. In fact, isn't revenge the most human? If you think about"}, {"timestamp": [2486.57, 2491.39], "text": " strong emotions, revenge versus rational valuation, revenge is going to win out every single time."}, {"timestamp": [2492.95, 2550.87], "text": " Price is driven by cash flows, growth, and risk, but it's driven by mood and momentum. hey when you buy a house think of how you decide how much to pay you don't do a discounted cash flow valuation of the house i don't think you look at what other people paid for that's pricing do people do something similar in equity markets how do most equity research analysts decide when"}, {"timestamp": [2550.87, 2556.27], "text": " something is cheap or expensive they look at the p ratio for the company they compared to 15 other"}, {"timestamp": [2556.27, 2621.12], "text": " companies they look this company's cheap but this company's expensive they're doing pricing Most of you, if you end up in jobs that you think are valuation jobs, really are pricing jobs. Bankers, price companies, they don't value companies. Equity research analysts, price companies, they don't value companies. So we're going to talk about how to do pricing better. Because I think that it's my job to make sure that that tool set is available to you,"}, {"timestamp": [2621.22, 2624.66], "text": " because you can't be using a discounted cash flow model if your job is to price things."}, {"timestamp": [2670.22, 2672.4], "text": " for Picassos and making judgment on what you pay for Picassos."}, {"timestamp": [2676.46, 2676.56], "text": " Already you can see that somebody asks you, is Bitcoin undervalued?"}, {"timestamp": [2680.64, 2680.94], "text": " They lost the script. Bitcoin cannot be valued. It's a currency."}, {"timestamp": [2684.64, 2685.08], "text": " If it's a currency, if it's a collectible, it still can't be valued."}, {"timestamp": [2688.08, 2688.2], "text": " But either way, when you think about a currency,"}, {"timestamp": [2691.26, 2693.76], "text": " you can't value the US dollar. You can price it. In fact, what do we call that pricing? An exchange rate."}, {"timestamp": [2734.63, 2738.17], "text": " with a pricing judgment."}, {"timestamp": [2740.85, 2741.55], "text": " And finally, I told you that valuation,"}, {"timestamp": [2743.09, 2744.59], "text": " we've got story people in this room and numbers people in this room."}, {"timestamp": [2745.35, 2747.25], "text": " And I know right now, if you're a numbers person,"}, {"timestamp": [2747.37, 2748.87], "text": " you might say, I feel more comfortable."}, {"timestamp": [2749.03, 2749.89], "text": " This is my turf."}, {"timestamp": [2749.95, 2751.15], "text": " We're going to work with numbers."}, {"timestamp": [2752.41, 2753.87], "text": " And if you're a story person, you're saying,"}, {"timestamp": [2753.95, 2755.37], "text": " what exactly am I going to do here?"}, {"timestamp": [2755.39, 2757.47], "text": " And I'm going to argue that a good valuation"}, {"timestamp": [2757.47, 2760.79], "text": " is a bridge between stories and numbers."}, {"timestamp": [2761.09, 2762.55], "text": " So what the heck are you talking about?"}, {"timestamp": [2805.32, 2807.84], "text": " 280 billion revenues, but also having revenue streams from other businesses, software,"}, {"timestamp": [2811.44, 2813.26], "text": " carbon offsets. They made 1.8 billion from carbon offsets last year."}, {"timestamp": [2820.64, 2888.04], "text": " Maybe AI, maybe automated driving. But I'm telling a story about a company that's going to be incredibly successful.. But that's a story that we can then debate. You can say, I disagree with that story. Whereas if I told you I used a 25% growth rate, how do you disagree? I'll use a 30% growth rate. And that's a completely unhealthy discussion. Good valuations are bridges between stories and numbers. So when I show you a number,"}, {"timestamp": [2889.1, 2893.12], "text": " I always have to have a story that backs it up. And when you tell me a story about a company,"}, {"timestamp": [2893.56, 2957.39], "text": " I'm going to put you on the spot andir, like Tesla, you have the obligation then to try to bring all of those factors in. I told you, I started as a number cruncher. For"}, {"timestamp": [2957.39, 3018.36], "text": " the first few years I taught this class, I taught it a storyteller, I hope you get comfortable enough with numbers that you can tell disciplined stories. Because storytellers tend to kind of wander off, right? They make up"}, {"timestamp": [3018.36, 3024.04], "text": " fairy tales because there's nothing gripping you. I hope you develop enough discipline to tell"}, {"timestamp": [3024.04, 3028.32], "text": " disciplined stories. If you're a number cruncher, here's what I hope this class will deliver."}, {"timestamp": [3072.54, 3078.64], "text": " you know why you've spent a lifetime bludgeoning your imagination to the ground because you've been told at every step that being telling a story without tying up every loose end is a sign of"}, {"timestamp": [3078.64, 3085.8], "text": " weakness and i want you to kind of let loose on that it you know it won't come naturally"}, {"timestamp": [3085.8, 3089.88], "text": " you're going to feel uncomfortable because all these loose ends are going to be out there"}, {"timestamp": [3089.88, 3150.35], "text": " but you've got to get comfortable with that part it undervalued, I want to be able to buy the stock. You're saying, what's the big deal? Think about it. Let's say, you know, you pick the company, you pick, you value the company, you come up with a value of 50, the stock price is at 35."}, {"timestamp": [3150.57, 3151.55], "text": " This is a no-brainer, right?"}, {"timestamp": [3151.57, 3152.49], "text": " Just go buy the stock."}, {"timestamp": [3152.85, 3154.13], "text": " But what might hold you back?"}, {"timestamp": [3154.95, 3157.31], "text": " First, you have to have faith in your valuation."}, {"timestamp": [3158.41, 3159.55], "text": " And by then you're going to realize"}, {"timestamp": [3159.55, 3161.11], "text": " how many assumptions you had to make"}, {"timestamp": [3161.11, 3162.15], "text": " to get to the $50."}, {"timestamp": [3205.14, 3211.66], "text": " difficult to develop faith because it doesn't happen overnight that's one thing i can't teach in this class i can take you through the process of how i got my faith and i can also take you"}, {"timestamp": [3211.66, 3218.62], "text": " through the process of when my faith has been tested i've always been uncomfortable with the"}, {"timestamp": [3218.62, 3283.62], "text": " omaha view of investing which is absolute right if you have faith for that faith to be tested. And sometimes it's okay to say,"}, {"timestamp": [3284.04, 3287.56], "text": " I don't feel faithful enough to my valuation to hold on"}, {"timestamp": [3287.56, 3351.75], "text": " because that's a healthy reaction as well in investing. this is about accounting from my perspective and valuation. It's about reading accounting statements and making sure that you do this right. So if you find yourself at stages of this class, finding yourself not quite sure what the difference is between total assets and invested capital,"}, {"timestamp": [3351.85, 3355.09], "text": " I would strongly encourage you to take the accounting class"}, {"timestamp": [3355.09, 3356.27], "text": " or at least pieces of it"}, {"timestamp": [3356.27, 3357.97], "text": " to make sure your accounting is solid."}, {"timestamp": [3358.93, 3360.59], "text": " So it's completely optional again."}, {"timestamp": [3360.75, 3418.18], "text": " And if you feel that it'll help spreadsheet, change the numbers you don't like. And so don't bitch and moan that you don't like my growth rate, you don't like my margin, just make it yours. Come up with the value, put it on the Google shared spreadsheet."}, {"timestamp": [3419.06, 3423.7], "text": " On Wednesday, you'll have class again and email that will be sent out Wednesday. In addition to"}, {"timestamp": [3423.7, 3483.76], "text": " the post-class test and solution, there'll the evaluation tools of the week, I'll basically take whatever we did that week and talk about, hey, practically, if I had to estimate a risk-free rate in Indonesian rupiah,"}, {"timestamp": [3483.86, 3484.86], "text": " where would I get the data?"}, {"timestamp": [3485.0, 3485.98], "text": " How would I use the data?"}, {"timestamp": [3486.06, 3489.06], "text": " So basically taking to the mechanics of doing something."}, {"timestamp": [3489.52, 3491.88], "text": " On Saturday, you'll get an email with a newsletter"}, {"timestamp": [3491.88, 3493.58], "text": " on what we did during the course of the week."}, {"timestamp": [3493.64, 3494.8], "text": " You say, why would I need a newsletter?"}, {"timestamp": [3494.9, 3552.03], "text": " It just happened. me. And if you don't get an email from me, then you should start thinking about maybe there's something wrong with my email. I'm not getting emails in because, you know, that's unusual. Now, in terms of books, you don't need any textbooks for this class. You can use the lecture notes. I've sent you the link to the first packet. There'll be two more packets coming."}, {"timestamp": [3553.77, 3619.84], "text": " But if you do want to get a book, I have five books want something cheap, there's a little book evaluation and it's really little. It kind of covers what I do in the other books in like 200 pages instead of a thousand pages. And if you're really focused in on the story to numbers part evaluation, then I have a book called Narrative and Numbers. There'll be a sixth book that will show up"}, {"timestamp": [3619.84, 3624.96], "text": " sometime during the semester on the corporate life cycle. It's with the printer. It's going"}, {"timestamp": [3624.96, 3685.86], "text": " to come from Random House. So I'll tell you the link multiple times, it's up there as well."}, {"timestamp": [3685.86, 3750.91], "text": " So it'll have links to everything, the lectures, that email. How do you disprove something like that? So here's what I'm going to do instead. I'm going to put everything into the email chronicles, which means you have no reason for not being aware of what's going on in the class. So every email, and it'll build up. Right now, it's only three emails, because that's all I've"}, {"timestamp": [3750.91, 3817.0], "text": " said. But it'll build up over the course of the short selling story, it lost $50 billion in market cap on Friday. And I know nothing about the insides of the company, but I want to talk about holding companies. And if you're on family group holding companies,"}, {"timestamp": [3817.1, 3820.82], "text": " family group holding companies with light float and family group holding companies with light"}, {"timestamp": [3820.82, 3826.1], "text": " float and political connections, why are you ever surprised that bad things can happen to you?"}, {"timestamp": [3872.18, 3872.6], "text": " You know, this class, like every other finance class, has to follow a grading."}, {"timestamp": [3874.5, 3874.6], "text": " I mean, the other disciplines might not."}, {"timestamp": [3878.12, 3878.46], "text": " So strategy, marketing might do whatever they want, but we have a requirement that we follow."}, {"timestamp": [3881.94, 3882.02], "text": " So I'm going to follow the same principles about A's and B's and C's."}, {"timestamp": [3883.16, 3884.04], "text": " But here's what I'm looking for."}, {"timestamp": [3888.26, 3888.62], "text": " Now, if you can value just about anything by the end of this class, then I'm looking to give you an A."}, {"timestamp": [3892.48, 3892.76], "text": " If you can value most things, then a B."}, {"timestamp": [3896.22, 3954.91], "text": " If you can value something which is not asking as much practice as you want because every past quiz is there will be a final exam in the week after class ends so it could be that final exam week"}, {"timestamp": [3954.91, 4018.9], "text": " I don't know the exact date yet because I haven you're an adult. I'm an adult. You're not lying to me about this. But if you do miss a quiz, here's what's going to happen. The 10% gets moved to the remaining quizzes and the final. It's always going to get moved forward. You know why? Because otherwise you get strategic quiz miss, which is if you do really well in the"}, {"timestamp": [4018.9, 4023.1], "text": " first two quizzes, you miss the third quiz because it makes your quizzes worth more."}, {"timestamp": [4023.74, 4153.51], "text": " And I played this game long enough to know the gaming that goes on. So it'll always get pushed now and essentially you can use the slides and you can use a calculator you can use a calculator on your device whatever you Four people in the group, there'll be four companies being valued. Now, in my corporate finance class, the project is due on the last day of class, and I kind of let it go because people work on their own timing. In this class,"}, {"timestamp": [4153.57, 4216.9], "text": " we have this small problem. How many of you losing companies. You can pick any. At least one has to be money losing. At least one of your companies has to have high growth in terms of revenue. Not income growth, but revenue growth."}, {"timestamp": [4217.86, 4219.98], "text": " That's to get you valuing the Palantirs of the world"}, {"timestamp": [4219.98, 4221.46], "text": " and even the Teslas of the world saying"}, {"timestamp": [4221.46, 4223.88], "text": " high revenue growth. At least one of your"}, {"timestamp": [4223.88, 4225.96], "text": " companies has to be a non-US company."}, {"timestamp": [4227.1, 4227.84], "text": " And I'd prefer"}, {"timestamp": [4227.84, 4229.7], "text": " you value the company in the local currency."}, {"timestamp": [4268.16, 4268.24], "text": " and say, look, you can join the group,"}, {"timestamp": [4269.98, 4270.08], "text": " but you've got to value the high growth,"}, {"timestamp": [4272.2, 4272.6], "text": " money losing, emerging market company."}, {"timestamp": [4275.06, 4275.18], "text": " Because let's face it, it is more difficult to do it."}, {"timestamp": [4277.8, 4278.14], "text": " So if your objective is to minimize your work,"}, {"timestamp": [4279.18, 4279.24], "text": " you might avoid that company."}, {"timestamp": [4281.04, 4281.58], "text": " But if you really want to learn valuation,"}, {"timestamp": [4283.78, 4285.28], "text": " that's basically where you should go."}, {"timestamp": [4287.74, 4288.28], "text": " So you're going to do an intrinsic valuation of your company."}, {"timestamp": [4288.28, 4291.08], "text": " And we'll develop the tools over the course"}, {"timestamp": [4291.08, 4292.72], "text": " of the seven, eight, nine weeks,"}, {"timestamp": [4292.8, 4294.58], "text": " the first seven, eight weeks where you do this."}, {"timestamp": [4294.72, 4353.27], "text": " So by the time you get to March 31st, U.S. market. So you're going to price the company against the market. So at this point, you're going to have three numbers in your company, an intrinsic valuation for your company, a pricing against the sector, and a pricing against the market. You're saying, so what? Last step in this process, oh, actually, there's a fourth number you might get for some of your companies, where I'm going to argue that"}, {"timestamp": [4353.27, 4357.95], "text": " some companies with contingent cash flows, a young pharmaceutical company with a drug working its"}, {"timestamp": [4357.95, 4416.98], "text": " way through the pipeline, an oil company with undeveloped reserves, the reserves are all very some of you are going to be chicken and pick the hold and i'm going to let you do it but i'm going to try to push you off that hold now do you see why i emphasize the point you're going to get four different numbers what if you find your company to be undervalued when you did your"}, {"timestamp": [4416.98, 4423.92], "text": " intrinsic valuation but overpressed or overvalued and underpressed say what do i do you get to pick"}, {"timestamp": [4423.92, 4486.1], "text": " pick what pick which of those numbers you feel you would like to get a value for. This is not about a number that I'm going to use, it's a number you're going to use. And that's going to"}, {"timestamp": [4486.1, 4551.49], "text": " be the project for the class. As I said, it's going to run through the semester. It's going to tell you why I do valuation. When I first started teaching valuation, I made the mistake of assuming that everybody else was as interested in valuation as I was. Huge mistake in hindsight, because most people I've discovered don't care that much about valuation. They don't believe in valuation. Even people who do valuation for a living,"}, {"timestamp": [4552.05, 4553.23], "text": " they say, but they do it all the time."}, {"timestamp": [4553.45, 4555.03], "text": " They do it because it's their job."}, {"timestamp": [4555.09, 4556.67], "text": " But if you ask them in an honest moment,"}, {"timestamp": [4557.01, 4558.87], "text": " why is Tesla trading at 172?"}, {"timestamp": [4558.95, 4560.97], "text": " Their answer is because that's what the market thinks it's worth."}, {"timestamp": [4601.06, 4601.24], "text": " It's good mythology."}, {"timestamp": [4601.96, 4602.06], "text": " It's a good story."}, {"timestamp": [4602.54, 4604.44], "text": " Go with it."}, {"timestamp": [4606.98, 4607.06], "text": " I want you to think about why they do it."}, {"timestamp": [4608.06, 4608.66], "text": " Why do they run off the cliff?"}, {"timestamp": [4610.3, 4610.32], "text": " You can see why the first lemming did it, right?"}, {"timestamp": [4611.16, 4611.24], "text": " He was going too fast."}, {"timestamp": [4611.92, 4612.16], "text": " He couldn't stop."}, {"timestamp": [4613.56, 4613.78], "text": " Goes off the cliff into the ocean."}, {"timestamp": [4615.06, 4615.16], "text": " Incidentally, these guys can't swim."}, {"timestamp": [4616.08, 4616.22], "text": " That kind of seals the deal."}, {"timestamp": [4616.46, 4616.96], "text": " Dead."}, {"timestamp": [4618.04, 4618.1], "text": " Second guy too close."}, {"timestamp": [4619.42, 4620.86], "text": " The first guy also dead."}, {"timestamp": [4625.04, 4625.24], "text": " But I'd like you to put yourself in the shoes of the very last lemming in that group."}, {"timestamp": [4628.78, 4683.64], "text": " I know lemmings don't wear shoes, but kind of hang? $1.2 trillion. It had quadrupled in price over the previous year and had gone up like 12-fold over the previous two years. It's trading about $1,200 per share."}, {"timestamp": [4685.82, 4687.38], "text": " First time I valued the company,"}, {"timestamp": [4687.48, 4689.06], "text": " it came up at $300 per share."}, {"timestamp": [4691.78, 4692.98], "text": " Then I heard this voice"}, {"timestamp": [4692.98, 4693.86], "text": " in the back of my head."}, {"timestamp": [4694.3, 4750.89], "text": " They must know something investors in three groups. First group I call proud lemmings. I'm a lemming and I'm proud to be a lemming. They call themselves momentum investors, but that's what they do, right? What do momentum investors do? They look for a crowd, they join and you're buying, I'm buying. You're selling, I'm selling. Why are you buying? I really don't care."}, {"timestamp": [4752.97, 4755.79], "text": " The second group of lemmings I call yogi bear lemmings."}, {"timestamp": [4802.02, 4802.2], "text": " out myself. That's me."}, {"timestamp": [4803.9, 4805.36], "text": " Learning with a life first. That's all I can aspire to be."}, {"timestamp": [4805.84, 4807.9], "text": " That's what valuation gives you. It gives you a life"}, {"timestamp": [4807.9, 4810.02], "text": " first. It gives you something else to hold on"}, {"timestamp": [4810.02, 4811.96], "text": " to when everybody else changes their"}, {"timestamp": [4811.96, 4814.02], "text": " mind. It slows the"}, {"timestamp": [4814.02, 4816.02], "text": " process down for me. I do valuation"}, {"timestamp": [4816.02, 4818.08], "text": " not because it's going to make me rational."}, {"timestamp": [4818.28, 4820.04], "text": " I cannot be rational because human"}, {"timestamp": [4820.04, 4822.22], "text": " beings are incapable of being rational."}, {"timestamp": [4823.52, 4824.14], "text": " But it slows"}, {"timestamp": [4824.14, 4825.98], "text": " the process down, gives my rational"}, {"timestamp": [4825.98, 4828.08], "text": " side a chance to mount an argument. Nine"}, {"timestamp": [4828.08, 4829.64], "text": " times out of ten. You know what I'm going to do?"}]}
+{
+  "text": " you you you you Okay, folks. I see some familiar faces here. about what we're going to talk about during the course of the class. And let you get a chance to actually see if you can come up with the answer, in which case you're saying, you know, what's the point of the class? And I would like that to be the end game. As much of what we're going to talk in the class, you could have figured out by yourself. Having this class might provide you a structure, but we're going to start every class with a quiz. So since we're going to do that every class, I thought we'd start this class too with a quiz. you define what comprises a science. Is it an art? Is it black magic, white magic, whatever magic you want to call it? Or is there something else, some other word you'd use to describe it? So file that away. We'll come back and address that question sometime during the course of the class. Everybody made a choice? Art, in a nice, stable economy. And the fourth choice is a young company in an unsettled market. Let's start with the two extremes. Which of these four groups of companies is going to be able to value Coca-Cola. In fact, I probably don't even need a person. I could probably automate the process. Not talking chat GPT kind of automation, just very basic Excel automation, and it can value Coca-Cola. Which of the four groups of companies is going to be most difficult to value? Yes. The fourth one. Why? for you as investors, as analysts, as anybody involved in this process to recognize what you're doing. Are you valuing something? Are you pricing it? Which brings me my third and final question. And this is something, again, where I don't expect a right or a wrong answer. I want you to look inward. Each of us has a strong side and a weak side. And I know there's a legend of a left brain and a right brain. I've been told that that's not, that the way through the book. And she said, it's a metaphor. My jaw dropped. And the rest of the class was about hidden meanings and things I didn't even know had a meaning in the first place. I remember coming out of the class with a singular conclusion. I said, never again am I going to subject myself to take 15 history classes. And then you got a numbers degree, accounting, engineering. And then you had a numbers job. And who do you hang out with? Other numbers people. Dangerous place to be when you hang out with people who think just like you. We'll talk about some of the delusions that come in when you're a numbers person more as we go on through the class. But some My guess is more storytellers and number crunches because there's always a self selection bias. The storytellers gravitate towards a strategy class because you can tell story after story after story. Nobody checks your story. You can tell fairy tales, build castles, everybody's happily ever after. But my guess is there are still people in this class. Let me first talk about me. Why? Because I like talking about me. I came to NYU in 1986. I can tell I'm getting old. The other last semester, last year when I taught this class, I got in the elevator. Student gets on, who's an MBA. And she says, my mother took your class. I'm not going to be I'm not going to be I'm not going to be named. It's a class with a long tradition to give me this class and this is need to teach this class I take one look at the class and I'm not teaching this class most boring class ever. Because by 1986 was showing Because by 1986 was showing its age. It was four weeks and stocks and three weeks and bonds and two weeks on options and futures and five weeks on institutional detail, like what there was an entire session on listing requirements for the New York Stock Exchange. And I'm not going to be named. It's a class with a long tradition to give me this class and this is need to fill a class. There were no books on valuation unless you wanted to go with security analysis by Ben Graham. Do you know when that was written? Anybody want to guess the year it was written? 1934 was the first edition. I want you to remember that. When you read security analysis, it is a product of the times. You came out of the Great Depression. What was the first and biggest, you know what would happen, right? A committee will be created. You know what happens when committees get created? You might have experienced committees. They meet and they meet and they forget what they're meeting about and they keep meeting. And then they have baby committees that they call subcommittees and sub-subcommittees. It's all very incestuous. They report to each other. And 35 years later, they come back and say, you can teach the class, but I've been doing it for 22 years. We don't see it listed anywhere in the course listings. I said, that's easy to explain. I've been hijacking all these other classes you've been giving me and teaching valuation instead. For 15 years, they made me teach a class called equity instruments and markets. I don't to say something about this class that's going to encapsulate how I think about valuation. Everything I know about valuation, I've learned in the course of teaching this class. Let me repeat that again. Everything I know about valuation, I've learned in the course of teaching this class. Not, I didn't know it when I walked in. I'll give you a few examples. One year into teaching this class, it was the fall of 1987, specific date, 22%. I want you to think about what a day like that would look like today. If the Dow dropped 22%, maybe what, 8,000 point drop? You'd all freak out, right? And people were freaking out. The reason they were on the street is they could not get their trade. Remember, these were the days of physical trading. They could not get the trades through on the floor. It's too confusing. on that day in October 19th of 1987 stood me in good stead when the dot-com bust came, when 2008 came, when 2020, the first quarter of 2020, when COVID hit. It's something I've gone back to over and over again. And each time you do it, you understand a little bit more about market crisis. You move 10 years forward. I still remember the day somebody in my class puts up their hand and said, have you ever heard of this company called amazon.com? It's an online book retailer. mention of how to value companies with lots of potential, small revenues and big losses. It had never been done before because it was not something that valuation people thought would ever cross their path. Then you get to 2008 and you've got a market crisis, a market crisis created by banks behaving badly. And I remember the question again in class. And the reason I picked Boeing, it was in the epicenter of the crisis, right? Its clients or its customers are airlines and airlines are not flying. They're not buying aircraft. And the question was, will Boeing make it? What's the risk here? And I said, look, let's do this now. And they said, why can't we wait for the crisis to pass? it's not the revenues. It's not, I mean, lots of companies have revenues higher than Facebook. It's got high margins, but Philip Morris has even higher margins. Apple has higher margins. What's the most impressive number about Facebook? 3 billion people in its ecosystem. Think about it. It's mind-boggling. If you combine Facebook, Instagram, WhatsApp, got 3 billion people. One out of every two adults on the face of the earth is on the Facebook ecosystem. You think so, right? Somebody help me out. If I wanted to value a Netflix subscriber, what is the information I would need to do that valuation? Yes. First is I need to know how long a subscriber stays on, which is a function of churn rates. Already you can see things you don't talk about in tradition. What's the churn rate? It's a percentage of people who re-up each year. You say, what about content cost? It's not at the subscriber level, right? But if you were value a Spotify subscriber, it is. You know why? What is it about Spotify that makes it different from Netflix in terms of content cost? They both license, you know, Netflix license the content. It pays a upfront fee. It's a fixed cost. Whereas Spotify, you know how you pay for content? And I used to devalue an Uber rider. Much messier than a Netflix subscriber, right? Because there, it's not the same amount for you. You have heavy Uber users and light Uber users. You got to figure out what the average Uber rider spends on those rides. But these are things, so in 2010, I wasn't thinking about the value of a user subscriber. it's amazing how people have forgotten what inflation can do to valuation and how to deal with inflation and valuation so long story short this class is basically a summation of experiences that i've kind of tried to structure and present in a way saying this is what i've learned so far in valuation there's a long way to go but welcome to the journey because at direct way of getting to me. I don't answer my phone, so we call my number and leave a message. The voicemail is so full that I don't even know how to check the voicemail anymore. It's a very elaborate system, so don't do it. My office hours are basically right before this class, so I will set up, as I said, the Zoom link to you, and the two teaching, it's in Buncee, who was just here, and Rakesh both took this class last answer, so let me reframe the question to make it simple. Is mathematics a science? You want to try? Is mathematics a science? It's the only pure science. In fact, mathematicians are convinced that the rest of us are imposters. So let me follow up. What is a science. Physics is mostly a science. Laws of gravity are the laws of gravity. Does valuation have any chance of being a science? That's a question I'm asking you. You work really hard to value a company. You do everything you can do. You collect all the data on the face of the earth that you can get on the company. You talk to every manager in the company. to talk to you about how you knew that. But the reality is you could have done everything right, but you couldn't have forecast out that COVID was going to come in a few months, which made your entire valuation kind of defunct. Valuation is zero chance of being assigned. So the sooner we accept that, so it's been a long time. He's actually 33, so he's actually aging as I talk. I took him to the going to get, you know, you can turn out all the impressionist paintings you want, but nobody's paying a hundred million dollars for your painting. The essence of an art is you cannot teach it. Thank God valuation is not an art, because if it was an art, I wasted much of my life teaching something that cannot be done. So it's not a science and not an art. What the heck time you cook, guess what happens? Fire alarms go off. Now, I still remember the first time I scrambled eggs. Nobody told me you're supposed to spray the damn pan. I scrambled the egg. Great-looking egg stuck to the pan. Pan and egg goes in the trash, but I learned a very important lesson about scrambling eggs. You learn cooking by cooking. individual company, but it's one company. But every week, I'm also going to put up what I call a valuation of the week. I'll give you a preview. Tomorrow, I'm going to put up my first valuation of the week. It's going to be my valuation of Tesla. And I'm going to emphasize the word my valuation of Tesla with a blog post explaining the valuation. And there's going to be a Google shared spreadsheet. You're saying, for what? I would encourage you to try to value Tesla. And your reaction is going to be, but this is the'm saying good the class is working so i'm going to take you on a pathway we're going to start with tesla then i'm going to go to pz cut you've never heard of pz cousins niger House. It's a PBS show, one of the oldest home shows. It predates the home network. And there used to be a market master carpenter called Norman. I don't even know his last name on it. And he would say, look, you know, I know how to do these things, but to do this, I have to talk to somebody who's done, who's, I have to learn. Same thing about valuation. You think you've got, if you think you've got the thing mastered, the market is waiting for you flow model and make estimates of those. And there we can have room for disagreement. But a value of a business always comes from cash flows, growth and risk. That's what drives value. You know what drives price? It's demand and supply. Are demand and supply driven by cash flows, growth and risk? They could be, but they could also be driven by mood and momentum and revenge. Seek revenge. usual and strange occurred. A group of people gathered together on Reddit and created the site called WallStreetBets. And they decided that they were going to buy GameStop and push the price up. And did they succeed? You know what GameStop stock price went to, right? Anybody know what its high was? It actually got to $415. They made GameStop into, I think, a $100 billion company. because they had big student loans, and they said, it's a hedge fund's fault. You need somebody to blame. And they said, this is who we're going to blame. We're going to push the price up to teach them a lesson. I'm not saying this is good, this is bad, but price is what it is. You think, but that's not rational. In fact, isn't revenge the most human? If you think about strong emotions, revenge versus rational valuation, revenge is going to win out every single time. Price is driven by cash flows, growth, and risk, but it's driven by mood and momentum. hey when you buy a house think of how you decide how much to pay you don't do a discounted cash flow valuation of the house i don't think you look at what other people paid for that's pricing do people do something similar in equity markets how do most equity research analysts decide when something is cheap or expensive they look at the p ratio for the company they compared to 15 other companies they look this company's cheap but this company's expensive they're doing pricing Most of you, if you end up in jobs that you think are valuation jobs, really are pricing jobs. Bankers, price companies, they don't value companies. Equity research analysts, price companies, they don't value companies. So we're going to talk about how to do pricing better. Because I think that it's my job to make sure that that tool set is available to you, because you can't be using a discounted cash flow model if your job is to price things. for Picassos and making judgment on what you pay for Picassos. Already you can see that somebody asks you, is Bitcoin undervalued? They lost the script. Bitcoin cannot be valued. It's a currency. If it's a currency, if it's a collectible, it still can't be valued. But either way, when you think about a currency, you can't value the US dollar. You can price it. In fact, what do we call that pricing? An exchange rate. with a pricing judgment. And finally, I told you that valuation, we've got story people in this room and numbers people in this room. And I know right now, if you're a numbers person, you might say, I feel more comfortable. This is my turf. We're going to work with numbers. And if you're a story person, you're saying, what exactly am I going to do here? And I'm going to argue that a good valuation is a bridge between stories and numbers. So what the heck are you talking about? 280 billion revenues, but also having revenue streams from other businesses, software, carbon offsets. They made 1.8 billion from carbon offsets last year. Maybe AI, maybe automated driving. But I'm telling a story about a company that's going to be incredibly successful.. But that's a story that we can then debate. You can say, I disagree with that story. Whereas if I told you I used a 25% growth rate, how do you disagree? I'll use a 30% growth rate. And that's a completely unhealthy discussion. Good valuations are bridges between stories and numbers. So when I show you a number, I always have to have a story that backs it up. And when you tell me a story about a company, I'm going to put you on the spot andir, like Tesla, you have the obligation then to try to bring all of those factors in. I told you, I started as a number cruncher. For the first few years I taught this class, I taught it a storyteller, I hope you get comfortable enough with numbers that you can tell disciplined stories. Because storytellers tend to kind of wander off, right? They make up fairy tales because there's nothing gripping you. I hope you develop enough discipline to tell disciplined stories. If you're a number cruncher, here's what I hope this class will deliver. you know why you've spent a lifetime bludgeoning your imagination to the ground because you've been told at every step that being telling a story without tying up every loose end is a sign of weakness and i want you to kind of let loose on that it you know it won't come naturally you're going to feel uncomfortable because all these loose ends are going to be out there but you've got to get comfortable with that part it undervalued, I want to be able to buy the stock. You're saying, what's the big deal? Think about it. Let's say, you know, you pick the company, you pick, you value the company, you come up with a value of 50, the stock price is at 35. This is a no-brainer, right? Just go buy the stock. But what might hold you back? First, you have to have faith in your valuation. And by then you're going to realize how many assumptions you had to make to get to the $50. difficult to develop faith because it doesn't happen overnight that's one thing i can't teach in this class i can take you through the process of how i got my faith and i can also take you through the process of when my faith has been tested i've always been uncomfortable with the omaha view of investing which is absolute right if you have faith for that faith to be tested. And sometimes it's okay to say, I don't feel faithful enough to my valuation to hold on because that's a healthy reaction as well in investing. this is about accounting from my perspective and valuation. It's about reading accounting statements and making sure that you do this right. So if you find yourself at stages of this class, finding yourself not quite sure what the difference is between total assets and invested capital, I would strongly encourage you to take the accounting class or at least pieces of it to make sure your accounting is solid. So it's completely optional again. And if you feel that it'll help spreadsheet, change the numbers you don't like. And so don't bitch and moan that you don't like my growth rate, you don't like my margin, just make it yours. Come up with the value, put it on the Google shared spreadsheet. On Wednesday, you'll have class again and email that will be sent out Wednesday. In addition to the post-class test and solution, there'll the evaluation tools of the week, I'll basically take whatever we did that week and talk about, hey, practically, if I had to estimate a risk-free rate in Indonesian rupiah, where would I get the data? How would I use the data? So basically taking to the mechanics of doing something. On Saturday, you'll get an email with a newsletter on what we did during the course of the week. You say, why would I need a newsletter? It just happened. me. And if you don't get an email from me, then you should start thinking about maybe there's something wrong with my email. I'm not getting emails in because, you know, that's unusual. Now, in terms of books, you don't need any textbooks for this class. You can use the lecture notes. I've sent you the link to the first packet. There'll be two more packets coming. But if you do want to get a book, I have five books want something cheap, there's a little book evaluation and it's really little. It kind of covers what I do in the other books in like 200 pages instead of a thousand pages. And if you're really focused in on the story to numbers part evaluation, then I have a book called Narrative and Numbers. There'll be a sixth book that will show up sometime during the semester on the corporate life cycle. It's with the printer. It's going to come from Random House. So I'll tell you the link multiple times, it's up there as well. So it'll have links to everything, the lectures, that email. How do you disprove something like that? So here's what I'm going to do instead. I'm going to put everything into the email chronicles, which means you have no reason for not being aware of what's going on in the class. So every email, and it'll build up. Right now, it's only three emails, because that's all I've said. But it'll build up over the course of the short selling story, it lost $50 billion in market cap on Friday. And I know nothing about the insides of the company, but I want to talk about holding companies. And if you're on family group holding companies, family group holding companies with light float and family group holding companies with light float and political connections, why are you ever surprised that bad things can happen to you? You know, this class, like every other finance class, has to follow a grading. I mean, the other disciplines might not. So strategy, marketing might do whatever they want, but we have a requirement that we follow. So I'm going to follow the same principles about A's and B's and C's. But here's what I'm looking for. Now, if you can value just about anything by the end of this class, then I'm looking to give you an A. If you can value most things, then a B. If you can value something which is not asking as much practice as you want because every past quiz is there will be a final exam in the week after class ends so it could be that final exam week I don't know the exact date yet because I haven you're an adult. I'm an adult. You're not lying to me about this. But if you do miss a quiz, here's what's going to happen. The 10% gets moved to the remaining quizzes and the final. It's always going to get moved forward. You know why? Because otherwise you get strategic quiz miss, which is if you do really well in the first two quizzes, you miss the third quiz because it makes your quizzes worth more. And I played this game long enough to know the gaming that goes on. So it'll always get pushed now and essentially you can use the slides and you can use a calculator you can use a calculator on your device whatever you Four people in the group, there'll be four companies being valued. Now, in my corporate finance class, the project is due on the last day of class, and I kind of let it go because people work on their own timing. In this class, we have this small problem. How many of you losing companies. You can pick any. At least one has to be money losing. At least one of your companies has to have high growth in terms of revenue. Not income growth, but revenue growth. That's to get you valuing the Palantirs of the world and even the Teslas of the world saying high revenue growth. At least one of your companies has to be a non-US company. And I'd prefer you value the company in the local currency. and say, look, you can join the group, but you've got to value the high growth, money losing, emerging market company. Because let's face it, it is more difficult to do it. So if your objective is to minimize your work, you might avoid that company. But if you really want to learn valuation, that's basically where you should go. So you're going to do an intrinsic valuation of your company. And we'll develop the tools over the course of the seven, eight, nine weeks, the first seven, eight weeks where you do this. So by the time you get to March 31st, U.S. market. So you're going to price the company against the market. So at this point, you're going to have three numbers in your company, an intrinsic valuation for your company, a pricing against the sector, and a pricing against the market. You're saying, so what? Last step in this process, oh, actually, there's a fourth number you might get for some of your companies, where I'm going to argue that some companies with contingent cash flows, a young pharmaceutical company with a drug working its way through the pipeline, an oil company with undeveloped reserves, the reserves are all very some of you are going to be chicken and pick the hold and i'm going to let you do it but i'm going to try to push you off that hold now do you see why i emphasize the point you're going to get four different numbers what if you find your company to be undervalued when you did your intrinsic valuation but overpressed or overvalued and underpressed say what do i do you get to pick pick what pick which of those numbers you feel you would like to get a value for. This is not about a number that I'm going to use, it's a number you're going to use. And that's going to be the project for the class. As I said, it's going to run through the semester. It's going to tell you why I do valuation. When I first started teaching valuation, I made the mistake of assuming that everybody else was as interested in valuation as I was. Huge mistake in hindsight, because most people I've discovered don't care that much about valuation. They don't believe in valuation. Even people who do valuation for a living, they say, but they do it all the time. They do it because it's their job. But if you ask them in an honest moment, why is Tesla trading at 172? Their answer is because that's what the market thinks it's worth. It's good mythology. It's a good story. Go with it. I want you to think about why they do it. Why do they run off the cliff? You can see why the first lemming did it, right? He was going too fast. He couldn't stop. Goes off the cliff into the ocean. Incidentally, these guys can't swim. That kind of seals the deal. Dead. Second guy too close. The first guy also dead. But I'd like you to put yourself in the shoes of the very last lemming in that group. I know lemmings don't wear shoes, but kind of hang? $1.2 trillion. It had quadrupled in price over the previous year and had gone up like 12-fold over the previous two years. It's trading about $1,200 per share. First time I valued the company, it came up at $300 per share. Then I heard this voice in the back of my head. They must know something investors in three groups. First group I call proud lemmings. I'm a lemming and I'm proud to be a lemming. They call themselves momentum investors, but that's what they do, right? What do momentum investors do? They look for a crowd, they join and you're buying, I'm buying. You're selling, I'm selling. Why are you buying? I really don't care. The second group of lemmings I call yogi bear lemmings. out myself. That's me. Learning with a life first. That's all I can aspire to be. That's what valuation gives you. It gives you a life first. It gives you something else to hold on to when everybody else changes their mind. It slows the process down for me. I do valuation not because it's going to make me rational. I cannot be rational because human beings are incapable of being rational. But it slows the process down, gives my rational side a chance to mount an argument. Nine times out of ten. You know what I'm going to do?",
+  "chunks": [
+    { "timestamp": [0.0, 2.06], "text": " you" },
+    { "timestamp": [11.06, 13.12], "text": " you" },
+    { "timestamp": [15.76, 17.82], "text": " you" },
+    { "timestamp": [19.0, 84.95], "text": " you Okay, folks." },
+    { "timestamp": [92.31, 94.47], "text": " I see some familiar faces here." },
+    {
+      "timestamp": [135.81, 137.11],
+      "text": " about what we're going to talk about during the course of the class."
+    },
+    {
+      "timestamp": [140.73, 140.83],
+      "text": " And let you get a chance to actually see if you can come up with the answer,"
+    },
+    {
+      "timestamp": [142.99, 143.09],
+      "text": " in which case you're saying, you know, what's the point of the class?"
+    },
+    {
+      "timestamp": [145.31, 145.87],
+      "text": " And I would like that to be the end game."
+    },
+    {
+      "timestamp": [147.79, 147.87],
+      "text": " As much of what we're going to talk in the class,"
+    },
+    {
+      "timestamp": [150.49, 151.87],
+      "text": " you could have figured out by yourself."
+    },
+    {
+      "timestamp": [154.17, 154.49],
+      "text": " Having this class might provide you a structure,"
+    },
+    {
+      "timestamp": [156.59, 158.13],
+      "text": " but we're going to start every class with a quiz. So since we're going to do that every class,"
+    },
+    {
+      "timestamp": [158.19, 161.27],
+      "text": " I thought we'd start this class too with a quiz."
+    },
+    {
+      "timestamp": [207.5, 213.32],
+      "text": " you define what comprises a science. Is it an art? Is it black magic, white magic, whatever magic you want to call it? Or is there something else, some other word you'd use to describe it? So file that"
+    },
+    {
+      "timestamp": [213.32, 216.76],
+      "text": " away. We'll come back and address that question sometime during the course of the class."
+    },
+    {
+      "timestamp": [217.32, 285.09],
+      "text": " Everybody made a choice? Art, in a nice, stable economy."
+    },
+    {
+      "timestamp": [285.09, 288.65],
+      "text": " And the fourth choice is a young company"
+    },
+    { "timestamp": [288.65, 290.01], "text": " in an unsettled market." },
+    {
+      "timestamp": [290.37, 292.15],
+      "text": " Let's start with the two extremes."
+    },
+    {
+      "timestamp": [292.61, 294.33],
+      "text": " Which of these four groups of companies"
+    },
+    {
+      "timestamp": [294.33, 351.65],
+      "text": " is going to be able to value Coca-Cola. In fact, I probably don't even need a person. I could probably automate the process. Not talking chat GPT kind of automation, just very basic Excel automation,"
+    },
+    { "timestamp": [352.35, 353.57], "text": " and it can value Coca-Cola." },
+    {
+      "timestamp": [354.33, 356.11],
+      "text": " Which of the four groups of companies"
+    },
+    {
+      "timestamp": [356.11, 357.69],
+      "text": " is going to be most difficult to value?"
+    },
+    { "timestamp": [358.69, 359.13], "text": " Yes." },
+    { "timestamp": [360.07, 360.67], "text": " The fourth one." },
+    { "timestamp": [361.59, 361.89], "text": " Why?" },
+    {
+      "timestamp": [405.28, 411.0],
+      "text": " for you as investors, as analysts, as anybody involved in this process to recognize what you're doing. Are you valuing something? Are you pricing it? Which brings me my third and final question."
+    },
+    {
+      "timestamp": [411.08, 415.14],
+      "text": " And this is something, again, where I don't expect a right or a wrong answer. I want you to look inward."
+    },
+    {
+      "timestamp": [417.04, 422.74],
+      "text": " Each of us has a strong side and a weak side. And I know there's a legend of a left brain and a right"
+    },
+    {
+      "timestamp": [422.74, 486.31],
+      "text": " brain. I've been told that that's not, that the way through the book. And she said, it's a metaphor. My jaw dropped. And the rest of the class was about hidden meanings and things I didn't even know had a meaning in the first place."
+    },
+    {
+      "timestamp": [487.53, 490.17],
+      "text": " I remember coming out of the class with a singular conclusion."
+    },
+    {
+      "timestamp": [490.17, 550.15],
+      "text": " I said, never again am I going to subject myself to take 15 history classes. And then you got a numbers degree, accounting, engineering. And then you had a numbers job. And who do you hang out with? Other numbers people."
+    },
+    {
+      "timestamp": [551.31, 553.47],
+      "text": " Dangerous place to be when you hang out with people who think just like you."
+    },
+    {
+      "timestamp": [553.87, 555.47],
+      "text": " We'll talk about some of the delusions"
+    },
+    {
+      "timestamp": [555.47, 557.77],
+      "text": " that come in when you're a numbers person"
+    },
+    { "timestamp": [557.77, 559.47], "text": " more as we go on" },
+    {
+      "timestamp": [559.47, 619.0],
+      "text": " through the class. But some My guess is more storytellers and number crunches because there's always a self selection bias. The storytellers gravitate towards a strategy class because you can tell story after story after story. Nobody checks your story. You can tell fairy tales, build castles, everybody's happily ever after."
+    },
+    {
+      "timestamp": [619.0, 685.67],
+      "text": " But my guess is there are still people in this class. Let me first talk about me. Why? Because I like talking about me. I came to NYU in 1986. I can tell I'm getting old. The other last semester, last year when I taught this class, I got in the elevator."
+    },
+    {
+      "timestamp": [685.67, 688.67],
+      "text": " Student gets on, who's an MBA."
+    },
+    {
+      "timestamp": [688.67, 750.35],
+      "text": " And she says, my mother took your class. I'm not going to be I'm not going to be I'm not going to be named. It's a class with a long tradition to give me this class and this is need to teach this class I take one look at the class and I'm not teaching this class most boring class ever. Because by 1986 was showing Because by 1986 was showing its age. It was four weeks and stocks and three weeks and bonds and two weeks on options and futures and five weeks on"
+    },
+    {
+      "timestamp": [750.35, 751.35],
+      "text": " institutional detail, like what"
+    },
+    {
+      "timestamp": [751.35, 753.35],
+      "text": " there was an entire session on"
+    },
+    { "timestamp": [753.35, 755.35], "text": " listing requirements for the" },
+    { "timestamp": [755.35, 757.35], "text": " New York Stock Exchange." },
+    {
+      "timestamp": [757.35, 759.39],
+      "text": " And I'm not going to be named."
+    },
+    {
+      "timestamp": [759.39, 760.35],
+      "text": " It's a class with a long tradition"
+    },
+    {
+      "timestamp": [760.35, 761.35],
+      "text": " to give me this class and this"
+    },
+    {
+      "timestamp": [761.35, 816.92],
+      "text": " is need to fill a class. There were no books on valuation unless you wanted to go with security analysis by Ben Graham. Do you know when that was written? Anybody want to guess the year it was written?"
+    },
+    {
+      "timestamp": [818.6, 819.68],
+      "text": " 1934 was the first edition. I want you to remember that."
+    },
+    {
+      "timestamp": [819.76, 823.84],
+      "text": " When you read security analysis, it is a product of the times."
+    },
+    {
+      "timestamp": [823.92, 825.38],
+      "text": " You came out of the Great Depression."
+    },
+    {
+      "timestamp": [825.74, 883.51],
+      "text": " What was the first and biggest, you know what would happen, right? A committee will be created. You know what happens when committees get created? You might have experienced committees. They meet and they meet and they forget"
+    },
+    {
+      "timestamp": [883.51, 885.83],
+      "text": " what they're meeting about and they keep meeting."
+    },
+    {
+      "timestamp": [886.65, 887.89],
+      "text": " And then they have baby committees"
+    },
+    {
+      "timestamp": [887.89, 890.07],
+      "text": " that they call subcommittees and sub-subcommittees."
+    },
+    { "timestamp": [890.29, 891.25], "text": " It's all very incestuous." },
+    { "timestamp": [891.35, 892.27], "text": " They report to each other." },
+    {
+      "timestamp": [892.67, 894.61],
+      "text": " And 35 years later, they come back and say,"
+    },
+    {
+      "timestamp": [894.61, 951.67],
+      "text": " you can teach the class, but I've been doing it for 22 years. We don't see it listed anywhere in the course listings. I said, that's easy to explain. I've been hijacking all these other classes you've been giving me and teaching valuation instead. For 15 years, they made me teach a class called"
+    },
+    {
+      "timestamp": [951.67, 1017.02],
+      "text": " equity instruments and markets. I don't to say something about this class that's going to encapsulate how I think about valuation. Everything I know about valuation, I've learned in the course of teaching this class. Let me repeat that again. Everything I know about valuation,"
+    },
+    {
+      "timestamp": [1017.16, 1019.44],
+      "text": " I've learned in the course of teaching this class."
+    },
+    {
+      "timestamp": [1020.64, 1022.38],
+      "text": " Not, I didn't know it when I walked in."
+    },
+    {
+      "timestamp": [1023.16, 1024.32],
+      "text": " I'll give you a few examples."
+    },
+    {
+      "timestamp": [1025.2, 1026.76],
+      "text": " One year into teaching this class,"
+    },
+    {
+      "timestamp": [1026.76, 1029.38],
+      "text": " it was the fall of 1987, specific date,"
+    },
+    {
+      "timestamp": [1073.71, 1075.15],
+      "text": " 22%. I want you to think about what a day like that would look like today. If the Dow dropped 22%,"
+    },
+    {
+      "timestamp": [1079.79, 1083.95],
+      "text": " maybe what, 8,000 point drop? You'd all freak out, right? And people were freaking out. The reason they were on the street is they could not get their trade. Remember, these were the days of"
+    },
+    {
+      "timestamp": [1083.95, 1088.75],
+      "text": " physical trading. They could not get the trades through on the floor. It's too confusing."
+    },
+    {
+      "timestamp": [1139.79, 1146.27],
+      "text": " on that day in October 19th of 1987 stood me in good stead when the dot-com bust came, when 2008 came, when 2020, the first quarter of 2020, when COVID hit. It's something I've gone back to over"
+    },
+    {
+      "timestamp": [1146.27, 1151.51],
+      "text": " and over again. And each time you do it, you understand a little bit more about market crisis."
+    },
+    {
+      "timestamp": [1152.73, 1158.55],
+      "text": " You move 10 years forward. I still remember the day somebody in my class puts up their hand and"
+    },
+    {
+      "timestamp": [1158.55, 1219.82],
+      "text": " said, have you ever heard of this company called amazon.com? It's an online book retailer. mention of how to value companies with lots of potential, small revenues and big losses. It had never been done before because it was not something that valuation people thought would ever cross their path. Then you get to 2008 and you've got a market crisis, a market crisis created by banks"
+    },
+    {
+      "timestamp": [1219.82, 1284.83],
+      "text": " behaving badly. And I remember the question again in class. And the reason I picked Boeing, it was in the epicenter of the crisis, right? Its clients or its customers are airlines and airlines are not flying. They're"
+    },
+    {
+      "timestamp": [1284.83, 1289.39],
+      "text": " not buying aircraft. And the question was, will Boeing make it? What's the risk here? And I said,"
+    },
+    {
+      "timestamp": [1289.45, 1350.67],
+      "text": " look, let's do this now. And they said, why can't we wait for the crisis to pass? it's not the revenues. It's not, I mean, lots of companies have revenues higher than Facebook. It's got high margins, but Philip Morris has even higher margins. Apple has higher margins. What's the most impressive number about Facebook? 3 billion people in its ecosystem."
+    },
+    { "timestamp": [1350.89, 1351.47], "text": " Think about it." },
+    { "timestamp": [1351.53, 1352.31], "text": " It's mind-boggling." },
+    {
+      "timestamp": [1352.31, 1354.89],
+      "text": " If you combine Facebook, Instagram, WhatsApp,"
+    },
+    { "timestamp": [1355.33, 1356.37], "text": " got 3 billion people." },
+    { "timestamp": [1357.13, 1358.83], "text": " One out of every two adults" },
+    { "timestamp": [1358.83, 1359.63], "text": " on the face of the earth" },
+    {
+      "timestamp": [1359.63, 1360.91],
+      "text": " is on the Facebook ecosystem."
+    },
+    {
+      "timestamp": [1361.85, 1419.8],
+      "text": " You think so, right? Somebody help me out. If I wanted to value a Netflix subscriber, what is the information I would need to do that valuation? Yes. First is I need to know how long a subscriber stays on,"
+    },
+    {
+      "timestamp": [1419.9, 1421.68],
+      "text": " which is a function of churn rates."
+    },
+    {
+      "timestamp": [1421.78, 1424.44],
+      "text": " Already you can see things you don't talk about in tradition."
+    },
+    { "timestamp": [1424.74, 1425.5], "text": " What's the churn rate?" },
+    {
+      "timestamp": [1425.56, 1428.48],
+      "text": " It's a percentage of people who re-up each year."
+    },
+    {
+      "timestamp": [1469.33, 1469.47],
+      "text": " You say, what about content cost?"
+    },
+    {
+      "timestamp": [1471.21, 1472.15],
+      "text": " It's not at the subscriber level, right?"
+    },
+    {
+      "timestamp": [1475.07, 1475.21],
+      "text": " But if you were value a Spotify subscriber, it is."
+    },
+    { "timestamp": [1475.59, 1476.13], "text": " You know why?" },
+    {
+      "timestamp": [1478.41, 1480.55],
+      "text": " What is it about Spotify that makes it different from Netflix in terms of content cost?"
+    },
+    {
+      "timestamp": [1481.05, 1487.77],
+      "text": " They both license, you know, Netflix license the content."
+    },
+    { "timestamp": [1487.93, 1490.27], "text": " It pays a upfront fee." },
+    { "timestamp": [1490.87, 1492.07], "text": " It's a fixed cost." },
+    {
+      "timestamp": [1492.19, 1552.05],
+      "text": " Whereas Spotify, you know how you pay for content? And I used to devalue an Uber rider. Much messier than a Netflix subscriber, right? Because there, it's not the same amount for you. You have heavy Uber users and light Uber users. You got to figure out what the average Uber rider spends on those rides."
+    },
+    {
+      "timestamp": [1557.27, 1619.14],
+      "text": " But these are things, so in 2010, I wasn't thinking about the value of a user subscriber. it's amazing how people have forgotten what inflation can do to valuation and how to deal with inflation and valuation so long story short this class is basically a summation of experiences that i've kind of tried to structure and present in a way saying this is what i've learned so far"
+    },
+    {
+      "timestamp": [1619.14, 1683.67],
+      "text": " in valuation there's a long way to go but welcome to the journey because at direct way of getting to me. I don't answer my phone, so we call my number and leave a message. The voicemail is so full that I don't even know how to check the voicemail anymore. It's a very elaborate system, so don't do it. My office hours are basically right before this class,"
+    },
+    {
+      "timestamp": [1685.17, 1691.05],
+      "text": " so I will set up, as I said, the Zoom link to you, and the two teaching, it's in Buncee, who was just"
+    },
+    {
+      "timestamp": [1691.05, 1751.17],
+      "text": " here, and Rakesh both took this class last answer, so let me reframe the question to make it simple. Is mathematics a science? You want to try? Is"
+    },
+    {
+      "timestamp": [1751.17, 1756.45],
+      "text": " mathematics a science? It's the only pure science. In fact, mathematicians are convinced that the"
+    },
+    {
+      "timestamp": [1756.45, 1817.44],
+      "text": " rest of us are imposters. So let me follow up. What is a science. Physics is mostly a science. Laws of gravity are the laws of gravity. Does valuation have any chance of being a science? That's a question I'm asking you. You work really hard to value a company. You do everything you"
+    },
+    {
+      "timestamp": [1817.44, 1821.86],
+      "text": " can do. You collect all the data on the face of the earth that you can get on the company."
+    },
+    {
+      "timestamp": [1822.14, 1884.91],
+      "text": " You talk to every manager in the company. to talk to you about how you knew that. But the reality is you could have done everything right, but you couldn't have forecast out that COVID was going to come in a few months, which made your entire valuation kind of defunct. Valuation is zero chance of being assigned."
+    },
+    {
+      "timestamp": [1885.03, 1952.69],
+      "text": " So the sooner we accept that, so it's been a long time. He's actually 33,"
+    },
+    {
+      "timestamp": [1952.69, 2018.96],
+      "text": " so he's actually aging as I talk. I took him to the going to get, you know, you can turn out all the impressionist paintings you want, but nobody's paying a hundred million dollars for your painting. The essence of an art is you cannot teach it. Thank God valuation is not an art, because if it was an art, I wasted much of my life teaching something that cannot be done."
+    },
+    {
+      "timestamp": [2019.7, 2084.53],
+      "text": " So it's not a science and not an art. What the heck time you cook, guess what happens? Fire alarms go off. Now, I still remember the first time I scrambled eggs. Nobody told me you're supposed to spray the damn pan. I scrambled the egg. Great-looking egg stuck to the pan."
+    },
+    { "timestamp": [2085.71, 2086.69], "text": " Pan and egg goes" },
+    {
+      "timestamp": [2086.69, 2088.67],
+      "text": " in the trash, but I learned a very important lesson"
+    },
+    { "timestamp": [2088.67, 2090.01], "text": " about scrambling eggs." },
+    {
+      "timestamp": [2093.01, 2094.83],
+      "text": " You learn cooking by cooking."
+    },
+    {
+      "timestamp": [2137.93, 2144.75],
+      "text": " individual company, but it's one company. But every week, I'm also going to put up what I call a valuation of the week. I'll give you a preview. Tomorrow, I'm going to put up my first valuation"
+    },
+    {
+      "timestamp": [2144.75, 2149.17],
+      "text": " of the week. It's going to be my valuation of Tesla. And I'm going to emphasize the word my"
+    },
+    {
+      "timestamp": [2149.17, 2154.01],
+      "text": " valuation of Tesla with a blog post explaining the valuation. And there's going to be a Google"
+    },
+    {
+      "timestamp": [2154.01, 2158.53],
+      "text": " shared spreadsheet. You're saying, for what? I would encourage you to try to value Tesla. And"
+    },
+    {
+      "timestamp": [2158.53, 2220.66],
+      "text": " your reaction is going to be, but this is the'm saying good the class is working so i'm going to take you on a pathway we're going to start with"
+    },
+    {
+      "timestamp": [2220.66, 2289.89],
+      "text": " tesla then i'm going to go to pz cut you've never heard of pz cousins niger House. It's a PBS show, one of the oldest home shows. It predates the home network. And there used to be a market master carpenter called Norman. I don't even know his last name on it. And he would say, look, you know, I know how to do these things, but to do this, I have to talk to somebody who's done, who's, I have to learn. Same thing about valuation. You"
+    },
+    {
+      "timestamp": [2289.89, 2352.37],
+      "text": " think you've got, if you think you've got the thing mastered, the market is waiting for you flow model and make estimates of those. And there we can have room for disagreement. But a value of a business always comes from cash flows, growth and risk. That's what drives value. You know what drives price? It's demand and supply. Are demand and supply driven by cash flows, growth and risk?"
+    },
+    {
+      "timestamp": [2352.81, 2359.59],
+      "text": " They could be, but they could also be driven by mood and momentum and revenge. Seek revenge."
+    },
+    {
+      "timestamp": [2406.34, 2414.52],
+      "text": " usual and strange occurred. A group of people gathered together on Reddit and created the site called WallStreetBets. And they decided that they were going to buy GameStop and push the price up."
+    },
+    {
+      "timestamp": [2414.52, 2419.24],
+      "text": " And did they succeed? You know what GameStop stock price went to, right? Anybody know what"
+    },
+    {
+      "timestamp": [2419.24, 2429.04],
+      "text": " its high was? It actually got to $415. They made GameStop into, I think, a $100 billion company."
+    },
+    {
+      "timestamp": [2470.95, 2474.41],
+      "text": " because they had big student loans, and they said, it's a hedge fund's fault. You need somebody to blame. And they said, this is who we're going to blame. We're going to push the price up"
+    },
+    {
+      "timestamp": [2474.41, 2480.81],
+      "text": " to teach them a lesson. I'm not saying this is good, this is bad, but price is what it is."
+    },
+    {
+      "timestamp": [2481.25, 2486.57],
+      "text": " You think, but that's not rational. In fact, isn't revenge the most human? If you think about"
+    },
+    {
+      "timestamp": [2486.57, 2491.39],
+      "text": " strong emotions, revenge versus rational valuation, revenge is going to win out every single time."
+    },
+    {
+      "timestamp": [2492.95, 2550.87],
+      "text": " Price is driven by cash flows, growth, and risk, but it's driven by mood and momentum. hey when you buy a house think of how you decide how much to pay you don't do a discounted cash flow valuation of the house i don't think you look at what other people paid for that's pricing do people do something similar in equity markets how do most equity research analysts decide when"
+    },
+    {
+      "timestamp": [2550.87, 2556.27],
+      "text": " something is cheap or expensive they look at the p ratio for the company they compared to 15 other"
+    },
+    {
+      "timestamp": [2556.27, 2621.12],
+      "text": " companies they look this company's cheap but this company's expensive they're doing pricing Most of you, if you end up in jobs that you think are valuation jobs, really are pricing jobs. Bankers, price companies, they don't value companies. Equity research analysts, price companies, they don't value companies. So we're going to talk about how to do pricing better. Because I think that it's my job to make sure that that tool set is available to you,"
+    },
+    {
+      "timestamp": [2621.22, 2624.66],
+      "text": " because you can't be using a discounted cash flow model if your job is to price things."
+    },
+    {
+      "timestamp": [2670.22, 2672.4],
+      "text": " for Picassos and making judgment on what you pay for Picassos."
+    },
+    {
+      "timestamp": [2676.46, 2676.56],
+      "text": " Already you can see that somebody asks you, is Bitcoin undervalued?"
+    },
+    {
+      "timestamp": [2680.64, 2680.94],
+      "text": " They lost the script. Bitcoin cannot be valued. It's a currency."
+    },
+    {
+      "timestamp": [2684.64, 2685.08],
+      "text": " If it's a currency, if it's a collectible, it still can't be valued."
+    },
+    {
+      "timestamp": [2688.08, 2688.2],
+      "text": " But either way, when you think about a currency,"
+    },
+    {
+      "timestamp": [2691.26, 2693.76],
+      "text": " you can't value the US dollar. You can price it. In fact, what do we call that pricing? An exchange rate."
+    },
+    { "timestamp": [2734.63, 2738.17], "text": " with a pricing judgment." },
+    {
+      "timestamp": [2740.85, 2741.55],
+      "text": " And finally, I told you that valuation,"
+    },
+    {
+      "timestamp": [2743.09, 2744.59],
+      "text": " we've got story people in this room and numbers people in this room."
+    },
+    {
+      "timestamp": [2745.35, 2747.25],
+      "text": " And I know right now, if you're a numbers person,"
+    },
+    {
+      "timestamp": [2747.37, 2748.87],
+      "text": " you might say, I feel more comfortable."
+    },
+    { "timestamp": [2749.03, 2749.89], "text": " This is my turf." },
+    {
+      "timestamp": [2749.95, 2751.15],
+      "text": " We're going to work with numbers."
+    },
+    {
+      "timestamp": [2752.41, 2753.87],
+      "text": " And if you're a story person, you're saying,"
+    },
+    {
+      "timestamp": [2753.95, 2755.37],
+      "text": " what exactly am I going to do here?"
+    },
+    {
+      "timestamp": [2755.39, 2757.47],
+      "text": " And I'm going to argue that a good valuation"
+    },
+    {
+      "timestamp": [2757.47, 2760.79],
+      "text": " is a bridge between stories and numbers."
+    },
+    {
+      "timestamp": [2761.09, 2762.55],
+      "text": " So what the heck are you talking about?"
+    },
+    {
+      "timestamp": [2805.32, 2807.84],
+      "text": " 280 billion revenues, but also having revenue streams from other businesses, software,"
+    },
+    {
+      "timestamp": [2811.44, 2813.26],
+      "text": " carbon offsets. They made 1.8 billion from carbon offsets last year."
+    },
+    {
+      "timestamp": [2820.64, 2888.04],
+      "text": " Maybe AI, maybe automated driving. But I'm telling a story about a company that's going to be incredibly successful.. But that's a story that we can then debate. You can say, I disagree with that story. Whereas if I told you I used a 25% growth rate, how do you disagree? I'll use a 30% growth rate. And that's a completely unhealthy discussion. Good valuations are bridges between stories and numbers. So when I show you a number,"
+    },
+    {
+      "timestamp": [2889.1, 2893.12],
+      "text": " I always have to have a story that backs it up. And when you tell me a story about a company,"
+    },
+    {
+      "timestamp": [2893.56, 2957.39],
+      "text": " I'm going to put you on the spot andir, like Tesla, you have the obligation then to try to bring all of those factors in. I told you, I started as a number cruncher. For"
+    },
+    {
+      "timestamp": [2957.39, 3018.36],
+      "text": " the first few years I taught this class, I taught it a storyteller, I hope you get comfortable enough with numbers that you can tell disciplined stories. Because storytellers tend to kind of wander off, right? They make up"
+    },
+    {
+      "timestamp": [3018.36, 3024.04],
+      "text": " fairy tales because there's nothing gripping you. I hope you develop enough discipline to tell"
+    },
+    {
+      "timestamp": [3024.04, 3028.32],
+      "text": " disciplined stories. If you're a number cruncher, here's what I hope this class will deliver."
+    },
+    {
+      "timestamp": [3072.54, 3078.64],
+      "text": " you know why you've spent a lifetime bludgeoning your imagination to the ground because you've been told at every step that being telling a story without tying up every loose end is a sign of"
+    },
+    {
+      "timestamp": [3078.64, 3085.8],
+      "text": " weakness and i want you to kind of let loose on that it you know it won't come naturally"
+    },
+    {
+      "timestamp": [3085.8, 3089.88],
+      "text": " you're going to feel uncomfortable because all these loose ends are going to be out there"
+    },
+    {
+      "timestamp": [3089.88, 3150.35],
+      "text": " but you've got to get comfortable with that part it undervalued, I want to be able to buy the stock. You're saying, what's the big deal? Think about it. Let's say, you know, you pick the company, you pick, you value the company, you come up with a value of 50, the stock price is at 35."
+    },
+    {
+      "timestamp": [3150.57, 3151.55],
+      "text": " This is a no-brainer, right?"
+    },
+    { "timestamp": [3151.57, 3152.49], "text": " Just go buy the stock." },
+    {
+      "timestamp": [3152.85, 3154.13],
+      "text": " But what might hold you back?"
+    },
+    {
+      "timestamp": [3154.95, 3157.31],
+      "text": " First, you have to have faith in your valuation."
+    },
+    {
+      "timestamp": [3158.41, 3159.55],
+      "text": " And by then you're going to realize"
+    },
+    {
+      "timestamp": [3159.55, 3161.11],
+      "text": " how many assumptions you had to make"
+    },
+    { "timestamp": [3161.11, 3162.15], "text": " to get to the $50." },
+    {
+      "timestamp": [3205.14, 3211.66],
+      "text": " difficult to develop faith because it doesn't happen overnight that's one thing i can't teach in this class i can take you through the process of how i got my faith and i can also take you"
+    },
+    {
+      "timestamp": [3211.66, 3218.62],
+      "text": " through the process of when my faith has been tested i've always been uncomfortable with the"
+    },
+    {
+      "timestamp": [3218.62, 3283.62],
+      "text": " omaha view of investing which is absolute right if you have faith for that faith to be tested. And sometimes it's okay to say,"
+    },
+    {
+      "timestamp": [3284.04, 3287.56],
+      "text": " I don't feel faithful enough to my valuation to hold on"
+    },
+    {
+      "timestamp": [3287.56, 3351.75],
+      "text": " because that's a healthy reaction as well in investing. this is about accounting from my perspective and valuation. It's about reading accounting statements and making sure that you do this right. So if you find yourself at stages of this class, finding yourself not quite sure what the difference is between total assets and invested capital,"
+    },
+    {
+      "timestamp": [3351.85, 3355.09],
+      "text": " I would strongly encourage you to take the accounting class"
+    },
+    { "timestamp": [3355.09, 3356.27], "text": " or at least pieces of it" },
+    {
+      "timestamp": [3356.27, 3357.97],
+      "text": " to make sure your accounting is solid."
+    },
+    {
+      "timestamp": [3358.93, 3360.59],
+      "text": " So it's completely optional again."
+    },
+    {
+      "timestamp": [3360.75, 3418.18],
+      "text": " And if you feel that it'll help spreadsheet, change the numbers you don't like. And so don't bitch and moan that you don't like my growth rate, you don't like my margin, just make it yours. Come up with the value, put it on the Google shared spreadsheet."
+    },
+    {
+      "timestamp": [3419.06, 3423.7],
+      "text": " On Wednesday, you'll have class again and email that will be sent out Wednesday. In addition to"
+    },
+    {
+      "timestamp": [3423.7, 3483.76],
+      "text": " the post-class test and solution, there'll the evaluation tools of the week, I'll basically take whatever we did that week and talk about, hey, practically, if I had to estimate a risk-free rate in Indonesian rupiah,"
+    },
+    { "timestamp": [3483.86, 3484.86], "text": " where would I get the data?" },
+    { "timestamp": [3485.0, 3485.98], "text": " How would I use the data?" },
+    {
+      "timestamp": [3486.06, 3489.06],
+      "text": " So basically taking to the mechanics of doing something."
+    },
+    {
+      "timestamp": [3489.52, 3491.88],
+      "text": " On Saturday, you'll get an email with a newsletter"
+    },
+    {
+      "timestamp": [3491.88, 3493.58],
+      "text": " on what we did during the course of the week."
+    },
+    {
+      "timestamp": [3493.64, 3494.8],
+      "text": " You say, why would I need a newsletter?"
+    },
+    {
+      "timestamp": [3494.9, 3552.03],
+      "text": " It just happened. me. And if you don't get an email from me, then you should start thinking about maybe there's something wrong with my email. I'm not getting emails in because, you know, that's unusual. Now, in terms of books, you don't need any textbooks for this class. You can use the lecture notes. I've sent you the link to the first packet. There'll be two more packets coming."
+    },
+    {
+      "timestamp": [3553.77, 3619.84],
+      "text": " But if you do want to get a book, I have five books want something cheap, there's a little book evaluation and it's really little. It kind of covers what I do in the other books in like 200 pages instead of a thousand pages. And if you're really focused in on the story to numbers part evaluation, then I have a book called Narrative and Numbers. There'll be a sixth book that will show up"
+    },
+    {
+      "timestamp": [3619.84, 3624.96],
+      "text": " sometime during the semester on the corporate life cycle. It's with the printer. It's going"
+    },
+    {
+      "timestamp": [3624.96, 3685.86],
+      "text": " to come from Random House. So I'll tell you the link multiple times, it's up there as well."
+    },
+    {
+      "timestamp": [3685.86, 3750.91],
+      "text": " So it'll have links to everything, the lectures, that email. How do you disprove something like that? So here's what I'm going to do instead. I'm going to put everything into the email chronicles, which means you have no reason for not being aware of what's going on in the class. So every email, and it'll build up. Right now, it's only three emails, because that's all I've"
+    },
+    {
+      "timestamp": [3750.91, 3817.0],
+      "text": " said. But it'll build up over the course of the short selling story, it lost $50 billion in market cap on Friday. And I know nothing about the insides of the company, but I want to talk about holding companies. And if you're on family group holding companies,"
+    },
+    {
+      "timestamp": [3817.1, 3820.82],
+      "text": " family group holding companies with light float and family group holding companies with light"
+    },
+    {
+      "timestamp": [3820.82, 3826.1],
+      "text": " float and political connections, why are you ever surprised that bad things can happen to you?"
+    },
+    {
+      "timestamp": [3872.18, 3872.6],
+      "text": " You know, this class, like every other finance class, has to follow a grading."
+    },
+    {
+      "timestamp": [3874.5, 3874.6],
+      "text": " I mean, the other disciplines might not."
+    },
+    {
+      "timestamp": [3878.12, 3878.46],
+      "text": " So strategy, marketing might do whatever they want, but we have a requirement that we follow."
+    },
+    {
+      "timestamp": [3881.94, 3882.02],
+      "text": " So I'm going to follow the same principles about A's and B's and C's."
+    },
+    {
+      "timestamp": [3883.16, 3884.04],
+      "text": " But here's what I'm looking for."
+    },
+    {
+      "timestamp": [3888.26, 3888.62],
+      "text": " Now, if you can value just about anything by the end of this class, then I'm looking to give you an A."
+    },
+    {
+      "timestamp": [3892.48, 3892.76],
+      "text": " If you can value most things, then a B."
+    },
+    {
+      "timestamp": [3896.22, 3954.91],
+      "text": " If you can value something which is not asking as much practice as you want because every past quiz is there will be a final exam in the week after class ends so it could be that final exam week"
+    },
+    {
+      "timestamp": [3954.91, 4018.9],
+      "text": " I don't know the exact date yet because I haven you're an adult. I'm an adult. You're not lying to me about this. But if you do miss a quiz, here's what's going to happen. The 10% gets moved to the remaining quizzes and the final. It's always going to get moved forward. You know why? Because otherwise you get strategic quiz miss, which is if you do really well in the"
+    },
+    {
+      "timestamp": [4018.9, 4023.1],
+      "text": " first two quizzes, you miss the third quiz because it makes your quizzes worth more."
+    },
+    {
+      "timestamp": [4023.74, 4153.51],
+      "text": " And I played this game long enough to know the gaming that goes on. So it'll always get pushed now and essentially you can use the slides and you can use a calculator you can use a calculator on your device whatever you Four people in the group, there'll be four companies being valued. Now, in my corporate finance class, the project is due on the last day of class, and I kind of let it go because people work on their own timing. In this class,"
+    },
+    {
+      "timestamp": [4153.57, 4216.9],
+      "text": " we have this small problem. How many of you losing companies. You can pick any. At least one has to be money losing. At least one of your companies has to have high growth in terms of revenue. Not income growth, but revenue growth."
+    },
+    {
+      "timestamp": [4217.86, 4219.98],
+      "text": " That's to get you valuing the Palantirs of the world"
+    },
+    {
+      "timestamp": [4219.98, 4221.46],
+      "text": " and even the Teslas of the world saying"
+    },
+    {
+      "timestamp": [4221.46, 4223.88],
+      "text": " high revenue growth. At least one of your"
+    },
+    {
+      "timestamp": [4223.88, 4225.96],
+      "text": " companies has to be a non-US company."
+    },
+    { "timestamp": [4227.1, 4227.84], "text": " And I'd prefer" },
+    {
+      "timestamp": [4227.84, 4229.7],
+      "text": " you value the company in the local currency."
+    },
+    {
+      "timestamp": [4268.16, 4268.24],
+      "text": " and say, look, you can join the group,"
+    },
+    {
+      "timestamp": [4269.98, 4270.08],
+      "text": " but you've got to value the high growth,"
+    },
+    {
+      "timestamp": [4272.2, 4272.6],
+      "text": " money losing, emerging market company."
+    },
+    {
+      "timestamp": [4275.06, 4275.18],
+      "text": " Because let's face it, it is more difficult to do it."
+    },
+    {
+      "timestamp": [4277.8, 4278.14],
+      "text": " So if your objective is to minimize your work,"
+    },
+    {
+      "timestamp": [4279.18, 4279.24],
+      "text": " you might avoid that company."
+    },
+    {
+      "timestamp": [4281.04, 4281.58],
+      "text": " But if you really want to learn valuation,"
+    },
+    {
+      "timestamp": [4283.78, 4285.28],
+      "text": " that's basically where you should go."
+    },
+    {
+      "timestamp": [4287.74, 4288.28],
+      "text": " So you're going to do an intrinsic valuation of your company."
+    },
+    {
+      "timestamp": [4288.28, 4291.08],
+      "text": " And we'll develop the tools over the course"
+    },
+    {
+      "timestamp": [4291.08, 4292.72],
+      "text": " of the seven, eight, nine weeks,"
+    },
+    {
+      "timestamp": [4292.8, 4294.58],
+      "text": " the first seven, eight weeks where you do this."
+    },
+    {
+      "timestamp": [4294.72, 4353.27],
+      "text": " So by the time you get to March 31st, U.S. market. So you're going to price the company against the market. So at this point, you're going to have three numbers in your company, an intrinsic valuation for your company, a pricing against the sector, and a pricing against the market. You're saying, so what? Last step in this process, oh, actually, there's a fourth number you might get for some of your companies, where I'm going to argue that"
+    },
+    {
+      "timestamp": [4353.27, 4357.95],
+      "text": " some companies with contingent cash flows, a young pharmaceutical company with a drug working its"
+    },
+    {
+      "timestamp": [4357.95, 4416.98],
+      "text": " way through the pipeline, an oil company with undeveloped reserves, the reserves are all very some of you are going to be chicken and pick the hold and i'm going to let you do it but i'm going to try to push you off that hold now do you see why i emphasize the point you're going to get four different numbers what if you find your company to be undervalued when you did your"
+    },
+    {
+      "timestamp": [4416.98, 4423.92],
+      "text": " intrinsic valuation but overpressed or overvalued and underpressed say what do i do you get to pick"
+    },
+    {
+      "timestamp": [4423.92, 4486.1],
+      "text": " pick what pick which of those numbers you feel you would like to get a value for. This is not about a number that I'm going to use, it's a number you're going to use. And that's going to"
+    },
+    {
+      "timestamp": [4486.1, 4551.49],
+      "text": " be the project for the class. As I said, it's going to run through the semester. It's going to tell you why I do valuation. When I first started teaching valuation, I made the mistake of assuming that everybody else was as interested in valuation as I was. Huge mistake in hindsight, because most people I've discovered don't care that much about valuation. They don't believe in valuation. Even people who do valuation for a living,"
+    },
+    {
+      "timestamp": [4552.05, 4553.23],
+      "text": " they say, but they do it all the time."
+    },
+    {
+      "timestamp": [4553.45, 4555.03],
+      "text": " They do it because it's their job."
+    },
+    {
+      "timestamp": [4555.09, 4556.67],
+      "text": " But if you ask them in an honest moment,"
+    },
+    {
+      "timestamp": [4557.01, 4558.87],
+      "text": " why is Tesla trading at 172?"
+    },
+    {
+      "timestamp": [4558.95, 4560.97],
+      "text": " Their answer is because that's what the market thinks it's worth."
+    },
+    { "timestamp": [4601.06, 4601.24], "text": " It's good mythology." },
+    { "timestamp": [4601.96, 4602.06], "text": " It's a good story." },
+    { "timestamp": [4602.54, 4604.44], "text": " Go with it." },
+    {
+      "timestamp": [4606.98, 4607.06],
+      "text": " I want you to think about why they do it."
+    },
+    {
+      "timestamp": [4608.06, 4608.66],
+      "text": " Why do they run off the cliff?"
+    },
+    {
+      "timestamp": [4610.3, 4610.32],
+      "text": " You can see why the first lemming did it, right?"
+    },
+    { "timestamp": [4611.16, 4611.24], "text": " He was going too fast." },
+    { "timestamp": [4611.92, 4612.16], "text": " He couldn't stop." },
+    {
+      "timestamp": [4613.56, 4613.78],
+      "text": " Goes off the cliff into the ocean."
+    },
+    {
+      "timestamp": [4615.06, 4615.16],
+      "text": " Incidentally, these guys can't swim."
+    },
+    {
+      "timestamp": [4616.08, 4616.22],
+      "text": " That kind of seals the deal."
+    },
+    { "timestamp": [4616.46, 4616.96], "text": " Dead." },
+    { "timestamp": [4618.04, 4618.1], "text": " Second guy too close." },
+    { "timestamp": [4619.42, 4620.86], "text": " The first guy also dead." },
+    {
+      "timestamp": [4625.04, 4625.24],
+      "text": " But I'd like you to put yourself in the shoes of the very last lemming in that group."
+    },
+    {
+      "timestamp": [4628.78, 4683.64],
+      "text": " I know lemmings don't wear shoes, but kind of hang? $1.2 trillion. It had quadrupled in price over the previous year and had gone up like 12-fold over the previous two years. It's trading about $1,200 per share."
+    },
+    {
+      "timestamp": [4685.82, 4687.38],
+      "text": " First time I valued the company,"
+    },
+    {
+      "timestamp": [4687.48, 4689.06],
+      "text": " it came up at $300 per share."
+    },
+    { "timestamp": [4691.78, 4692.98], "text": " Then I heard this voice" },
+    { "timestamp": [4692.98, 4693.86], "text": " in the back of my head." },
+    {
+      "timestamp": [4694.3, 4750.89],
+      "text": " They must know something investors in three groups. First group I call proud lemmings. I'm a lemming and I'm proud to be a lemming. They call themselves momentum investors, but that's what they do, right? What do momentum investors do? They look for a crowd, they join and you're buying, I'm buying. You're selling, I'm selling. Why are you buying? I really don't care."
+    },
+    {
+      "timestamp": [4752.97, 4755.79],
+      "text": " The second group of lemmings I call yogi bear lemmings."
+    },
+    { "timestamp": [4802.02, 4802.2], "text": " out myself. That's me." },
+    {
+      "timestamp": [4803.9, 4805.36],
+      "text": " Learning with a life first. That's all I can aspire to be."
+    },
+    {
+      "timestamp": [4805.84, 4807.9],
+      "text": " That's what valuation gives you. It gives you a life"
+    },
+    {
+      "timestamp": [4807.9, 4810.02],
+      "text": " first. It gives you something else to hold on"
+    },
+    {
+      "timestamp": [4810.02, 4811.96],
+      "text": " to when everybody else changes their"
+    },
+    { "timestamp": [4811.96, 4814.02], "text": " mind. It slows the" },
+    {
+      "timestamp": [4814.02, 4816.02],
+      "text": " process down for me. I do valuation"
+    },
+    {
+      "timestamp": [4816.02, 4818.08],
+      "text": " not because it's going to make me rational."
+    },
+    {
+      "timestamp": [4818.28, 4820.04],
+      "text": " I cannot be rational because human"
+    },
+    {
+      "timestamp": [4820.04, 4822.22],
+      "text": " beings are incapable of being rational."
+    },
+    { "timestamp": [4823.52, 4824.14], "text": " But it slows" },
+    {
+      "timestamp": [4824.14, 4825.98],
+      "text": " the process down, gives my rational"
+    },
+    {
+      "timestamp": [4825.98, 4828.08],
+      "text": " side a chance to mount an argument. Nine"
+    },
+    {
+      "timestamp": [4828.08, 4829.64],
+      "text": " times out of ten. You know what I'm going to do?"
+    }
+  ]
+}
