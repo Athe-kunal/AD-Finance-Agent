@@ -1,1 +1,782 @@
-{"text": " Thank you. Okay. I was trying to make sense of all the things stuck on it. Is this yours? It's like my five-year-old if I gave him a water bottle would do this, but did not. So before I start today, So we started to and go through 3.50 p.m. Don't ask me why the university has these strange timings. I guess they need the rooms. It's an hour and 15 minutes long. So it is, you know, so I just wanted to get that date on your calendar in case you completely forgot there's a final exam. Your project is due for the start of that week on May 8th. wanted to make that clip before we started. Today we're going to actually talk about valuing businesses as a collection of pieces. What are you talking about? Let's say Coca-Cola. It's in 72 different countries. It's on five different continents. Could I value Coca-Cola as geographically taking each part of the world they're in and valuing that part? So take Asia, take North America, take Latin America. Could I do that? So let's do a geographic, let's do it by continent, five continents. The question is, but remember when you do a weighted average, what are you assuming about the weights? I was going to say the same. So if Asia is growing quickly and North a sum of the parts valuation of a company and I do an intrinsic valuation of the whole company and I do them both right, should I get the same value for the sum of them? Assuming I do both right, of course, if I do wrong or are there conditions on which where if you do a few weeks ago? They put up into six different businesses. In the case of Alibaba, whycent and JD have seen their prices not just collapse, but stay low. I don't know what the motives for the Alibaba breakup are, but one could be that by making themselves into six small businesses, they make themselves less of a concern to the Chinese government saying, look, we're smaller now, we can't you remember the last session we were talking about running a regression across the entire market i. The growth coefficient, the regression is what the market is willing to pay for growth. So in 2000, the equity risk premium was at 2%. That was the peak of the dot combo. So market's not charging much for risk. It's paying 2.11 for every 1% of growth. It's paying a high price for growth. So if you're a high growth, high risk company, this is about as good as it gets, right? You're not being punished for being regression that I ran three months ago today, my guess is the coefficient on growth is going to have gone up from 0.46 to a higher number. But I want you to track that number over time because it's going to tell you something about what is the market charging for investing in risky companies and what is it willing to pay for higher growth companies. So that's a PE ratio discussion. Question? Growth in the sense of being expected growth going to run a linear regression. So I took the peg ratio, the price earnings to growth, and did a scatterplot against growth. Again, it looks like a shotgun blast, right? It's all over the place. Now, you could try to figure out whether it's linear, but I give up. I don't know if it's linear. So if any of you have used statistics, I use SPSS, but I know Minitab has the same feature. There's a test for linearity you, it looked like the relationship is more linear. I sent a link to my statistics mini course that I have online, but you don't have to watch the entire course. I think there's one session on regressions. If you want to watch it, you can see that I take you through the test for linearity. So you can make sure that when you run a regression, you're not forcing a linear regression on something that's non-linear. have lower peg ratios, at least across the market. Whereas with PE ratios, we got the opposite relationship. So nothing else it tells you. When you use peg ratios, you still have to think about growth. You just have to remember that higher growth companies now will have lower peg ratios. The next six pages. I have price earnings ratios, peg ratios, price to book, EV to EBITDA, EV to sales, and EV to investment capital. So you pick any one of these six. I have these regressions across five regions of the world. US companies, European companies, Japanese companies, emerging market companies, Australia, New Zealand, Canada. your company's payout ratio to give you a predicted price earnings ratio for your company, given how other US stocks are priced. You could also take the same stock and run against a global regression. Will you get the same PE ratio? Not necessarily. You're asking a different question, right? When you run the US regression, the question you're asking is, given how other US stocks are priced, what should Coca-Cola's PE ratio be? With a second regression, with a global regression, the question you're have to, you know, ask and answer. Isha asked me this question already, but I'm sure others will come to the same point or reach the same point, which is, you know, all these choices in terms of multiples, which one should we use? Let's start with the first one. What's in the numerator? You can either have enterprise value or equity value, right? If you're doing a financial service firm, a bank, an investment bank, financial service company and make it always equity. We're doing a financial service company. Second choice you're going to run into. What gold do I denominate? Remember the scalars? Revenues. You can have EBITDA. You can have EBIT. You can have net income. You can have cash flows. You can have book value. You can even have number of users, number of subscribers. Which one should I use? Here are three questions to ask. First is, how are you measuring value? If you're measuring it as enterprise value, some of these scalars can't be used, right? I don't like earnings per share. Why? Because everything accountants do affects earnings per share. So if you have aggressive accounting, you can end up with companies looking cheap. So that's just my personal bias. But you have to factor that in because remember, some of these scale hours are more affected by accounting choices than others. So you picked a numerator, you picked a denominator. Third choice you going to be driven by partly what stage in the life cycle your company is. When you have very young companies, go with forward numbers because you will get more substance. If you have more mature companies, you have more choice. You can stay with current numbers or trailing numbers because you already have substance. Good question. just US companies or whether you go with the global sample. Second, if you're worried about the fact that you have a small company in a sector filled with big companies, you have a big company in a sector filled with small companies, rather than beat yourself up by asking smaller or larger companies have higher or lower price-earnings ratios or EV to EBITDAs, let the data tell. You know what I mean by that? You have 60, 70, 80 companies in your sample. So I'm not trying to direct you to one choice or the other, but I'm be differences between your company and the rest of the companies. You can tell me a story if that's what makes your clock tick, but if we can control for those differences, which is what all those regressions you saw the last session were about, even better. So complete your pricing. front of you look at what's high look what's low look at where your company falls in that histogram and if you're losing companies in the process of computing a multiple you know what i mean by that if you do p e ratio you lose seven companies out of the 20 you had in your project if you start at the pricing. Any questions? I want to take a little detour.'re selling the pieces of the company for scrap. You're adding them. You have to value each individual asset you have to sell. You have no choice. You can't value the whole company because you have to sell the pieces. what accountants are doing is so dangerous, but the reality is a lot of asset-based valuation, you have to value each individual item separately and shorten the balance sheet. The third scenario we might run into asset-based valuation is when you want to value the piece because you want to do something about it. You're an acquirer planning to take over a company and break it up. You want to value the pieces to see what you can get in a salad oil and the whole thing became a legal nightmare and American Express's stock price dropped and what Warren Buffett did was he took the green card the American Express card franchise valued the franchise separately valued two other smaller business that American Express was in and he saw that the price was trading at half of just the franchise value of the green card he bought the flows and discounting the bank. What's the other? I can price the asset. Asset-based valuation is not a third approach. I can either do intrinsic valuation. It's an application of one of those approaches. And that's why I don't think of it as a third way of putting a number. It's just either intrinsic valuation in pieces or pricing in pieces. So with that lead in, let's, and of course, there's a third way in which you can put a number, Asset-based valuation is the easiest to do when you have separable assets. I'll give you an example. You have a real estate company with 10 rental properties that it owns. Can you value each property separately? Each property has its rental income, its expenses. They have separate value. In contrast, let's suppose you wanted to do a sum of the parts valuation of this. How would that even work? you what's Disney streaming's income statement look like? The only answer you can give me, it looks awful, but I don't know how awful, because they don't break their revenues down by business and their expenses down and their cash flows down by business. So separable assets, standalone earnings and cash flows, you can value each one individually. And finally, it's nice if you can find an active market for similar assets. Let's go back to the real estate example. Can I price each property separately? Let a value mission or a pricing mission? What do you have to do? You have to sell it, right? What do people pay? You can show them your DCF. Look, I've done a DCF. You know, it's worth at least $15 million. I don't care. I'll pay you $6. valuation should really be liquidation pricing with a discount attached, the more in a hurry you are to liquidate assets. What about fair value accounting? Any of you planning to become CPAs here? You are? Oh my God. You need helpback I thought was we're doing it for good reasons. We want investors to know what they're investing. So I asked them to send me the original accounting rule that gave birth to fair value accounting. And I noticed that they talked a lot about attaching numbers to assets based on what a market participant would pay in an arm's length transaction if you sold the asset. I don't have a problem with that. But here's what I have a problem with. When they wrote this, they also required accountants who did this to back up that number with a discounted cash flow valuation. You see the problem here? This is like asking people to bring a baseball bat to a soccer game. That's actually not a bad every period. Now, if you're Fidelity and you invest in publicly traded companies, that happens automatically with publicly traded stocks, right? Everything gets marked to market because the market price changes. But starting about a decade ago, Fidelity and other we know what piece of Uber we own, and we take that $65 billion, we should be coming up with roughly a billion. Otherwise, the accounting regulators will not accept the number. So we've tried everything. We've tried to push the growth rate above the risk-free rate. So I said, yes, what do you need to do? Take the reinvestment out, make the middle. Throw an AI story in the middle. Nobody will have any idea what it does. So you will learn the tricks, but it's not your you can see how this process plays out. The company is called United Technologies. I used to call it the poor man's GE, but now I call it the rich man's GE because at that time when it was the poor man some of the parts valuation easy to do. United Technologies broke down almost everything by business. I think they maintain separate financials for the company. They have a consolidated company, but they report revenues, EBITDA, EBIT, CapEx, depreciation, everything you'd get in a traditional financial state. And here's what you do. You take the EBITDA of each of the six businesses, which you will give it. You take the average EBITDA of each sector. How you have that after dinner and three drinks, I don't know. But maybe you have an S&P Capital IQ access there. You pull it up. You pull up the... And then you take each business's EBITDA and you multiply it by the EBITDA for the sector to come up with an estimated enterprise value. You see why I call it back the envelope? You're essentially taking each business's EBITDA, do a better pricing? What do we do with traditional companies to control for the fact that they had higher growth and lower risk and different payout? What do we do to bring those into our pricing? Remember around those regressions of P against growth? What if I did that? And that's basically what I did is I took each of the businesses, it's a lot of work because you now have to do six pricings to get a pricing for a single company. In defense, EV to revenues work the best. So with each one, I'm getting the advantage of picking the best regression in terms of predictive value. And you know what I'm going to do next, right? I took United Technologies numbers for each business, plugged them into the regression and got predicted. And so think of this as a more sophisticated pricing. You're pricing each business based, not just in the average, but on the fact that you have higher growth and lower risk in each business. I don't think I mentioned, Can I do an intrinsic valuation of these six businesses? Or let me ask you the question differently. What would I need to do to do an intrinsic valuation in some of the parts here? I would take each business and estimate cash flows and growth and risk. And I have the ammunition to do it. It's a pain in the neck to do, but I can do it. So let me start by estimating the cost of capital for each of these six businesses. So rather than computing one cost of capital for the entire company, business is a good or bad business return on capital so i computed the return on capital on these six business and again i have the ammunition here because i have all the numbers i need operating income book value of debt book value of equity cash or to the return capital remember the foreign security business look good it's return on capital is actually a little lower than my cost of capital i now have a return on capital for each of the six businesses in addition but as good as it gets. And for Europe, I would put a negative growth because of rules coming from the EU on health. I might say, look, I'm looking forward. I'll get minus 5% growth. I get the luxury of having different growth periods and different growth rates, and I build them in. So I have very different companies in terms of return on capital, cost of capital, growth rates, growth periods. But here's the bottom line. With those inputs put in, I get an intrinsic value for each of the five businesses. business companies where they've centralized some functions like accounting right each so rather than have each business do its own accounting they're all centralized you're saying so what those costs are not in my habitat and the case of united technologies those costs amounted to 408 million dollars in the year that i did this valuation when i when i see people doing some of the parts valuation of 75.7 billion. looking for if you're actually looking for a company trading at the less of some of the spots if you want to do an intrinsic valuation it takes work right but if you're only two or three business it's not that much more you just have to take each business separately valued add them all up any questions on intrinsic valuation i'm sorry about the colors i should pick them differently but this was about five years ago so ge by this time had fallen from its glory days the company that GE made was well above the cost of capital. So think of them as their good businesses. There are still three good businesses left in GE. The yellow, power, renewable energy, and oil and gas, are businesses where they earn roughly or close to their cost of capital. And I'm cutting them a lot of slack in terms of how much below. The two red businesses, lighting and GE Capital, are offer businesses. 27 billion, but that's the enterprise value for GE Capital. You subtract out the debt, which is 51 billion for GE Capital. GE Capital alone has a minus $24 billion value. The first reaction is, why don't you just shut the damn thing down? If they could, they would. The only problem is you've entangled it in everything else. You can't shut it down. This is the problem that GE has faced over the last seven years, is with GE Capital in the middle, And now, of course, they're having to deal with that effect. So in many ways, the monster he created is now the monster bringing them down. So any questions about some of the parts valuation? Some of your companies, you might be able to try it at least on a very, very rough basis, at least on the pricing side. So give it a shot. It's actually an interesting way to think about why am I paying this much for a company? I know right now, you've heard Scott Galloway, right? the ecosystem is connecting all of them and it's not easy to separate that ecosystem into its individual parts. Let's talk about value private businesses. You know what I mean by private business. These are privately owned businesses. And I'm going to start by stating something that shouldn't have to be said, but I want to put on the table. You say, who cares that there's no market value of equity? First, in your valuation of your public company, did the market value of equity actually become an input into your discounted cash flow valuation? Or let me rephrase the question, where did it become an input? One is in the cost of capital, right? What are the weights you need? You need market value weights for debt and equity. Already you can say, well, how the heck do I compute a. When you value a private company, you come up with a value of $3 per share, there's nothing to compare. You could be off by a thousand, factor of thousands. You have no idea. It's nice to have something to compare. I know for some of you, it became more than something to compare. It became something to hold on to and you got closer and closer and closer. Then you were right there. not be able to get a pay. So not having a market price is going to be a problem. It's not an insurmountable problem, but we have to figure out ways to get a lot. Let's talk about what problems you might run into in estimating cash flows. The definition for free cash flow to the firm is exactly the same for a private as opposed to public company. You need earnings, you need net capex, you need change from working capital, you need a fight with your mother? She said, no, I went and asked my mother for financials. And she took me into a small storage room in the back where every wall was covered with post-it notes. She said, that's my revenue wall. And she had all these pink post-it notes. She had different colors, at least. There was a cost wall. And that's how she did her accounting. She had a flower shop run.15, it seems to disappear for an hour. Strangely, at the times that kids' schools let out, right? I mean, can you blame the owner for saying, take the van, pick up the kids, drop them off at home, bring them back? I won't tell the IRS. You don't tell the IRS. We're all okay. And there are employees that a private business has. So what does that guy do? He seems to be doing nothing. I don't know. He has. Why? Because they're going to get whatever's left over anyway. You're saying, so what? Even if they do their financials right, you see why this is going to create a problem? They give you the income statement for the business, but remember, they didn't charge themselves a salary. Let's say you're naive enough to pay for that business based on what the income statement said. that salary. None of these are insurmountable problems, but they're problems anyway. One final point about private companies. With a public company, you can ask the question, why do you want me to value the public company? The answer seems obvious. You value the public company, the market price, you buy it cheap, you sell it expensive. With a private company, motive matters. I remember about 25 years ago, this lady wanders into my office. I thought she to sell the business. I said, to whom? She said, you have a lot of questions. I said, I need to know. She said, what do you mean to whom? I said, are you going to sell it to a publicly traded company? Maybe Hershey's is interested in is the most difficult setup when you have a private to private transaction. Own of a private business is selling to another capital. So you're valuing the company because you want them to invest in it. But ultimately, you plan to exit with an IPO. How this process plays out in valuation. So let's start with private to private transactions and list out the challenges you will face that investors diversified. Already you can see the challenge. The entire structure for using payday is going to come apart because the buyer is not diversified. We'll talk about how to get over it, but that's going to be an issue. Second, that investment you're making in that private business is illiquid. I know people like to use the word illiquidity discounts. I prefer the term cost of buyer's remorse. Have you ever had buyer's remorse, if you bought and sold Apple, is probably one-tenth of 100th of a percent. But if you, none of you is wealthy enough to do this yet, but let's say you get to be 35, 40, you've had a long day at work, you're on your way home, you stop at the corner grocery store, you're tiredto-private transactions, you have what I call a key person effect on value. Again, I'll use a personal example to bring this on. I've had four kids. They've all needed braces. This is an extraordinarily involved process. I wouldn't even go to a dentist until I was 32. So luckily, I was genetically okay with my teeth, I guess. Otherwise, all my teeth would be out by now. Oh, you're 40 years old? Why are you retiring? He said, I'm pretty rich. And I said, I know. My credit card already shows that. And he said, I'm trying to sell the business, but I'm running into a problem. I show potential buyers the value of the business or the income I made last year. And I made a lot of income. It's like rubbing it in. I don't know exactly where that income is coming from. But they're not paying that income. And you can see why, right? If you're a dentist and you buy Howie's business, and doctors do this. Get more dentists. I'm not going to solve the problem. He still wants to go off to, I don't know where he wants to retire to, the Cayman Islands, I guess. What's making it difficult is the next day when I show up, there's this new dentist I've never seen, right? I said, Howie, I have some bad news for you. The path I'm going to give you is going to give you a higher value, but you've got to hang. And that's good news. AI can replace a public company valuation. AI is much more difficult to replace in private company appraisal because you've got to talk to people. You've got to understand the transaction. So think of that as good news. While you're struggling with private company valuation, this is why people will still need you, even if AI takes over everywhere else. So next session, we're going to spend time valuing a restaurant.", "chunks": [{"timestamp": [0.0, 152.39], "text": " Thank you. Okay. I was trying to make sense of all the things stuck on it. Is this yours? It's like my five-year-old if I gave him a water bottle would do this, but did not."}, {"timestamp": [155.93, 219.54], "text": " So before I start today, So we started to and go through 3.50 p.m. Don't ask me why the university has these strange timings. I guess they need the rooms. It's an hour and 15 minutes long. So it is, you know, so I just wanted to get that date on your calendar in case you completely"}, {"timestamp": [219.54, 220.92], "text": " forgot there's a final exam."}, {"timestamp": [221.48, 225.32], "text": " Your project is due for the start of that week on May 8th."}, {"timestamp": [271.45, 278.01], "text": " wanted to make that clip before we started. Today we're going to actually talk about valuing businesses as a collection of pieces. What are you talking about? Let's say Coca-Cola."}, {"timestamp": [278.55, 285.31], "text": " It's in 72 different countries. It's on five different continents. Could I value Coca-Cola"}, {"timestamp": [285.31, 290.47], "text": " as geographically taking each part of the world they're in and valuing that part? So take"}, {"timestamp": [290.47, 350.53], "text": " Asia, take North America, take Latin America. Could I do that? So let's do a geographic, let's do it by continent, five continents. The question is, but remember when you do a weighted average, what are you assuming about the weights?"}, {"timestamp": [352.77, 421.04], "text": " I was going to say the same. So if Asia is growing quickly and North a sum of the parts valuation of a company and I do an intrinsic valuation of the whole company and I do them both right, should I get the same value for the sum of them? Assuming I do both right, of course, if I do wrong"}, {"timestamp": [423.04, 552.97], "text": " or are there conditions on which where if you do a few weeks ago? They put up into six different businesses. In the case of Alibaba, whycent and JD have seen their prices not just collapse, but stay low. I don't know what the motives for the Alibaba breakup are, but one could be that by making themselves into six small businesses, they make themselves less"}, {"timestamp": [552.97, 556.53], "text": " of a concern to the Chinese government saying, look, we're smaller now, we can't"}, {"timestamp": [620.94, 685.07], "text": " you remember the last session we were talking about running a regression across the entire market i. The growth coefficient, the regression is what the market is willing to pay for growth. So in 2000, the equity risk premium was at 2%. That was the peak of the dot combo. So market's not charging much for risk. It's paying"}, {"timestamp": [685.07, 691.11], "text": " 2.11 for every 1% of growth. It's paying a high price for growth. So if you're a high growth,"}, {"timestamp": [691.21, 753.75], "text": " high risk company, this is about as good as it gets, right? You're not being punished for being regression that I ran three months ago today, my guess is the coefficient on growth is going to have gone up from 0.46 to a higher number. But I want you to track that number over time because it's going to tell you something about what is the market charging for investing in risky companies and what is it willing to pay for higher growth companies. So that's a PE ratio discussion."}, {"timestamp": [753.89, 817.98], "text": " Question? Growth in the sense of being expected growth going to run a linear regression. So I took the peg ratio, the price earnings to growth, and did a scatterplot against growth. Again, it looks like a shotgun blast, right? It's all over the place. Now, you could try to figure out whether it's linear, but I"}, {"timestamp": [817.98, 820.06], "text": " give up. I don't know if it's linear. So if any"}, {"timestamp": [820.06, 821.9], "text": " of you have used statistics, I use"}, {"timestamp": [821.9, 823.76], "text": " SPSS, but I know"}, {"timestamp": [823.76, 825.94], "text": " Minitab has the same feature. There's"}, {"timestamp": [825.94, 884.39], "text": " a test for linearity you, it looked like the relationship is more linear. I sent a link to my statistics mini course that I have online, but you don't have to watch the entire course. I think there's one session on regressions. If you want to watch it, you can see that I take you through"}, {"timestamp": [884.39, 889.69], "text": " the test for linearity. So you can make sure that when you run a regression, you're not forcing a"}, {"timestamp": [889.69, 951.41], "text": " linear regression on something that's non-linear. have lower peg ratios, at least across the market. Whereas with PE ratios, we got the opposite relationship. So nothing else it tells you. When you use peg ratios,"}, {"timestamp": [951.49, 956.09], "text": " you still have to think about growth. You just have to remember that higher growth companies now"}, {"timestamp": [956.09, 1018.08], "text": " will have lower peg ratios. The next six pages. I have price earnings ratios, peg ratios, price to book, EV to EBITDA, EV to sales, and EV to investment capital."}, {"timestamp": [1018.26, 1019.66], "text": " So you pick any one of these six."}, {"timestamp": [1020.26, 1023.74], "text": " I have these regressions across five regions of the world."}, {"timestamp": [1024.18, 1026.86], "text": " US companies, European companies, Japanese companies,"}, {"timestamp": [1026.86, 1085.29], "text": " emerging market companies, Australia, New Zealand, Canada. your company's payout ratio to give you a predicted price earnings ratio for your company, given how other US stocks are priced. You could also take the same stock and run against a global regression. Will you get the same PE ratio? Not necessarily. You're asking a different question, right? When you run the US regression, the question you're asking is,"}, {"timestamp": [1085.61, 1091.53], "text": " given how other US stocks are priced, what should Coca-Cola's PE ratio be? With a second regression,"}, {"timestamp": [1091.61, 1152.25], "text": " with a global regression, the question you're have to, you know, ask and answer. Isha asked me this question already, but I'm sure others will come to the same point or reach the same point, which is, you know, all these choices in terms of multiples, which one should we use?"}, {"timestamp": [1152.81, 1153.81], "text": " Let's start with the first one."}, {"timestamp": [1154.21, 1154.97], "text": " What's in the numerator?"}, {"timestamp": [1155.11, 1156.71], "text": " You can either have enterprise value"}, {"timestamp": [1156.71, 1157.67], "text": " or equity value, right?"}, {"timestamp": [1158.49, 1161.05], "text": " If you're doing a financial service firm,"}, {"timestamp": [1161.15, 1217.0], "text": " a bank, an investment bank, financial service company and make it always equity. We're doing a financial service company. Second choice you're going to run into. What gold do I denominate? Remember the scalars? Revenues. You can have EBITDA. You can have EBIT. You can have net income. You can have cash flows. You can have book value."}, {"timestamp": [1219.72, 1221.2], "text": " You can even have number of users, number of subscribers."}, {"timestamp": [1222.32, 1223.48], "text": " Which one should I use? Here are three questions to ask."}, {"timestamp": [1223.58, 1225.62], "text": " First is, how are you measuring value?"}, {"timestamp": [1225.66, 1227.74], "text": " If you're measuring it as enterprise value,"}, {"timestamp": [1227.92, 1229.58], "text": " some of these scalars can't be used, right?"}, {"timestamp": [1272.57, 1273.73], "text": " I don't like earnings per share. Why? Because everything accountants do affects earnings per share."}, {"timestamp": [1277.75, 1278.21], "text": " So if you have aggressive accounting, you can end up with companies looking cheap."}, {"timestamp": [1285.23, 1286.29], "text": " So that's just my personal bias. But you have to factor that in because remember, some of these scale hours are more affected by accounting choices than others."}, {"timestamp": [1290.29, 1350.63], "text": " So you picked a numerator, you picked a denominator. Third choice you going to be driven by partly what stage in the life cycle your company is. When you have very young companies, go with forward numbers because you will get more substance. If you have more mature companies, you have more choice. You can stay with current numbers or trailing numbers because you already have substance."}, {"timestamp": [1350.63, 1351.39], "text": " Good question."}, {"timestamp": [1406.0, 1410.56], "text": " just US companies or whether you go with the global sample. Second, if you're worried about the fact that you have a small company in a sector filled with big companies, you have a big company"}, {"timestamp": [1410.56, 1416.96], "text": " in a sector filled with small companies, rather than beat yourself up by asking smaller or larger"}, {"timestamp": [1416.96, 1423.28], "text": " companies have higher or lower price-earnings ratios or EV to EBITDAs, let the data tell."}, {"timestamp": [1423.28, 1483.91], "text": " You know what I mean by that? You have 60, 70, 80 companies in your sample."}, {"timestamp": [1491.49, 1553.77], "text": " So I'm not trying to direct you to one choice or the other, but I'm be differences between your company and the rest of the companies. You can tell me a story if that's what makes your clock tick, but if we can control for those differences, which is what all those regressions you saw the last session were"}, {"timestamp": [1553.77, 1619.66], "text": " about, even better. So complete your pricing. front of you look at what's high look what's low look at where your company falls in that histogram and if you're losing companies in the process of computing a multiple you know what i mean by that if you do p e ratio you lose seven companies"}, {"timestamp": [1619.66, 1683.63], "text": " out of the 20 you had in your project if you start at the pricing."}, {"timestamp": [1683.63, 1684.27], "text": " Any questions?"}, {"timestamp": [1688.91, 1751.93], "text": " I want to take a little detour.'re selling the pieces of the company for scrap."}, {"timestamp": [1752.39, 1757.13], "text": " You're adding them. You have to value each individual asset you have to sell."}, {"timestamp": [1757.17, 1760.09], "text": " You have no choice. You can't value the whole company because you have to sell the pieces."}, {"timestamp": [1804.52, 1804.64], "text": " what accountants are doing is so dangerous, but the reality is a lot of asset-based valuation,"}, {"timestamp": [1808.52, 1809.94], "text": " you have to value each individual item separately and shorten the balance sheet."}, {"timestamp": [1815.02, 1819.18], "text": " The third scenario we might run into asset-based valuation is when you want to value the piece because you want to do something about it. You're an acquirer planning to take over a company and"}, {"timestamp": [1819.18, 1883.97], "text": " break it up. You want to value the pieces to see what you can get in a salad oil and the whole thing became a legal nightmare and American Express's stock price dropped and what Warren Buffett did was he took the green card the American Express card franchise valued the franchise separately valued two other smaller"}, {"timestamp": [1883.97, 1889.79], "text": " business that American Express was in and he saw that the price was trading at half of just the"}, {"timestamp": [1889.79, 1953.09], "text": " franchise value of the green card he bought the flows and discounting the bank. What's the other? I can price the asset. Asset-based valuation is not a third approach. I can either do intrinsic valuation. It's an application of one of those approaches. And that's why I don't think of it as a third way"}, {"timestamp": [1953.09, 1958.53], "text": " of putting a number. It's just either intrinsic valuation in pieces or pricing in pieces."}, {"timestamp": [1959.37, 2018.64], "text": " So with that lead in, let's, and of course, there's a third way in which you can put a number, Asset-based valuation is the easiest to do when you have separable assets. I'll give you an example. You have a real estate company with 10 rental properties that it owns. Can you value each property separately? Each property has its rental income, its expenses."}, {"timestamp": [2019.64, 2020.42], "text": " They have separate value."}, {"timestamp": [2020.42, 2024.74], "text": " In contrast, let's suppose you wanted to do a sum of the parts valuation of this."}, {"timestamp": [2025.86, 2026.94], "text": " How would that even work?"}, {"timestamp": [2071.23, 2071.27], "text": " you what's Disney streaming's income statement look like? The only answer you can give me,"}, {"timestamp": [2075.91, 2081.97], "text": " it looks awful, but I don't know how awful, because they don't break their revenues down by business and their expenses down and their cash flows down by business. So separable assets,"}, {"timestamp": [2082.29, 2087.23], "text": " standalone earnings and cash flows, you can value each one individually. And finally, it's nice if"}, {"timestamp": [2087.23, 2091.67], "text": " you can find an active market for similar assets. Let's go back to the real estate example."}, {"timestamp": [2092.47, 2151.85], "text": " Can I price each property separately? Let a value mission or a pricing mission?"}, {"timestamp": [2152.63, 2152.71], "text": " What do you have to do?"}, {"timestamp": [2153.77, 2154.13], "text": " You have to sell it, right?"}, {"timestamp": [2154.89, 2155.03], "text": " What do people pay?"}, {"timestamp": [2156.21, 2156.27], "text": " You can show them your DCF."}, {"timestamp": [2157.63, 2157.71], "text": " Look, I've done a DCF."}, {"timestamp": [2159.37, 2159.51], "text": " You know, it's worth at least $15 million."}, {"timestamp": [2160.11, 2161.33], "text": " I don't care."}, {"timestamp": [2284.55, 2290.01], "text": " I'll pay you $6. valuation should really be liquidation pricing with a discount attached, the more in a hurry you are to liquidate assets. What about fair value accounting? Any of you planning to become CPAs here? You are? Oh my God. You need helpback I thought was we're doing it for good reasons. We want investors to know what they're investing. So I asked them to send me the original accounting rule that gave birth to fair value accounting. And I noticed that they talked a lot about attaching numbers to assets based on what a market participant would pay"}, {"timestamp": [2290.01, 2352.47], "text": " in an arm's length transaction if you sold the asset. I don't have a problem with that. But here's what I have a problem with. When they wrote this, they also required accountants who did this to back up that number with a discounted cash flow valuation. You see the problem here?"}, {"timestamp": [2352.89, 2483.87], "text": " This is like asking people to bring a baseball bat to a soccer game. That's actually not a bad every period. Now, if you're Fidelity and you invest in publicly traded companies, that happens automatically with publicly traded stocks, right? Everything gets marked to market because the market price changes. But starting about a decade ago, Fidelity and other we know what piece of Uber we own, and we take that $65 billion, we should be coming up with roughly a billion. Otherwise, the accounting regulators will not accept the number. So we've tried everything."}, {"timestamp": [2484.47, 2487.25], "text": " We've tried to push the growth rate above the risk-free rate."}, {"timestamp": [2487.85, 2491.47], "text": " So I said, yes, what do you need to do?"}, {"timestamp": [2491.69, 2550.75], "text": " Take the reinvestment out, make the middle. Throw an AI story in the middle. Nobody will have any idea what it does."}, {"timestamp": [2551.77, 2617.48], "text": " So you will learn the tricks, but it's not your you can see how this process plays out. The company is"}, {"timestamp": [2617.48, 2623.94], "text": " called United Technologies. I used to call it the poor man's GE, but now I call it the rich man's GE"}, {"timestamp": [2623.94, 2686.62], "text": " because at that time when it was the poor man some of the parts valuation easy to do. United Technologies broke down almost everything by business. I think they maintain separate financials"}, {"timestamp": [2686.62, 2687.04], "text": " for the company."}, {"timestamp": [2687.14, 2688.1], "text": " They have a consolidated company,"}, {"timestamp": [2688.24, 2691.02], "text": " but they report revenues, EBITDA, EBIT,"}, {"timestamp": [2691.14, 2692.26], "text": " CapEx, depreciation,"}, {"timestamp": [2692.36, 2694.74], "text": " everything you'd get in a traditional financial state."}, {"timestamp": [2734.21, 2734.83], "text": " And here's what you do."}, {"timestamp": [2738.13, 2738.43], "text": " You take the EBITDA of each of the six businesses, which you will give it."}, {"timestamp": [2740.75, 2740.87], "text": " You take the average EBITDA of each sector."}, {"timestamp": [2743.75, 2743.81], "text": " How you have that after dinner and three drinks, I don't know."}, {"timestamp": [2746.25, 2746.53], "text": " But maybe you have an S&P Capital IQ access there."}, {"timestamp": [2747.17, 2747.23], "text": " You pull it up."}, {"timestamp": [2747.91, 2753.33], "text": " You pull up the... And then you take each business's EBITDA and you multiply it by the EBITDA for the sector"}, {"timestamp": [2753.33, 2755.53], "text": " to come up with an estimated enterprise value."}, {"timestamp": [2756.61, 2757.99], "text": " You see why I call it back the envelope?"}, {"timestamp": [2758.37, 2817.14], "text": " You're essentially taking each business's EBITDA, do a better pricing? What do we do with traditional companies to control for the fact that they had higher growth and lower risk and different payout? What do we do to bring those into our pricing?"}, {"timestamp": [2819.98, 2820.32], "text": " Remember around those regressions of P against growth?"}, {"timestamp": [2821.46, 2821.52], "text": " What if I did that?"}, {"timestamp": [2822.68, 2824.16], "text": " And that's basically what I did is I took each of the businesses,"}, {"timestamp": [2824.66, 2825.32], "text": " it's a lot of work"}, {"timestamp": [2825.32, 2827.36], "text": " because you now have to do six pricings"}, {"timestamp": [2827.36, 2883.34], "text": " to get a pricing for a single company. In defense, EV to revenues work the best. So with each one, I'm getting the advantage of picking the best regression in terms of predictive value. And you know what I'm going to do next, right? I took United Technologies numbers for each business, plugged them into the regression and got predicted."}, {"timestamp": [2883.58, 2886.06], "text": " And so think of this as a more sophisticated pricing."}, {"timestamp": [2886.18, 2887.94], "text": " You're pricing each business based,"}, {"timestamp": [2888.06, 2888.9], "text": " not just in the average,"}, {"timestamp": [2888.9, 2890.8], "text": " but on the fact that you have higher growth"}, {"timestamp": [2890.8, 2892.12], "text": " and lower risk in each business."}, {"timestamp": [2892.94, 2894.08], "text": " I don't think I mentioned,"}, {"timestamp": [2936.47, 2936.63], "text": " Can I do an intrinsic valuation of these six businesses?"}, {"timestamp": [2938.13, 2938.53], "text": " Or let me ask you the question differently."}, {"timestamp": [2942.05, 2943.37], "text": " What would I need to do to do an intrinsic valuation in some of the parts here?"}, {"timestamp": [2944.93, 2947.61], "text": " I would take each business and estimate cash flows"}, {"timestamp": [2947.61, 2948.67], "text": " and growth and risk."}, {"timestamp": [2949.45, 2951.19], "text": " And I have the ammunition to do it."}, {"timestamp": [2951.27, 2953.07], "text": " It's a pain in the neck to do, but I can do it."}, {"timestamp": [2953.11, 2955.57], "text": " So let me start by estimating the cost of capital"}, {"timestamp": [2955.57, 2956.91], "text": " for each of these six businesses."}, {"timestamp": [2957.73, 2960.03], "text": " So rather than computing one cost of capital"}, {"timestamp": [2960.03, 2961.15], "text": " for the entire company,"}, {"timestamp": [3005.04, 3009.42], "text": " business is a good or bad business return on capital so i computed the return on capital on these six business and again i have the ammunition here because i have all the numbers"}, {"timestamp": [3009.42, 3014.08], "text": " i need operating income book value of debt book value of equity cash or to the return capital"}, {"timestamp": [3014.08, 3021.16], "text": " remember the foreign security business look good it's return on capital is actually a little lower"}, {"timestamp": [3021.16, 3085.04], "text": " than my cost of capital i now have a return on capital for each of the six businesses in addition but as good as it gets. And for Europe, I would put a negative growth because of rules coming from the EU on health. I might say, look, I'm looking forward. I'll get minus 5% growth. I get the luxury of having different growth periods and different growth rates, and I build them in. So I have very different companies"}, {"timestamp": [3085.04, 3087.1], "text": " in terms of return on capital, cost of capital,"}, {"timestamp": [3087.26, 3088.62], "text": " growth rates, growth periods."}, {"timestamp": [3089.16, 3090.12], "text": " But here's the bottom line."}, {"timestamp": [3090.12, 3091.8], "text": " With those inputs put in,"}, {"timestamp": [3092.46, 3150.53], "text": " I get an intrinsic value for each of the five businesses. business companies where they've centralized some functions like accounting right each so rather than have each business do its own accounting they're all centralized you're saying so what those costs are not in my habitat and the case of united technologies those costs amounted to"}, {"timestamp": [3150.53, 3154.55], "text": " 408 million dollars in the year that i did this valuation"}, {"timestamp": [3154.55, 3224.12], "text": " when i when i see people doing some of the parts valuation of 75.7 billion."}, {"timestamp": [3271.18, 3276.06], "text": " looking for if you're actually looking for a company trading at the less of some of the spots if you want to do an intrinsic valuation it takes work right but if you're only two or three"}, {"timestamp": [3276.06, 3281.1], "text": " business it's not that much more you just have to take each business separately valued add them all"}, {"timestamp": [3281.1, 3289.04], "text": " up any questions on intrinsic valuation i'm sorry about the colors i should pick them differently"}, {"timestamp": [3289.04, 3350.83], "text": " but this was about five years ago so ge by this time had fallen from its glory days the company that GE made was well above the cost of capital. So think of them as their good businesses. There are still three good businesses left in GE. The yellow, power, renewable energy, and oil and gas, are businesses where they earn roughly or close to their cost of capital. And I'm cutting them a lot of slack in terms of how much below."}, {"timestamp": [3351.99, 3358.43], "text": " The two red businesses, lighting and GE Capital, are offer businesses."}, {"timestamp": [3403.8, 3403.92], "text": " 27 billion, but that's the enterprise value for GE Capital."}, {"timestamp": [3407.36, 3408.22], "text": " You subtract out the debt, which is 51 billion for GE Capital."}, {"timestamp": [3411.56, 3412.48], "text": " GE Capital alone has a minus $24 billion value."}, {"timestamp": [3414.86, 3415.46], "text": " The first reaction is, why don't you just shut the damn thing down?"}, {"timestamp": [3416.56, 3417.38], "text": " If they could, they would."}, {"timestamp": [3419.88, 3419.92], "text": " The only problem is you've entangled it in everything else."}, {"timestamp": [3421.04, 3424.64], "text": " You can't shut it down. This is the problem that GE has faced over the last seven years,"}, {"timestamp": [3424.86, 3427.0], "text": " is with GE Capital in the middle,"}, {"timestamp": [3470.86, 3471.24], "text": " And now, of course, they're having to deal with that effect."}, {"timestamp": [3476.06, 3477.18], "text": " So in many ways, the monster he created is now the monster bringing them down."}, {"timestamp": [3479.5, 3479.74], "text": " So any questions about some of the parts valuation?"}, {"timestamp": [3485.22, 3485.72], "text": " Some of your companies, you might be able to try it at least on a very, very rough basis, at least on the pricing side."}, {"timestamp": [3491.6, 3491.78], "text": " So give it a shot. It's actually an interesting way to think about why am I paying this much for a company?"}, {"timestamp": [3496.54, 3554.61], "text": " I know right now, you've heard Scott Galloway, right? the ecosystem is connecting all of them and it's not easy to separate that ecosystem into its individual parts. Let's talk about value private businesses. You know what I mean by private business. These are privately owned businesses. And I'm going to start by stating something that"}, {"timestamp": [3554.61, 3619.56], "text": " shouldn't have to be said, but I want to put on the table. You say, who cares that there's no market value of equity? First, in your valuation of your public company, did the market value of equity actually become an input into your discounted cash flow valuation? Or let me rephrase the question, where did it become an input?"}, {"timestamp": [3623.84, 3624.28], "text": " One is in the cost of capital, right? What are the weights you need? You need market value weights for debt and equity."}, {"timestamp": [3629.74, 3687.06], "text": " Already you can say, well, how the heck do I compute a. When you value a private company, you come up with a value of $3 per share, there's nothing to compare. You could be off by a thousand, factor of thousands. You have no idea. It's nice to have something to compare. I know for some of you, it became more than something to compare. It became"}, {"timestamp": [3687.06, 3691.84], "text": " something to hold on to and you got closer and closer and closer. Then you were right there."}, {"timestamp": [3739.89, 3746.13], "text": " not be able to get a pay. So not having a market price is going to be a problem. It's not an insurmountable problem, but we have to figure out ways to get a lot. Let's talk about what problems"}, {"timestamp": [3746.13, 3751.23], "text": " you might run into in estimating cash flows. The definition for free cash flow to the firm is"}, {"timestamp": [3751.23, 3756.63], "text": " exactly the same for a private as opposed to public company. You need earnings, you need net"}, {"timestamp": [3756.63, 3821.7], "text": " capex, you need change from working capital, you need a fight with your mother? She said, no, I went and asked my mother for financials. And she took me into a small storage room in the back where every wall was covered with post-it notes. She said, that's my revenue wall. And she had all these pink post-it notes. She had different colors, at least. There was a cost wall. And that's how she"}, {"timestamp": [3821.7, 3884.78], "text": " did her accounting. She had a flower shop run.15, it seems to disappear for an hour. Strangely, at the times that kids' schools let out, right? I mean, can you blame the owner for saying, take the van, pick up the kids, drop them off at home, bring them back? I won't tell the IRS. You don't tell the IRS. We're all okay."}, {"timestamp": [3886.3, 3889.7], "text": " And there are employees that a private business has."}, {"timestamp": [3889.7, 3892.36], "text": " So what does that guy do? He seems to be doing nothing."}, {"timestamp": [3892.68, 3951.27], "text": " I don't know. He has. Why? Because they're going to get whatever's left over anyway. You're saying, so what? Even if they do their financials right, you see why this is going to create a problem? They give you the income statement"}, {"timestamp": [3951.27, 3954.85], "text": " for the business, but remember, they didn't charge themselves a salary. Let's say you're"}, {"timestamp": [3956.19, 3960.93], "text": " naive enough to pay for that business based on what the income statement said."}, {"timestamp": [4001.12, 4002.18], "text": " that salary."}, {"timestamp": [4004.26, 4004.3], "text": " None of these are insurmountable problems,"}, {"timestamp": [4005.18, 4007.08], "text": " but they're problems anyway."}, {"timestamp": [4008.34, 4010.24], "text": " One final point about private companies. With a public"}, {"timestamp": [4010.24, 4012.34], "text": " company, you can ask the question, why do"}, {"timestamp": [4012.34, 4013.94], "text": " you want me to value the public company?"}, {"timestamp": [4014.06, 4016.0], "text": " The answer seems obvious. You value the public company,"}, {"timestamp": [4016.06, 4018.0], "text": " the market price, you buy it cheap,"}, {"timestamp": [4018.06, 4020.2], "text": " you sell it expensive. With a private"}, {"timestamp": [4020.2, 4021.62], "text": " company, motive matters."}, {"timestamp": [4022.38, 4024.18], "text": " I remember about 25 years"}, {"timestamp": [4024.18, 4024.46], "text": " ago,"}, {"timestamp": [4025.92, 4028.22], "text": " this lady wanders into my office."}, {"timestamp": [4028.4, 4087.4], "text": " I thought she to sell the business. I said, to whom? She said, you have a lot of questions. I said, I need to know. She said, what do you mean to whom? I said, are you going to sell it to a publicly"}, {"timestamp": [4087.4, 4150.33], "text": " traded company? Maybe Hershey's is interested in is the most difficult setup when you have a private to private transaction."}, {"timestamp": [4150.33, 4220.54], "text": " Own of a private business is selling to another capital. So you're valuing the company because you want them to invest in it. But ultimately, you plan to exit with an IPO. How this process plays out in valuation."}, {"timestamp": [4221.46, 4285.5], "text": " So let's start with private to private transactions and list out the challenges you will face that investors diversified. Already you can see the challenge. The entire structure for using payday is going to come apart because the buyer is not diversified. We'll talk about how to get over it, but that's going to be an issue. Second, that investment you're making in that private business is illiquid."}, {"timestamp": [4287.1, 4290.36], "text": " I know people like to use the word illiquidity discounts."}, {"timestamp": [4290.36, 4294.2], "text": " I prefer the term cost of buyer's remorse."}, {"timestamp": [4295.28, 4351.05], "text": " Have you ever had buyer's remorse, if you bought and sold Apple, is probably one-tenth of 100th of a percent."}, {"timestamp": [4351.41, 4353.47], "text": " But if you, none of you is wealthy"}, {"timestamp": [4353.47, 4355.33], "text": " enough to do this yet, but let's say you"}, {"timestamp": [4355.33, 4357.39], "text": " get to be 35, 40, you've had a"}, {"timestamp": [4357.39, 4359.45], "text": " long day at work, you're"}, {"timestamp": [4359.45, 4361.37], "text": " on your way home, you stop at the corner grocery"}, {"timestamp": [4361.37, 4417.88], "text": " store, you're tiredto-private transactions, you have what I call a key person effect on value. Again, I'll use a personal example to bring this on. I've had four kids. They've all needed braces."}, {"timestamp": [4420.2, 4420.34], "text": " This is an extraordinarily involved process."}, {"timestamp": [4421.76, 4422.56], "text": " I wouldn't even go to a dentist until I was 32."}, {"timestamp": [4423.4, 4425.94], "text": " So luckily, I was genetically okay"}, {"timestamp": [4425.94, 4427.02], "text": " with my teeth, I guess."}, {"timestamp": [4427.1, 4428.6], "text": " Otherwise, all my teeth would be out by now."}, {"timestamp": [4468.2, 4469.0], "text": " Oh, you're 40 years old?"}, {"timestamp": [4469.92, 4470.02], "text": " Why are you retiring?"}, {"timestamp": [4471.4, 4471.5], "text": " He said, I'm pretty rich."}, {"timestamp": [4472.16, 4472.24], "text": " And I said, I know."}, {"timestamp": [4474.06, 4475.4], "text": " My credit card already shows that."}, {"timestamp": [4477.32, 4477.42], "text": " And he said, I'm trying to sell the business,"}, {"timestamp": [4478.48, 4478.58], "text": " but I'm running into a problem."}, {"timestamp": [4481.52, 4483.42], "text": " I show potential buyers the value of the business or the income I made last year."}, {"timestamp": [4483.44, 4484.58], "text": " And I made a lot of income."}, {"timestamp": [4484.74, 4485.96], "text": " It's like rubbing it in."}, {"timestamp": [4486.14, 4488.54], "text": " I don't know exactly where that income is coming from."}, {"timestamp": [4490.24, 4492.26], "text": " But they're not paying that income."}, {"timestamp": [4492.3, 4493.26], "text": " And you can see why, right?"}, {"timestamp": [4493.72, 4550.11], "text": " If you're a dentist and you buy Howie's business, and doctors do this. Get more dentists. I'm not going to solve the problem. He still wants to go off to, I don't know where he wants to retire to, the Cayman Islands, I guess. What's making it difficult is the next day when I show up,"}, {"timestamp": [4550.17, 4552.19], "text": " there's this new dentist I've never seen, right?"}, {"timestamp": [4553.35, 4554.01], "text": " I said, Howie,"}, {"timestamp": [4554.71, 4556.17], "text": " I have some bad news for you."}, {"timestamp": [4557.37, 4559.05], "text": " The path I'm going to give you"}, {"timestamp": [4559.05, 4560.57], "text": " is going to give you a higher value,"}, {"timestamp": [4560.57, 4618.56], "text": " but you've got to hang. And that's good news. AI can replace a public company valuation. AI is much more difficult to replace in private company appraisal because you've got to talk to people. You've got to understand the transaction. So think of that as good news. While you're struggling with private company valuation,"}, {"timestamp": [4619.02, 4621.6], "text": " this is why people will still need you,"}, {"timestamp": [4621.7, 4624.26], "text": " even if AI takes over everywhere else."}, {"timestamp": [4624.72, 4629.26], "text": " So next session, we're going to spend time valuing a restaurant."}]}
+{
+  "text": " Thank you. Okay. I was trying to make sense of all the things stuck on it. Is this yours? It's like my five-year-old if I gave him a water bottle would do this, but did not. So before I start today, So we started to and go through 3.50 p.m. Don't ask me why the university has these strange timings. I guess they need the rooms. It's an hour and 15 minutes long. So it is, you know, so I just wanted to get that date on your calendar in case you completely forgot there's a final exam. Your project is due for the start of that week on May 8th. wanted to make that clip before we started. Today we're going to actually talk about valuing businesses as a collection of pieces. What are you talking about? Let's say Coca-Cola. It's in 72 different countries. It's on five different continents. Could I value Coca-Cola as geographically taking each part of the world they're in and valuing that part? So take Asia, take North America, take Latin America. Could I do that? So let's do a geographic, let's do it by continent, five continents. The question is, but remember when you do a weighted average, what are you assuming about the weights? I was going to say the same. So if Asia is growing quickly and North a sum of the parts valuation of a company and I do an intrinsic valuation of the whole company and I do them both right, should I get the same value for the sum of them? Assuming I do both right, of course, if I do wrong or are there conditions on which where if you do a few weeks ago? They put up into six different businesses. In the case of Alibaba, whycent and JD have seen their prices not just collapse, but stay low. I don't know what the motives for the Alibaba breakup are, but one could be that by making themselves into six small businesses, they make themselves less of a concern to the Chinese government saying, look, we're smaller now, we can't you remember the last session we were talking about running a regression across the entire market i. The growth coefficient, the regression is what the market is willing to pay for growth. So in 2000, the equity risk premium was at 2%. That was the peak of the dot combo. So market's not charging much for risk. It's paying 2.11 for every 1% of growth. It's paying a high price for growth. So if you're a high growth, high risk company, this is about as good as it gets, right? You're not being punished for being regression that I ran three months ago today, my guess is the coefficient on growth is going to have gone up from 0.46 to a higher number. But I want you to track that number over time because it's going to tell you something about what is the market charging for investing in risky companies and what is it willing to pay for higher growth companies. So that's a PE ratio discussion. Question? Growth in the sense of being expected growth going to run a linear regression. So I took the peg ratio, the price earnings to growth, and did a scatterplot against growth. Again, it looks like a shotgun blast, right? It's all over the place. Now, you could try to figure out whether it's linear, but I give up. I don't know if it's linear. So if any of you have used statistics, I use SPSS, but I know Minitab has the same feature. There's a test for linearity you, it looked like the relationship is more linear. I sent a link to my statistics mini course that I have online, but you don't have to watch the entire course. I think there's one session on regressions. If you want to watch it, you can see that I take you through the test for linearity. So you can make sure that when you run a regression, you're not forcing a linear regression on something that's non-linear. have lower peg ratios, at least across the market. Whereas with PE ratios, we got the opposite relationship. So nothing else it tells you. When you use peg ratios, you still have to think about growth. You just have to remember that higher growth companies now will have lower peg ratios. The next six pages. I have price earnings ratios, peg ratios, price to book, EV to EBITDA, EV to sales, and EV to investment capital. So you pick any one of these six. I have these regressions across five regions of the world. US companies, European companies, Japanese companies, emerging market companies, Australia, New Zealand, Canada. your company's payout ratio to give you a predicted price earnings ratio for your company, given how other US stocks are priced. You could also take the same stock and run against a global regression. Will you get the same PE ratio? Not necessarily. You're asking a different question, right? When you run the US regression, the question you're asking is, given how other US stocks are priced, what should Coca-Cola's PE ratio be? With a second regression, with a global regression, the question you're have to, you know, ask and answer. Isha asked me this question already, but I'm sure others will come to the same point or reach the same point, which is, you know, all these choices in terms of multiples, which one should we use? Let's start with the first one. What's in the numerator? You can either have enterprise value or equity value, right? If you're doing a financial service firm, a bank, an investment bank, financial service company and make it always equity. We're doing a financial service company. Second choice you're going to run into. What gold do I denominate? Remember the scalars? Revenues. You can have EBITDA. You can have EBIT. You can have net income. You can have cash flows. You can have book value. You can even have number of users, number of subscribers. Which one should I use? Here are three questions to ask. First is, how are you measuring value? If you're measuring it as enterprise value, some of these scalars can't be used, right? I don't like earnings per share. Why? Because everything accountants do affects earnings per share. So if you have aggressive accounting, you can end up with companies looking cheap. So that's just my personal bias. But you have to factor that in because remember, some of these scale hours are more affected by accounting choices than others. So you picked a numerator, you picked a denominator. Third choice you going to be driven by partly what stage in the life cycle your company is. When you have very young companies, go with forward numbers because you will get more substance. If you have more mature companies, you have more choice. You can stay with current numbers or trailing numbers because you already have substance. Good question. just US companies or whether you go with the global sample. Second, if you're worried about the fact that you have a small company in a sector filled with big companies, you have a big company in a sector filled with small companies, rather than beat yourself up by asking smaller or larger companies have higher or lower price-earnings ratios or EV to EBITDAs, let the data tell. You know what I mean by that? You have 60, 70, 80 companies in your sample. So I'm not trying to direct you to one choice or the other, but I'm be differences between your company and the rest of the companies. You can tell me a story if that's what makes your clock tick, but if we can control for those differences, which is what all those regressions you saw the last session were about, even better. So complete your pricing. front of you look at what's high look what's low look at where your company falls in that histogram and if you're losing companies in the process of computing a multiple you know what i mean by that if you do p e ratio you lose seven companies out of the 20 you had in your project if you start at the pricing. Any questions? I want to take a little detour.'re selling the pieces of the company for scrap. You're adding them. You have to value each individual asset you have to sell. You have no choice. You can't value the whole company because you have to sell the pieces. what accountants are doing is so dangerous, but the reality is a lot of asset-based valuation, you have to value each individual item separately and shorten the balance sheet. The third scenario we might run into asset-based valuation is when you want to value the piece because you want to do something about it. You're an acquirer planning to take over a company and break it up. You want to value the pieces to see what you can get in a salad oil and the whole thing became a legal nightmare and American Express's stock price dropped and what Warren Buffett did was he took the green card the American Express card franchise valued the franchise separately valued two other smaller business that American Express was in and he saw that the price was trading at half of just the franchise value of the green card he bought the flows and discounting the bank. What's the other? I can price the asset. Asset-based valuation is not a third approach. I can either do intrinsic valuation. It's an application of one of those approaches. And that's why I don't think of it as a third way of putting a number. It's just either intrinsic valuation in pieces or pricing in pieces. So with that lead in, let's, and of course, there's a third way in which you can put a number, Asset-based valuation is the easiest to do when you have separable assets. I'll give you an example. You have a real estate company with 10 rental properties that it owns. Can you value each property separately? Each property has its rental income, its expenses. They have separate value. In contrast, let's suppose you wanted to do a sum of the parts valuation of this. How would that even work? you what's Disney streaming's income statement look like? The only answer you can give me, it looks awful, but I don't know how awful, because they don't break their revenues down by business and their expenses down and their cash flows down by business. So separable assets, standalone earnings and cash flows, you can value each one individually. And finally, it's nice if you can find an active market for similar assets. Let's go back to the real estate example. Can I price each property separately? Let a value mission or a pricing mission? What do you have to do? You have to sell it, right? What do people pay? You can show them your DCF. Look, I've done a DCF. You know, it's worth at least $15 million. I don't care. I'll pay you $6. valuation should really be liquidation pricing with a discount attached, the more in a hurry you are to liquidate assets. What about fair value accounting? Any of you planning to become CPAs here? You are? Oh my God. You need helpback I thought was we're doing it for good reasons. We want investors to know what they're investing. So I asked them to send me the original accounting rule that gave birth to fair value accounting. And I noticed that they talked a lot about attaching numbers to assets based on what a market participant would pay in an arm's length transaction if you sold the asset. I don't have a problem with that. But here's what I have a problem with. When they wrote this, they also required accountants who did this to back up that number with a discounted cash flow valuation. You see the problem here? This is like asking people to bring a baseball bat to a soccer game. That's actually not a bad every period. Now, if you're Fidelity and you invest in publicly traded companies, that happens automatically with publicly traded stocks, right? Everything gets marked to market because the market price changes. But starting about a decade ago, Fidelity and other we know what piece of Uber we own, and we take that $65 billion, we should be coming up with roughly a billion. Otherwise, the accounting regulators will not accept the number. So we've tried everything. We've tried to push the growth rate above the risk-free rate. So I said, yes, what do you need to do? Take the reinvestment out, make the middle. Throw an AI story in the middle. Nobody will have any idea what it does. So you will learn the tricks, but it's not your you can see how this process plays out. The company is called United Technologies. I used to call it the poor man's GE, but now I call it the rich man's GE because at that time when it was the poor man some of the parts valuation easy to do. United Technologies broke down almost everything by business. I think they maintain separate financials for the company. They have a consolidated company, but they report revenues, EBITDA, EBIT, CapEx, depreciation, everything you'd get in a traditional financial state. And here's what you do. You take the EBITDA of each of the six businesses, which you will give it. You take the average EBITDA of each sector. How you have that after dinner and three drinks, I don't know. But maybe you have an S&P Capital IQ access there. You pull it up. You pull up the... And then you take each business's EBITDA and you multiply it by the EBITDA for the sector to come up with an estimated enterprise value. You see why I call it back the envelope? You're essentially taking each business's EBITDA, do a better pricing? What do we do with traditional companies to control for the fact that they had higher growth and lower risk and different payout? What do we do to bring those into our pricing? Remember around those regressions of P against growth? What if I did that? And that's basically what I did is I took each of the businesses, it's a lot of work because you now have to do six pricings to get a pricing for a single company. In defense, EV to revenues work the best. So with each one, I'm getting the advantage of picking the best regression in terms of predictive value. And you know what I'm going to do next, right? I took United Technologies numbers for each business, plugged them into the regression and got predicted. And so think of this as a more sophisticated pricing. You're pricing each business based, not just in the average, but on the fact that you have higher growth and lower risk in each business. I don't think I mentioned, Can I do an intrinsic valuation of these six businesses? Or let me ask you the question differently. What would I need to do to do an intrinsic valuation in some of the parts here? I would take each business and estimate cash flows and growth and risk. And I have the ammunition to do it. It's a pain in the neck to do, but I can do it. So let me start by estimating the cost of capital for each of these six businesses. So rather than computing one cost of capital for the entire company, business is a good or bad business return on capital so i computed the return on capital on these six business and again i have the ammunition here because i have all the numbers i need operating income book value of debt book value of equity cash or to the return capital remember the foreign security business look good it's return on capital is actually a little lower than my cost of capital i now have a return on capital for each of the six businesses in addition but as good as it gets. And for Europe, I would put a negative growth because of rules coming from the EU on health. I might say, look, I'm looking forward. I'll get minus 5% growth. I get the luxury of having different growth periods and different growth rates, and I build them in. So I have very different companies in terms of return on capital, cost of capital, growth rates, growth periods. But here's the bottom line. With those inputs put in, I get an intrinsic value for each of the five businesses. business companies where they've centralized some functions like accounting right each so rather than have each business do its own accounting they're all centralized you're saying so what those costs are not in my habitat and the case of united technologies those costs amounted to 408 million dollars in the year that i did this valuation when i when i see people doing some of the parts valuation of 75.7 billion. looking for if you're actually looking for a company trading at the less of some of the spots if you want to do an intrinsic valuation it takes work right but if you're only two or three business it's not that much more you just have to take each business separately valued add them all up any questions on intrinsic valuation i'm sorry about the colors i should pick them differently but this was about five years ago so ge by this time had fallen from its glory days the company that GE made was well above the cost of capital. So think of them as their good businesses. There are still three good businesses left in GE. The yellow, power, renewable energy, and oil and gas, are businesses where they earn roughly or close to their cost of capital. And I'm cutting them a lot of slack in terms of how much below. The two red businesses, lighting and GE Capital, are offer businesses. 27 billion, but that's the enterprise value for GE Capital. You subtract out the debt, which is 51 billion for GE Capital. GE Capital alone has a minus $24 billion value. The first reaction is, why don't you just shut the damn thing down? If they could, they would. The only problem is you've entangled it in everything else. You can't shut it down. This is the problem that GE has faced over the last seven years, is with GE Capital in the middle, And now, of course, they're having to deal with that effect. So in many ways, the monster he created is now the monster bringing them down. So any questions about some of the parts valuation? Some of your companies, you might be able to try it at least on a very, very rough basis, at least on the pricing side. So give it a shot. It's actually an interesting way to think about why am I paying this much for a company? I know right now, you've heard Scott Galloway, right? the ecosystem is connecting all of them and it's not easy to separate that ecosystem into its individual parts. Let's talk about value private businesses. You know what I mean by private business. These are privately owned businesses. And I'm going to start by stating something that shouldn't have to be said, but I want to put on the table. You say, who cares that there's no market value of equity? First, in your valuation of your public company, did the market value of equity actually become an input into your discounted cash flow valuation? Or let me rephrase the question, where did it become an input? One is in the cost of capital, right? What are the weights you need? You need market value weights for debt and equity. Already you can say, well, how the heck do I compute a. When you value a private company, you come up with a value of $3 per share, there's nothing to compare. You could be off by a thousand, factor of thousands. You have no idea. It's nice to have something to compare. I know for some of you, it became more than something to compare. It became something to hold on to and you got closer and closer and closer. Then you were right there. not be able to get a pay. So not having a market price is going to be a problem. It's not an insurmountable problem, but we have to figure out ways to get a lot. Let's talk about what problems you might run into in estimating cash flows. The definition for free cash flow to the firm is exactly the same for a private as opposed to public company. You need earnings, you need net capex, you need change from working capital, you need a fight with your mother? She said, no, I went and asked my mother for financials. And she took me into a small storage room in the back where every wall was covered with post-it notes. She said, that's my revenue wall. And she had all these pink post-it notes. She had different colors, at least. There was a cost wall. And that's how she did her accounting. She had a flower shop run.15, it seems to disappear for an hour. Strangely, at the times that kids' schools let out, right? I mean, can you blame the owner for saying, take the van, pick up the kids, drop them off at home, bring them back? I won't tell the IRS. You don't tell the IRS. We're all okay. And there are employees that a private business has. So what does that guy do? He seems to be doing nothing. I don't know. He has. Why? Because they're going to get whatever's left over anyway. You're saying, so what? Even if they do their financials right, you see why this is going to create a problem? They give you the income statement for the business, but remember, they didn't charge themselves a salary. Let's say you're naive enough to pay for that business based on what the income statement said. that salary. None of these are insurmountable problems, but they're problems anyway. One final point about private companies. With a public company, you can ask the question, why do you want me to value the public company? The answer seems obvious. You value the public company, the market price, you buy it cheap, you sell it expensive. With a private company, motive matters. I remember about 25 years ago, this lady wanders into my office. I thought she to sell the business. I said, to whom? She said, you have a lot of questions. I said, I need to know. She said, what do you mean to whom? I said, are you going to sell it to a publicly traded company? Maybe Hershey's is interested in is the most difficult setup when you have a private to private transaction. Own of a private business is selling to another capital. So you're valuing the company because you want them to invest in it. But ultimately, you plan to exit with an IPO. How this process plays out in valuation. So let's start with private to private transactions and list out the challenges you will face that investors diversified. Already you can see the challenge. The entire structure for using payday is going to come apart because the buyer is not diversified. We'll talk about how to get over it, but that's going to be an issue. Second, that investment you're making in that private business is illiquid. I know people like to use the word illiquidity discounts. I prefer the term cost of buyer's remorse. Have you ever had buyer's remorse, if you bought and sold Apple, is probably one-tenth of 100th of a percent. But if you, none of you is wealthy enough to do this yet, but let's say you get to be 35, 40, you've had a long day at work, you're on your way home, you stop at the corner grocery store, you're tiredto-private transactions, you have what I call a key person effect on value. Again, I'll use a personal example to bring this on. I've had four kids. They've all needed braces. This is an extraordinarily involved process. I wouldn't even go to a dentist until I was 32. So luckily, I was genetically okay with my teeth, I guess. Otherwise, all my teeth would be out by now. Oh, you're 40 years old? Why are you retiring? He said, I'm pretty rich. And I said, I know. My credit card already shows that. And he said, I'm trying to sell the business, but I'm running into a problem. I show potential buyers the value of the business or the income I made last year. And I made a lot of income. It's like rubbing it in. I don't know exactly where that income is coming from. But they're not paying that income. And you can see why, right? If you're a dentist and you buy Howie's business, and doctors do this. Get more dentists. I'm not going to solve the problem. He still wants to go off to, I don't know where he wants to retire to, the Cayman Islands, I guess. What's making it difficult is the next day when I show up, there's this new dentist I've never seen, right? I said, Howie, I have some bad news for you. The path I'm going to give you is going to give you a higher value, but you've got to hang. And that's good news. AI can replace a public company valuation. AI is much more difficult to replace in private company appraisal because you've got to talk to people. You've got to understand the transaction. So think of that as good news. While you're struggling with private company valuation, this is why people will still need you, even if AI takes over everywhere else. So next session, we're going to spend time valuing a restaurant.",
+  "chunks": [
+    {
+      "timestamp": [0.0, 152.39],
+      "text": " Thank you. Okay. I was trying to make sense of all the things stuck on it. Is this yours? It's like my five-year-old if I gave him a water bottle would do this, but did not."
+    },
+    {
+      "timestamp": [155.93, 219.54],
+      "text": " So before I start today, So we started to and go through 3.50 p.m. Don't ask me why the university has these strange timings. I guess they need the rooms. It's an hour and 15 minutes long. So it is, you know, so I just wanted to get that date on your calendar in case you completely"
+    },
+    { "timestamp": [219.54, 220.92], "text": " forgot there's a final exam." },
+    {
+      "timestamp": [221.48, 225.32],
+      "text": " Your project is due for the start of that week on May 8th."
+    },
+    {
+      "timestamp": [271.45, 278.01],
+      "text": " wanted to make that clip before we started. Today we're going to actually talk about valuing businesses as a collection of pieces. What are you talking about? Let's say Coca-Cola."
+    },
+    {
+      "timestamp": [278.55, 285.31],
+      "text": " It's in 72 different countries. It's on five different continents. Could I value Coca-Cola"
+    },
+    {
+      "timestamp": [285.31, 290.47],
+      "text": " as geographically taking each part of the world they're in and valuing that part? So take"
+    },
+    {
+      "timestamp": [290.47, 350.53],
+      "text": " Asia, take North America, take Latin America. Could I do that? So let's do a geographic, let's do it by continent, five continents. The question is, but remember when you do a weighted average, what are you assuming about the weights?"
+    },
+    {
+      "timestamp": [352.77, 421.04],
+      "text": " I was going to say the same. So if Asia is growing quickly and North a sum of the parts valuation of a company and I do an intrinsic valuation of the whole company and I do them both right, should I get the same value for the sum of them? Assuming I do both right, of course, if I do wrong"
+    },
+    {
+      "timestamp": [423.04, 552.97],
+      "text": " or are there conditions on which where if you do a few weeks ago? They put up into six different businesses. In the case of Alibaba, whycent and JD have seen their prices not just collapse, but stay low. I don't know what the motives for the Alibaba breakup are, but one could be that by making themselves into six small businesses, they make themselves less"
+    },
+    {
+      "timestamp": [552.97, 556.53],
+      "text": " of a concern to the Chinese government saying, look, we're smaller now, we can't"
+    },
+    {
+      "timestamp": [620.94, 685.07],
+      "text": " you remember the last session we were talking about running a regression across the entire market i. The growth coefficient, the regression is what the market is willing to pay for growth. So in 2000, the equity risk premium was at 2%. That was the peak of the dot combo. So market's not charging much for risk. It's paying"
+    },
+    {
+      "timestamp": [685.07, 691.11],
+      "text": " 2.11 for every 1% of growth. It's paying a high price for growth. So if you're a high growth,"
+    },
+    {
+      "timestamp": [691.21, 753.75],
+      "text": " high risk company, this is about as good as it gets, right? You're not being punished for being regression that I ran three months ago today, my guess is the coefficient on growth is going to have gone up from 0.46 to a higher number. But I want you to track that number over time because it's going to tell you something about what is the market charging for investing in risky companies and what is it willing to pay for higher growth companies. So that's a PE ratio discussion."
+    },
+    {
+      "timestamp": [753.89, 817.98],
+      "text": " Question? Growth in the sense of being expected growth going to run a linear regression. So I took the peg ratio, the price earnings to growth, and did a scatterplot against growth. Again, it looks like a shotgun blast, right? It's all over the place. Now, you could try to figure out whether it's linear, but I"
+    },
+    {
+      "timestamp": [817.98, 820.06],
+      "text": " give up. I don't know if it's linear. So if any"
+    },
+    {
+      "timestamp": [820.06, 821.9],
+      "text": " of you have used statistics, I use"
+    },
+    { "timestamp": [821.9, 823.76], "text": " SPSS, but I know" },
+    {
+      "timestamp": [823.76, 825.94],
+      "text": " Minitab has the same feature. There's"
+    },
+    {
+      "timestamp": [825.94, 884.39],
+      "text": " a test for linearity you, it looked like the relationship is more linear. I sent a link to my statistics mini course that I have online, but you don't have to watch the entire course. I think there's one session on regressions. If you want to watch it, you can see that I take you through"
+    },
+    {
+      "timestamp": [884.39, 889.69],
+      "text": " the test for linearity. So you can make sure that when you run a regression, you're not forcing a"
+    },
+    {
+      "timestamp": [889.69, 951.41],
+      "text": " linear regression on something that's non-linear. have lower peg ratios, at least across the market. Whereas with PE ratios, we got the opposite relationship. So nothing else it tells you. When you use peg ratios,"
+    },
+    {
+      "timestamp": [951.49, 956.09],
+      "text": " you still have to think about growth. You just have to remember that higher growth companies now"
+    },
+    {
+      "timestamp": [956.09, 1018.08],
+      "text": " will have lower peg ratios. The next six pages. I have price earnings ratios, peg ratios, price to book, EV to EBITDA, EV to sales, and EV to investment capital."
+    },
+    {
+      "timestamp": [1018.26, 1019.66],
+      "text": " So you pick any one of these six."
+    },
+    {
+      "timestamp": [1020.26, 1023.74],
+      "text": " I have these regressions across five regions of the world."
+    },
+    {
+      "timestamp": [1024.18, 1026.86],
+      "text": " US companies, European companies, Japanese companies,"
+    },
+    {
+      "timestamp": [1026.86, 1085.29],
+      "text": " emerging market companies, Australia, New Zealand, Canada. your company's payout ratio to give you a predicted price earnings ratio for your company, given how other US stocks are priced. You could also take the same stock and run against a global regression. Will you get the same PE ratio? Not necessarily. You're asking a different question, right? When you run the US regression, the question you're asking is,"
+    },
+    {
+      "timestamp": [1085.61, 1091.53],
+      "text": " given how other US stocks are priced, what should Coca-Cola's PE ratio be? With a second regression,"
+    },
+    {
+      "timestamp": [1091.61, 1152.25],
+      "text": " with a global regression, the question you're have to, you know, ask and answer. Isha asked me this question already, but I'm sure others will come to the same point or reach the same point, which is, you know, all these choices in terms of multiples, which one should we use?"
+    },
+    {
+      "timestamp": [1152.81, 1153.81],
+      "text": " Let's start with the first one."
+    },
+    { "timestamp": [1154.21, 1154.97], "text": " What's in the numerator?" },
+    {
+      "timestamp": [1155.11, 1156.71],
+      "text": " You can either have enterprise value"
+    },
+    { "timestamp": [1156.71, 1157.67], "text": " or equity value, right?" },
+    {
+      "timestamp": [1158.49, 1161.05],
+      "text": " If you're doing a financial service firm,"
+    },
+    {
+      "timestamp": [1161.15, 1217.0],
+      "text": " a bank, an investment bank, financial service company and make it always equity. We're doing a financial service company. Second choice you're going to run into. What gold do I denominate? Remember the scalars? Revenues. You can have EBITDA. You can have EBIT. You can have net income. You can have cash flows. You can have book value."
+    },
+    {
+      "timestamp": [1219.72, 1221.2],
+      "text": " You can even have number of users, number of subscribers."
+    },
+    {
+      "timestamp": [1222.32, 1223.48],
+      "text": " Which one should I use? Here are three questions to ask."
+    },
+    {
+      "timestamp": [1223.58, 1225.62],
+      "text": " First is, how are you measuring value?"
+    },
+    {
+      "timestamp": [1225.66, 1227.74],
+      "text": " If you're measuring it as enterprise value,"
+    },
+    {
+      "timestamp": [1227.92, 1229.58],
+      "text": " some of these scalars can't be used, right?"
+    },
+    {
+      "timestamp": [1272.57, 1273.73],
+      "text": " I don't like earnings per share. Why? Because everything accountants do affects earnings per share."
+    },
+    {
+      "timestamp": [1277.75, 1278.21],
+      "text": " So if you have aggressive accounting, you can end up with companies looking cheap."
+    },
+    {
+      "timestamp": [1285.23, 1286.29],
+      "text": " So that's just my personal bias. But you have to factor that in because remember, some of these scale hours are more affected by accounting choices than others."
+    },
+    {
+      "timestamp": [1290.29, 1350.63],
+      "text": " So you picked a numerator, you picked a denominator. Third choice you going to be driven by partly what stage in the life cycle your company is. When you have very young companies, go with forward numbers because you will get more substance. If you have more mature companies, you have more choice. You can stay with current numbers or trailing numbers because you already have substance."
+    },
+    { "timestamp": [1350.63, 1351.39], "text": " Good question." },
+    {
+      "timestamp": [1406.0, 1410.56],
+      "text": " just US companies or whether you go with the global sample. Second, if you're worried about the fact that you have a small company in a sector filled with big companies, you have a big company"
+    },
+    {
+      "timestamp": [1410.56, 1416.96],
+      "text": " in a sector filled with small companies, rather than beat yourself up by asking smaller or larger"
+    },
+    {
+      "timestamp": [1416.96, 1423.28],
+      "text": " companies have higher or lower price-earnings ratios or EV to EBITDAs, let the data tell."
+    },
+    {
+      "timestamp": [1423.28, 1483.91],
+      "text": " You know what I mean by that? You have 60, 70, 80 companies in your sample."
+    },
+    {
+      "timestamp": [1491.49, 1553.77],
+      "text": " So I'm not trying to direct you to one choice or the other, but I'm be differences between your company and the rest of the companies. You can tell me a story if that's what makes your clock tick, but if we can control for those differences, which is what all those regressions you saw the last session were"
+    },
+    {
+      "timestamp": [1553.77, 1619.66],
+      "text": " about, even better. So complete your pricing. front of you look at what's high look what's low look at where your company falls in that histogram and if you're losing companies in the process of computing a multiple you know what i mean by that if you do p e ratio you lose seven companies"
+    },
+    {
+      "timestamp": [1619.66, 1683.63],
+      "text": " out of the 20 you had in your project if you start at the pricing."
+    },
+    { "timestamp": [1683.63, 1684.27], "text": " Any questions?" },
+    {
+      "timestamp": [1688.91, 1751.93],
+      "text": " I want to take a little detour.'re selling the pieces of the company for scrap."
+    },
+    {
+      "timestamp": [1752.39, 1757.13],
+      "text": " You're adding them. You have to value each individual asset you have to sell."
+    },
+    {
+      "timestamp": [1757.17, 1760.09],
+      "text": " You have no choice. You can't value the whole company because you have to sell the pieces."
+    },
+    {
+      "timestamp": [1804.52, 1804.64],
+      "text": " what accountants are doing is so dangerous, but the reality is a lot of asset-based valuation,"
+    },
+    {
+      "timestamp": [1808.52, 1809.94],
+      "text": " you have to value each individual item separately and shorten the balance sheet."
+    },
+    {
+      "timestamp": [1815.02, 1819.18],
+      "text": " The third scenario we might run into asset-based valuation is when you want to value the piece because you want to do something about it. You're an acquirer planning to take over a company and"
+    },
+    {
+      "timestamp": [1819.18, 1883.97],
+      "text": " break it up. You want to value the pieces to see what you can get in a salad oil and the whole thing became a legal nightmare and American Express's stock price dropped and what Warren Buffett did was he took the green card the American Express card franchise valued the franchise separately valued two other smaller"
+    },
+    {
+      "timestamp": [1883.97, 1889.79],
+      "text": " business that American Express was in and he saw that the price was trading at half of just the"
+    },
+    {
+      "timestamp": [1889.79, 1953.09],
+      "text": " franchise value of the green card he bought the flows and discounting the bank. What's the other? I can price the asset. Asset-based valuation is not a third approach. I can either do intrinsic valuation. It's an application of one of those approaches. And that's why I don't think of it as a third way"
+    },
+    {
+      "timestamp": [1953.09, 1958.53],
+      "text": " of putting a number. It's just either intrinsic valuation in pieces or pricing in pieces."
+    },
+    {
+      "timestamp": [1959.37, 2018.64],
+      "text": " So with that lead in, let's, and of course, there's a third way in which you can put a number, Asset-based valuation is the easiest to do when you have separable assets. I'll give you an example. You have a real estate company with 10 rental properties that it owns. Can you value each property separately? Each property has its rental income, its expenses."
+    },
+    { "timestamp": [2019.64, 2020.42], "text": " They have separate value." },
+    {
+      "timestamp": [2020.42, 2024.74],
+      "text": " In contrast, let's suppose you wanted to do a sum of the parts valuation of this."
+    },
+    { "timestamp": [2025.86, 2026.94], "text": " How would that even work?" },
+    {
+      "timestamp": [2071.23, 2071.27],
+      "text": " you what's Disney streaming's income statement look like? The only answer you can give me,"
+    },
+    {
+      "timestamp": [2075.91, 2081.97],
+      "text": " it looks awful, but I don't know how awful, because they don't break their revenues down by business and their expenses down and their cash flows down by business. So separable assets,"
+    },
+    {
+      "timestamp": [2082.29, 2087.23],
+      "text": " standalone earnings and cash flows, you can value each one individually. And finally, it's nice if"
+    },
+    {
+      "timestamp": [2087.23, 2091.67],
+      "text": " you can find an active market for similar assets. Let's go back to the real estate example."
+    },
+    {
+      "timestamp": [2092.47, 2151.85],
+      "text": " Can I price each property separately? Let a value mission or a pricing mission?"
+    },
+    { "timestamp": [2152.63, 2152.71], "text": " What do you have to do?" },
+    { "timestamp": [2153.77, 2154.13], "text": " You have to sell it, right?" },
+    { "timestamp": [2154.89, 2155.03], "text": " What do people pay?" },
+    { "timestamp": [2156.21, 2156.27], "text": " You can show them your DCF." },
+    { "timestamp": [2157.63, 2157.71], "text": " Look, I've done a DCF." },
+    {
+      "timestamp": [2159.37, 2159.51],
+      "text": " You know, it's worth at least $15 million."
+    },
+    { "timestamp": [2160.11, 2161.33], "text": " I don't care." },
+    {
+      "timestamp": [2284.55, 2290.01],
+      "text": " I'll pay you $6. valuation should really be liquidation pricing with a discount attached, the more in a hurry you are to liquidate assets. What about fair value accounting? Any of you planning to become CPAs here? You are? Oh my God. You need helpback I thought was we're doing it for good reasons. We want investors to know what they're investing. So I asked them to send me the original accounting rule that gave birth to fair value accounting. And I noticed that they talked a lot about attaching numbers to assets based on what a market participant would pay"
+    },
+    {
+      "timestamp": [2290.01, 2352.47],
+      "text": " in an arm's length transaction if you sold the asset. I don't have a problem with that. But here's what I have a problem with. When they wrote this, they also required accountants who did this to back up that number with a discounted cash flow valuation. You see the problem here?"
+    },
+    {
+      "timestamp": [2352.89, 2483.87],
+      "text": " This is like asking people to bring a baseball bat to a soccer game. That's actually not a bad every period. Now, if you're Fidelity and you invest in publicly traded companies, that happens automatically with publicly traded stocks, right? Everything gets marked to market because the market price changes. But starting about a decade ago, Fidelity and other we know what piece of Uber we own, and we take that $65 billion, we should be coming up with roughly a billion. Otherwise, the accounting regulators will not accept the number. So we've tried everything."
+    },
+    {
+      "timestamp": [2484.47, 2487.25],
+      "text": " We've tried to push the growth rate above the risk-free rate."
+    },
+    {
+      "timestamp": [2487.85, 2491.47],
+      "text": " So I said, yes, what do you need to do?"
+    },
+    {
+      "timestamp": [2491.69, 2550.75],
+      "text": " Take the reinvestment out, make the middle. Throw an AI story in the middle. Nobody will have any idea what it does."
+    },
+    {
+      "timestamp": [2551.77, 2617.48],
+      "text": " So you will learn the tricks, but it's not your you can see how this process plays out. The company is"
+    },
+    {
+      "timestamp": [2617.48, 2623.94],
+      "text": " called United Technologies. I used to call it the poor man's GE, but now I call it the rich man's GE"
+    },
+    {
+      "timestamp": [2623.94, 2686.62],
+      "text": " because at that time when it was the poor man some of the parts valuation easy to do. United Technologies broke down almost everything by business. I think they maintain separate financials"
+    },
+    { "timestamp": [2686.62, 2687.04], "text": " for the company." },
+    {
+      "timestamp": [2687.14, 2688.1],
+      "text": " They have a consolidated company,"
+    },
+    {
+      "timestamp": [2688.24, 2691.02],
+      "text": " but they report revenues, EBITDA, EBIT,"
+    },
+    { "timestamp": [2691.14, 2692.26], "text": " CapEx, depreciation," },
+    {
+      "timestamp": [2692.36, 2694.74],
+      "text": " everything you'd get in a traditional financial state."
+    },
+    { "timestamp": [2734.21, 2734.83], "text": " And here's what you do." },
+    {
+      "timestamp": [2738.13, 2738.43],
+      "text": " You take the EBITDA of each of the six businesses, which you will give it."
+    },
+    {
+      "timestamp": [2740.75, 2740.87],
+      "text": " You take the average EBITDA of each sector."
+    },
+    {
+      "timestamp": [2743.75, 2743.81],
+      "text": " How you have that after dinner and three drinks, I don't know."
+    },
+    {
+      "timestamp": [2746.25, 2746.53],
+      "text": " But maybe you have an S&P Capital IQ access there."
+    },
+    { "timestamp": [2747.17, 2747.23], "text": " You pull it up." },
+    {
+      "timestamp": [2747.91, 2753.33],
+      "text": " You pull up the... And then you take each business's EBITDA and you multiply it by the EBITDA for the sector"
+    },
+    {
+      "timestamp": [2753.33, 2755.53],
+      "text": " to come up with an estimated enterprise value."
+    },
+    {
+      "timestamp": [2756.61, 2757.99],
+      "text": " You see why I call it back the envelope?"
+    },
+    {
+      "timestamp": [2758.37, 2817.14],
+      "text": " You're essentially taking each business's EBITDA, do a better pricing? What do we do with traditional companies to control for the fact that they had higher growth and lower risk and different payout? What do we do to bring those into our pricing?"
+    },
+    {
+      "timestamp": [2819.98, 2820.32],
+      "text": " Remember around those regressions of P against growth?"
+    },
+    { "timestamp": [2821.46, 2821.52], "text": " What if I did that?" },
+    {
+      "timestamp": [2822.68, 2824.16],
+      "text": " And that's basically what I did is I took each of the businesses,"
+    },
+    { "timestamp": [2824.66, 2825.32], "text": " it's a lot of work" },
+    {
+      "timestamp": [2825.32, 2827.36],
+      "text": " because you now have to do six pricings"
+    },
+    {
+      "timestamp": [2827.36, 2883.34],
+      "text": " to get a pricing for a single company. In defense, EV to revenues work the best. So with each one, I'm getting the advantage of picking the best regression in terms of predictive value. And you know what I'm going to do next, right? I took United Technologies numbers for each business, plugged them into the regression and got predicted."
+    },
+    {
+      "timestamp": [2883.58, 2886.06],
+      "text": " And so think of this as a more sophisticated pricing."
+    },
+    {
+      "timestamp": [2886.18, 2887.94],
+      "text": " You're pricing each business based,"
+    },
+    { "timestamp": [2888.06, 2888.9], "text": " not just in the average," },
+    {
+      "timestamp": [2888.9, 2890.8],
+      "text": " but on the fact that you have higher growth"
+    },
+    {
+      "timestamp": [2890.8, 2892.12],
+      "text": " and lower risk in each business."
+    },
+    { "timestamp": [2892.94, 2894.08], "text": " I don't think I mentioned," },
+    {
+      "timestamp": [2936.47, 2936.63],
+      "text": " Can I do an intrinsic valuation of these six businesses?"
+    },
+    {
+      "timestamp": [2938.13, 2938.53],
+      "text": " Or let me ask you the question differently."
+    },
+    {
+      "timestamp": [2942.05, 2943.37],
+      "text": " What would I need to do to do an intrinsic valuation in some of the parts here?"
+    },
+    {
+      "timestamp": [2944.93, 2947.61],
+      "text": " I would take each business and estimate cash flows"
+    },
+    { "timestamp": [2947.61, 2948.67], "text": " and growth and risk." },
+    {
+      "timestamp": [2949.45, 2951.19],
+      "text": " And I have the ammunition to do it."
+    },
+    {
+      "timestamp": [2951.27, 2953.07],
+      "text": " It's a pain in the neck to do, but I can do it."
+    },
+    {
+      "timestamp": [2953.11, 2955.57],
+      "text": " So let me start by estimating the cost of capital"
+    },
+    {
+      "timestamp": [2955.57, 2956.91],
+      "text": " for each of these six businesses."
+    },
+    {
+      "timestamp": [2957.73, 2960.03],
+      "text": " So rather than computing one cost of capital"
+    },
+    { "timestamp": [2960.03, 2961.15], "text": " for the entire company," },
+    {
+      "timestamp": [3005.04, 3009.42],
+      "text": " business is a good or bad business return on capital so i computed the return on capital on these six business and again i have the ammunition here because i have all the numbers"
+    },
+    {
+      "timestamp": [3009.42, 3014.08],
+      "text": " i need operating income book value of debt book value of equity cash or to the return capital"
+    },
+    {
+      "timestamp": [3014.08, 3021.16],
+      "text": " remember the foreign security business look good it's return on capital is actually a little lower"
+    },
+    {
+      "timestamp": [3021.16, 3085.04],
+      "text": " than my cost of capital i now have a return on capital for each of the six businesses in addition but as good as it gets. And for Europe, I would put a negative growth because of rules coming from the EU on health. I might say, look, I'm looking forward. I'll get minus 5% growth. I get the luxury of having different growth periods and different growth rates, and I build them in. So I have very different companies"
+    },
+    {
+      "timestamp": [3085.04, 3087.1],
+      "text": " in terms of return on capital, cost of capital,"
+    },
+    {
+      "timestamp": [3087.26, 3088.62],
+      "text": " growth rates, growth periods."
+    },
+    { "timestamp": [3089.16, 3090.12], "text": " But here's the bottom line." },
+    { "timestamp": [3090.12, 3091.8], "text": " With those inputs put in," },
+    {
+      "timestamp": [3092.46, 3150.53],
+      "text": " I get an intrinsic value for each of the five businesses. business companies where they've centralized some functions like accounting right each so rather than have each business do its own accounting they're all centralized you're saying so what those costs are not in my habitat and the case of united technologies those costs amounted to"
+    },
+    {
+      "timestamp": [3150.53, 3154.55],
+      "text": " 408 million dollars in the year that i did this valuation"
+    },
+    {
+      "timestamp": [3154.55, 3224.12],
+      "text": " when i when i see people doing some of the parts valuation of 75.7 billion."
+    },
+    {
+      "timestamp": [3271.18, 3276.06],
+      "text": " looking for if you're actually looking for a company trading at the less of some of the spots if you want to do an intrinsic valuation it takes work right but if you're only two or three"
+    },
+    {
+      "timestamp": [3276.06, 3281.1],
+      "text": " business it's not that much more you just have to take each business separately valued add them all"
+    },
+    {
+      "timestamp": [3281.1, 3289.04],
+      "text": " up any questions on intrinsic valuation i'm sorry about the colors i should pick them differently"
+    },
+    {
+      "timestamp": [3289.04, 3350.83],
+      "text": " but this was about five years ago so ge by this time had fallen from its glory days the company that GE made was well above the cost of capital. So think of them as their good businesses. There are still three good businesses left in GE. The yellow, power, renewable energy, and oil and gas, are businesses where they earn roughly or close to their cost of capital. And I'm cutting them a lot of slack in terms of how much below."
+    },
+    {
+      "timestamp": [3351.99, 3358.43],
+      "text": " The two red businesses, lighting and GE Capital, are offer businesses."
+    },
+    {
+      "timestamp": [3403.8, 3403.92],
+      "text": " 27 billion, but that's the enterprise value for GE Capital."
+    },
+    {
+      "timestamp": [3407.36, 3408.22],
+      "text": " You subtract out the debt, which is 51 billion for GE Capital."
+    },
+    {
+      "timestamp": [3411.56, 3412.48],
+      "text": " GE Capital alone has a minus $24 billion value."
+    },
+    {
+      "timestamp": [3414.86, 3415.46],
+      "text": " The first reaction is, why don't you just shut the damn thing down?"
+    },
+    { "timestamp": [3416.56, 3417.38], "text": " If they could, they would." },
+    {
+      "timestamp": [3419.88, 3419.92],
+      "text": " The only problem is you've entangled it in everything else."
+    },
+    {
+      "timestamp": [3421.04, 3424.64],
+      "text": " You can't shut it down. This is the problem that GE has faced over the last seven years,"
+    },
+    {
+      "timestamp": [3424.86, 3427.0],
+      "text": " is with GE Capital in the middle,"
+    },
+    {
+      "timestamp": [3470.86, 3471.24],
+      "text": " And now, of course, they're having to deal with that effect."
+    },
+    {
+      "timestamp": [3476.06, 3477.18],
+      "text": " So in many ways, the monster he created is now the monster bringing them down."
+    },
+    {
+      "timestamp": [3479.5, 3479.74],
+      "text": " So any questions about some of the parts valuation?"
+    },
+    {
+      "timestamp": [3485.22, 3485.72],
+      "text": " Some of your companies, you might be able to try it at least on a very, very rough basis, at least on the pricing side."
+    },
+    {
+      "timestamp": [3491.6, 3491.78],
+      "text": " So give it a shot. It's actually an interesting way to think about why am I paying this much for a company?"
+    },
+    {
+      "timestamp": [3496.54, 3554.61],
+      "text": " I know right now, you've heard Scott Galloway, right? the ecosystem is connecting all of them and it's not easy to separate that ecosystem into its individual parts. Let's talk about value private businesses. You know what I mean by private business. These are privately owned businesses. And I'm going to start by stating something that"
+    },
+    {
+      "timestamp": [3554.61, 3619.56],
+      "text": " shouldn't have to be said, but I want to put on the table. You say, who cares that there's no market value of equity? First, in your valuation of your public company, did the market value of equity actually become an input into your discounted cash flow valuation? Or let me rephrase the question, where did it become an input?"
+    },
+    {
+      "timestamp": [3623.84, 3624.28],
+      "text": " One is in the cost of capital, right? What are the weights you need? You need market value weights for debt and equity."
+    },
+    {
+      "timestamp": [3629.74, 3687.06],
+      "text": " Already you can say, well, how the heck do I compute a. When you value a private company, you come up with a value of $3 per share, there's nothing to compare. You could be off by a thousand, factor of thousands. You have no idea. It's nice to have something to compare. I know for some of you, it became more than something to compare. It became"
+    },
+    {
+      "timestamp": [3687.06, 3691.84],
+      "text": " something to hold on to and you got closer and closer and closer. Then you were right there."
+    },
+    {
+      "timestamp": [3739.89, 3746.13],
+      "text": " not be able to get a pay. So not having a market price is going to be a problem. It's not an insurmountable problem, but we have to figure out ways to get a lot. Let's talk about what problems"
+    },
+    {
+      "timestamp": [3746.13, 3751.23],
+      "text": " you might run into in estimating cash flows. The definition for free cash flow to the firm is"
+    },
+    {
+      "timestamp": [3751.23, 3756.63],
+      "text": " exactly the same for a private as opposed to public company. You need earnings, you need net"
+    },
+    {
+      "timestamp": [3756.63, 3821.7],
+      "text": " capex, you need change from working capital, you need a fight with your mother? She said, no, I went and asked my mother for financials. And she took me into a small storage room in the back where every wall was covered with post-it notes. She said, that's my revenue wall. And she had all these pink post-it notes. She had different colors, at least. There was a cost wall. And that's how she"
+    },
+    {
+      "timestamp": [3821.7, 3884.78],
+      "text": " did her accounting. She had a flower shop run.15, it seems to disappear for an hour. Strangely, at the times that kids' schools let out, right? I mean, can you blame the owner for saying, take the van, pick up the kids, drop them off at home, bring them back? I won't tell the IRS. You don't tell the IRS. We're all okay."
+    },
+    {
+      "timestamp": [3886.3, 3889.7],
+      "text": " And there are employees that a private business has."
+    },
+    {
+      "timestamp": [3889.7, 3892.36],
+      "text": " So what does that guy do? He seems to be doing nothing."
+    },
+    {
+      "timestamp": [3892.68, 3951.27],
+      "text": " I don't know. He has. Why? Because they're going to get whatever's left over anyway. You're saying, so what? Even if they do their financials right, you see why this is going to create a problem? They give you the income statement"
+    },
+    {
+      "timestamp": [3951.27, 3954.85],
+      "text": " for the business, but remember, they didn't charge themselves a salary. Let's say you're"
+    },
+    {
+      "timestamp": [3956.19, 3960.93],
+      "text": " naive enough to pay for that business based on what the income statement said."
+    },
+    { "timestamp": [4001.12, 4002.18], "text": " that salary." },
+    {
+      "timestamp": [4004.26, 4004.3],
+      "text": " None of these are insurmountable problems,"
+    },
+    {
+      "timestamp": [4005.18, 4007.08],
+      "text": " but they're problems anyway."
+    },
+    {
+      "timestamp": [4008.34, 4010.24],
+      "text": " One final point about private companies. With a public"
+    },
+    {
+      "timestamp": [4010.24, 4012.34],
+      "text": " company, you can ask the question, why do"
+    },
+    {
+      "timestamp": [4012.34, 4013.94],
+      "text": " you want me to value the public company?"
+    },
+    {
+      "timestamp": [4014.06, 4016.0],
+      "text": " The answer seems obvious. You value the public company,"
+    },
+    {
+      "timestamp": [4016.06, 4018.0],
+      "text": " the market price, you buy it cheap,"
+    },
+    {
+      "timestamp": [4018.06, 4020.2],
+      "text": " you sell it expensive. With a private"
+    },
+    { "timestamp": [4020.2, 4021.62], "text": " company, motive matters." },
+    { "timestamp": [4022.38, 4024.18], "text": " I remember about 25 years" },
+    { "timestamp": [4024.18, 4024.46], "text": " ago," },
+    {
+      "timestamp": [4025.92, 4028.22],
+      "text": " this lady wanders into my office."
+    },
+    {
+      "timestamp": [4028.4, 4087.4],
+      "text": " I thought she to sell the business. I said, to whom? She said, you have a lot of questions. I said, I need to know. She said, what do you mean to whom? I said, are you going to sell it to a publicly"
+    },
+    {
+      "timestamp": [4087.4, 4150.33],
+      "text": " traded company? Maybe Hershey's is interested in is the most difficult setup when you have a private to private transaction."
+    },
+    {
+      "timestamp": [4150.33, 4220.54],
+      "text": " Own of a private business is selling to another capital. So you're valuing the company because you want them to invest in it. But ultimately, you plan to exit with an IPO. How this process plays out in valuation."
+    },
+    {
+      "timestamp": [4221.46, 4285.5],
+      "text": " So let's start with private to private transactions and list out the challenges you will face that investors diversified. Already you can see the challenge. The entire structure for using payday is going to come apart because the buyer is not diversified. We'll talk about how to get over it, but that's going to be an issue. Second, that investment you're making in that private business is illiquid."
+    },
+    {
+      "timestamp": [4287.1, 4290.36],
+      "text": " I know people like to use the word illiquidity discounts."
+    },
+    {
+      "timestamp": [4290.36, 4294.2],
+      "text": " I prefer the term cost of buyer's remorse."
+    },
+    {
+      "timestamp": [4295.28, 4351.05],
+      "text": " Have you ever had buyer's remorse, if you bought and sold Apple, is probably one-tenth of 100th of a percent."
+    },
+    {
+      "timestamp": [4351.41, 4353.47],
+      "text": " But if you, none of you is wealthy"
+    },
+    {
+      "timestamp": [4353.47, 4355.33],
+      "text": " enough to do this yet, but let's say you"
+    },
+    {
+      "timestamp": [4355.33, 4357.39],
+      "text": " get to be 35, 40, you've had a"
+    },
+    { "timestamp": [4357.39, 4359.45], "text": " long day at work, you're" },
+    {
+      "timestamp": [4359.45, 4361.37],
+      "text": " on your way home, you stop at the corner grocery"
+    },
+    {
+      "timestamp": [4361.37, 4417.88],
+      "text": " store, you're tiredto-private transactions, you have what I call a key person effect on value. Again, I'll use a personal example to bring this on. I've had four kids. They've all needed braces."
+    },
+    {
+      "timestamp": [4420.2, 4420.34],
+      "text": " This is an extraordinarily involved process."
+    },
+    {
+      "timestamp": [4421.76, 4422.56],
+      "text": " I wouldn't even go to a dentist until I was 32."
+    },
+    {
+      "timestamp": [4423.4, 4425.94],
+      "text": " So luckily, I was genetically okay"
+    },
+    { "timestamp": [4425.94, 4427.02], "text": " with my teeth, I guess." },
+    {
+      "timestamp": [4427.1, 4428.6],
+      "text": " Otherwise, all my teeth would be out by now."
+    },
+    { "timestamp": [4468.2, 4469.0], "text": " Oh, you're 40 years old?" },
+    { "timestamp": [4469.92, 4470.02], "text": " Why are you retiring?" },
+    { "timestamp": [4471.4, 4471.5], "text": " He said, I'm pretty rich." },
+    { "timestamp": [4472.16, 4472.24], "text": " And I said, I know." },
+    {
+      "timestamp": [4474.06, 4475.4],
+      "text": " My credit card already shows that."
+    },
+    {
+      "timestamp": [4477.32, 4477.42],
+      "text": " And he said, I'm trying to sell the business,"
+    },
+    {
+      "timestamp": [4478.48, 4478.58],
+      "text": " but I'm running into a problem."
+    },
+    {
+      "timestamp": [4481.52, 4483.42],
+      "text": " I show potential buyers the value of the business or the income I made last year."
+    },
+    { "timestamp": [4483.44, 4484.58], "text": " And I made a lot of income." },
+    { "timestamp": [4484.74, 4485.96], "text": " It's like rubbing it in." },
+    {
+      "timestamp": [4486.14, 4488.54],
+      "text": " I don't know exactly where that income is coming from."
+    },
+    {
+      "timestamp": [4490.24, 4492.26],
+      "text": " But they're not paying that income."
+    },
+    { "timestamp": [4492.3, 4493.26], "text": " And you can see why, right?" },
+    {
+      "timestamp": [4493.72, 4550.11],
+      "text": " If you're a dentist and you buy Howie's business, and doctors do this. Get more dentists. I'm not going to solve the problem. He still wants to go off to, I don't know where he wants to retire to, the Cayman Islands, I guess. What's making it difficult is the next day when I show up,"
+    },
+    {
+      "timestamp": [4550.17, 4552.19],
+      "text": " there's this new dentist I've never seen, right?"
+    },
+    { "timestamp": [4553.35, 4554.01], "text": " I said, Howie," },
+    {
+      "timestamp": [4554.71, 4556.17],
+      "text": " I have some bad news for you."
+    },
+    {
+      "timestamp": [4557.37, 4559.05],
+      "text": " The path I'm going to give you"
+    },
+    {
+      "timestamp": [4559.05, 4560.57],
+      "text": " is going to give you a higher value,"
+    },
+    {
+      "timestamp": [4560.57, 4618.56],
+      "text": " but you've got to hang. And that's good news. AI can replace a public company valuation. AI is much more difficult to replace in private company appraisal because you've got to talk to people. You've got to understand the transaction. So think of that as good news. While you're struggling with private company valuation,"
+    },
+    {
+      "timestamp": [4619.02, 4621.6],
+      "text": " this is why people will still need you,"
+    },
+    {
+      "timestamp": [4621.7, 4624.26],
+      "text": " even if AI takes over everywhere else."
+    },
+    {
+      "timestamp": [4624.72, 4629.26],
+      "text": " So next session, we're going to spend time valuing a restaurant."
+    }
+  ]
+}

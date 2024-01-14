@@ -1,1 +1,569 @@
-{"text": " It's done, so let's stop talking about it. So here's what's going to happen. One of the TAs will come down in about five minutes, take those quizzes up to be alphabetically sorted. And once I finish my second class, the second class ends at 445, I'll start grading. Let's grade this quiz first. And once it's graded, I will let you know that it's been graded and you can pick it up. in my office. The downside then is you got to find me in my office to get the quiz. So if you want to get your quiz back, you'll probably have sooner than you think from me. So watch your email. And when I sent the email, I would send the solution. Then I wouldn't send it right now because I know exactly what will happen if you get the solution. Now is all these dire scenarios will play out. You'll be convinced you got So if you lose a point and a half, it should specify exactly where you lost the point and a half. And unless I've overlooked something, maybe you wrote on the back of the page and I never looked at it. For the most part, it should be directly related to what you did on the question. Okay, so let's go back to where we were at the end of the last class. We were just finishing up with free cash flow equity. Free cash flow equity is, Here's the shortcut you can use to get to free cash flow. Start with net income. Subtract out the 75% of the net capex that comes from equity. Because after all, as an equity investor, all you care about is how much do I have to come up with. Subtract out the 75% of the change in working capital increased by 477 million. So net capex is 612, working capital increases by 477 million. Their debt ratio was about 25%. So basically, I'm sorry, 24%, 23.83% to be precise. Let's assume they're going to maintain that debt ratio from this day on. We start with net income, subtract out the and repayments, which are a pain in the neck to forecast because you've got to decide when debt comes due, whether you're going to issue debt or not. This saves you the trouble. I'm going to take this calculation and play a little game. The debt ratio I'm using here is 23.83%, right? Let's assume I used a 30% debt ratio. As an equity investor, tell me what this does to your free cash flow to equity. To value equity, what do I need to discount those cash flows at? The cost of equity. And what drives the cost of equity? What's the only input that's company-specific in the cost of equity? The beta, right? Because the risk-free rate and the risk premium are market set numbers. And how do we estimate betas? We look at the business you're in and we lever the beta up, right? Based on your debt in the context of value-added. First statement is that increasing leverage will increase value because the cash flow effect will always dominate the discard rate. If that were true, where should every company end up at? 99% debt, right? So that can't be true. Miller-Modigliani, right? It's this homage you pay in finance, right? Great gods of finance, Martin Miller and Franco Modigliani. But what's a Miller-Modigliani theorem, sir? That's your assumption, but what's the conclusion of the model? That the value of the firm is going to be unaffected by debt. And people are always mystified. How can that be? In a world where your cash flow effects will be offset exactly by your discount rate effects. But that's not the world I live in. I don't think that's the world you live in. We live in a world of taxes. We're approaching So that's it for cash flows. Let's talk about whether rubber meets the road. Up till now, whenever you're asked to estimate something, you can point to the accountants for it. I got the beta from Demodern online. There's always somebody else to blame. Now is the time to take ownership evaluation because you're going to reject out the future. Nobody cares what last year brought. To understand the trade-off on growth, let's think of the good side of growth. The good side of growth is as you grow, your revenues get larger, your income gets larger, your cash flows get larger in the future. What's the bad side of growth? To get that growth, you have to put money back into the business. If you're a manufacturing company in plant and equipment, if you're a technology company in R&D. So what you're giving up are cash flows now for growth in the future. about the ways in which you can estimate growth. Generically, when you have to estimate growth for your company, and hopefully you've already picked a company, I won't harass you anymore. Though your master list is the least populated of my three master lists right now. So either you're holding your company mysterious, you don't want to let me know you haven't picked a company. I don't even want to go there if you haven't picked a company. But once you've picked a company, you've got to forecast growth, right? Look at the three places you go. First, you look at a compounded average. So I'm going to start with historical growth. Look at how to estimate it and why you should be a little careful about just extrapolating past growth. In fact, you should look outwards. You know, with most private company appraisers, you know where they get their growth rates for their earnings and revenues? They get it from the management of the companies. They go to ask the management, how quickly can you grow? Talk about bias forecast, right? But this way, if something goes wrong, they say the managers gave me this number. I just use those numbers. If you're look at the past, you can outsource your growth rate, or you can go back to the business because ultimately you and I don't have the power to go around endowing companies with high growth just because we like them. Growth has to be earned. What does that mean? To grow, you've got to pull off this trick of reinvesting money and reinvesting well at the same time. You know why it's a trick? It's easy to reinvest a out there if you haven't done it. You can pull the last, you know, if it's Coca-Cola, you can pull their entire life's earnings, going back 40, 50 years in one Excel spreadsheet. Think about what the choices are that you make that can affect what you end up with as a growth rate. The first is, as I said, a purely statistical choice. If I gave you 10 years of earnings for a company and say, The time period you pick can affect your growth rate. If you want to show a really high growth rate for your company, the easiest way to do it is to pick a base year that was a terrible year. You take 2020 as your base year for a hotel, it's going to look amazing. Because you had nothing in revenues that year and you have a billion dollars, you could say that's 100% growth rate. The time period matters. And the metric you're're at minus 100. Think about it. What's the growth rate you would give this company? I'm going to take you through the mechanics of computing growth rate, and you're going to get a completely counterintuitive number if you just plug the numbers in we use for typical growth rates. We have to talk about how do we deal with negative numbers to come up with growth rates. We also have to deal with the fact that as companies scale up, their growth rates will decrease. It's almost a mathematical given. geometric average, which is basically take the ending number and the starting number, and then, you know, you know how to compute the geometric average, just take the ending and the starting number and raise it to the power one-fifth, basically, because it's a compounded growth rate. Let's take revenues. The arithmetic average is 7.08%. The geometric average is 6.82% already is saying, what a waste of time, I'm pretty close to the the same. The more standard deviation there is, the volatility, there's the growth rates, the bigger the divergence there will be between arithmetic and geometric averages. That's why with stock returns, I made such a big deal about compounding geometric averages because stock returns are incredibly noisy. With T-bills, it doesn't make that much of a difference. There's not that much variance. So way you compute growth rates is you take the change in earnings and you divide by the earnings per share last year. If I use that measure for growth, my change in earnings is 30 cents. What goes in my denominator? Minus 25 cents, minus 5 cents, which gives me a growth rate of get 120%. You can already see that when you go from negative to positive, while I can try every conceivable game here, the bottom line is the growth rate becomes almost useless because remember the reason we're computing growth is to project out the future. Minus 600% doesn't work, plus 600 doesn years, and you do things carefully. You compute a compounded average growth. So you're following all the rules. You come up with a really high number. And then you feel tempted by saying, look, this company is still good. It's got great management. It still has a great product. I'm just going to extrapolate that growth for the next five years. Be careful what you can create. You can create monsters with growth rates that are extraordinary. I'm going to illustrate this with a company called Callaway Golf. like Tiger Woods. And Big Brother took off. And to show you how much it took off, this was the five-year historical data I was looking at in 1997 when I look at Calvary Ball. Their net income went from 1.8 million to 120.3 million. So let's start with facts. Did they have a great five years? Absolutely. They're compounded growth rate. The geometry capital is 102% a year. It's not a fact. There are estimation judgments you're making. And for most companies, historical growth is not a great predictor of future growth. In fact, one of my favorite studies, partly because of the title of the study, in the early 60s, this Englishman comes over and gets a PhD in economics at one of the U.S. universities, and he writes a thesis. And in his thesis, he was examining the question. learnings growth. I won't give away what he found. I'll give you the title of his paper. It's one of my favorite research titles ever. The title of his PhD thesis was Higgledy-Piggledy Growth. You know what he found as a correlation. What's your worst case scenario of using historical growth? Negative one would be great because then what you bet, it could be the most obscure emerging, every company now in the world seems to have equity research analysts. In fact, if you have access to Capital IQ or you go to IBES and Zacks, you can get forecasted earnings growth for your company. It seems like a godsend when you value your company. There's a growth rate right there. But first you have to remember what analysts forecast growth. Analysts don't forecast growth in revenue. you the research on analyst forecast, and it's a little depressing, especially if you're a sell-side equity research analyst. So think of the tens of millions of dollars we spend on sell-side equity research all the time going to forecasting. I'll start with the good news. When you look at their forecasts of earnings, one way to measure the quality of a forecast, look at how different it is from actual earnings. So if you get perfect forecast, the standard error of the difference should be close to zero. In other words, you one quarter ahead. If you go to two quarters ahead, even that advantage disappears. Five years forecast, it just looks like a time series model. So I actually present this to equity research analysts and they don't like it, but it is what it is. You know what their excuse is, right? If it's New York based, they say, there are a lot of very bad sell-side equity research analysts out there. research analysts, this is the pinnacle of your life. There's no further up. You've got Mount Everest. You hit the, you know, all America. In fact, once you become an all-American analyst, it becomes part of your name. You're no longer Joe Brown. You're Joe Brown, all-American. That's how you introduce yourself to others, to your own family. You ask your kids to call you just all-America for short, you know, because you want to remind everybody, I'm an all-American. And there are studies that look at these all better forecast. More access to the magnetic. Remember, the only advantage you get as a sell-side analyst is these little twinges of information. Remember, in the U.S., it's illegal for companies to actually give you explicit information as a sell-side analyst if you're not giving it to the market. there's a price effect. Because people know, people pick up on the buy, they start buying as well, they pick up on the sell. With all-American analysts, I'll tell you what the price effect is, and maybe again you can explain the disparity. When they put out buy recommendations, the stock goes up about 3%. When they put out sell recommendations, on the date of the recommendation, the stock price drops about 4.7%. You say, that makes sense. to one, right? Nine buys forever. It used to be 20 to one, nine to one. So the fact that you put out a sell recommendation must mean you're seeing things here that must be catastrophic. Second, you are burning your bridges, right? That must mean that there is something. Buy, you might put out, maybe the equity research analyst got a big dinner at, you know, whatever the most expensive restaurant in New York was, and he put a buy recommendation on it. You're not adding more value. So I've come up with a list of reasons. If any of you are going to sell-side equity research, you have to fix these problems to make sell-side equity research some kind of value-added proposition. The first is tunnel vision. Remember how sell-side equity research works. You're put into a sector. You're given 15 companies. What are you told? Forget the rest of the world exists. This is your universe. That's not healthy in investing. about me because I'm going to work with these same 15 companies. Second, you've got a whole lot of lemmingitis in sell-side equity research. The way sell-side equity research works is they revise their, remember I said they make earnings per share estimates. Sometimes you see a revision to an estimate that an analyst said Goldman Sachs has raised the expected earnings per share for Tesla from 10 cents to 12 cents. Keep your eyes on point in time, though, the relationship becomes so blurred that the equity research analyst seems to think it's his or her job to defend the company against people who might attack it. Take a look at some of the people who follow Tesla and equity research analysts. You can't call them equity. They're cheerleaders. I once saw a Tesla sell-side equity research analyst get into an argument with Elon Musk tables, lots of stories. Stories that are not connected numbers can become fairy tales. You're not Charles Dickens or Stephen King. You can't create universes of your own. You're not a novelist. And finally, there is this Dr. Jekyll, Mr. Hyde component to Sunset Equity Research. And here's why, especially in the US or pretty much everywhere around the world, you think of yourself, you're part of an investment bank. In Europe, you're part all credit burden. It just has laugh value. If you don't believe me, watch buy recommendations. You know when they'll pop up after the stock is at 1.2 trillion. You know when sell recommendations pop up after it's gone down to 150 billion. It's almost become a negative indicator of where will the stock go because they're chasing the price up and down. They're not valuing the company. So here are three propositions about analyst growth threats. First is, is look up the growth rate in earnings that analysts are projecting for your company, but don't be swayed by it. So if your growth rate is 5% and analysts are projecting 25%, don't assume you're wrong and the analysts are right. Dig a little deeper. Maybe there's something you're missing that you need to bring in, or maybe there isn't. And the analysts are just projecting numbers that have really no base. investment base, the 100 million, and the return I'm making on that investment. In other words, I can't grow if I'm not adding to my investment base and earning a return on that investment. That is the basis for sustainable growth. In fact, if I took this and stated it as ratios, I invested 100 million out of the 120 million. So think of that as what I'm are two ways to grow. One is efficiency growth. One is growth by adding to your investment base. And you're saying, I'll take the efficiency growth. You can, but here's the caveat. If you tell me you're going to grow in the long term by reinvesting in new projects and earning a return, it's believable, right? Because you can keep adding to your base. If you tell me you're going to grow in the long term and it's all going to come from efficiency growth, you see the logical problem there?", "chunks": [{"timestamp": [0.0, 6.66], "text": " It's done, so let's stop talking about it."}, {"timestamp": [7.34, 8.56], "text": " So here's what's going to happen."}, {"timestamp": [10.44, 13.5], "text": " One of the TAs will come down in about five minutes,"}, {"timestamp": [13.6, 16.18], "text": " take those quizzes up to be alphabetically sorted."}, {"timestamp": [17.2, 21.22], "text": " And once I finish my second class, the second class ends at 445,"}, {"timestamp": [21.36, 22.04], "text": " I'll start grading."}, {"timestamp": [22.66, 24.18], "text": " Let's grade this quiz first."}, {"timestamp": [24.88, 28.0], "text": " And once it's graded, I will let you know that it's been graded"}, {"timestamp": [28.0, 28.9], "text": " and you can pick it up."}, {"timestamp": [72.25, 78.97], "text": " in my office. The downside then is you got to find me in my office to get the quiz. So if you want to get your quiz back, you'll probably have sooner than you think from me. So watch your email."}, {"timestamp": [79.25, 83.33], "text": " And when I sent the email, I would send the solution. Then I wouldn't send it right now"}, {"timestamp": [83.33, 89.01], "text": " because I know exactly what will happen if you get the solution. Now is all these dire scenarios"}, {"timestamp": [89.01, 150.33], "text": " will play out. You'll be convinced you got So if you lose a point and a half, it should specify exactly where you lost the point and a half. And unless I've overlooked something, maybe you wrote on the back of the page and I never looked at it. For the most part, it should be directly related"}, {"timestamp": [150.33, 151.27], "text": " to what you did on the question."}, {"timestamp": [152.57, 154.59], "text": " Okay, so let's go back"}, {"timestamp": [154.59, 155.59], "text": " to where we were"}, {"timestamp": [155.59, 157.15], "text": " at the end of the last class."}, {"timestamp": [157.23, 158.67], "text": " We were just finishing up"}, {"timestamp": [158.67, 160.13], "text": " with free cash flow equity."}, {"timestamp": [161.05, 162.19], "text": " Free cash flow equity is,"}, {"timestamp": [215.22, 287.41], "text": " Here's the shortcut you can use to get to free cash flow. Start with net income. Subtract out the 75% of the net capex that comes from equity. Because after all, as an equity investor, all you care about is how much do I have to come up with. Subtract out the 75% of the change in working capital increased by 477 million. So net capex is 612, working capital increases by 477 million. Their debt ratio was about 25%. So basically, I'm sorry, 24%, 23.83% to be precise. Let's assume they're going to maintain that debt ratio from this day on."}, {"timestamp": [288.21, 356.85], "text": " We start with net income, subtract out the and repayments, which are a pain in the neck to forecast because you've got to decide when debt comes due, whether you're going to issue debt or not. This saves you the trouble. I'm going to take this calculation and play a little game. The debt ratio I'm using here is 23.83%, right? Let's assume I used a 30% debt ratio."}, {"timestamp": [357.41, 421.22], "text": " As an equity investor, tell me what this does to your free cash flow to equity. To value equity, what do I need to discount those cash flows at? The cost of equity. And what drives the cost of equity? What's the only input that's company-specific in the cost of equity? The beta, right? Because the risk-free rate and the risk premium are market set numbers. And how do we estimate betas? We look at the business you're"}, {"timestamp": [421.22, 483.87], "text": " in and we lever the beta up, right? Based on your debt in the context of value-added. First statement is that increasing leverage will increase value because the cash flow effect will always dominate the discard rate."}, {"timestamp": [487.37, 488.71], "text": " If that were true, where should every company end up at?"}, {"timestamp": [490.19, 492.19], "text": " 99% debt, right?"}, {"timestamp": [494.11, 552.43], "text": " So that can't be true. Miller-Modigliani, right? It's this homage you pay in finance, right? Great gods of finance, Martin Miller and Franco Modigliani. But what's a Miller-Modigliani theorem, sir? That's your assumption, but what's the conclusion of the model?"}, {"timestamp": [553.73, 555.71], "text": " That the value of the firm is going to be unaffected by debt."}, {"timestamp": [555.81, 557.59], "text": " And people are always mystified. How can"}, {"timestamp": [557.59, 558.13], "text": " that be?"}, {"timestamp": [559.49, 617.94], "text": " In a world where your cash flow effects will be offset exactly by"}, {"timestamp": [617.94, 622.76], "text": " your discount rate effects. But that's not the world I live in. I don't think that's the world"}, {"timestamp": [622.76, 683.87], "text": " you live in. We live in a world of taxes. We're approaching So that's it for cash flows. Let's talk about whether rubber meets the road. Up till now, whenever you're asked to estimate something, you can point to the accountants for it."}, {"timestamp": [684.27, 686.15], "text": " I got the beta from Demodern online."}, {"timestamp": [686.29, 687.65], "text": " There's always somebody else to blame."}, {"timestamp": [688.49, 690.71], "text": " Now is the time to take ownership evaluation"}, {"timestamp": [690.71, 691.23], "text": " because"}, {"timestamp": [691.23, 693.65], "text": " you're going to reject out the future."}, {"timestamp": [693.77, 695.33], "text": " Nobody cares what last year brought."}, {"timestamp": [737.01, 737.21], "text": " To understand the trade-off on growth, let's think of the good side of growth."}, {"timestamp": [741.31, 741.45], "text": " The good side of growth is as you grow, your revenues get larger, your income gets larger,"}, {"timestamp": [743.63, 744.15], "text": " your cash flows get larger in the future."}, {"timestamp": [745.33, 745.39], "text": " What's the bad side of growth?"}, {"timestamp": [748.49, 748.99], "text": " To get that growth, you have to put money back into the business."}, {"timestamp": [753.27, 753.83], "text": " If you're a manufacturing company in plant and equipment, if you're a technology company in R&D."}, {"timestamp": [754.63, 758.09], "text": " So what you're giving up are cash flows now for growth in the future."}, {"timestamp": [803.32, 803.44], "text": " about the ways in which you can estimate growth."}, {"timestamp": [805.18, 805.74], "text": " Generically, when you have to estimate growth for your company,"}, {"timestamp": [805.82, 807.28], "text": " and hopefully you've already picked a company,"}, {"timestamp": [807.34, 808.42], "text": " I won't harass you anymore."}, {"timestamp": [809.06, 811.6], "text": " Though your master list is the least populated"}, {"timestamp": [811.6, 813.26], "text": " of my three master lists right now."}, {"timestamp": [814.26, 817.14], "text": " So either you're holding your company mysterious,"}, {"timestamp": [817.4, 818.6], "text": " you don't want to let me know"}, {"timestamp": [818.6, 819.88], "text": " you haven't picked a company."}, {"timestamp": [819.96, 821.14], "text": " I don't even want to go there"}, {"timestamp": [821.14, 822.18], "text": " if you haven't picked a company."}, {"timestamp": [822.92, 824.16], "text": " But once you've picked a company,"}, {"timestamp": [824.16, 825.32], "text": " you've got to forecast growth, right?"}, {"timestamp": [826.28, 827.62], "text": " Look at the three places you go."}, {"timestamp": [828.3, 884.45], "text": " First, you look at a compounded average. So I'm going to start with historical growth. Look at how to estimate it and why you should be a little careful about just"}, {"timestamp": [884.45, 952.67], "text": " extrapolating past growth. In fact, you should look outwards. You know, with most private company appraisers, you know where they get their growth rates for their earnings and revenues? They get it from the management of the companies. They go to ask the management, how quickly can you grow?"}, {"timestamp": [953.07, 958.83], "text": " Talk about bias forecast, right? But this way, if something goes wrong, they say the managers gave"}, {"timestamp": [958.83, 1017.48], "text": " me this number. I just use those numbers. If you're look at the past, you can outsource your growth rate, or you can go back to the business because ultimately you and I don't have the power to go around endowing companies with high growth just because we like them. Growth has to be earned. What does that mean? To grow,"}, {"timestamp": [1017.58, 1022.82], "text": " you've got to pull off this trick of reinvesting money and reinvesting well at the same time. You"}, {"timestamp": [1022.82, 1084.61], "text": " know why it's a trick? It's easy to reinvest a out there if you haven't done it. You can pull the last, you know, if it's Coca-Cola, you can pull their entire life's earnings, going back 40, 50 years in one Excel spreadsheet. Think about what the choices are that you make"}, {"timestamp": [1084.61, 1087.71], "text": " that can affect what you end up with as a growth rate."}, {"timestamp": [1088.31, 1091.09], "text": " The first is, as I said, a purely statistical choice."}, {"timestamp": [1091.09, 1093.69], "text": " If I gave you 10 years of earnings for a company and say,"}, {"timestamp": [1136.49, 1137.43], "text": " The time period you pick can affect your growth rate."}, {"timestamp": [1140.35, 1140.83], "text": " If you want to show a really high growth rate for your company,"}, {"timestamp": [1145.69, 1146.81], "text": " the easiest way to do it is to pick a base year that was a terrible year."}, {"timestamp": [1150.77, 1151.13], "text": " You take 2020 as your base year for a hotel, it's going to look amazing."}, {"timestamp": [1154.25, 1154.29], "text": " Because you had nothing in revenues that year and you have a billion dollars,"}, {"timestamp": [1155.97, 1157.41], "text": " you could say that's 100% growth rate."}, {"timestamp": [1158.99, 1159.41], "text": " The time period matters."}, {"timestamp": [1161.47, 1217.92], "text": " And the metric you're're at minus 100. Think about it. What's the growth rate you would give this company? I'm going to take you through the mechanics of computing growth rate, and you're going to get a completely counterintuitive number if you just plug the numbers in we use for typical growth rates. We have to talk about how do we deal with negative numbers"}, {"timestamp": [1217.92, 1219.04], "text": " to come up with growth rates."}, {"timestamp": [1219.04, 1222.96], "text": " We also have to deal with the fact that as companies scale up,"}, {"timestamp": [1224.04, 1225.88], "text": " their growth rates will decrease."}, {"timestamp": [1226.02, 1227.84], "text": " It's almost a mathematical given."}, {"timestamp": [1270.37, 1270.89], "text": " geometric average, which is basically take the ending number and the starting number,"}, {"timestamp": [1274.29, 1279.31], "text": " and then, you know, you know how to compute the geometric average, just take the ending and the starting number and raise it to the power one-fifth, basically, because it's a compounded"}, {"timestamp": [1279.31, 1287.39], "text": " growth rate. Let's take revenues. The arithmetic average is 7.08%. The geometric average is 6.82%"}, {"timestamp": [1287.39, 1353.51], "text": " already is saying, what a waste of time, I'm pretty close to the the same. The more standard deviation there is, the volatility, there's the growth rates, the bigger the divergence there will be between arithmetic and geometric averages. That's why with stock returns, I made such a big deal about compounding geometric averages because stock returns are incredibly noisy. With T-bills, it doesn't make that much"}, {"timestamp": [1353.51, 1419.26], "text": " of a difference. There's not that much variance. So way you compute growth rates is you take the change in earnings and you divide by the earnings per share last year. If I use that measure for growth, my change in earnings is 30 cents. What goes in my denominator? Minus 25 cents,"}, {"timestamp": [1419.64, 1485.73], "text": " minus 5 cents, which gives me a growth rate of get 120%. You can already see that when you go from negative to positive, while I can try every conceivable game here, the bottom line is the growth rate becomes almost useless because remember the reason we're computing growth is to project out the"}, {"timestamp": [1485.73, 1551.37], "text": " future. Minus 600% doesn't work, plus 600 doesn years, and you do things carefully. You compute a compounded average growth. So you're following all the rules. You come up with a really high number. And then you feel tempted by saying, look, this company is still good. It's got great management. It still has a great product. I'm just going to extrapolate that growth for the next five years."}, {"timestamp": [1552.77, 1554.21], "text": " Be careful what you can create."}, {"timestamp": [1554.21, 1558.43], "text": " You can create monsters with growth rates that are extraordinary."}, {"timestamp": [1559.29, 1618.66], "text": " I'm going to illustrate this with a company called Callaway Golf. like Tiger Woods. And Big Brother took off. And to show you how much it took off, this was the five-year historical data I was looking at in 1997 when I look at Calvary Ball. Their net income went from 1.8 million to 120.3 million. So let's start with facts. Did they have"}, {"timestamp": [1618.66, 1625.44], "text": " a great five years? Absolutely. They're compounded growth rate. The geometry capital is 102% a year."}, {"timestamp": [1667.49, 1667.61], "text": " It's not a fact."}, {"timestamp": [1669.35, 1670.71], "text": " There are estimation judgments you're making."}, {"timestamp": [1672.35, 1673.21], "text": " And for most companies,"}, {"timestamp": [1675.75, 1677.05], "text": " historical growth is not a great predictor of future growth."}, {"timestamp": [1678.61, 1680.97], "text": " In fact, one of my favorite studies,"}, {"timestamp": [1681.11, 1682.61], "text": " partly because of the title of the study,"}, {"timestamp": [1683.27, 1684.43], "text": " in the early 60s,"}, {"timestamp": [1685.15, 1687.15], "text": " this Englishman comes over and gets a PhD"}, {"timestamp": [1687.15, 1691.67], "text": " in economics at one of the U.S. universities,"}, {"timestamp": [1691.85, 1692.83], "text": " and he writes a thesis."}, {"timestamp": [1693.93, 1695.97], "text": " And in his thesis, he was examining the question."}, {"timestamp": [1739.67, 1747.53], "text": " learnings growth. I won't give away what he found. I'll give you the title of his paper. It's one of my favorite research titles ever. The title of his PhD thesis was Higgledy-Piggledy Growth."}, {"timestamp": [1749.49, 1755.53], "text": " You know what he found as a correlation. What's your worst case scenario of using historical growth?"}, {"timestamp": [1757.61, 1817.42], "text": " Negative one would be great because then what you bet, it could be the most obscure emerging, every company now in the world seems to have equity research analysts. In fact, if you have access to Capital IQ or you go to IBES and Zacks, you can get forecasted earnings growth for your company."}, {"timestamp": [1817.54, 1819.3], "text": " It seems like a godsend when you value your company."}, {"timestamp": [1819.38, 1820.42], "text": " There's a growth rate right there."}, {"timestamp": [1821.48, 1822.62], "text": " But first you have to remember"}, {"timestamp": [1822.62, 1824.02], "text": " what analysts forecast growth."}, {"timestamp": [1825.84, 1827.54], "text": " Analysts don't forecast growth in revenue."}, {"timestamp": [1871.15, 1877.13], "text": " you the research on analyst forecast, and it's a little depressing, especially if you're a sell-side equity research analyst. So think of the tens of millions of dollars we spend on sell-side equity"}, {"timestamp": [1877.13, 1881.87], "text": " research all the time going to forecasting. I'll start with the good news. When you look at their"}, {"timestamp": [1881.87, 1886.67], "text": " forecasts of earnings, one way to measure the quality of a forecast, look at how different it"}, {"timestamp": [1886.67, 1891.83], "text": " is from actual earnings. So if you get perfect forecast, the standard error of the difference"}, {"timestamp": [1891.83, 1951.83], "text": " should be close to zero. In other words, you one quarter ahead. If you go to two quarters ahead, even that advantage disappears. Five years forecast, it just looks like a time series model. So I actually present this to equity research analysts"}, {"timestamp": [1951.83, 1953.93], "text": " and they don't like it, but it is what it is."}, {"timestamp": [1954.39, 1955.57], "text": " You know what their excuse is, right?"}, {"timestamp": [1956.69, 1958.39], "text": " If it's New York based, they say,"}, {"timestamp": [1958.39, 1959.83], "text": " there are a lot of very bad"}, {"timestamp": [1959.83, 1962.47], "text": " sell-side equity research analysts out there."}, {"timestamp": [2004.6, 2009.12], "text": " research analysts, this is the pinnacle of your life. There's no further up. You've got Mount Everest. You hit the, you know, all America. In fact, once you become an all-American analyst,"}, {"timestamp": [2009.12, 2015.74], "text": " it becomes part of your name. You're no longer Joe Brown. You're Joe Brown, all-American. That's"}, {"timestamp": [2015.74, 2019.98], "text": " how you introduce yourself to others, to your own family. You ask your kids to call you just"}, {"timestamp": [2019.98, 2024.48], "text": " all-America for short, you know, because you want to remind everybody, I'm an all-American."}, {"timestamp": [2025.22, 2084.31], "text": " And there are studies that look at these all better forecast. More access to the magnetic. Remember, the only advantage you get as a sell-side analyst is these little twinges of information."}, {"timestamp": [2084.31, 2092.53], "text": " Remember, in the U.S., it's illegal for companies to actually give you explicit information as a sell-side analyst if you're not giving it to the market."}, {"timestamp": [2134.75, 2136.05], "text": " there's a price effect."}, {"timestamp": [2138.07, 2138.15], "text": " Because people know, people pick up on the buy,"}, {"timestamp": [2140.13, 2140.79], "text": " they start buying as well, they pick up on the sell."}, {"timestamp": [2143.79, 2143.85], "text": " With all-American analysts, I'll tell you what the price effect is,"}, {"timestamp": [2146.31, 2146.77], "text": " and maybe again you can explain the disparity."}, {"timestamp": [2151.33, 2153.83], "text": " When they put out buy recommendations, the stock goes up about 3%. When they put out sell recommendations,"}, {"timestamp": [2153.83, 2158.91], "text": " on the date of the recommendation, the stock price drops about 4.7%."}, {"timestamp": [2158.91, 2159.93], "text": " You say, that makes sense."}, {"timestamp": [2205.34, 2210.06], "text": " to one, right? Nine buys forever. It used to be 20 to one, nine to one. So the fact that you put out a sell recommendation must mean you're seeing things here that must be catastrophic."}, {"timestamp": [2211.84, 2218.42], "text": " Second, you are burning your bridges, right? That must mean that there is something. Buy,"}, {"timestamp": [2218.52, 2222.68], "text": " you might put out, maybe the equity research analyst got a big dinner at, you know, whatever"}, {"timestamp": [2222.68, 2284.15], "text": " the most expensive restaurant in New York was, and he put a buy recommendation on it. You're not adding more value. So I've come up with a list of reasons. If any of you are going to sell-side equity research, you have to fix these problems to make sell-side equity research some kind of value-added proposition. The first is tunnel vision."}, {"timestamp": [2285.81, 2286.79], "text": " Remember how sell-side equity research works. You're put into a sector."}, {"timestamp": [2287.15, 2288.59], "text": " You're given 15 companies."}, {"timestamp": [2288.71, 2289.19], "text": " What are you told?"}, {"timestamp": [2289.75, 2291.31], "text": " Forget the rest of the world exists."}, {"timestamp": [2291.55, 2292.97], "text": " This is your universe."}, {"timestamp": [2294.87, 2353.47], "text": " That's not healthy in investing. about me because I'm going to work with these same 15 companies. Second, you've got a whole lot of lemmingitis in sell-side equity research. The way sell-side equity research works is they revise their, remember I said they make earnings per share estimates. Sometimes you see a revision to an estimate that an analyst said Goldman Sachs has raised the expected earnings per share for"}, {"timestamp": [2353.47, 2420.16], "text": " Tesla from 10 cents to 12 cents. Keep your eyes on point in time, though, the relationship becomes so blurred that the equity research analyst seems to think it's his or her job to defend the company against people who might attack it. Take a look at some of the people who follow Tesla and equity research analysts. You can't call them equity. They're cheerleaders."}, {"timestamp": [2420.7, 2484.73], "text": " I once saw a Tesla sell-side equity research analyst get into an argument with Elon Musk tables, lots of stories. Stories that are not connected numbers can become fairy tales. You're not Charles Dickens or Stephen King. You can't create universes of your own. You're not a novelist. And finally, there is this Dr. Jekyll, Mr. Hyde"}, {"timestamp": [2484.73, 2486.49], "text": " component to Sunset Equity Research."}, {"timestamp": [2487.43, 2488.45], "text": " And here's why,"}, {"timestamp": [2488.57, 2489.77], "text": " especially in the US"}, {"timestamp": [2489.77, 2492.71], "text": " or pretty much everywhere"}, {"timestamp": [2492.71, 2494.63], "text": " around the world, you think of yourself, you're part"}, {"timestamp": [2494.63, 2554.73], "text": " of an investment bank. In Europe, you're part all credit burden. It just has laugh value. If you don't believe me, watch buy recommendations. You know when they'll pop up after the stock is at 1.2 trillion. You know when sell recommendations pop up after it's gone down to 150 billion. It's almost become a negative indicator of where will the stock go because they're chasing the price up and down. They're not valuing the company."}, {"timestamp": [2556.77, 2561.19], "text": " So here are three propositions about analyst growth threats. First is,"}, {"timestamp": [2603.88, 2604.0], "text": " is look up the growth rate in earnings that analysts are projecting for your company,"}, {"timestamp": [2610.16, 2615.28], "text": " but don't be swayed by it. So if your growth rate is 5% and analysts are projecting 25%, don't assume you're wrong and the analysts are right. Dig a little deeper. Maybe there's"}, {"timestamp": [2615.28, 2619.78], "text": " something you're missing that you need to bring in, or maybe there isn't. And the analysts"}, {"timestamp": [2619.78, 2621.98], "text": " are just projecting numbers that have really no base."}, {"timestamp": [2672.38, 2672.42], "text": " investment base, the 100 million, and the return I'm making on that investment. In other words,"}, {"timestamp": [2676.86, 2684.16], "text": " I can't grow if I'm not adding to my investment base and earning a return on that investment. That is the basis for sustainable growth. In fact, if I took this and stated it as ratios,"}, {"timestamp": [2684.76, 2750.01], "text": " I invested 100 million out of the 120 million. So think of that as what I'm are two ways to grow. One is efficiency growth. One is growth by adding to your investment base. And you're saying, I'll take the efficiency growth. You can, but here's the caveat. If you tell me you're going to grow in the long term by reinvesting in new projects and earning a return,"}, {"timestamp": [2751.03, 2751.07], "text": " it's believable, right?"}, {"timestamp": [2752.43, 2752.79], "text": " Because you can keep adding to your base."}, {"timestamp": [2755.05, 2757.63], "text": " If you tell me you're going to grow in the long term and it's all going to come from efficiency growth,"}, {"timestamp": [2758.23, 2761.41], "text": " you see the logical problem there?"}]}
+{
+  "text": " It's done, so let's stop talking about it. So here's what's going to happen. One of the TAs will come down in about five minutes, take those quizzes up to be alphabetically sorted. And once I finish my second class, the second class ends at 445, I'll start grading. Let's grade this quiz first. And once it's graded, I will let you know that it's been graded and you can pick it up. in my office. The downside then is you got to find me in my office to get the quiz. So if you want to get your quiz back, you'll probably have sooner than you think from me. So watch your email. And when I sent the email, I would send the solution. Then I wouldn't send it right now because I know exactly what will happen if you get the solution. Now is all these dire scenarios will play out. You'll be convinced you got So if you lose a point and a half, it should specify exactly where you lost the point and a half. And unless I've overlooked something, maybe you wrote on the back of the page and I never looked at it. For the most part, it should be directly related to what you did on the question. Okay, so let's go back to where we were at the end of the last class. We were just finishing up with free cash flow equity. Free cash flow equity is, Here's the shortcut you can use to get to free cash flow. Start with net income. Subtract out the 75% of the net capex that comes from equity. Because after all, as an equity investor, all you care about is how much do I have to come up with. Subtract out the 75% of the change in working capital increased by 477 million. So net capex is 612, working capital increases by 477 million. Their debt ratio was about 25%. So basically, I'm sorry, 24%, 23.83% to be precise. Let's assume they're going to maintain that debt ratio from this day on. We start with net income, subtract out the and repayments, which are a pain in the neck to forecast because you've got to decide when debt comes due, whether you're going to issue debt or not. This saves you the trouble. I'm going to take this calculation and play a little game. The debt ratio I'm using here is 23.83%, right? Let's assume I used a 30% debt ratio. As an equity investor, tell me what this does to your free cash flow to equity. To value equity, what do I need to discount those cash flows at? The cost of equity. And what drives the cost of equity? What's the only input that's company-specific in the cost of equity? The beta, right? Because the risk-free rate and the risk premium are market set numbers. And how do we estimate betas? We look at the business you're in and we lever the beta up, right? Based on your debt in the context of value-added. First statement is that increasing leverage will increase value because the cash flow effect will always dominate the discard rate. If that were true, where should every company end up at? 99% debt, right? So that can't be true. Miller-Modigliani, right? It's this homage you pay in finance, right? Great gods of finance, Martin Miller and Franco Modigliani. But what's a Miller-Modigliani theorem, sir? That's your assumption, but what's the conclusion of the model? That the value of the firm is going to be unaffected by debt. And people are always mystified. How can that be? In a world where your cash flow effects will be offset exactly by your discount rate effects. But that's not the world I live in. I don't think that's the world you live in. We live in a world of taxes. We're approaching So that's it for cash flows. Let's talk about whether rubber meets the road. Up till now, whenever you're asked to estimate something, you can point to the accountants for it. I got the beta from Demodern online. There's always somebody else to blame. Now is the time to take ownership evaluation because you're going to reject out the future. Nobody cares what last year brought. To understand the trade-off on growth, let's think of the good side of growth. The good side of growth is as you grow, your revenues get larger, your income gets larger, your cash flows get larger in the future. What's the bad side of growth? To get that growth, you have to put money back into the business. If you're a manufacturing company in plant and equipment, if you're a technology company in R&D. So what you're giving up are cash flows now for growth in the future. about the ways in which you can estimate growth. Generically, when you have to estimate growth for your company, and hopefully you've already picked a company, I won't harass you anymore. Though your master list is the least populated of my three master lists right now. So either you're holding your company mysterious, you don't want to let me know you haven't picked a company. I don't even want to go there if you haven't picked a company. But once you've picked a company, you've got to forecast growth, right? Look at the three places you go. First, you look at a compounded average. So I'm going to start with historical growth. Look at how to estimate it and why you should be a little careful about just extrapolating past growth. In fact, you should look outwards. You know, with most private company appraisers, you know where they get their growth rates for their earnings and revenues? They get it from the management of the companies. They go to ask the management, how quickly can you grow? Talk about bias forecast, right? But this way, if something goes wrong, they say the managers gave me this number. I just use those numbers. If you're look at the past, you can outsource your growth rate, or you can go back to the business because ultimately you and I don't have the power to go around endowing companies with high growth just because we like them. Growth has to be earned. What does that mean? To grow, you've got to pull off this trick of reinvesting money and reinvesting well at the same time. You know why it's a trick? It's easy to reinvest a out there if you haven't done it. You can pull the last, you know, if it's Coca-Cola, you can pull their entire life's earnings, going back 40, 50 years in one Excel spreadsheet. Think about what the choices are that you make that can affect what you end up with as a growth rate. The first is, as I said, a purely statistical choice. If I gave you 10 years of earnings for a company and say, The time period you pick can affect your growth rate. If you want to show a really high growth rate for your company, the easiest way to do it is to pick a base year that was a terrible year. You take 2020 as your base year for a hotel, it's going to look amazing. Because you had nothing in revenues that year and you have a billion dollars, you could say that's 100% growth rate. The time period matters. And the metric you're're at minus 100. Think about it. What's the growth rate you would give this company? I'm going to take you through the mechanics of computing growth rate, and you're going to get a completely counterintuitive number if you just plug the numbers in we use for typical growth rates. We have to talk about how do we deal with negative numbers to come up with growth rates. We also have to deal with the fact that as companies scale up, their growth rates will decrease. It's almost a mathematical given. geometric average, which is basically take the ending number and the starting number, and then, you know, you know how to compute the geometric average, just take the ending and the starting number and raise it to the power one-fifth, basically, because it's a compounded growth rate. Let's take revenues. The arithmetic average is 7.08%. The geometric average is 6.82% already is saying, what a waste of time, I'm pretty close to the the same. The more standard deviation there is, the volatility, there's the growth rates, the bigger the divergence there will be between arithmetic and geometric averages. That's why with stock returns, I made such a big deal about compounding geometric averages because stock returns are incredibly noisy. With T-bills, it doesn't make that much of a difference. There's not that much variance. So way you compute growth rates is you take the change in earnings and you divide by the earnings per share last year. If I use that measure for growth, my change in earnings is 30 cents. What goes in my denominator? Minus 25 cents, minus 5 cents, which gives me a growth rate of get 120%. You can already see that when you go from negative to positive, while I can try every conceivable game here, the bottom line is the growth rate becomes almost useless because remember the reason we're computing growth is to project out the future. Minus 600% doesn't work, plus 600 doesn years, and you do things carefully. You compute a compounded average growth. So you're following all the rules. You come up with a really high number. And then you feel tempted by saying, look, this company is still good. It's got great management. It still has a great product. I'm just going to extrapolate that growth for the next five years. Be careful what you can create. You can create monsters with growth rates that are extraordinary. I'm going to illustrate this with a company called Callaway Golf. like Tiger Woods. And Big Brother took off. And to show you how much it took off, this was the five-year historical data I was looking at in 1997 when I look at Calvary Ball. Their net income went from 1.8 million to 120.3 million. So let's start with facts. Did they have a great five years? Absolutely. They're compounded growth rate. The geometry capital is 102% a year. It's not a fact. There are estimation judgments you're making. And for most companies, historical growth is not a great predictor of future growth. In fact, one of my favorite studies, partly because of the title of the study, in the early 60s, this Englishman comes over and gets a PhD in economics at one of the U.S. universities, and he writes a thesis. And in his thesis, he was examining the question. learnings growth. I won't give away what he found. I'll give you the title of his paper. It's one of my favorite research titles ever. The title of his PhD thesis was Higgledy-Piggledy Growth. You know what he found as a correlation. What's your worst case scenario of using historical growth? Negative one would be great because then what you bet, it could be the most obscure emerging, every company now in the world seems to have equity research analysts. In fact, if you have access to Capital IQ or you go to IBES and Zacks, you can get forecasted earnings growth for your company. It seems like a godsend when you value your company. There's a growth rate right there. But first you have to remember what analysts forecast growth. Analysts don't forecast growth in revenue. you the research on analyst forecast, and it's a little depressing, especially if you're a sell-side equity research analyst. So think of the tens of millions of dollars we spend on sell-side equity research all the time going to forecasting. I'll start with the good news. When you look at their forecasts of earnings, one way to measure the quality of a forecast, look at how different it is from actual earnings. So if you get perfect forecast, the standard error of the difference should be close to zero. In other words, you one quarter ahead. If you go to two quarters ahead, even that advantage disappears. Five years forecast, it just looks like a time series model. So I actually present this to equity research analysts and they don't like it, but it is what it is. You know what their excuse is, right? If it's New York based, they say, there are a lot of very bad sell-side equity research analysts out there. research analysts, this is the pinnacle of your life. There's no further up. You've got Mount Everest. You hit the, you know, all America. In fact, once you become an all-American analyst, it becomes part of your name. You're no longer Joe Brown. You're Joe Brown, all-American. That's how you introduce yourself to others, to your own family. You ask your kids to call you just all-America for short, you know, because you want to remind everybody, I'm an all-American. And there are studies that look at these all better forecast. More access to the magnetic. Remember, the only advantage you get as a sell-side analyst is these little twinges of information. Remember, in the U.S., it's illegal for companies to actually give you explicit information as a sell-side analyst if you're not giving it to the market. there's a price effect. Because people know, people pick up on the buy, they start buying as well, they pick up on the sell. With all-American analysts, I'll tell you what the price effect is, and maybe again you can explain the disparity. When they put out buy recommendations, the stock goes up about 3%. When they put out sell recommendations, on the date of the recommendation, the stock price drops about 4.7%. You say, that makes sense. to one, right? Nine buys forever. It used to be 20 to one, nine to one. So the fact that you put out a sell recommendation must mean you're seeing things here that must be catastrophic. Second, you are burning your bridges, right? That must mean that there is something. Buy, you might put out, maybe the equity research analyst got a big dinner at, you know, whatever the most expensive restaurant in New York was, and he put a buy recommendation on it. You're not adding more value. So I've come up with a list of reasons. If any of you are going to sell-side equity research, you have to fix these problems to make sell-side equity research some kind of value-added proposition. The first is tunnel vision. Remember how sell-side equity research works. You're put into a sector. You're given 15 companies. What are you told? Forget the rest of the world exists. This is your universe. That's not healthy in investing. about me because I'm going to work with these same 15 companies. Second, you've got a whole lot of lemmingitis in sell-side equity research. The way sell-side equity research works is they revise their, remember I said they make earnings per share estimates. Sometimes you see a revision to an estimate that an analyst said Goldman Sachs has raised the expected earnings per share for Tesla from 10 cents to 12 cents. Keep your eyes on point in time, though, the relationship becomes so blurred that the equity research analyst seems to think it's his or her job to defend the company against people who might attack it. Take a look at some of the people who follow Tesla and equity research analysts. You can't call them equity. They're cheerleaders. I once saw a Tesla sell-side equity research analyst get into an argument with Elon Musk tables, lots of stories. Stories that are not connected numbers can become fairy tales. You're not Charles Dickens or Stephen King. You can't create universes of your own. You're not a novelist. And finally, there is this Dr. Jekyll, Mr. Hyde component to Sunset Equity Research. And here's why, especially in the US or pretty much everywhere around the world, you think of yourself, you're part of an investment bank. In Europe, you're part all credit burden. It just has laugh value. If you don't believe me, watch buy recommendations. You know when they'll pop up after the stock is at 1.2 trillion. You know when sell recommendations pop up after it's gone down to 150 billion. It's almost become a negative indicator of where will the stock go because they're chasing the price up and down. They're not valuing the company. So here are three propositions about analyst growth threats. First is, is look up the growth rate in earnings that analysts are projecting for your company, but don't be swayed by it. So if your growth rate is 5% and analysts are projecting 25%, don't assume you're wrong and the analysts are right. Dig a little deeper. Maybe there's something you're missing that you need to bring in, or maybe there isn't. And the analysts are just projecting numbers that have really no base. investment base, the 100 million, and the return I'm making on that investment. In other words, I can't grow if I'm not adding to my investment base and earning a return on that investment. That is the basis for sustainable growth. In fact, if I took this and stated it as ratios, I invested 100 million out of the 120 million. So think of that as what I'm are two ways to grow. One is efficiency growth. One is growth by adding to your investment base. And you're saying, I'll take the efficiency growth. You can, but here's the caveat. If you tell me you're going to grow in the long term by reinvesting in new projects and earning a return, it's believable, right? Because you can keep adding to your base. If you tell me you're going to grow in the long term and it's all going to come from efficiency growth, you see the logical problem there?",
+  "chunks": [
+    {
+      "timestamp": [0.0, 6.66],
+      "text": " It's done, so let's stop talking about it."
+    },
+    { "timestamp": [7.34, 8.56], "text": " So here's what's going to happen." },
+    {
+      "timestamp": [10.44, 13.5],
+      "text": " One of the TAs will come down in about five minutes,"
+    },
+    {
+      "timestamp": [13.6, 16.18],
+      "text": " take those quizzes up to be alphabetically sorted."
+    },
+    {
+      "timestamp": [17.2, 21.22],
+      "text": " And once I finish my second class, the second class ends at 445,"
+    },
+    { "timestamp": [21.36, 22.04], "text": " I'll start grading." },
+    { "timestamp": [22.66, 24.18], "text": " Let's grade this quiz first." },
+    {
+      "timestamp": [24.88, 28.0],
+      "text": " And once it's graded, I will let you know that it's been graded"
+    },
+    { "timestamp": [28.0, 28.9], "text": " and you can pick it up." },
+    {
+      "timestamp": [72.25, 78.97],
+      "text": " in my office. The downside then is you got to find me in my office to get the quiz. So if you want to get your quiz back, you'll probably have sooner than you think from me. So watch your email."
+    },
+    {
+      "timestamp": [79.25, 83.33],
+      "text": " And when I sent the email, I would send the solution. Then I wouldn't send it right now"
+    },
+    {
+      "timestamp": [83.33, 89.01],
+      "text": " because I know exactly what will happen if you get the solution. Now is all these dire scenarios"
+    },
+    {
+      "timestamp": [89.01, 150.33],
+      "text": " will play out. You'll be convinced you got So if you lose a point and a half, it should specify exactly where you lost the point and a half. And unless I've overlooked something, maybe you wrote on the back of the page and I never looked at it. For the most part, it should be directly related"
+    },
+    {
+      "timestamp": [150.33, 151.27],
+      "text": " to what you did on the question."
+    },
+    { "timestamp": [152.57, 154.59], "text": " Okay, so let's go back" },
+    { "timestamp": [154.59, 155.59], "text": " to where we were" },
+    { "timestamp": [155.59, 157.15], "text": " at the end of the last class." },
+    { "timestamp": [157.23, 158.67], "text": " We were just finishing up" },
+    { "timestamp": [158.67, 160.13], "text": " with free cash flow equity." },
+    { "timestamp": [161.05, 162.19], "text": " Free cash flow equity is," },
+    {
+      "timestamp": [215.22, 287.41],
+      "text": " Here's the shortcut you can use to get to free cash flow. Start with net income. Subtract out the 75% of the net capex that comes from equity. Because after all, as an equity investor, all you care about is how much do I have to come up with. Subtract out the 75% of the change in working capital increased by 477 million. So net capex is 612, working capital increases by 477 million. Their debt ratio was about 25%. So basically, I'm sorry, 24%, 23.83% to be precise. Let's assume they're going to maintain that debt ratio from this day on."
+    },
+    {
+      "timestamp": [288.21, 356.85],
+      "text": " We start with net income, subtract out the and repayments, which are a pain in the neck to forecast because you've got to decide when debt comes due, whether you're going to issue debt or not. This saves you the trouble. I'm going to take this calculation and play a little game. The debt ratio I'm using here is 23.83%, right? Let's assume I used a 30% debt ratio."
+    },
+    {
+      "timestamp": [357.41, 421.22],
+      "text": " As an equity investor, tell me what this does to your free cash flow to equity. To value equity, what do I need to discount those cash flows at? The cost of equity. And what drives the cost of equity? What's the only input that's company-specific in the cost of equity? The beta, right? Because the risk-free rate and the risk premium are market set numbers. And how do we estimate betas? We look at the business you're"
+    },
+    {
+      "timestamp": [421.22, 483.87],
+      "text": " in and we lever the beta up, right? Based on your debt in the context of value-added. First statement is that increasing leverage will increase value because the cash flow effect will always dominate the discard rate."
+    },
+    {
+      "timestamp": [487.37, 488.71],
+      "text": " If that were true, where should every company end up at?"
+    },
+    { "timestamp": [490.19, 492.19], "text": " 99% debt, right?" },
+    {
+      "timestamp": [494.11, 552.43],
+      "text": " So that can't be true. Miller-Modigliani, right? It's this homage you pay in finance, right? Great gods of finance, Martin Miller and Franco Modigliani. But what's a Miller-Modigliani theorem, sir? That's your assumption, but what's the conclusion of the model?"
+    },
+    {
+      "timestamp": [553.73, 555.71],
+      "text": " That the value of the firm is going to be unaffected by debt."
+    },
+    {
+      "timestamp": [555.81, 557.59],
+      "text": " And people are always mystified. How can"
+    },
+    { "timestamp": [557.59, 558.13], "text": " that be?" },
+    {
+      "timestamp": [559.49, 617.94],
+      "text": " In a world where your cash flow effects will be offset exactly by"
+    },
+    {
+      "timestamp": [617.94, 622.76],
+      "text": " your discount rate effects. But that's not the world I live in. I don't think that's the world"
+    },
+    {
+      "timestamp": [622.76, 683.87],
+      "text": " you live in. We live in a world of taxes. We're approaching So that's it for cash flows. Let's talk about whether rubber meets the road. Up till now, whenever you're asked to estimate something, you can point to the accountants for it."
+    },
+    {
+      "timestamp": [684.27, 686.15],
+      "text": " I got the beta from Demodern online."
+    },
+    {
+      "timestamp": [686.29, 687.65],
+      "text": " There's always somebody else to blame."
+    },
+    {
+      "timestamp": [688.49, 690.71],
+      "text": " Now is the time to take ownership evaluation"
+    },
+    { "timestamp": [690.71, 691.23], "text": " because" },
+    {
+      "timestamp": [691.23, 693.65],
+      "text": " you're going to reject out the future."
+    },
+    {
+      "timestamp": [693.77, 695.33],
+      "text": " Nobody cares what last year brought."
+    },
+    {
+      "timestamp": [737.01, 737.21],
+      "text": " To understand the trade-off on growth, let's think of the good side of growth."
+    },
+    {
+      "timestamp": [741.31, 741.45],
+      "text": " The good side of growth is as you grow, your revenues get larger, your income gets larger,"
+    },
+    {
+      "timestamp": [743.63, 744.15],
+      "text": " your cash flows get larger in the future."
+    },
+    {
+      "timestamp": [745.33, 745.39],
+      "text": " What's the bad side of growth?"
+    },
+    {
+      "timestamp": [748.49, 748.99],
+      "text": " To get that growth, you have to put money back into the business."
+    },
+    {
+      "timestamp": [753.27, 753.83],
+      "text": " If you're a manufacturing company in plant and equipment, if you're a technology company in R&D."
+    },
+    {
+      "timestamp": [754.63, 758.09],
+      "text": " So what you're giving up are cash flows now for growth in the future."
+    },
+    {
+      "timestamp": [803.32, 803.44],
+      "text": " about the ways in which you can estimate growth."
+    },
+    {
+      "timestamp": [805.18, 805.74],
+      "text": " Generically, when you have to estimate growth for your company,"
+    },
+    {
+      "timestamp": [805.82, 807.28],
+      "text": " and hopefully you've already picked a company,"
+    },
+    { "timestamp": [807.34, 808.42], "text": " I won't harass you anymore." },
+    {
+      "timestamp": [809.06, 811.6],
+      "text": " Though your master list is the least populated"
+    },
+    {
+      "timestamp": [811.6, 813.26],
+      "text": " of my three master lists right now."
+    },
+    {
+      "timestamp": [814.26, 817.14],
+      "text": " So either you're holding your company mysterious,"
+    },
+    { "timestamp": [817.4, 818.6], "text": " you don't want to let me know" },
+    { "timestamp": [818.6, 819.88], "text": " you haven't picked a company." },
+    { "timestamp": [819.96, 821.14], "text": " I don't even want to go there" },
+    {
+      "timestamp": [821.14, 822.18],
+      "text": " if you haven't picked a company."
+    },
+    {
+      "timestamp": [822.92, 824.16],
+      "text": " But once you've picked a company,"
+    },
+    {
+      "timestamp": [824.16, 825.32],
+      "text": " you've got to forecast growth, right?"
+    },
+    {
+      "timestamp": [826.28, 827.62],
+      "text": " Look at the three places you go."
+    },
+    {
+      "timestamp": [828.3, 884.45],
+      "text": " First, you look at a compounded average. So I'm going to start with historical growth. Look at how to estimate it and why you should be a little careful about just"
+    },
+    {
+      "timestamp": [884.45, 952.67],
+      "text": " extrapolating past growth. In fact, you should look outwards. You know, with most private company appraisers, you know where they get their growth rates for their earnings and revenues? They get it from the management of the companies. They go to ask the management, how quickly can you grow?"
+    },
+    {
+      "timestamp": [953.07, 958.83],
+      "text": " Talk about bias forecast, right? But this way, if something goes wrong, they say the managers gave"
+    },
+    {
+      "timestamp": [958.83, 1017.48],
+      "text": " me this number. I just use those numbers. If you're look at the past, you can outsource your growth rate, or you can go back to the business because ultimately you and I don't have the power to go around endowing companies with high growth just because we like them. Growth has to be earned. What does that mean? To grow,"
+    },
+    {
+      "timestamp": [1017.58, 1022.82],
+      "text": " you've got to pull off this trick of reinvesting money and reinvesting well at the same time. You"
+    },
+    {
+      "timestamp": [1022.82, 1084.61],
+      "text": " know why it's a trick? It's easy to reinvest a out there if you haven't done it. You can pull the last, you know, if it's Coca-Cola, you can pull their entire life's earnings, going back 40, 50 years in one Excel spreadsheet. Think about what the choices are that you make"
+    },
+    {
+      "timestamp": [1084.61, 1087.71],
+      "text": " that can affect what you end up with as a growth rate."
+    },
+    {
+      "timestamp": [1088.31, 1091.09],
+      "text": " The first is, as I said, a purely statistical choice."
+    },
+    {
+      "timestamp": [1091.09, 1093.69],
+      "text": " If I gave you 10 years of earnings for a company and say,"
+    },
+    {
+      "timestamp": [1136.49, 1137.43],
+      "text": " The time period you pick can affect your growth rate."
+    },
+    {
+      "timestamp": [1140.35, 1140.83],
+      "text": " If you want to show a really high growth rate for your company,"
+    },
+    {
+      "timestamp": [1145.69, 1146.81],
+      "text": " the easiest way to do it is to pick a base year that was a terrible year."
+    },
+    {
+      "timestamp": [1150.77, 1151.13],
+      "text": " You take 2020 as your base year for a hotel, it's going to look amazing."
+    },
+    {
+      "timestamp": [1154.25, 1154.29],
+      "text": " Because you had nothing in revenues that year and you have a billion dollars,"
+    },
+    {
+      "timestamp": [1155.97, 1157.41],
+      "text": " you could say that's 100% growth rate."
+    },
+    { "timestamp": [1158.99, 1159.41], "text": " The time period matters." },
+    {
+      "timestamp": [1161.47, 1217.92],
+      "text": " And the metric you're're at minus 100. Think about it. What's the growth rate you would give this company? I'm going to take you through the mechanics of computing growth rate, and you're going to get a completely counterintuitive number if you just plug the numbers in we use for typical growth rates. We have to talk about how do we deal with negative numbers"
+    },
+    {
+      "timestamp": [1217.92, 1219.04],
+      "text": " to come up with growth rates."
+    },
+    {
+      "timestamp": [1219.04, 1222.96],
+      "text": " We also have to deal with the fact that as companies scale up,"
+    },
+    {
+      "timestamp": [1224.04, 1225.88],
+      "text": " their growth rates will decrease."
+    },
+    {
+      "timestamp": [1226.02, 1227.84],
+      "text": " It's almost a mathematical given."
+    },
+    {
+      "timestamp": [1270.37, 1270.89],
+      "text": " geometric average, which is basically take the ending number and the starting number,"
+    },
+    {
+      "timestamp": [1274.29, 1279.31],
+      "text": " and then, you know, you know how to compute the geometric average, just take the ending and the starting number and raise it to the power one-fifth, basically, because it's a compounded"
+    },
+    {
+      "timestamp": [1279.31, 1287.39],
+      "text": " growth rate. Let's take revenues. The arithmetic average is 7.08%. The geometric average is 6.82%"
+    },
+    {
+      "timestamp": [1287.39, 1353.51],
+      "text": " already is saying, what a waste of time, I'm pretty close to the the same. The more standard deviation there is, the volatility, there's the growth rates, the bigger the divergence there will be between arithmetic and geometric averages. That's why with stock returns, I made such a big deal about compounding geometric averages because stock returns are incredibly noisy. With T-bills, it doesn't make that much"
+    },
+    {
+      "timestamp": [1353.51, 1419.26],
+      "text": " of a difference. There's not that much variance. So way you compute growth rates is you take the change in earnings and you divide by the earnings per share last year. If I use that measure for growth, my change in earnings is 30 cents. What goes in my denominator? Minus 25 cents,"
+    },
+    {
+      "timestamp": [1419.64, 1485.73],
+      "text": " minus 5 cents, which gives me a growth rate of get 120%. You can already see that when you go from negative to positive, while I can try every conceivable game here, the bottom line is the growth rate becomes almost useless because remember the reason we're computing growth is to project out the"
+    },
+    {
+      "timestamp": [1485.73, 1551.37],
+      "text": " future. Minus 600% doesn't work, plus 600 doesn years, and you do things carefully. You compute a compounded average growth. So you're following all the rules. You come up with a really high number. And then you feel tempted by saying, look, this company is still good. It's got great management. It still has a great product. I'm just going to extrapolate that growth for the next five years."
+    },
+    {
+      "timestamp": [1552.77, 1554.21],
+      "text": " Be careful what you can create."
+    },
+    {
+      "timestamp": [1554.21, 1558.43],
+      "text": " You can create monsters with growth rates that are extraordinary."
+    },
+    {
+      "timestamp": [1559.29, 1618.66],
+      "text": " I'm going to illustrate this with a company called Callaway Golf. like Tiger Woods. And Big Brother took off. And to show you how much it took off, this was the five-year historical data I was looking at in 1997 when I look at Calvary Ball. Their net income went from 1.8 million to 120.3 million. So let's start with facts. Did they have"
+    },
+    {
+      "timestamp": [1618.66, 1625.44],
+      "text": " a great five years? Absolutely. They're compounded growth rate. The geometry capital is 102% a year."
+    },
+    { "timestamp": [1667.49, 1667.61], "text": " It's not a fact." },
+    {
+      "timestamp": [1669.35, 1670.71],
+      "text": " There are estimation judgments you're making."
+    },
+    { "timestamp": [1672.35, 1673.21], "text": " And for most companies," },
+    {
+      "timestamp": [1675.75, 1677.05],
+      "text": " historical growth is not a great predictor of future growth."
+    },
+    {
+      "timestamp": [1678.61, 1680.97],
+      "text": " In fact, one of my favorite studies,"
+    },
+    {
+      "timestamp": [1681.11, 1682.61],
+      "text": " partly because of the title of the study,"
+    },
+    { "timestamp": [1683.27, 1684.43], "text": " in the early 60s," },
+    {
+      "timestamp": [1685.15, 1687.15],
+      "text": " this Englishman comes over and gets a PhD"
+    },
+    {
+      "timestamp": [1687.15, 1691.67],
+      "text": " in economics at one of the U.S. universities,"
+    },
+    { "timestamp": [1691.85, 1692.83], "text": " and he writes a thesis." },
+    {
+      "timestamp": [1693.93, 1695.97],
+      "text": " And in his thesis, he was examining the question."
+    },
+    {
+      "timestamp": [1739.67, 1747.53],
+      "text": " learnings growth. I won't give away what he found. I'll give you the title of his paper. It's one of my favorite research titles ever. The title of his PhD thesis was Higgledy-Piggledy Growth."
+    },
+    {
+      "timestamp": [1749.49, 1755.53],
+      "text": " You know what he found as a correlation. What's your worst case scenario of using historical growth?"
+    },
+    {
+      "timestamp": [1757.61, 1817.42],
+      "text": " Negative one would be great because then what you bet, it could be the most obscure emerging, every company now in the world seems to have equity research analysts. In fact, if you have access to Capital IQ or you go to IBES and Zacks, you can get forecasted earnings growth for your company."
+    },
+    {
+      "timestamp": [1817.54, 1819.3],
+      "text": " It seems like a godsend when you value your company."
+    },
+    {
+      "timestamp": [1819.38, 1820.42],
+      "text": " There's a growth rate right there."
+    },
+    {
+      "timestamp": [1821.48, 1822.62],
+      "text": " But first you have to remember"
+    },
+    {
+      "timestamp": [1822.62, 1824.02],
+      "text": " what analysts forecast growth."
+    },
+    {
+      "timestamp": [1825.84, 1827.54],
+      "text": " Analysts don't forecast growth in revenue."
+    },
+    {
+      "timestamp": [1871.15, 1877.13],
+      "text": " you the research on analyst forecast, and it's a little depressing, especially if you're a sell-side equity research analyst. So think of the tens of millions of dollars we spend on sell-side equity"
+    },
+    {
+      "timestamp": [1877.13, 1881.87],
+      "text": " research all the time going to forecasting. I'll start with the good news. When you look at their"
+    },
+    {
+      "timestamp": [1881.87, 1886.67],
+      "text": " forecasts of earnings, one way to measure the quality of a forecast, look at how different it"
+    },
+    {
+      "timestamp": [1886.67, 1891.83],
+      "text": " is from actual earnings. So if you get perfect forecast, the standard error of the difference"
+    },
+    {
+      "timestamp": [1891.83, 1951.83],
+      "text": " should be close to zero. In other words, you one quarter ahead. If you go to two quarters ahead, even that advantage disappears. Five years forecast, it just looks like a time series model. So I actually present this to equity research analysts"
+    },
+    {
+      "timestamp": [1951.83, 1953.93],
+      "text": " and they don't like it, but it is what it is."
+    },
+    {
+      "timestamp": [1954.39, 1955.57],
+      "text": " You know what their excuse is, right?"
+    },
+    {
+      "timestamp": [1956.69, 1958.39],
+      "text": " If it's New York based, they say,"
+    },
+    { "timestamp": [1958.39, 1959.83], "text": " there are a lot of very bad" },
+    {
+      "timestamp": [1959.83, 1962.47],
+      "text": " sell-side equity research analysts out there."
+    },
+    {
+      "timestamp": [2004.6, 2009.12],
+      "text": " research analysts, this is the pinnacle of your life. There's no further up. You've got Mount Everest. You hit the, you know, all America. In fact, once you become an all-American analyst,"
+    },
+    {
+      "timestamp": [2009.12, 2015.74],
+      "text": " it becomes part of your name. You're no longer Joe Brown. You're Joe Brown, all-American. That's"
+    },
+    {
+      "timestamp": [2015.74, 2019.98],
+      "text": " how you introduce yourself to others, to your own family. You ask your kids to call you just"
+    },
+    {
+      "timestamp": [2019.98, 2024.48],
+      "text": " all-America for short, you know, because you want to remind everybody, I'm an all-American."
+    },
+    {
+      "timestamp": [2025.22, 2084.31],
+      "text": " And there are studies that look at these all better forecast. More access to the magnetic. Remember, the only advantage you get as a sell-side analyst is these little twinges of information."
+    },
+    {
+      "timestamp": [2084.31, 2092.53],
+      "text": " Remember, in the U.S., it's illegal for companies to actually give you explicit information as a sell-side analyst if you're not giving it to the market."
+    },
+    { "timestamp": [2134.75, 2136.05], "text": " there's a price effect." },
+    {
+      "timestamp": [2138.07, 2138.15],
+      "text": " Because people know, people pick up on the buy,"
+    },
+    {
+      "timestamp": [2140.13, 2140.79],
+      "text": " they start buying as well, they pick up on the sell."
+    },
+    {
+      "timestamp": [2143.79, 2143.85],
+      "text": " With all-American analysts, I'll tell you what the price effect is,"
+    },
+    {
+      "timestamp": [2146.31, 2146.77],
+      "text": " and maybe again you can explain the disparity."
+    },
+    {
+      "timestamp": [2151.33, 2153.83],
+      "text": " When they put out buy recommendations, the stock goes up about 3%. When they put out sell recommendations,"
+    },
+    {
+      "timestamp": [2153.83, 2158.91],
+      "text": " on the date of the recommendation, the stock price drops about 4.7%."
+    },
+    { "timestamp": [2158.91, 2159.93], "text": " You say, that makes sense." },
+    {
+      "timestamp": [2205.34, 2210.06],
+      "text": " to one, right? Nine buys forever. It used to be 20 to one, nine to one. So the fact that you put out a sell recommendation must mean you're seeing things here that must be catastrophic."
+    },
+    {
+      "timestamp": [2211.84, 2218.42],
+      "text": " Second, you are burning your bridges, right? That must mean that there is something. Buy,"
+    },
+    {
+      "timestamp": [2218.52, 2222.68],
+      "text": " you might put out, maybe the equity research analyst got a big dinner at, you know, whatever"
+    },
+    {
+      "timestamp": [2222.68, 2284.15],
+      "text": " the most expensive restaurant in New York was, and he put a buy recommendation on it. You're not adding more value. So I've come up with a list of reasons. If any of you are going to sell-side equity research, you have to fix these problems to make sell-side equity research some kind of value-added proposition. The first is tunnel vision."
+    },
+    {
+      "timestamp": [2285.81, 2286.79],
+      "text": " Remember how sell-side equity research works. You're put into a sector."
+    },
+    { "timestamp": [2287.15, 2288.59], "text": " You're given 15 companies." },
+    { "timestamp": [2288.71, 2289.19], "text": " What are you told?" },
+    {
+      "timestamp": [2289.75, 2291.31],
+      "text": " Forget the rest of the world exists."
+    },
+    { "timestamp": [2291.55, 2292.97], "text": " This is your universe." },
+    {
+      "timestamp": [2294.87, 2353.47],
+      "text": " That's not healthy in investing. about me because I'm going to work with these same 15 companies. Second, you've got a whole lot of lemmingitis in sell-side equity research. The way sell-side equity research works is they revise their, remember I said they make earnings per share estimates. Sometimes you see a revision to an estimate that an analyst said Goldman Sachs has raised the expected earnings per share for"
+    },
+    {
+      "timestamp": [2353.47, 2420.16],
+      "text": " Tesla from 10 cents to 12 cents. Keep your eyes on point in time, though, the relationship becomes so blurred that the equity research analyst seems to think it's his or her job to defend the company against people who might attack it. Take a look at some of the people who follow Tesla and equity research analysts. You can't call them equity. They're cheerleaders."
+    },
+    {
+      "timestamp": [2420.7, 2484.73],
+      "text": " I once saw a Tesla sell-side equity research analyst get into an argument with Elon Musk tables, lots of stories. Stories that are not connected numbers can become fairy tales. You're not Charles Dickens or Stephen King. You can't create universes of your own. You're not a novelist. And finally, there is this Dr. Jekyll, Mr. Hyde"
+    },
+    {
+      "timestamp": [2484.73, 2486.49],
+      "text": " component to Sunset Equity Research."
+    },
+    { "timestamp": [2487.43, 2488.45], "text": " And here's why," },
+    { "timestamp": [2488.57, 2489.77], "text": " especially in the US" },
+    { "timestamp": [2489.77, 2492.71], "text": " or pretty much everywhere" },
+    {
+      "timestamp": [2492.71, 2494.63],
+      "text": " around the world, you think of yourself, you're part"
+    },
+    {
+      "timestamp": [2494.63, 2554.73],
+      "text": " of an investment bank. In Europe, you're part all credit burden. It just has laugh value. If you don't believe me, watch buy recommendations. You know when they'll pop up after the stock is at 1.2 trillion. You know when sell recommendations pop up after it's gone down to 150 billion. It's almost become a negative indicator of where will the stock go because they're chasing the price up and down. They're not valuing the company."
+    },
+    {
+      "timestamp": [2556.77, 2561.19],
+      "text": " So here are three propositions about analyst growth threats. First is,"
+    },
+    {
+      "timestamp": [2603.88, 2604.0],
+      "text": " is look up the growth rate in earnings that analysts are projecting for your company,"
+    },
+    {
+      "timestamp": [2610.16, 2615.28],
+      "text": " but don't be swayed by it. So if your growth rate is 5% and analysts are projecting 25%, don't assume you're wrong and the analysts are right. Dig a little deeper. Maybe there's"
+    },
+    {
+      "timestamp": [2615.28, 2619.78],
+      "text": " something you're missing that you need to bring in, or maybe there isn't. And the analysts"
+    },
+    {
+      "timestamp": [2619.78, 2621.98],
+      "text": " are just projecting numbers that have really no base."
+    },
+    {
+      "timestamp": [2672.38, 2672.42],
+      "text": " investment base, the 100 million, and the return I'm making on that investment. In other words,"
+    },
+    {
+      "timestamp": [2676.86, 2684.16],
+      "text": " I can't grow if I'm not adding to my investment base and earning a return on that investment. That is the basis for sustainable growth. In fact, if I took this and stated it as ratios,"
+    },
+    {
+      "timestamp": [2684.76, 2750.01],
+      "text": " I invested 100 million out of the 120 million. So think of that as what I'm are two ways to grow. One is efficiency growth. One is growth by adding to your investment base. And you're saying, I'll take the efficiency growth. You can, but here's the caveat. If you tell me you're going to grow in the long term by reinvesting in new projects and earning a return,"
+    },
+    { "timestamp": [2751.03, 2751.07], "text": " it's believable, right?" },
+    {
+      "timestamp": [2752.43, 2752.79],
+      "text": " Because you can keep adding to your base."
+    },
+    {
+      "timestamp": [2755.05, 2757.63],
+      "text": " If you tell me you're going to grow in the long term and it's all going to come from efficiency growth,"
+    },
+    {
+      "timestamp": [2758.23, 2761.41],
+      "text": " you see the logical problem there?"
+    }
+  ]
+}

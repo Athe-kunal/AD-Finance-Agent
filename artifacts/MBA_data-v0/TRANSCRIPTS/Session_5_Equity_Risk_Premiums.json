@@ -1,1 +1,846 @@
-{"text": " Thank you. Now, while people are still coming in, I just remind you, if you don't have a group, find one. If you haven't picked a company, pick one. So times are moving. We're into week three of the class. So once you picked a company, if you can put it, what's the equity risk premium for Coca-Cola? It's really an equity risk premium reflects the price of risk in the market. It's a market set number. And today I'm going to talk about how most people estimate it and why I don't like the way they do it. to end, right? What's the price I'm probably going to end up with? If it's a US dollar guaranteed investment, roughly speaking, where am I going to end up at? About 30, which would be the inverse of the T-bond rate, right? Because you're going to end up roughly there, because that's what you can make on a guaranteed long-term investment. So that's the starting point. Now, I'm going to come to you. You said 30 for that guaranteed investment. It's dominating. It's what you pay that matters, not what you say. Sounds mysterious, but I'm going to argue that the best way to get equity risk premiums is not look at risk averse. Lots of different reasons, right? One is you know what can go wrong and that kind of scars you. Second is you have responsibilities, you have family. So basically as you get older, you get more risk averse. Now I'm going to build on this premise. If you look at an equity market, it's composed of affected by the demographics, the market. It can even be affected by events. Let's assume I told you that there's been a crisis. I take the example that I gave you. The crisis can be a market crisis, a 30% meltdown, an economic crisis, a political crisis. and unpredictable. They will change over time, which means any approach to estimating equity risk premiums you have has to be dynamic. You can't have an equity risk premium that says 5%, 5% all through a year when crazy things... Remember 2020 when the whole world shut down? You definitely don't want an equity risk premium measure that stays fixed over time. It has to reflect the world you live in. So for the moment, that sounds mysterious, So let's take the US market. I actually update historical risk premiums on my website, even though I never used them, I update them, because I know other people, for whatever reason, I've fixated on them. I go all the way back to 1928. Already, you can see that I'm starting with a market, a US market, very different from today's market. 1928 was the year before the Great Depression. Very different, much narrower market. But if you want history, you add them up, divide by 94, that's an arithmetic average this year? Minus 50%. Through the magic of averaging, you know what your average return was over the two years, right? 100 standard error. See these numbers in italics? Those are the standard errors in your historical risk premium estimates. Let me repeat that again. Those are the standard errors. So when I tell you that the equity risk premium for the last 94 years is 5.06%, that looks incredibly precise, right? Second decimal point. Are you making another assumption when you use historical risk premiums? Assuming that you can overlook the statistics. What else are you assuming when you use a historical risk premium as your proxy for forecasting future premiums? In other words, you're assuming mean reversion, which is a fancy way of saying things will revert change for a historical risk premium to be usable, good luck with that. I mean, I've seen people go back to 1871 with US stocks. The only problem is that 1871, the US was an emerging market coming out of the Civil War. There is no escape hatch. It's incredibly noisy. And I think using US its milk across the world. And you want a Vietnamese equity risk premium. You decide to do the only thing you know what to do, which is to compute a historical risk premium. I actually had a Vietnamese analyst, values company, and he said, can you take a look at my valuation, my first DCF? He came back to me and said it was 9.35%. I said, okay, think about what you've told me, that the equity risk was 7%. And this isn't even two standard deviations. One standard error, it could be minus 2% or 16%. Forget about two standard errors. But with most countries, you don't even have the historical data you have in the US. So this is a bit of a problem, right? Because you've got to value Brazilian companies. So I'm going you through a pathway of three different ways in which you can get that additional premium for a Brazil, a Vietnam, an India, and Indonesia. The first is a very lazy way. It draws on a number we've already used to get risk-free rates. Remember to get a risk-free rate in Indian rupees. risk for Brazil, I start with the US premium, 5.94%. I'll talk about where I get that base premium and add on that extra default spread. Now, do you see what the double counting would kick in? If I'd left the government bond rate as is intact with that default spread built in, We've got the US equity risk premium that goes with the US market. Let's say I want to get an equity risk premium for Brazil. What if I look up the standard deviation in Brazilian equities? Which leaves you a practical question. What are we using? Let's use the Bovespa, terribly constructed index, perhaps the worst constructed index I've ever seen because it's a trade-weighted index. You know what trade-weighting is? standard deviation, you are demanding a 5.94% equity risk premium. Brazil has a 30% standard deviation. What's the question I'm asking? What premium would you demand? I'm going to scale up the 5.94%. Basically, I'm scaling up for relative equity market volatility. I come up with 9.9% as my total equity risk premium for Brazil. And if you ask has to change, what has to happen? People have to trade in liquid markets. Costa Rica is like four and a half percent standard deviation. I still remember a Wall Street Journal article I read a long time ago about the Egyptian market and how trades were recorded. You know how they were recorded? There was a guy with a chalkboard, I'm not kidding you, who stood in front of the exchange. And every time a trade happened, he would write the trade in chalk on the board and he wouldn't fill up the board by the end of the day. and Brazil because of different liquidity. But maybe I can compare markets within Brazil. So I went to the first approach and I looked up the default spread. Remember 3.68%? And I looked up two standard deviations, just like the second approach. But here are the standard deviations I looked up were the standard deviation, the Bovespa Brazilian equity, and the standard deviation in the Brazilian government bond. Like a similar algebra problem. But the assumption I'm making is, if one is a liquid, the other is going to be a liquid as well. And I looked at the ratio. Thank you for letting me know. Okay, now it's shared, right? You see the slide now Now, some of you might have got the link that I sent yesterday about my most recent data post on country risk. And essentially, the point I was trying to make is you can't hide from country risk anymore. When I first started teaching this class, a big chunk of the class was going to work in New York for New York Investment Banks looking at US companies. This is 1986. And the reaction is, why are we talking about country risk? So 25 years ago, I said, I need these numbers in our value companies. I'm going to estimate equity risk premiums by country. So I'll take you through the start of 2023. So you can see exactly where the numbers come from. I started the base premium for the US. I'll come back and talk about where the 5.94% comes from. It's not a historical premium. It's an updated forward-looking premium. I'll go through that process. Then I'll look up the sovereign ratings for every country that I can find a rating for. that goes with your rating. For those countries where there's a sovereign CDS, I can use that. But if I don't have that, I'm going to go with the rating-based spread. And then I'm going to multiply it. And rather than using each country's government bond and equity to get a ratio, I use one ratio. And I'll tell you why. There are only about 40 countries, remember, that had government bonds. Only about seven or eight of those are liquid. 5.94% equity risk premium that I have for the US to come up with an equity risk premium for your country. And I'm going to do this for every country for which I can get a rating. Yes. When you're funding the CDS, you also remove the contracting costs. I remove the US portion of it. I use the net spread. So when you look at my equity risk premium page, that's a number that you'll see playing out. It standard deviations. If we compare Pakistani equities to US equities, I'm going to get a very strange result because I'm comparing an illiquid market to a liquid market. So here's what the world looked like to me at the start of 2023. So essentially, I've broken down countries geographically. And don't jump down my throat risk premium that reflects a default spread times 1.41. So that's a total country risk premium. You add the red number to the 5.94%, you're going to come up with the equity risk premium by country. So let's take Latin America. It's the safest country in Latin America. This has been true for probably the last 20 years. It's chilly. It's riskier than it used to be, but it still stays the safest country. But Latin America were coming on. I said, what the heck is happening here? How am I so popular in Lithuania? It turned out that for a while, the Lithuanian government, when it was considering privatization proposals, required people to use my equity risk premium. I didn't get any commissions from this. But I said, okay, good. I'm being used in Lithuania. I remember getting an email from the New Zealand milk board. I don't know if there's a milk board, but no. How do you do those risk premiums? coming out of the oil and you don't have to borrow money. Nobody's worried about it. But if you're investing in equities in Saudi Arabia, I would argue that there are risks you worry about, right? Political risk, upheaval risk, that's not in the default spread. So I'm fully aware that by looking at default spread as my starting point, I might be missing pieces of the puzzle. But here's the one thing it has equity risk premiums for them. There's services that measure country risk scores. They don't do it for default. They just come up with country. One of the services I use is called political risk services. But if you have a better way of estimating equity risk premiums for North Korea, I'd love to know what it is. And if your business is heavily, half in Syria, half in North Korea, God help you, but at least I can give you an equity risk premium number. I can't do much more than that. default spreads change and ratings change. Ratings don't change very often. Maybe like, you know, you'd probably be underestimating the equity risk for Russia in 2021 if you use the start of the year, because by March or April, the whole thing was coming apart. But that's something that you have to think about. If you're investing in a country where something massive has happened, go get the sovereign CDS spread. What I do is replace my default spread Yes, market is a dollar, which creates a currency inconsistency. One way you can get around this is to get an equity risk premium in dollars, then scale it up for inflation. It's very simple, basically, because the only reason it should be different if you're doing things in rupees is this is on top of your risk free rate. So already your risk free rate will be much higher if you have a high inflation currency. And then you can scale up the premium even more to reflect the fact that you have 30 percent inflation to 3 percent. A lot of analysts seem to still follow. You look at where a company is incorporated, what country it's incorporated, and give it the equity risk for that country. So you know what's going to happen here, right? Every Indian company will get the Indian equity risk premium. Every U.S. company will get the U.S. equity risk premium. And to me, this is a recipe for disaster. Why? Because you can have an Indian company that gets weighted average of where you operate and multiply. Basically, you're assuming that beta measures your exposure to all other risk. Just as much to country risk as much as measures to all other risk. you mean where it does business? Well, where it makes its stuff, where it sells its stuff, where its distribution centers are located. Seems like the common sense thing to do. We can debate practically how to measure that, but that is my starting point. So let's take an example of how I would compute that risk. So I'll come back and talk about that. I'll talk about why I use revenues as my starting point. It's not because I love revenues. It's because desperation drives me there. You know what I mean, all bets are off because it's a US incorporated company, but it gets its revenues from all over the world. Notice I've given up on countries here. It's by region. Coca-Cola actually doesn So Asia is going to be heavily weighted towards China and Japan. And that makes sense because you're in Asia, that's normal, and increasingly India. Latin America is going to be heavily weighted towards Brazil. But those regional averages are what I use when I compute the this crap I couldn't care less about. Could we start by having a way of, no, at least describing where your revenues come from that I can use in valuation? European companies have a different problem. They actually break their revenues down into Europe and one of the regions they report is EMEA. What? What is EMEA? Oh, it's Middle East and Africa. What the heck are you doing? riskier companies and risky markets doubling up their risk because you're taking a risky market and you have a discretionary product so those are questions that can be examined i'm willing to open the debate in fact i think it's worth debating should we be looking at things other than revenues so let's take an example where revenues clearly should not be used 2015 i had to value and wherever else you got to go look for it. And the nice thing about oil companies is they do tell you where they get their oil. This is from Royal Dutch's financial statement. So I didn't need any private information sources. Right out of its annual report, they tell you where the oil and gas is produced. And I took a weighted average of the equity risk premiums or where they got their oil. The equity risk premium I ended up for Royal Dutch looked like that of an emerging market company. Royal Dutch on the premise that what happens in countries is uncorrelated, right? Or lightly correlated to hell in a handbasket. There's nothing you can do. But if you're a manufacturing company, it's difficult, but it's not impossible. So if any of you say, look, can I weight production 60% and revenues 40%? Absolutely. I think it's a choice you have to make. And the growth story it wants to be. So you could argue that maybe I should be looking at all of the elements that look at it. And here are some of the things to look at. One is, does the company use any kind of risk management products to protect itself against country risk? You can buy insurance against certain kinds of political risk. It's very expensive. But more critically, is the company viewed as country risk. And the two companies I was looking at were Embraer, which at that time was 100% Brazilian company, and Embraer, which at that time, as you could see, was about 3% in Brazil, 97% elsewhere. Long flight, I'm checking through my slides, I get to the slide where I have cost of equity for both companies, I'm giving them both sky high cost of equity. Because in 2003, lambda less than one means you're less exposed you're saying why call it lambda because attaching a greek alphabet adds a layer of sophistication almost everything you do i could have called it l but you wouldn't have been as impressed right lambda so i land in brazil i fell asleep right after i thought about that land in brazil i throw this idea out 300 brazilian people now brazilians in the room i say what do you getting as revenues from that country, I have a way of scaling your revenue. So as an example, take two Indian companies, Tata Motors and Tata Consulting Services, both Indian companies, both part of the same family group. Tata Motors was getting 91% of its revenues in 2008, 2009 from India. Land Rover. The minute they acquired Jaguar Land Rover, you've essentially bought exposure in global markets. It brings your Lambda down. So it's simplistic, but it gives you at least a starting point for Lambdas. But it's still based on revenues, right? So through the paper, I wrestled with what can I use? I tried earnings. Terrible, right? Accountants smooth things out. It's very difficult to get a measure of it. So I latch on to I can find something that moves just because of country risk, and I run a regression of returns on my stock against that, maybe I can get a sense of what does the market think about my company's exposure to country risk. In 2004, here's what I used. I used what was called the C bond, which is a Brazilian dollar denominated bond. So it's a dollar denominated bond, so there's no currency effect. Let me cut to the chase. When I ran the regression, if I looked at Embraer, the slope I got was 0.27. For every 1% move in the seabourn, Embraer moved only 0.27. The market hit Embraer, but not very much. In contrast, if you look at the Embraer regression, for every 1% move in the market, Embraer moved 2%. Supremely exposed to Indian country risk. to estimate exposure to country risk, this is the most I'm consuming. And you can see why I would never use it for a multinational that's in nine countries or 11 countries, or God help me, Coca-Cola with 72 countries. You know what I'd have to do, right? Estimate lamb desiccates each of the countries. And I have more stuff to do in my valuation. This is not where I want to fight my fight. So 95% of my companies, I'm going to use the weighted equity risk premium approach in and 17.79%. Those are approaches where I punish Embraer for being a Brazilian company, give it all of the risk of Brazil. The other three approaches, the only variants are, am I multiplying by a beta, a lambda, but they all give you roughly similar numbers, right? 9% to 11%, but you get two divergent set of numbers. If you treat Embraer as a Brazilian company, you get much higher cost of equity. If you is using 18% as the discount rate to value companies. It's not right, but they're the ones pricing stocks. So here's my question. If you believe that they're wrong in doing that, and you decide to invest based on that, you're going to be buying a lot of Embraer reports its earnings reports and they're coming out well. And you say, how the heck did that happen? Brazil is going through this catastrophic internal risk and Embraer, that's exactly what you're looking for. You're looking for reality to eventually come. You might have to wait a while for that to happen. I'll tell you what I've done this over the last 25 years. One of the strategies I've adopted is first not even looking at the stock. They're looking at each other. They all flee the market at the same time. They sell the good stuff, the bad stuff. There's your chance. They pull out your list. Next time that market is in a crisis, take the two companies. Vietnam is in a crisis, buy Vendor Milk. You don't even have to do a valuation. Just buy it on the presumption that people are going to sell it indiscriminately. This is not an investment philosophies class, but it's a class about taking advantage the discount rate. The way I describe discount rates is don't make them the receptacles for all your hopes and fears. I see too many analysts saying, how do I pump up? When in fact many of the things you worry about are cash flow effects. If you have a capricious regulator who basically changes it, that's different. But to the extent that regulation causes costs, build them in, lower margins, lower cash flows, no need to adjust your discount rate for that. We call it a yield to maturity in a bond. What's a yield to maturity in a bond? Takes the price of the bond, takes the cash flows in the bond. You solve for that discard rate that makes the present value of your cash flows equal to the price of the bond. I'm going to do something similar with the stock market. And I'll go back to the start of 2020 to get this ball rolling. And I'm deliberately picking the start of 2020 because I want to make a point about dynamic equity risk groups. They can take one of two forms. They can take the form of dividends, the old-fashioned way companies used to return cash or buybacks. Unlike a coupon, that number is not fixed, but I can tell you what it was in the most recent year. It was 150.5. I can even tell you what analysts collectively are expecting it to grow by for the next five years. The S&P 500 is the most tracked and followed index in the world. At the start of 2020, their projections92%. So basically, I have cash flows growing at 3.46% for the next five years, 1.92% beyond. I set up the equation. I know what you paid. There are my cash flows. I saw for, it's like an internal rate of return for stocks, like a yield. Think of you don't remember that day, that was the day the Italian government found 200 people in Italy who had never been to China or on a cruise ship with COVID. We woke up to a nightmare, right? Remember what we said, shock hits. The only thing you have to adjust is prices. It's not like cash flows are going to change overnight. So starting on February 14th, I actually started estimating the equity risk premium everying in March, I had to use the 8% equity risk premium. Otherwise, I would be asking the wrong question. Is this stock undervalued? I'll be bringing in a market view. Implied equity risk premiums are forward-looking and dynamic. They reflect the world you're in, not the world you wished you were in. If you're getting scared, I'll reflect that in your premium. And it's a premium that, as I said, will change over time. And at the start of 2023, is 5.94%. And your total expected return is 9.82%. You said, well, is that a good premium or a bad premium? You're asking a question about the market itself, right? In fact, you often wonder, is the market overvalued or undervalued? Is it in a bubble or is it busted? You can reframe that question in terms of equity risk premiums. If markets are undervalued, stocks are undervalued, 4.94%. Is it high? Is it low? Is it average? Take a look at the graph. If you go all the way back to 1960, the premium across the period has been about 4.21%. If I compare what I'm getting at the start of 2023, I'm actually getting a much higher premium than what I'd have earned on average. The world has changed. If you look at the last 20 years, it's true. The premium would have gone up to 5%. It's still okay, 5.94 premiums go up, stock prices are going down. It's like bond interest rates and bond prices. 70s were an awful period. Great bull market, 78 through wrong. But if you take it and convert it into a standard error on my implied equity risk premium, the range I would get would be somewhere between 4.8 and 6.5%. If you download the spreadsheet, you can see my range. So with an implied premium, my range is 4.8 to 6.5%. Do you remember what the range was when I used historical premiums? One to nine? Of course I could be wrong. And you know why we took it? Where else were you going to go? This is what low risk-free rates did for a decade. It said, you have no choice. You got to take 6% returns on stocks. And we did. The cost of equity for US companies dropped to 5.5% to 6% last year because you really had no choice. But 2022, for me, was a return to normalcy, not an abnormal year, because we're returning back to expected returns we used to have. risk in the equity market, right? Is there a price of risk in the bond market or what do we call that price of risk? It's a default spread, right? So if I take BAA rated bonds and I look at the default spreads, the default spreads change over time. This graph I've actually taken the black line is the BAA default. BAA is investment grade bonds. So these are actually pretty safe bonds. Default spreads and bonds versus equity risk. Most of the time, the two move together. Why? Because people You know what we should have been doing, right? At the end of 99, taking all our money out of stocks and putting it into a corporate bond because we were getting a better risk reward trade-off. But we didn't. Then you get to 2001, you get 9-11. And in the months after 9-11, Alan Greenspan says, I will not let the US economy go into recession. The hubris of central bankers. was the first market crisis, which was precipitated by what was happening in the bond market. People were lending money, not just to people without credit worthiness, but they were lending it without charging enough of a spread. You can lend to whoever you want if you charge a fair enough rate. And 2008, it caught up with all of them. Take a look at what happened to default spreads in 2008. That was the adjustment, and was it painful. income, you'll pay 10 million for the property. It's like a cost of equity in real estate. They never call it that, but that's what a cap rate is. If I subtract the risk-free rate from a cap rate, I get the real estate risk premium. And if you look at this graph, it looks very weird, right? If you look at the 1980s, it looks like the real estate equity risk premium is actually negative. You're saying, well, why would I invest in real estate if I am earning a negative premium? we we securitized it right starting with the 1980s luring area putting out mortgage-backed secure and you know what happens when you securitize an asset class it starts to behave like a financial asset class and that's terrible news for all of us because you own a house you have a lot of money in your pension fund you own some bonds you have a bad year on your pension fund you look at your bond portfolio it's collapsed as well you say thank god i have my house", "chunks": [{"timestamp": [0.0, 88.69], "text": " Thank you. Now, while people are still coming in, I just remind you, if you don't have a group, find one. If you haven't picked a company, pick one. So times are moving. We're into week three of the class."}, {"timestamp": [89.69, 155.49], "text": " So once you picked a company, if you can put it, what's the equity risk premium for Coca-Cola? It's really an equity risk premium reflects the price of risk in the market. It's a market set number. And today I'm going to talk about how most people estimate"}, {"timestamp": [155.49, 219.58], "text": " it and why I don't like the way they do it. to end, right? What's the price I'm probably going to end up with? If it's a US dollar guaranteed investment, roughly speaking, where am I going to end up at? About 30, which would be the inverse of the T-bond rate, right? Because you're going to end up roughly there, because that's what you can make on a guaranteed"}, {"timestamp": [219.58, 220.46], "text": " long-term investment."}, {"timestamp": [221.88, 223.9], "text": " So that's the starting point."}, {"timestamp": [224.28, 225.4], "text": " Now, I'm going to come to you."}, {"timestamp": [225.44, 227.66], "text": " You said 30 for that guaranteed investment."}, {"timestamp": [284.77, 350.61], "text": " It's dominating. It's what you pay that matters, not what you say. Sounds mysterious, but I'm going to argue that the best way to get equity risk premiums is not look at risk averse. Lots of different reasons, right? One is you know what can go wrong and that kind of scars you. Second is you have responsibilities, you have family. So basically"}, {"timestamp": [350.61, 357.15], "text": " as you get older, you get more risk averse. Now I'm going to build on this premise. If you look"}, {"timestamp": [357.15, 416.94], "text": " at an equity market, it's composed of affected by the demographics, the market. It can even be affected by events."}, {"timestamp": [418.08, 422.88], "text": " Let's assume I told you that there's been a crisis. I take the example that I gave you."}, {"timestamp": [423.12, 428.28], "text": " The crisis can be a market crisis, a 30% meltdown, an economic crisis, a political crisis."}, {"timestamp": [473.95, 479.41], "text": " and unpredictable. They will change over time, which means any approach to estimating equity risk premiums you have has to be dynamic. You can't have an equity risk premium that says 5%,"}, {"timestamp": [479.41, 484.45], "text": " 5% all through a year when crazy things... Remember 2020 when the whole world shut down?"}, {"timestamp": [484.45, 489.25], "text": " You definitely don't want an equity risk premium measure that stays fixed over time."}, {"timestamp": [490.41, 495.89], "text": " It has to reflect the world you live in. So for the moment, that sounds mysterious,"}, {"timestamp": [544.27, 544.75], "text": " So let's take the US market. I actually update historical risk premiums on my website, even though I never used them, I update them, because I know other people, for whatever reason, I've fixated on them."}, {"timestamp": [556.71, 557.85], "text": " I go all the way back to 1928. Already, you can see that I'm starting with a market, a US market, very different from today's market. 1928 was the year before the Great Depression."}, {"timestamp": [618.46, 688.95], "text": " Very different, much narrower market. But if you want history, you add them up, divide by 94, that's an arithmetic average this year? Minus 50%. Through the magic of averaging, you know what"}, {"timestamp": [688.95, 750.33], "text": " your average return was over the two years, right? 100 standard error. See these numbers in italics? Those are the standard errors in your historical risk premium estimates. Let me repeat that again. Those are the standard errors. So when I tell you that the equity risk premium for the last"}, {"timestamp": [750.33, 757.13], "text": " 94 years is 5.06%, that looks incredibly precise, right? Second decimal point."}, {"timestamp": [815.28, 818.04], "text": " Are you making another assumption when you use historical risk premiums? Assuming that you can overlook the statistics. What else are you assuming when you use a historical risk premium as your proxy for forecasting future premiums?"}, {"timestamp": [824.88, 884.57], "text": " In other words, you're assuming mean reversion, which is a fancy way of saying things will revert change for a historical risk premium to be usable, good luck with that. I mean, I've seen people go back to 1871 with US stocks. The only problem is that 1871, the US was an emerging market coming out of the Civil War. There is no escape hatch."}, {"timestamp": [884.99, 954.35], "text": " It's incredibly noisy. And I think using US its milk across the world. And you want a Vietnamese equity risk premium. You decide to do the only thing you know what to do, which is to compute a historical risk premium."}, {"timestamp": [955.47, 959.55], "text": " I actually had a Vietnamese analyst, values company, and he said,"}, {"timestamp": [959.55, 1017.52], "text": " can you take a look at my valuation, my first DCF? He came back to me and said it was 9.35%. I said, okay, think about what you've told me, that the equity risk was 7%. And this isn't even two standard deviations. One standard error, it could be minus 2% or 16%. Forget about two standard errors."}, {"timestamp": [1019.52, 1019.54], "text": " But with most countries,"}, {"timestamp": [1022.76, 1024.26], "text": " you don't even have the historical data you have in the US."}, {"timestamp": [1025.96, 1025.98], "text": " So this is a bit of a problem, right?"}, {"timestamp": [1027.5, 1028.1], "text": " Because you've got to value Brazilian companies."}, {"timestamp": [1083.43, 1084.01], "text": " So I'm going you through a pathway of three different ways in which you can get that additional premium for a Brazil, a Vietnam, an India, and Indonesia."}, {"timestamp": [1088.93, 1089.61], "text": " The first is a very lazy way. It draws on a number we've already used to get risk-free rates."}, {"timestamp": [1093.95, 1151.01], "text": " Remember to get a risk-free rate in Indian rupees. risk for Brazil, I start with the US premium, 5.94%. I'll talk about where I get that base premium and add on that extra default spread. Now, do you see what the double counting would kick in? If I'd left the government bond rate"}, {"timestamp": [1151.01, 1217.44], "text": " as is intact with that default spread built in, We've got the US equity risk premium that goes with the US market. Let's say I want to get an equity risk premium for Brazil. What if I look up the standard deviation in Brazilian equities? Which leaves you a practical question."}, {"timestamp": [1217.54, 1218.4], "text": " What are we using?"}, {"timestamp": [1218.68, 1223.1], "text": " Let's use the Bovespa, terribly constructed index, perhaps the worst constructed index"}, {"timestamp": [1223.1, 1225.9], "text": " I've ever seen because it's a trade-weighted index."}, {"timestamp": [1226.8, 1227.72], "text": " You know what trade-weighting is?"}, {"timestamp": [1273.85, 1278.35], "text": " standard deviation, you are demanding a 5.94% equity risk premium. Brazil has a 30% standard deviation. What's the question I'm asking? What premium would you demand? I'm going to scale up"}, {"timestamp": [1278.35, 1286.99], "text": " the 5.94%. Basically, I'm scaling up for relative equity market volatility. I come up with 9.9%"}, {"timestamp": [1286.99, 1352.77], "text": " as my total equity risk premium for Brazil. And if you ask has to change, what has to happen? People have to trade in liquid markets. Costa Rica is like four and a half percent standard deviation. I still remember a Wall Street Journal article I read a long time ago about the Egyptian market and how trades were recorded. You know how they were recorded? There was a guy with a chalkboard, I'm not kidding you,"}, {"timestamp": [1353.05, 1358.07], "text": " who stood in front of the exchange. And every time a trade happened, he would write the trade"}, {"timestamp": [1358.07, 1361.13], "text": " in chalk on the board and he wouldn't fill up the board by the end of the day."}, {"timestamp": [1401.58, 1401.72], "text": " and Brazil because of different liquidity."}, {"timestamp": [1403.76, 1404.42], "text": " But maybe I can compare markets within Brazil."}, {"timestamp": [1405.82, 1407.2], "text": " So I went to the first approach and I looked up the default spread."}, {"timestamp": [1407.68, 1408.96], "text": " Remember 3.68%?"}, {"timestamp": [1409.4, 1411.22], "text": " And I looked up two standard deviations,"}, {"timestamp": [1411.28, 1412.32], "text": " just like the second approach."}, {"timestamp": [1412.38, 1414.44], "text": " But here are the standard deviations I looked up"}, {"timestamp": [1414.44, 1416.14], "text": " were the standard deviation,"}, {"timestamp": [1416.28, 1417.5], "text": " the Bovespa Brazilian equity,"}, {"timestamp": [1417.84, 1419.22], "text": " and the standard deviation"}, {"timestamp": [1419.22, 1421.06], "text": " in the Brazilian government bond."}, {"timestamp": [1421.94, 1423.22], "text": " Like a similar algebra problem."}, {"timestamp": [1423.78, 1425.18], "text": " But the assumption I'm making is,"}, {"timestamp": [1425.34, 1426.22], "text": " if one is a liquid,"}, {"timestamp": [1426.34, 1427.88], "text": " the other is going to be a liquid as well."}, {"timestamp": [1428.48, 1484.67], "text": " And I looked at the ratio. Thank you for letting me know. Okay, now it's shared, right?"}, {"timestamp": [1484.67, 1553.73], "text": " You see the slide now Now, some of you might have got the link that I sent yesterday about my most recent data post on country risk. And essentially, the point I was trying to make is you can't hide from country risk anymore. When I first started teaching this class, a big chunk of the class was going to work"}, {"timestamp": [1553.73, 1556.65], "text": " in New York for New York Investment Banks looking at US companies."}, {"timestamp": [1556.65, 1557.45], "text": " This is 1986."}, {"timestamp": [1558.99, 1618.0], "text": " And the reaction is, why are we talking about country risk? So 25 years ago, I said, I need these numbers in our value companies. I'm going to estimate equity risk premiums by country. So I'll take you through the start of 2023. So you can see exactly where the numbers come from. I started the base premium for the US. I'll come back and talk about where the 5.94% comes from. It's not a historical premium."}, {"timestamp": [1618.88, 1621.14], "text": " It's an updated forward-looking premium."}, {"timestamp": [1621.28, 1622.36], "text": " I'll go through that process."}, {"timestamp": [1622.9, 1628.34], "text": " Then I'll look up the sovereign ratings for every country that I can find a rating for."}, {"timestamp": [1671.29, 1671.63], "text": " that goes with your rating. For those countries where there's a sovereign CDS, I can use that."}, {"timestamp": [1674.81, 1676.11], "text": " But if I don't have that, I'm going to go with the rating-based spread."}, {"timestamp": [1681.11, 1686.89], "text": " And then I'm going to multiply it. And rather than using each country's government bond and equity to get a ratio, I use one ratio. And I'll tell you why. There are only about 40 countries,"}, {"timestamp": [1686.89, 1691.15], "text": " remember, that had government bonds. Only about seven or eight of those are liquid."}, {"timestamp": [1740.37, 1744.39], "text": " 5.94% equity risk premium that I have for the US to come up with an equity risk premium for your country. And I'm going to do this for every country for which I can get a rating. Yes."}, {"timestamp": [1745.09, 1749.71], "text": " When you're funding the CDS, you also remove the contracting costs."}, {"timestamp": [1750.13, 1755.11], "text": " I remove the US portion of it. I use the net spread. So when you look at my equity risk premium"}, {"timestamp": [1755.11, 1817.4], "text": " page, that's a number that you'll see playing out. It standard deviations. If we compare Pakistani equities to US equities, I'm going to get a very strange result because I'm comparing an illiquid market to a liquid market."}, {"timestamp": [1821.08, 1822.5], "text": " So here's what the world looked like to me at the start of 2023."}, {"timestamp": [1883.35, 1888.77], "text": " So essentially, I've broken down countries geographically. And don't jump down my throat risk premium that reflects a default spread times 1.41. So that's a total country risk premium. You add the red number to the 5.94%, you're going to come up with the equity risk premium by country. So let's take Latin America. It's the safest country in Latin America. This has been true for probably the last 20 years. It's chilly. It's riskier than it used to be,"}, {"timestamp": [1888.81, 1950.05], "text": " but it still stays the safest country. But Latin America were coming on. I said, what the heck is happening here? How am I so popular in Lithuania? It turned out that for a while, the Lithuanian government, when it was considering privatization proposals, required people to use my equity risk premium."}, {"timestamp": [1951.53, 1952.43], "text": " I didn't get any commissions from this."}, {"timestamp": [1953.87, 1953.99], "text": " But I said, okay, good."}, {"timestamp": [1955.65, 1956.29], "text": " I'm being used in Lithuania."}, {"timestamp": [1959.09, 1961.01], "text": " I remember getting an email from the New Zealand milk board. I don't know if there's a milk board, but no."}, {"timestamp": [1961.11, 2021.46], "text": " How do you do those risk premiums? coming out of the oil and you don't have to borrow money. Nobody's worried about it. But if you're investing in equities in Saudi Arabia, I would argue that there are risks you worry about, right? Political risk, upheaval risk, that's not in the default spread. So I'm fully aware that by looking at default spread as my starting point, I might be missing pieces of"}, {"timestamp": [2021.46, 2084.55], "text": " the puzzle. But here's the one thing it has equity risk premiums for them. There's services that measure"}, {"timestamp": [2084.55, 2089.53], "text": " country risk scores. They don't do it for default. They just come up with country. One of the"}, {"timestamp": [2089.53, 2153.79], "text": " services I use is called political risk services. But if you have a better way of estimating equity risk premiums for North Korea, I'd love to know what it is. And if your business is heavily, half in Syria, half in North Korea, God help you, but at least I can give you an equity risk premium number."}, {"timestamp": [2153.87, 2155.07], "text": " I can't do much more than that."}, {"timestamp": [2202.2, 2202.32], "text": " default spreads change and ratings change."}, {"timestamp": [2203.58, 2203.8], "text": " Ratings don't change very often."}, {"timestamp": [2204.96, 2205.02], "text": " Maybe like, you know,"}, {"timestamp": [2206.66, 2208.94], "text": " you'd probably be underestimating the equity risk for Russia in 2021"}, {"timestamp": [2208.94, 2210.96], "text": " if you use the start of the year,"}, {"timestamp": [2211.6, 2213.02], "text": " because by March or April,"}, {"timestamp": [2213.02, 2214.2], "text": " the whole thing was coming apart."}, {"timestamp": [2214.66, 2217.62], "text": " But that's something that you have to think about."}, {"timestamp": [2217.66, 2219.74], "text": " If you're investing in a country"}, {"timestamp": [2219.74, 2222.62], "text": " where something massive has happened,"}, {"timestamp": [2223.46, 2224.96], "text": " go get the sovereign CDS spread."}, {"timestamp": [2224.96, 2283.73], "text": " What I do is replace my default spread Yes, market is a dollar, which creates a currency inconsistency. One way you can get around this is to get an equity risk premium in dollars, then scale it up for inflation. It's very simple, basically, because the only reason it should be different if you're doing things in rupees is this is on top of your risk free rate."}, {"timestamp": [2283.73, 2287.75], "text": " So already your risk free rate will be much higher if you have a high inflation currency."}, {"timestamp": [2288.19, 2294.13], "text": " And then you can scale up the premium even more to reflect the fact that you have 30 percent inflation to 3 percent."}, {"timestamp": [2335.01, 2336.01], "text": " A lot of analysts seem to still follow."}, {"timestamp": [2340.79, 2340.91], "text": " You look at where a company is incorporated, what country it's incorporated,"}, {"timestamp": [2342.99, 2343.69], "text": " and give it the equity risk for that country."}, {"timestamp": [2344.95, 2344.97], "text": " So you know what's going to happen here, right?"}, {"timestamp": [2347.41, 2347.85], "text": " Every Indian company will get the Indian equity risk premium."}, {"timestamp": [2351.69, 2352.33], "text": " Every U.S. company will get the U.S. equity risk premium."}, {"timestamp": [2354.19, 2356.17], "text": " And to me, this is a recipe for disaster."}, {"timestamp": [2356.57, 2356.95], "text": " Why?"}, {"timestamp": [2417.88, 2418.22], "text": " Because you can have an Indian company that gets weighted average of where you operate and multiply."}, {"timestamp": [2422.9, 2424.0], "text": " Basically, you're assuming that beta measures your exposure to all other risk."}, {"timestamp": [2427.76, 2484.79], "text": " Just as much to country risk as much as measures to all other risk. you mean where it does business? Well, where it makes its stuff, where it sells its stuff, where its distribution centers are located. Seems like the common sense thing to do. We can debate practically how to measure that, but that is my starting point. So let's take an example of how"}, {"timestamp": [2484.79, 2552.41], "text": " I would compute that risk."}, {"timestamp": [2552.45, 2553.77], "text": " So I'll come back and talk about that."}, {"timestamp": [2554.11, 2557.23], "text": " I'll talk about why I use revenues as my starting point."}, {"timestamp": [2557.33, 2558.77], "text": " It's not because I love revenues."}, {"timestamp": [2559.39, 2561.59], "text": " It's because desperation drives me there."}, {"timestamp": [2562.19, 2618.12], "text": " You know what I mean, all bets are off because it's a US incorporated company,"}, {"timestamp": [2618.12, 2622.04], "text": " but it gets its revenues from all over the world. Notice I've given up on countries here."}, {"timestamp": [2623.14, 2683.96], "text": " It's by region. Coca-Cola actually doesn So Asia is going to be heavily weighted towards China and Japan. And that makes sense because you're in Asia, that's normal, and increasingly India. Latin America is going to be heavily"}, {"timestamp": [2683.96, 2751.71], "text": " weighted towards Brazil. But those regional averages are what I use when I compute the this crap I couldn't care less about. Could we start by having a way of, no, at least describing where your revenues come from that I can use in valuation? European companies have a different problem. They actually break their revenues down into Europe"}, {"timestamp": [2751.71, 2755.35], "text": " and one of the regions they report is EMEA."}, {"timestamp": [2757.85, 2758.41], "text": " What?"}, {"timestamp": [2758.69, 2759.43], "text": " What is EMEA?"}, {"timestamp": [2759.79, 2761.95], "text": " Oh, it's Middle East and Africa."}, {"timestamp": [2762.13, 2762.99], "text": " What the heck are you doing?"}, {"timestamp": [2806.34, 2811.5], "text": " riskier companies and risky markets doubling up their risk because you're taking a risky market and you have a discretionary product so those are questions that can be examined i'm willing to open"}, {"timestamp": [2811.5, 2816.72], "text": " the debate in fact i think it's worth debating should we be looking at things other than"}, {"timestamp": [2816.72, 2883.64], "text": " revenues so let's take an example where revenues clearly should not be used 2015 i had to value and wherever else you got to go look for it. And the nice thing about oil companies is they do tell you where they get their oil. This is from Royal Dutch's financial statement. So I didn't need any private information sources. Right out of its annual report, they tell you where the oil and gas is produced."}, {"timestamp": [2883.88, 2887.3], "text": " And I took a weighted average of the equity risk premiums"}, {"timestamp": [2887.3, 2888.52], "text": " or where they got their oil."}, {"timestamp": [2889.42, 2891.42], "text": " The equity risk premium I ended up for Royal Dutch"}, {"timestamp": [2891.42, 2893.54], "text": " looked like that of an emerging market company."}, {"timestamp": [2894.6, 2955.69], "text": " Royal Dutch on the premise that what happens in countries"}, {"timestamp": [2955.69, 3023.36], "text": " is uncorrelated, right? Or lightly correlated to hell in a handbasket. There's nothing you can do. But if you're a manufacturing company, it's difficult, but it's not impossible. So if any of you say, look, can I weight production 60% and revenues"}, {"timestamp": [3023.36, 3083.94], "text": " 40%? Absolutely. I think it's a choice you have to make. And the growth story it wants to be. So you could argue that maybe I should be looking at all of the elements that look at it. And here are some of the things to look at. One is, does the company use any kind of risk management products to protect itself against"}, {"timestamp": [3083.94, 3088.38], "text": " country risk? You can buy insurance against certain kinds of political risk. It's very expensive."}, {"timestamp": [3089.12, 3153.41], "text": " But more critically, is the company viewed as country risk. And the two companies I was looking at were Embraer, which at that time was 100% Brazilian company, and Embraer, which at that time, as you could see, was about 3% in Brazil, 97% elsewhere. Long flight, I'm checking through my slides, I get to the slide where I have"}, {"timestamp": [3153.41, 3216.72], "text": " cost of equity for both companies, I'm giving them both sky high cost of equity. Because in 2003, lambda less than one means you're less exposed you're saying why call it lambda because attaching a greek alphabet adds a layer of sophistication almost everything you do i could have called it l but you wouldn't have been as impressed right lambda so i land in brazil i fell asleep right"}, {"timestamp": [3216.72, 3221.28], "text": " after i thought about that land in brazil i throw this idea out 300 brazilian people now"}, {"timestamp": [3221.28, 3288.78], "text": " brazilians in the room i say what do you getting as revenues from that country, I have a way of scaling your revenue. So as an example, take two Indian companies, Tata Motors and Tata Consulting Services, both Indian companies, both part of the same family group."}, {"timestamp": [3289.38, 3294.92], "text": " Tata Motors was getting 91% of its revenues in 2008, 2009 from India."}, {"timestamp": [3338.07, 3345.29], "text": " Land Rover. The minute they acquired Jaguar Land Rover, you've essentially bought exposure in global markets. It brings your Lambda down. So it's simplistic, but it gives you at least"}, {"timestamp": [3345.29, 3352.67], "text": " a starting point for Lambdas. But it's still based on revenues, right? So through the paper,"}, {"timestamp": [3352.79, 3357.45], "text": " I wrestled with what can I use? I tried earnings. Terrible, right? Accountants smooth things out."}, {"timestamp": [3357.51, 3418.76], "text": " It's very difficult to get a measure of it. So I latch on to I can find something that moves just because of country risk, and I run a regression of returns on my stock against that, maybe I can get a sense of what does the market think about my company's exposure to country risk. In 2004, here's what I used."}, {"timestamp": [3419.44, 3423.48], "text": " I used what was called the C bond, which is a Brazilian dollar denominated bond."}, {"timestamp": [3423.54, 3426.18], "text": " So it's a dollar denominated bond, so there's no currency effect."}, {"timestamp": [3472.56, 3472.72], "text": " Let me cut to the chase. When I ran the regression, if I looked at Embraer, the slope I got was 0.27."}, {"timestamp": [3476.58, 3477.8], "text": " For every 1% move in the seabourn, Embraer moved only 0.27."}, {"timestamp": [3481.1, 3481.88], "text": " The market hit Embraer, but not very much."}, {"timestamp": [3488.48, 3492.72], "text": " In contrast, if you look at the Embraer regression, for every 1% move in the market, Embraer moved 2%. Supremely exposed to Indian country risk."}, {"timestamp": [3540.21, 3545.61], "text": " to estimate exposure to country risk, this is the most I'm consuming. And you can see why I would never use it for a multinational that's in nine countries or 11 countries, or God help me,"}, {"timestamp": [3545.83, 3550.65], "text": " Coca-Cola with 72 countries. You know what I'd have to do, right? Estimate lamb desiccates each"}, {"timestamp": [3550.65, 3556.53], "text": " of the countries. And I have more stuff to do in my valuation. This is not where I want to fight"}, {"timestamp": [3556.53, 3620.96], "text": " my fight. So 95% of my companies, I'm going to use the weighted equity risk premium approach in and 17.79%. Those are approaches where I punish Embraer for being a Brazilian company, give it all of the risk of Brazil. The other three approaches, the only variants are, am I multiplying by a beta, a lambda, but they all give you roughly similar numbers, right? 9% to 11%, but you get two divergent set of numbers. If you treat Embraer as a Brazilian company,"}, {"timestamp": [3621.0, 3685.76], "text": " you get much higher cost of equity. If you is using 18% as the discount rate to value companies. It's not right, but they're the ones pricing stocks. So here's my question. If you believe that they're wrong"}, {"timestamp": [3685.76, 3755.17], "text": " in doing that, and you decide to invest based on that, you're going to be buying a lot of Embraer reports its earnings reports and they're coming out well. And you say, how the heck did that happen? Brazil is going through this catastrophic internal risk and Embraer, that's exactly what you're looking for. You're looking for reality to eventually come. You might have to wait a while for that to happen. I'll tell you what I've done this over the last 25 years."}, {"timestamp": [3755.27, 3816.92], "text": " One of the strategies I've adopted is first not even looking at the stock. They're looking at each other. They all flee the market at the same time. They sell the good stuff, the bad stuff. There's your chance. They pull out your list. Next time that market is in a crisis, take the two companies. Vietnam is in a crisis, buy Vendor Milk."}, {"timestamp": [3817.68, 3819.04], "text": " You don't even have to do a valuation."}, {"timestamp": [3819.18, 3820.98], "text": " Just buy it on the presumption"}, {"timestamp": [3820.98, 3823.44], "text": " that people are going to sell it indiscriminately."}, {"timestamp": [3825.04, 3827.72], "text": " This is not an investment philosophies class,"}, {"timestamp": [3827.72, 3884.74], "text": " but it's a class about taking advantage the discount rate. The way I describe discount rates is don't make them the receptacles for all your hopes and fears. I see too many analysts saying, how do I pump up? When in fact many of the things you worry about are cash flow effects. If you have a capricious regulator who basically changes"}, {"timestamp": [3884.74, 3885.72], "text": " it, that's different."}, {"timestamp": [3886.58, 3888.56], "text": " But to the extent that regulation"}, {"timestamp": [3888.56, 3890.5], "text": " causes costs, build them in, lower"}, {"timestamp": [3890.5, 3892.62], "text": " margins, lower cash flows, no need to adjust"}, {"timestamp": [3892.62, 3893.66], "text": " your discount rate for that."}, {"timestamp": [3935.61, 3936.07], "text": " We call it a yield to maturity in a bond."}, {"timestamp": [3937.27, 3937.83], "text": " What's a yield to maturity in a bond?"}, {"timestamp": [3938.87, 3938.97], "text": " Takes the price of the bond,"}, {"timestamp": [3940.01, 3940.11], "text": " takes the cash flows in the bond."}, {"timestamp": [3941.69, 3943.89], "text": " You solve for that discard rate that makes the present value of your cash flows"}, {"timestamp": [3943.89, 3945.01], "text": " equal to the price of the bond."}, {"timestamp": [3946.19, 3949.03], "text": " I'm going to do something similar with the stock market."}, {"timestamp": [3949.61, 3951.69], "text": " And I'll go back to the start of 2020"}, {"timestamp": [3951.69, 3953.93], "text": " to get this ball rolling."}, {"timestamp": [3954.21, 3956.33], "text": " And I'm deliberately picking the start of 2020"}, {"timestamp": [3956.33, 3957.59], "text": " because I want to make a point"}, {"timestamp": [3957.59, 3959.99], "text": " about dynamic equity risk groups."}, {"timestamp": [4006.76, 4007.7], "text": " They can take one of two forms. They can take the form of dividends, the old-fashioned way companies used to return cash or buybacks."}, {"timestamp": [4013.28, 4013.66], "text": " Unlike a coupon, that number is not fixed, but I can tell you what it was in the most recent year. It was 150.5."}, {"timestamp": [4018.74, 4019.22], "text": " I can even tell you what analysts collectively are expecting it to grow by for the next five years."}, {"timestamp": [4022.36, 4022.92], "text": " The S&P 500 is the most tracked and followed index in the world."}, {"timestamp": [4027.24, 4086.74], "text": " At the start of 2020, their projections92%. So basically, I have cash flows growing at 3.46% for the next five years, 1.92% beyond. I set up the equation. I know what you paid. There are my cash flows. I saw for, it's like"}, {"timestamp": [4086.74, 4151.53], "text": " an internal rate of return for stocks, like a yield. Think of you don't remember that day, that was the day the Italian government found 200 people in Italy who had never been to China or on a cruise ship with COVID. We woke up to a nightmare, right? Remember what we said, shock hits. The only thing you have to"}, {"timestamp": [4151.53, 4156.55], "text": " adjust is prices. It's not like cash flows are going to change overnight. So starting on February"}, {"timestamp": [4156.55, 4216.74], "text": " 14th, I actually started estimating the equity risk premium everying in March, I had to use the 8% equity risk premium. Otherwise, I would be asking the wrong question. Is this stock undervalued? I'll be bringing in a market view. Implied equity risk premiums are forward-looking and dynamic."}, {"timestamp": [4218.56, 4218.6], "text": " They reflect the world you're in,"}, {"timestamp": [4219.88, 4221.92], "text": " not the world you wished you were in. If you're getting scared, I'll reflect that in your premium."}, {"timestamp": [4223.3, 4224.92], "text": " And it's a premium that, as I said,"}, {"timestamp": [4225.02, 4226.24], "text": " will change over time."}, {"timestamp": [4226.24, 4227.5], "text": " And at the start of 2023,"}, {"timestamp": [4275.56, 4281.56], "text": " is 5.94%. And your total expected return is 9.82%. You said, well, is that a good premium or a bad premium? You're asking a question about the market itself, right? In fact, you often"}, {"timestamp": [4281.56, 4288.42], "text": " wonder, is the market overvalued or undervalued? Is it in a bubble or is it busted? You can reframe"}, {"timestamp": [4288.42, 4293.4], "text": " that question in terms of equity risk premiums. If markets are undervalued, stocks are undervalued,"}, {"timestamp": [4339.75, 4346.29], "text": " 4.94%. Is it high? Is it low? Is it average? Take a look at the graph. If you go all the way back to 1960, the premium across the period has been about 4.21%. If I compare what I'm getting at"}, {"timestamp": [4346.29, 4351.55], "text": " the start of 2023, I'm actually getting a much higher premium than what I'd have earned on"}, {"timestamp": [4351.55, 4356.47], "text": " average. The world has changed. If you look at the last 20 years, it's true. The premium would"}, {"timestamp": [4356.47, 4417.54], "text": " have gone up to 5%. It's still okay, 5.94 premiums go up, stock prices are going down. It's like bond interest rates and bond prices."}, {"timestamp": [4484.04, 4487.28], "text": " 70s were an awful period. Great bull market, 78 through wrong. But if you take it and convert it into a standard error on my implied equity risk premium, the range I would get would be somewhere between 4.8 and 6.5%. If you download the spreadsheet, you can see my range. So with an implied premium, my range is 4.8 to 6.5%."}, {"timestamp": [4487.28, 4488.46], "text": " Do you remember what the range was"}, {"timestamp": [4488.46, 4490.4], "text": " when I used historical premiums?"}, {"timestamp": [4490.76, 4491.44], "text": " One to nine?"}, {"timestamp": [4492.22, 4493.24], "text": " Of course I could be wrong."}, {"timestamp": [4534.27, 4535.41], "text": " And you know why we took it?"}, {"timestamp": [4536.69, 4537.77], "text": " Where else were you going to go?"}, {"timestamp": [4541.29, 4541.41], "text": " This is what low risk-free rates did for a decade."}, {"timestamp": [4543.05, 4543.61], "text": " It said, you have no choice."}, {"timestamp": [4545.47, 4545.55], "text": " You got to take 6% returns on stocks."}, {"timestamp": [4545.97, 4546.07], "text": " And we did."}, {"timestamp": [4547.85, 4550.19], "text": " The cost of equity for US companies dropped to 5.5% to 6% last year"}, {"timestamp": [4550.19, 4551.93], "text": " because you really had no choice."}, {"timestamp": [4554.03, 4557.33], "text": " But 2022, for me, was a return to normalcy,"}, {"timestamp": [4557.33, 4558.53], "text": " not an abnormal year,"}, {"timestamp": [4558.61, 4561.53], "text": " because we're returning back to expected returns"}, {"timestamp": [4561.53, 4617.24], "text": " we used to have. risk in the equity market, right? Is there a price of risk in the bond market or what do we call that price of risk? It's a default spread, right? So if I take BAA rated bonds and I look at the default spreads, the default spreads change over time. This graph I've actually taken the black line is"}, {"timestamp": [4617.24, 4622.54], "text": " the BAA default. BAA is investment grade bonds. So these are actually pretty safe bonds. Default"}, {"timestamp": [4622.54, 4685.5], "text": " spreads and bonds versus equity risk. Most of the time, the two move together. Why? Because people You know what we should have been doing, right? At the end of 99, taking all our money out of stocks and putting it into a corporate bond because we were getting a better risk reward trade-off. But we didn't. Then you get to 2001, you get 9-11."}, {"timestamp": [4689.54, 4689.74], "text": " And in the months after 9-11, Alan Greenspan says,"}, {"timestamp": [4693.76, 4694.12], "text": " I will not let the US economy go into recession."}, {"timestamp": [4751.27, 4754.99], "text": " The hubris of central bankers. was the first market crisis, which was precipitated by what was happening in the bond market. People were lending money, not just to people without credit worthiness, but they were lending it without charging enough of a spread. You can lend to whoever you want if you charge a fair enough rate. And 2008, it caught up with all of them."}, {"timestamp": [4754.99, 4759.41], "text": " Take a look at what happened to default spreads in 2008."}, {"timestamp": [4759.41, 4821.76], "text": " That was the adjustment, and was it painful. income, you'll pay 10 million for the property. It's like a cost of equity in real estate. They never call it that, but that's what a cap rate is. If I subtract the risk-free rate from a cap rate, I get the real estate risk premium. And if you look at this graph, it looks very weird, right? If you look at the 1980s, it looks like the real estate equity risk premium is actually"}, {"timestamp": [4821.76, 4827.04], "text": " negative. You're saying, well, why would I invest in real estate if I am earning a negative premium?"}, {"timestamp": [4875.48, 4879.56], "text": " we we securitized it right starting with the 1980s luring area putting out mortgage-backed secure and you know what happens when you securitize an asset class it starts to behave"}, {"timestamp": [4879.56, 4886.32], "text": " like a financial asset class and that's terrible news for all of us because you own a house you"}, {"timestamp": [4886.32, 4892.2], "text": " have a lot of money in your pension fund you own some bonds you have a bad year on your pension"}, {"timestamp": [4892.2, 4896.3], "text": " fund you look at your bond portfolio it's collapsed as well you say thank god i have my house"}]}
+{
+  "text": " Thank you. Now, while people are still coming in, I just remind you, if you don't have a group, find one. If you haven't picked a company, pick one. So times are moving. We're into week three of the class. So once you picked a company, if you can put it, what's the equity risk premium for Coca-Cola? It's really an equity risk premium reflects the price of risk in the market. It's a market set number. And today I'm going to talk about how most people estimate it and why I don't like the way they do it. to end, right? What's the price I'm probably going to end up with? If it's a US dollar guaranteed investment, roughly speaking, where am I going to end up at? About 30, which would be the inverse of the T-bond rate, right? Because you're going to end up roughly there, because that's what you can make on a guaranteed long-term investment. So that's the starting point. Now, I'm going to come to you. You said 30 for that guaranteed investment. It's dominating. It's what you pay that matters, not what you say. Sounds mysterious, but I'm going to argue that the best way to get equity risk premiums is not look at risk averse. Lots of different reasons, right? One is you know what can go wrong and that kind of scars you. Second is you have responsibilities, you have family. So basically as you get older, you get more risk averse. Now I'm going to build on this premise. If you look at an equity market, it's composed of affected by the demographics, the market. It can even be affected by events. Let's assume I told you that there's been a crisis. I take the example that I gave you. The crisis can be a market crisis, a 30% meltdown, an economic crisis, a political crisis. and unpredictable. They will change over time, which means any approach to estimating equity risk premiums you have has to be dynamic. You can't have an equity risk premium that says 5%, 5% all through a year when crazy things... Remember 2020 when the whole world shut down? You definitely don't want an equity risk premium measure that stays fixed over time. It has to reflect the world you live in. So for the moment, that sounds mysterious, So let's take the US market. I actually update historical risk premiums on my website, even though I never used them, I update them, because I know other people, for whatever reason, I've fixated on them. I go all the way back to 1928. Already, you can see that I'm starting with a market, a US market, very different from today's market. 1928 was the year before the Great Depression. Very different, much narrower market. But if you want history, you add them up, divide by 94, that's an arithmetic average this year? Minus 50%. Through the magic of averaging, you know what your average return was over the two years, right? 100 standard error. See these numbers in italics? Those are the standard errors in your historical risk premium estimates. Let me repeat that again. Those are the standard errors. So when I tell you that the equity risk premium for the last 94 years is 5.06%, that looks incredibly precise, right? Second decimal point. Are you making another assumption when you use historical risk premiums? Assuming that you can overlook the statistics. What else are you assuming when you use a historical risk premium as your proxy for forecasting future premiums? In other words, you're assuming mean reversion, which is a fancy way of saying things will revert change for a historical risk premium to be usable, good luck with that. I mean, I've seen people go back to 1871 with US stocks. The only problem is that 1871, the US was an emerging market coming out of the Civil War. There is no escape hatch. It's incredibly noisy. And I think using US its milk across the world. And you want a Vietnamese equity risk premium. You decide to do the only thing you know what to do, which is to compute a historical risk premium. I actually had a Vietnamese analyst, values company, and he said, can you take a look at my valuation, my first DCF? He came back to me and said it was 9.35%. I said, okay, think about what you've told me, that the equity risk was 7%. And this isn't even two standard deviations. One standard error, it could be minus 2% or 16%. Forget about two standard errors. But with most countries, you don't even have the historical data you have in the US. So this is a bit of a problem, right? Because you've got to value Brazilian companies. So I'm going you through a pathway of three different ways in which you can get that additional premium for a Brazil, a Vietnam, an India, and Indonesia. The first is a very lazy way. It draws on a number we've already used to get risk-free rates. Remember to get a risk-free rate in Indian rupees. risk for Brazil, I start with the US premium, 5.94%. I'll talk about where I get that base premium and add on that extra default spread. Now, do you see what the double counting would kick in? If I'd left the government bond rate as is intact with that default spread built in, We've got the US equity risk premium that goes with the US market. Let's say I want to get an equity risk premium for Brazil. What if I look up the standard deviation in Brazilian equities? Which leaves you a practical question. What are we using? Let's use the Bovespa, terribly constructed index, perhaps the worst constructed index I've ever seen because it's a trade-weighted index. You know what trade-weighting is? standard deviation, you are demanding a 5.94% equity risk premium. Brazil has a 30% standard deviation. What's the question I'm asking? What premium would you demand? I'm going to scale up the 5.94%. Basically, I'm scaling up for relative equity market volatility. I come up with 9.9% as my total equity risk premium for Brazil. And if you ask has to change, what has to happen? People have to trade in liquid markets. Costa Rica is like four and a half percent standard deviation. I still remember a Wall Street Journal article I read a long time ago about the Egyptian market and how trades were recorded. You know how they were recorded? There was a guy with a chalkboard, I'm not kidding you, who stood in front of the exchange. And every time a trade happened, he would write the trade in chalk on the board and he wouldn't fill up the board by the end of the day. and Brazil because of different liquidity. But maybe I can compare markets within Brazil. So I went to the first approach and I looked up the default spread. Remember 3.68%? And I looked up two standard deviations, just like the second approach. But here are the standard deviations I looked up were the standard deviation, the Bovespa Brazilian equity, and the standard deviation in the Brazilian government bond. Like a similar algebra problem. But the assumption I'm making is, if one is a liquid, the other is going to be a liquid as well. And I looked at the ratio. Thank you for letting me know. Okay, now it's shared, right? You see the slide now Now, some of you might have got the link that I sent yesterday about my most recent data post on country risk. And essentially, the point I was trying to make is you can't hide from country risk anymore. When I first started teaching this class, a big chunk of the class was going to work in New York for New York Investment Banks looking at US companies. This is 1986. And the reaction is, why are we talking about country risk? So 25 years ago, I said, I need these numbers in our value companies. I'm going to estimate equity risk premiums by country. So I'll take you through the start of 2023. So you can see exactly where the numbers come from. I started the base premium for the US. I'll come back and talk about where the 5.94% comes from. It's not a historical premium. It's an updated forward-looking premium. I'll go through that process. Then I'll look up the sovereign ratings for every country that I can find a rating for. that goes with your rating. For those countries where there's a sovereign CDS, I can use that. But if I don't have that, I'm going to go with the rating-based spread. And then I'm going to multiply it. And rather than using each country's government bond and equity to get a ratio, I use one ratio. And I'll tell you why. There are only about 40 countries, remember, that had government bonds. Only about seven or eight of those are liquid. 5.94% equity risk premium that I have for the US to come up with an equity risk premium for your country. And I'm going to do this for every country for which I can get a rating. Yes. When you're funding the CDS, you also remove the contracting costs. I remove the US portion of it. I use the net spread. So when you look at my equity risk premium page, that's a number that you'll see playing out. It standard deviations. If we compare Pakistani equities to US equities, I'm going to get a very strange result because I'm comparing an illiquid market to a liquid market. So here's what the world looked like to me at the start of 2023. So essentially, I've broken down countries geographically. And don't jump down my throat risk premium that reflects a default spread times 1.41. So that's a total country risk premium. You add the red number to the 5.94%, you're going to come up with the equity risk premium by country. So let's take Latin America. It's the safest country in Latin America. This has been true for probably the last 20 years. It's chilly. It's riskier than it used to be, but it still stays the safest country. But Latin America were coming on. I said, what the heck is happening here? How am I so popular in Lithuania? It turned out that for a while, the Lithuanian government, when it was considering privatization proposals, required people to use my equity risk premium. I didn't get any commissions from this. But I said, okay, good. I'm being used in Lithuania. I remember getting an email from the New Zealand milk board. I don't know if there's a milk board, but no. How do you do those risk premiums? coming out of the oil and you don't have to borrow money. Nobody's worried about it. But if you're investing in equities in Saudi Arabia, I would argue that there are risks you worry about, right? Political risk, upheaval risk, that's not in the default spread. So I'm fully aware that by looking at default spread as my starting point, I might be missing pieces of the puzzle. But here's the one thing it has equity risk premiums for them. There's services that measure country risk scores. They don't do it for default. They just come up with country. One of the services I use is called political risk services. But if you have a better way of estimating equity risk premiums for North Korea, I'd love to know what it is. And if your business is heavily, half in Syria, half in North Korea, God help you, but at least I can give you an equity risk premium number. I can't do much more than that. default spreads change and ratings change. Ratings don't change very often. Maybe like, you know, you'd probably be underestimating the equity risk for Russia in 2021 if you use the start of the year, because by March or April, the whole thing was coming apart. But that's something that you have to think about. If you're investing in a country where something massive has happened, go get the sovereign CDS spread. What I do is replace my default spread Yes, market is a dollar, which creates a currency inconsistency. One way you can get around this is to get an equity risk premium in dollars, then scale it up for inflation. It's very simple, basically, because the only reason it should be different if you're doing things in rupees is this is on top of your risk free rate. So already your risk free rate will be much higher if you have a high inflation currency. And then you can scale up the premium even more to reflect the fact that you have 30 percent inflation to 3 percent. A lot of analysts seem to still follow. You look at where a company is incorporated, what country it's incorporated, and give it the equity risk for that country. So you know what's going to happen here, right? Every Indian company will get the Indian equity risk premium. Every U.S. company will get the U.S. equity risk premium. And to me, this is a recipe for disaster. Why? Because you can have an Indian company that gets weighted average of where you operate and multiply. Basically, you're assuming that beta measures your exposure to all other risk. Just as much to country risk as much as measures to all other risk. you mean where it does business? Well, where it makes its stuff, where it sells its stuff, where its distribution centers are located. Seems like the common sense thing to do. We can debate practically how to measure that, but that is my starting point. So let's take an example of how I would compute that risk. So I'll come back and talk about that. I'll talk about why I use revenues as my starting point. It's not because I love revenues. It's because desperation drives me there. You know what I mean, all bets are off because it's a US incorporated company, but it gets its revenues from all over the world. Notice I've given up on countries here. It's by region. Coca-Cola actually doesn So Asia is going to be heavily weighted towards China and Japan. And that makes sense because you're in Asia, that's normal, and increasingly India. Latin America is going to be heavily weighted towards Brazil. But those regional averages are what I use when I compute the this crap I couldn't care less about. Could we start by having a way of, no, at least describing where your revenues come from that I can use in valuation? European companies have a different problem. They actually break their revenues down into Europe and one of the regions they report is EMEA. What? What is EMEA? Oh, it's Middle East and Africa. What the heck are you doing? riskier companies and risky markets doubling up their risk because you're taking a risky market and you have a discretionary product so those are questions that can be examined i'm willing to open the debate in fact i think it's worth debating should we be looking at things other than revenues so let's take an example where revenues clearly should not be used 2015 i had to value and wherever else you got to go look for it. And the nice thing about oil companies is they do tell you where they get their oil. This is from Royal Dutch's financial statement. So I didn't need any private information sources. Right out of its annual report, they tell you where the oil and gas is produced. And I took a weighted average of the equity risk premiums or where they got their oil. The equity risk premium I ended up for Royal Dutch looked like that of an emerging market company. Royal Dutch on the premise that what happens in countries is uncorrelated, right? Or lightly correlated to hell in a handbasket. There's nothing you can do. But if you're a manufacturing company, it's difficult, but it's not impossible. So if any of you say, look, can I weight production 60% and revenues 40%? Absolutely. I think it's a choice you have to make. And the growth story it wants to be. So you could argue that maybe I should be looking at all of the elements that look at it. And here are some of the things to look at. One is, does the company use any kind of risk management products to protect itself against country risk? You can buy insurance against certain kinds of political risk. It's very expensive. But more critically, is the company viewed as country risk. And the two companies I was looking at were Embraer, which at that time was 100% Brazilian company, and Embraer, which at that time, as you could see, was about 3% in Brazil, 97% elsewhere. Long flight, I'm checking through my slides, I get to the slide where I have cost of equity for both companies, I'm giving them both sky high cost of equity. Because in 2003, lambda less than one means you're less exposed you're saying why call it lambda because attaching a greek alphabet adds a layer of sophistication almost everything you do i could have called it l but you wouldn't have been as impressed right lambda so i land in brazil i fell asleep right after i thought about that land in brazil i throw this idea out 300 brazilian people now brazilians in the room i say what do you getting as revenues from that country, I have a way of scaling your revenue. So as an example, take two Indian companies, Tata Motors and Tata Consulting Services, both Indian companies, both part of the same family group. Tata Motors was getting 91% of its revenues in 2008, 2009 from India. Land Rover. The minute they acquired Jaguar Land Rover, you've essentially bought exposure in global markets. It brings your Lambda down. So it's simplistic, but it gives you at least a starting point for Lambdas. But it's still based on revenues, right? So through the paper, I wrestled with what can I use? I tried earnings. Terrible, right? Accountants smooth things out. It's very difficult to get a measure of it. So I latch on to I can find something that moves just because of country risk, and I run a regression of returns on my stock against that, maybe I can get a sense of what does the market think about my company's exposure to country risk. In 2004, here's what I used. I used what was called the C bond, which is a Brazilian dollar denominated bond. So it's a dollar denominated bond, so there's no currency effect. Let me cut to the chase. When I ran the regression, if I looked at Embraer, the slope I got was 0.27. For every 1% move in the seabourn, Embraer moved only 0.27. The market hit Embraer, but not very much. In contrast, if you look at the Embraer regression, for every 1% move in the market, Embraer moved 2%. Supremely exposed to Indian country risk. to estimate exposure to country risk, this is the most I'm consuming. And you can see why I would never use it for a multinational that's in nine countries or 11 countries, or God help me, Coca-Cola with 72 countries. You know what I'd have to do, right? Estimate lamb desiccates each of the countries. And I have more stuff to do in my valuation. This is not where I want to fight my fight. So 95% of my companies, I'm going to use the weighted equity risk premium approach in and 17.79%. Those are approaches where I punish Embraer for being a Brazilian company, give it all of the risk of Brazil. The other three approaches, the only variants are, am I multiplying by a beta, a lambda, but they all give you roughly similar numbers, right? 9% to 11%, but you get two divergent set of numbers. If you treat Embraer as a Brazilian company, you get much higher cost of equity. If you is using 18% as the discount rate to value companies. It's not right, but they're the ones pricing stocks. So here's my question. If you believe that they're wrong in doing that, and you decide to invest based on that, you're going to be buying a lot of Embraer reports its earnings reports and they're coming out well. And you say, how the heck did that happen? Brazil is going through this catastrophic internal risk and Embraer, that's exactly what you're looking for. You're looking for reality to eventually come. You might have to wait a while for that to happen. I'll tell you what I've done this over the last 25 years. One of the strategies I've adopted is first not even looking at the stock. They're looking at each other. They all flee the market at the same time. They sell the good stuff, the bad stuff. There's your chance. They pull out your list. Next time that market is in a crisis, take the two companies. Vietnam is in a crisis, buy Vendor Milk. You don't even have to do a valuation. Just buy it on the presumption that people are going to sell it indiscriminately. This is not an investment philosophies class, but it's a class about taking advantage the discount rate. The way I describe discount rates is don't make them the receptacles for all your hopes and fears. I see too many analysts saying, how do I pump up? When in fact many of the things you worry about are cash flow effects. If you have a capricious regulator who basically changes it, that's different. But to the extent that regulation causes costs, build them in, lower margins, lower cash flows, no need to adjust your discount rate for that. We call it a yield to maturity in a bond. What's a yield to maturity in a bond? Takes the price of the bond, takes the cash flows in the bond. You solve for that discard rate that makes the present value of your cash flows equal to the price of the bond. I'm going to do something similar with the stock market. And I'll go back to the start of 2020 to get this ball rolling. And I'm deliberately picking the start of 2020 because I want to make a point about dynamic equity risk groups. They can take one of two forms. They can take the form of dividends, the old-fashioned way companies used to return cash or buybacks. Unlike a coupon, that number is not fixed, but I can tell you what it was in the most recent year. It was 150.5. I can even tell you what analysts collectively are expecting it to grow by for the next five years. The S&P 500 is the most tracked and followed index in the world. At the start of 2020, their projections92%. So basically, I have cash flows growing at 3.46% for the next five years, 1.92% beyond. I set up the equation. I know what you paid. There are my cash flows. I saw for, it's like an internal rate of return for stocks, like a yield. Think of you don't remember that day, that was the day the Italian government found 200 people in Italy who had never been to China or on a cruise ship with COVID. We woke up to a nightmare, right? Remember what we said, shock hits. The only thing you have to adjust is prices. It's not like cash flows are going to change overnight. So starting on February 14th, I actually started estimating the equity risk premium everying in March, I had to use the 8% equity risk premium. Otherwise, I would be asking the wrong question. Is this stock undervalued? I'll be bringing in a market view. Implied equity risk premiums are forward-looking and dynamic. They reflect the world you're in, not the world you wished you were in. If you're getting scared, I'll reflect that in your premium. And it's a premium that, as I said, will change over time. And at the start of 2023, is 5.94%. And your total expected return is 9.82%. You said, well, is that a good premium or a bad premium? You're asking a question about the market itself, right? In fact, you often wonder, is the market overvalued or undervalued? Is it in a bubble or is it busted? You can reframe that question in terms of equity risk premiums. If markets are undervalued, stocks are undervalued, 4.94%. Is it high? Is it low? Is it average? Take a look at the graph. If you go all the way back to 1960, the premium across the period has been about 4.21%. If I compare what I'm getting at the start of 2023, I'm actually getting a much higher premium than what I'd have earned on average. The world has changed. If you look at the last 20 years, it's true. The premium would have gone up to 5%. It's still okay, 5.94 premiums go up, stock prices are going down. It's like bond interest rates and bond prices. 70s were an awful period. Great bull market, 78 through wrong. But if you take it and convert it into a standard error on my implied equity risk premium, the range I would get would be somewhere between 4.8 and 6.5%. If you download the spreadsheet, you can see my range. So with an implied premium, my range is 4.8 to 6.5%. Do you remember what the range was when I used historical premiums? One to nine? Of course I could be wrong. And you know why we took it? Where else were you going to go? This is what low risk-free rates did for a decade. It said, you have no choice. You got to take 6% returns on stocks. And we did. The cost of equity for US companies dropped to 5.5% to 6% last year because you really had no choice. But 2022, for me, was a return to normalcy, not an abnormal year, because we're returning back to expected returns we used to have. risk in the equity market, right? Is there a price of risk in the bond market or what do we call that price of risk? It's a default spread, right? So if I take BAA rated bonds and I look at the default spreads, the default spreads change over time. This graph I've actually taken the black line is the BAA default. BAA is investment grade bonds. So these are actually pretty safe bonds. Default spreads and bonds versus equity risk. Most of the time, the two move together. Why? Because people You know what we should have been doing, right? At the end of 99, taking all our money out of stocks and putting it into a corporate bond because we were getting a better risk reward trade-off. But we didn't. Then you get to 2001, you get 9-11. And in the months after 9-11, Alan Greenspan says, I will not let the US economy go into recession. The hubris of central bankers. was the first market crisis, which was precipitated by what was happening in the bond market. People were lending money, not just to people without credit worthiness, but they were lending it without charging enough of a spread. You can lend to whoever you want if you charge a fair enough rate. And 2008, it caught up with all of them. Take a look at what happened to default spreads in 2008. That was the adjustment, and was it painful. income, you'll pay 10 million for the property. It's like a cost of equity in real estate. They never call it that, but that's what a cap rate is. If I subtract the risk-free rate from a cap rate, I get the real estate risk premium. And if you look at this graph, it looks very weird, right? If you look at the 1980s, it looks like the real estate equity risk premium is actually negative. You're saying, well, why would I invest in real estate if I am earning a negative premium? we we securitized it right starting with the 1980s luring area putting out mortgage-backed secure and you know what happens when you securitize an asset class it starts to behave like a financial asset class and that's terrible news for all of us because you own a house you have a lot of money in your pension fund you own some bonds you have a bad year on your pension fund you look at your bond portfolio it's collapsed as well you say thank god i have my house",
+  "chunks": [
+    {
+      "timestamp": [0.0, 88.69],
+      "text": " Thank you. Now, while people are still coming in, I just remind you, if you don't have a group, find one. If you haven't picked a company, pick one. So times are moving. We're into week three of the class."
+    },
+    {
+      "timestamp": [89.69, 155.49],
+      "text": " So once you picked a company, if you can put it, what's the equity risk premium for Coca-Cola? It's really an equity risk premium reflects the price of risk in the market. It's a market set number. And today I'm going to talk about how most people estimate"
+    },
+    {
+      "timestamp": [155.49, 219.58],
+      "text": " it and why I don't like the way they do it. to end, right? What's the price I'm probably going to end up with? If it's a US dollar guaranteed investment, roughly speaking, where am I going to end up at? About 30, which would be the inverse of the T-bond rate, right? Because you're going to end up roughly there, because that's what you can make on a guaranteed"
+    },
+    { "timestamp": [219.58, 220.46], "text": " long-term investment." },
+    { "timestamp": [221.88, 223.9], "text": " So that's the starting point." },
+    { "timestamp": [224.28, 225.4], "text": " Now, I'm going to come to you." },
+    {
+      "timestamp": [225.44, 227.66],
+      "text": " You said 30 for that guaranteed investment."
+    },
+    {
+      "timestamp": [284.77, 350.61],
+      "text": " It's dominating. It's what you pay that matters, not what you say. Sounds mysterious, but I'm going to argue that the best way to get equity risk premiums is not look at risk averse. Lots of different reasons, right? One is you know what can go wrong and that kind of scars you. Second is you have responsibilities, you have family. So basically"
+    },
+    {
+      "timestamp": [350.61, 357.15],
+      "text": " as you get older, you get more risk averse. Now I'm going to build on this premise. If you look"
+    },
+    {
+      "timestamp": [357.15, 416.94],
+      "text": " at an equity market, it's composed of affected by the demographics, the market. It can even be affected by events."
+    },
+    {
+      "timestamp": [418.08, 422.88],
+      "text": " Let's assume I told you that there's been a crisis. I take the example that I gave you."
+    },
+    {
+      "timestamp": [423.12, 428.28],
+      "text": " The crisis can be a market crisis, a 30% meltdown, an economic crisis, a political crisis."
+    },
+    {
+      "timestamp": [473.95, 479.41],
+      "text": " and unpredictable. They will change over time, which means any approach to estimating equity risk premiums you have has to be dynamic. You can't have an equity risk premium that says 5%,"
+    },
+    {
+      "timestamp": [479.41, 484.45],
+      "text": " 5% all through a year when crazy things... Remember 2020 when the whole world shut down?"
+    },
+    {
+      "timestamp": [484.45, 489.25],
+      "text": " You definitely don't want an equity risk premium measure that stays fixed over time."
+    },
+    {
+      "timestamp": [490.41, 495.89],
+      "text": " It has to reflect the world you live in. So for the moment, that sounds mysterious,"
+    },
+    {
+      "timestamp": [544.27, 544.75],
+      "text": " So let's take the US market. I actually update historical risk premiums on my website, even though I never used them, I update them, because I know other people, for whatever reason, I've fixated on them."
+    },
+    {
+      "timestamp": [556.71, 557.85],
+      "text": " I go all the way back to 1928. Already, you can see that I'm starting with a market, a US market, very different from today's market. 1928 was the year before the Great Depression."
+    },
+    {
+      "timestamp": [618.46, 688.95],
+      "text": " Very different, much narrower market. But if you want history, you add them up, divide by 94, that's an arithmetic average this year? Minus 50%. Through the magic of averaging, you know what"
+    },
+    {
+      "timestamp": [688.95, 750.33],
+      "text": " your average return was over the two years, right? 100 standard error. See these numbers in italics? Those are the standard errors in your historical risk premium estimates. Let me repeat that again. Those are the standard errors. So when I tell you that the equity risk premium for the last"
+    },
+    {
+      "timestamp": [750.33, 757.13],
+      "text": " 94 years is 5.06%, that looks incredibly precise, right? Second decimal point."
+    },
+    {
+      "timestamp": [815.28, 818.04],
+      "text": " Are you making another assumption when you use historical risk premiums? Assuming that you can overlook the statistics. What else are you assuming when you use a historical risk premium as your proxy for forecasting future premiums?"
+    },
+    {
+      "timestamp": [824.88, 884.57],
+      "text": " In other words, you're assuming mean reversion, which is a fancy way of saying things will revert change for a historical risk premium to be usable, good luck with that. I mean, I've seen people go back to 1871 with US stocks. The only problem is that 1871, the US was an emerging market coming out of the Civil War. There is no escape hatch."
+    },
+    {
+      "timestamp": [884.99, 954.35],
+      "text": " It's incredibly noisy. And I think using US its milk across the world. And you want a Vietnamese equity risk premium. You decide to do the only thing you know what to do, which is to compute a historical risk premium."
+    },
+    {
+      "timestamp": [955.47, 959.55],
+      "text": " I actually had a Vietnamese analyst, values company, and he said,"
+    },
+    {
+      "timestamp": [959.55, 1017.52],
+      "text": " can you take a look at my valuation, my first DCF? He came back to me and said it was 9.35%. I said, okay, think about what you've told me, that the equity risk was 7%. And this isn't even two standard deviations. One standard error, it could be minus 2% or 16%. Forget about two standard errors."
+    },
+    { "timestamp": [1019.52, 1019.54], "text": " But with most countries," },
+    {
+      "timestamp": [1022.76, 1024.26],
+      "text": " you don't even have the historical data you have in the US."
+    },
+    {
+      "timestamp": [1025.96, 1025.98],
+      "text": " So this is a bit of a problem, right?"
+    },
+    {
+      "timestamp": [1027.5, 1028.1],
+      "text": " Because you've got to value Brazilian companies."
+    },
+    {
+      "timestamp": [1083.43, 1084.01],
+      "text": " So I'm going you through a pathway of three different ways in which you can get that additional premium for a Brazil, a Vietnam, an India, and Indonesia."
+    },
+    {
+      "timestamp": [1088.93, 1089.61],
+      "text": " The first is a very lazy way. It draws on a number we've already used to get risk-free rates."
+    },
+    {
+      "timestamp": [1093.95, 1151.01],
+      "text": " Remember to get a risk-free rate in Indian rupees. risk for Brazil, I start with the US premium, 5.94%. I'll talk about where I get that base premium and add on that extra default spread. Now, do you see what the double counting would kick in? If I'd left the government bond rate"
+    },
+    {
+      "timestamp": [1151.01, 1217.44],
+      "text": " as is intact with that default spread built in, We've got the US equity risk premium that goes with the US market. Let's say I want to get an equity risk premium for Brazil. What if I look up the standard deviation in Brazilian equities? Which leaves you a practical question."
+    },
+    { "timestamp": [1217.54, 1218.4], "text": " What are we using?" },
+    {
+      "timestamp": [1218.68, 1223.1],
+      "text": " Let's use the Bovespa, terribly constructed index, perhaps the worst constructed index"
+    },
+    {
+      "timestamp": [1223.1, 1225.9],
+      "text": " I've ever seen because it's a trade-weighted index."
+    },
+    {
+      "timestamp": [1226.8, 1227.72],
+      "text": " You know what trade-weighting is?"
+    },
+    {
+      "timestamp": [1273.85, 1278.35],
+      "text": " standard deviation, you are demanding a 5.94% equity risk premium. Brazil has a 30% standard deviation. What's the question I'm asking? What premium would you demand? I'm going to scale up"
+    },
+    {
+      "timestamp": [1278.35, 1286.99],
+      "text": " the 5.94%. Basically, I'm scaling up for relative equity market volatility. I come up with 9.9%"
+    },
+    {
+      "timestamp": [1286.99, 1352.77],
+      "text": " as my total equity risk premium for Brazil. And if you ask has to change, what has to happen? People have to trade in liquid markets. Costa Rica is like four and a half percent standard deviation. I still remember a Wall Street Journal article I read a long time ago about the Egyptian market and how trades were recorded. You know how they were recorded? There was a guy with a chalkboard, I'm not kidding you,"
+    },
+    {
+      "timestamp": [1353.05, 1358.07],
+      "text": " who stood in front of the exchange. And every time a trade happened, he would write the trade"
+    },
+    {
+      "timestamp": [1358.07, 1361.13],
+      "text": " in chalk on the board and he wouldn't fill up the board by the end of the day."
+    },
+    {
+      "timestamp": [1401.58, 1401.72],
+      "text": " and Brazil because of different liquidity."
+    },
+    {
+      "timestamp": [1403.76, 1404.42],
+      "text": " But maybe I can compare markets within Brazil."
+    },
+    {
+      "timestamp": [1405.82, 1407.2],
+      "text": " So I went to the first approach and I looked up the default spread."
+    },
+    { "timestamp": [1407.68, 1408.96], "text": " Remember 3.68%?" },
+    {
+      "timestamp": [1409.4, 1411.22],
+      "text": " And I looked up two standard deviations,"
+    },
+    {
+      "timestamp": [1411.28, 1412.32],
+      "text": " just like the second approach."
+    },
+    {
+      "timestamp": [1412.38, 1414.44],
+      "text": " But here are the standard deviations I looked up"
+    },
+    {
+      "timestamp": [1414.44, 1416.14],
+      "text": " were the standard deviation,"
+    },
+    {
+      "timestamp": [1416.28, 1417.5],
+      "text": " the Bovespa Brazilian equity,"
+    },
+    { "timestamp": [1417.84, 1419.22], "text": " and the standard deviation" },
+    {
+      "timestamp": [1419.22, 1421.06],
+      "text": " in the Brazilian government bond."
+    },
+    {
+      "timestamp": [1421.94, 1423.22],
+      "text": " Like a similar algebra problem."
+    },
+    {
+      "timestamp": [1423.78, 1425.18],
+      "text": " But the assumption I'm making is,"
+    },
+    { "timestamp": [1425.34, 1426.22], "text": " if one is a liquid," },
+    {
+      "timestamp": [1426.34, 1427.88],
+      "text": " the other is going to be a liquid as well."
+    },
+    {
+      "timestamp": [1428.48, 1484.67],
+      "text": " And I looked at the ratio. Thank you for letting me know. Okay, now it's shared, right?"
+    },
+    {
+      "timestamp": [1484.67, 1553.73],
+      "text": " You see the slide now Now, some of you might have got the link that I sent yesterday about my most recent data post on country risk. And essentially, the point I was trying to make is you can't hide from country risk anymore. When I first started teaching this class, a big chunk of the class was going to work"
+    },
+    {
+      "timestamp": [1553.73, 1556.65],
+      "text": " in New York for New York Investment Banks looking at US companies."
+    },
+    { "timestamp": [1556.65, 1557.45], "text": " This is 1986." },
+    {
+      "timestamp": [1558.99, 1618.0],
+      "text": " And the reaction is, why are we talking about country risk? So 25 years ago, I said, I need these numbers in our value companies. I'm going to estimate equity risk premiums by country. So I'll take you through the start of 2023. So you can see exactly where the numbers come from. I started the base premium for the US. I'll come back and talk about where the 5.94% comes from. It's not a historical premium."
+    },
+    {
+      "timestamp": [1618.88, 1621.14],
+      "text": " It's an updated forward-looking premium."
+    },
+    {
+      "timestamp": [1621.28, 1622.36],
+      "text": " I'll go through that process."
+    },
+    {
+      "timestamp": [1622.9, 1628.34],
+      "text": " Then I'll look up the sovereign ratings for every country that I can find a rating for."
+    },
+    {
+      "timestamp": [1671.29, 1671.63],
+      "text": " that goes with your rating. For those countries where there's a sovereign CDS, I can use that."
+    },
+    {
+      "timestamp": [1674.81, 1676.11],
+      "text": " But if I don't have that, I'm going to go with the rating-based spread."
+    },
+    {
+      "timestamp": [1681.11, 1686.89],
+      "text": " And then I'm going to multiply it. And rather than using each country's government bond and equity to get a ratio, I use one ratio. And I'll tell you why. There are only about 40 countries,"
+    },
+    {
+      "timestamp": [1686.89, 1691.15],
+      "text": " remember, that had government bonds. Only about seven or eight of those are liquid."
+    },
+    {
+      "timestamp": [1740.37, 1744.39],
+      "text": " 5.94% equity risk premium that I have for the US to come up with an equity risk premium for your country. And I'm going to do this for every country for which I can get a rating. Yes."
+    },
+    {
+      "timestamp": [1745.09, 1749.71],
+      "text": " When you're funding the CDS, you also remove the contracting costs."
+    },
+    {
+      "timestamp": [1750.13, 1755.11],
+      "text": " I remove the US portion of it. I use the net spread. So when you look at my equity risk premium"
+    },
+    {
+      "timestamp": [1755.11, 1817.4],
+      "text": " page, that's a number that you'll see playing out. It standard deviations. If we compare Pakistani equities to US equities, I'm going to get a very strange result because I'm comparing an illiquid market to a liquid market."
+    },
+    {
+      "timestamp": [1821.08, 1822.5],
+      "text": " So here's what the world looked like to me at the start of 2023."
+    },
+    {
+      "timestamp": [1883.35, 1888.77],
+      "text": " So essentially, I've broken down countries geographically. And don't jump down my throat risk premium that reflects a default spread times 1.41. So that's a total country risk premium. You add the red number to the 5.94%, you're going to come up with the equity risk premium by country. So let's take Latin America. It's the safest country in Latin America. This has been true for probably the last 20 years. It's chilly. It's riskier than it used to be,"
+    },
+    {
+      "timestamp": [1888.81, 1950.05],
+      "text": " but it still stays the safest country. But Latin America were coming on. I said, what the heck is happening here? How am I so popular in Lithuania? It turned out that for a while, the Lithuanian government, when it was considering privatization proposals, required people to use my equity risk premium."
+    },
+    {
+      "timestamp": [1951.53, 1952.43],
+      "text": " I didn't get any commissions from this."
+    },
+    { "timestamp": [1953.87, 1953.99], "text": " But I said, okay, good." },
+    {
+      "timestamp": [1955.65, 1956.29],
+      "text": " I'm being used in Lithuania."
+    },
+    {
+      "timestamp": [1959.09, 1961.01],
+      "text": " I remember getting an email from the New Zealand milk board. I don't know if there's a milk board, but no."
+    },
+    {
+      "timestamp": [1961.11, 2021.46],
+      "text": " How do you do those risk premiums? coming out of the oil and you don't have to borrow money. Nobody's worried about it. But if you're investing in equities in Saudi Arabia, I would argue that there are risks you worry about, right? Political risk, upheaval risk, that's not in the default spread. So I'm fully aware that by looking at default spread as my starting point, I might be missing pieces of"
+    },
+    {
+      "timestamp": [2021.46, 2084.55],
+      "text": " the puzzle. But here's the one thing it has equity risk premiums for them. There's services that measure"
+    },
+    {
+      "timestamp": [2084.55, 2089.53],
+      "text": " country risk scores. They don't do it for default. They just come up with country. One of the"
+    },
+    {
+      "timestamp": [2089.53, 2153.79],
+      "text": " services I use is called political risk services. But if you have a better way of estimating equity risk premiums for North Korea, I'd love to know what it is. And if your business is heavily, half in Syria, half in North Korea, God help you, but at least I can give you an equity risk premium number."
+    },
+    {
+      "timestamp": [2153.87, 2155.07],
+      "text": " I can't do much more than that."
+    },
+    {
+      "timestamp": [2202.2, 2202.32],
+      "text": " default spreads change and ratings change."
+    },
+    {
+      "timestamp": [2203.58, 2203.8],
+      "text": " Ratings don't change very often."
+    },
+    { "timestamp": [2204.96, 2205.02], "text": " Maybe like, you know," },
+    {
+      "timestamp": [2206.66, 2208.94],
+      "text": " you'd probably be underestimating the equity risk for Russia in 2021"
+    },
+    {
+      "timestamp": [2208.94, 2210.96],
+      "text": " if you use the start of the year,"
+    },
+    { "timestamp": [2211.6, 2213.02], "text": " because by March or April," },
+    {
+      "timestamp": [2213.02, 2214.2],
+      "text": " the whole thing was coming apart."
+    },
+    {
+      "timestamp": [2214.66, 2217.62],
+      "text": " But that's something that you have to think about."
+    },
+    {
+      "timestamp": [2217.66, 2219.74],
+      "text": " If you're investing in a country"
+    },
+    {
+      "timestamp": [2219.74, 2222.62],
+      "text": " where something massive has happened,"
+    },
+    {
+      "timestamp": [2223.46, 2224.96],
+      "text": " go get the sovereign CDS spread."
+    },
+    {
+      "timestamp": [2224.96, 2283.73],
+      "text": " What I do is replace my default spread Yes, market is a dollar, which creates a currency inconsistency. One way you can get around this is to get an equity risk premium in dollars, then scale it up for inflation. It's very simple, basically, because the only reason it should be different if you're doing things in rupees is this is on top of your risk free rate."
+    },
+    {
+      "timestamp": [2283.73, 2287.75],
+      "text": " So already your risk free rate will be much higher if you have a high inflation currency."
+    },
+    {
+      "timestamp": [2288.19, 2294.13],
+      "text": " And then you can scale up the premium even more to reflect the fact that you have 30 percent inflation to 3 percent."
+    },
+    {
+      "timestamp": [2335.01, 2336.01],
+      "text": " A lot of analysts seem to still follow."
+    },
+    {
+      "timestamp": [2340.79, 2340.91],
+      "text": " You look at where a company is incorporated, what country it's incorporated,"
+    },
+    {
+      "timestamp": [2342.99, 2343.69],
+      "text": " and give it the equity risk for that country."
+    },
+    {
+      "timestamp": [2344.95, 2344.97],
+      "text": " So you know what's going to happen here, right?"
+    },
+    {
+      "timestamp": [2347.41, 2347.85],
+      "text": " Every Indian company will get the Indian equity risk premium."
+    },
+    {
+      "timestamp": [2351.69, 2352.33],
+      "text": " Every U.S. company will get the U.S. equity risk premium."
+    },
+    {
+      "timestamp": [2354.19, 2356.17],
+      "text": " And to me, this is a recipe for disaster."
+    },
+    { "timestamp": [2356.57, 2356.95], "text": " Why?" },
+    {
+      "timestamp": [2417.88, 2418.22],
+      "text": " Because you can have an Indian company that gets weighted average of where you operate and multiply."
+    },
+    {
+      "timestamp": [2422.9, 2424.0],
+      "text": " Basically, you're assuming that beta measures your exposure to all other risk."
+    },
+    {
+      "timestamp": [2427.76, 2484.79],
+      "text": " Just as much to country risk as much as measures to all other risk. you mean where it does business? Well, where it makes its stuff, where it sells its stuff, where its distribution centers are located. Seems like the common sense thing to do. We can debate practically how to measure that, but that is my starting point. So let's take an example of how"
+    },
+    { "timestamp": [2484.79, 2552.41], "text": " I would compute that risk." },
+    {
+      "timestamp": [2552.45, 2553.77],
+      "text": " So I'll come back and talk about that."
+    },
+    {
+      "timestamp": [2554.11, 2557.23],
+      "text": " I'll talk about why I use revenues as my starting point."
+    },
+    {
+      "timestamp": [2557.33, 2558.77],
+      "text": " It's not because I love revenues."
+    },
+    {
+      "timestamp": [2559.39, 2561.59],
+      "text": " It's because desperation drives me there."
+    },
+    {
+      "timestamp": [2562.19, 2618.12],
+      "text": " You know what I mean, all bets are off because it's a US incorporated company,"
+    },
+    {
+      "timestamp": [2618.12, 2622.04],
+      "text": " but it gets its revenues from all over the world. Notice I've given up on countries here."
+    },
+    {
+      "timestamp": [2623.14, 2683.96],
+      "text": " It's by region. Coca-Cola actually doesn So Asia is going to be heavily weighted towards China and Japan. And that makes sense because you're in Asia, that's normal, and increasingly India. Latin America is going to be heavily"
+    },
+    {
+      "timestamp": [2683.96, 2751.71],
+      "text": " weighted towards Brazil. But those regional averages are what I use when I compute the this crap I couldn't care less about. Could we start by having a way of, no, at least describing where your revenues come from that I can use in valuation? European companies have a different problem. They actually break their revenues down into Europe"
+    },
+    {
+      "timestamp": [2751.71, 2755.35],
+      "text": " and one of the regions they report is EMEA."
+    },
+    { "timestamp": [2757.85, 2758.41], "text": " What?" },
+    { "timestamp": [2758.69, 2759.43], "text": " What is EMEA?" },
+    {
+      "timestamp": [2759.79, 2761.95],
+      "text": " Oh, it's Middle East and Africa."
+    },
+    {
+      "timestamp": [2762.13, 2762.99],
+      "text": " What the heck are you doing?"
+    },
+    {
+      "timestamp": [2806.34, 2811.5],
+      "text": " riskier companies and risky markets doubling up their risk because you're taking a risky market and you have a discretionary product so those are questions that can be examined i'm willing to open"
+    },
+    {
+      "timestamp": [2811.5, 2816.72],
+      "text": " the debate in fact i think it's worth debating should we be looking at things other than"
+    },
+    {
+      "timestamp": [2816.72, 2883.64],
+      "text": " revenues so let's take an example where revenues clearly should not be used 2015 i had to value and wherever else you got to go look for it. And the nice thing about oil companies is they do tell you where they get their oil. This is from Royal Dutch's financial statement. So I didn't need any private information sources. Right out of its annual report, they tell you where the oil and gas is produced."
+    },
+    {
+      "timestamp": [2883.88, 2887.3],
+      "text": " And I took a weighted average of the equity risk premiums"
+    },
+    { "timestamp": [2887.3, 2888.52], "text": " or where they got their oil." },
+    {
+      "timestamp": [2889.42, 2891.42],
+      "text": " The equity risk premium I ended up for Royal Dutch"
+    },
+    {
+      "timestamp": [2891.42, 2893.54],
+      "text": " looked like that of an emerging market company."
+    },
+    {
+      "timestamp": [2894.6, 2955.69],
+      "text": " Royal Dutch on the premise that what happens in countries"
+    },
+    {
+      "timestamp": [2955.69, 3023.36],
+      "text": " is uncorrelated, right? Or lightly correlated to hell in a handbasket. There's nothing you can do. But if you're a manufacturing company, it's difficult, but it's not impossible. So if any of you say, look, can I weight production 60% and revenues"
+    },
+    {
+      "timestamp": [3023.36, 3083.94],
+      "text": " 40%? Absolutely. I think it's a choice you have to make. And the growth story it wants to be. So you could argue that maybe I should be looking at all of the elements that look at it. And here are some of the things to look at. One is, does the company use any kind of risk management products to protect itself against"
+    },
+    {
+      "timestamp": [3083.94, 3088.38],
+      "text": " country risk? You can buy insurance against certain kinds of political risk. It's very expensive."
+    },
+    {
+      "timestamp": [3089.12, 3153.41],
+      "text": " But more critically, is the company viewed as country risk. And the two companies I was looking at were Embraer, which at that time was 100% Brazilian company, and Embraer, which at that time, as you could see, was about 3% in Brazil, 97% elsewhere. Long flight, I'm checking through my slides, I get to the slide where I have"
+    },
+    {
+      "timestamp": [3153.41, 3216.72],
+      "text": " cost of equity for both companies, I'm giving them both sky high cost of equity. Because in 2003, lambda less than one means you're less exposed you're saying why call it lambda because attaching a greek alphabet adds a layer of sophistication almost everything you do i could have called it l but you wouldn't have been as impressed right lambda so i land in brazil i fell asleep right"
+    },
+    {
+      "timestamp": [3216.72, 3221.28],
+      "text": " after i thought about that land in brazil i throw this idea out 300 brazilian people now"
+    },
+    {
+      "timestamp": [3221.28, 3288.78],
+      "text": " brazilians in the room i say what do you getting as revenues from that country, I have a way of scaling your revenue. So as an example, take two Indian companies, Tata Motors and Tata Consulting Services, both Indian companies, both part of the same family group."
+    },
+    {
+      "timestamp": [3289.38, 3294.92],
+      "text": " Tata Motors was getting 91% of its revenues in 2008, 2009 from India."
+    },
+    {
+      "timestamp": [3338.07, 3345.29],
+      "text": " Land Rover. The minute they acquired Jaguar Land Rover, you've essentially bought exposure in global markets. It brings your Lambda down. So it's simplistic, but it gives you at least"
+    },
+    {
+      "timestamp": [3345.29, 3352.67],
+      "text": " a starting point for Lambdas. But it's still based on revenues, right? So through the paper,"
+    },
+    {
+      "timestamp": [3352.79, 3357.45],
+      "text": " I wrestled with what can I use? I tried earnings. Terrible, right? Accountants smooth things out."
+    },
+    {
+      "timestamp": [3357.51, 3418.76],
+      "text": " It's very difficult to get a measure of it. So I latch on to I can find something that moves just because of country risk, and I run a regression of returns on my stock against that, maybe I can get a sense of what does the market think about my company's exposure to country risk. In 2004, here's what I used."
+    },
+    {
+      "timestamp": [3419.44, 3423.48],
+      "text": " I used what was called the C bond, which is a Brazilian dollar denominated bond."
+    },
+    {
+      "timestamp": [3423.54, 3426.18],
+      "text": " So it's a dollar denominated bond, so there's no currency effect."
+    },
+    {
+      "timestamp": [3472.56, 3472.72],
+      "text": " Let me cut to the chase. When I ran the regression, if I looked at Embraer, the slope I got was 0.27."
+    },
+    {
+      "timestamp": [3476.58, 3477.8],
+      "text": " For every 1% move in the seabourn, Embraer moved only 0.27."
+    },
+    {
+      "timestamp": [3481.1, 3481.88],
+      "text": " The market hit Embraer, but not very much."
+    },
+    {
+      "timestamp": [3488.48, 3492.72],
+      "text": " In contrast, if you look at the Embraer regression, for every 1% move in the market, Embraer moved 2%. Supremely exposed to Indian country risk."
+    },
+    {
+      "timestamp": [3540.21, 3545.61],
+      "text": " to estimate exposure to country risk, this is the most I'm consuming. And you can see why I would never use it for a multinational that's in nine countries or 11 countries, or God help me,"
+    },
+    {
+      "timestamp": [3545.83, 3550.65],
+      "text": " Coca-Cola with 72 countries. You know what I'd have to do, right? Estimate lamb desiccates each"
+    },
+    {
+      "timestamp": [3550.65, 3556.53],
+      "text": " of the countries. And I have more stuff to do in my valuation. This is not where I want to fight"
+    },
+    {
+      "timestamp": [3556.53, 3620.96],
+      "text": " my fight. So 95% of my companies, I'm going to use the weighted equity risk premium approach in and 17.79%. Those are approaches where I punish Embraer for being a Brazilian company, give it all of the risk of Brazil. The other three approaches, the only variants are, am I multiplying by a beta, a lambda, but they all give you roughly similar numbers, right? 9% to 11%, but you get two divergent set of numbers. If you treat Embraer as a Brazilian company,"
+    },
+    {
+      "timestamp": [3621.0, 3685.76],
+      "text": " you get much higher cost of equity. If you is using 18% as the discount rate to value companies. It's not right, but they're the ones pricing stocks. So here's my question. If you believe that they're wrong"
+    },
+    {
+      "timestamp": [3685.76, 3755.17],
+      "text": " in doing that, and you decide to invest based on that, you're going to be buying a lot of Embraer reports its earnings reports and they're coming out well. And you say, how the heck did that happen? Brazil is going through this catastrophic internal risk and Embraer, that's exactly what you're looking for. You're looking for reality to eventually come. You might have to wait a while for that to happen. I'll tell you what I've done this over the last 25 years."
+    },
+    {
+      "timestamp": [3755.27, 3816.92],
+      "text": " One of the strategies I've adopted is first not even looking at the stock. They're looking at each other. They all flee the market at the same time. They sell the good stuff, the bad stuff. There's your chance. They pull out your list. Next time that market is in a crisis, take the two companies. Vietnam is in a crisis, buy Vendor Milk."
+    },
+    {
+      "timestamp": [3817.68, 3819.04],
+      "text": " You don't even have to do a valuation."
+    },
+    {
+      "timestamp": [3819.18, 3820.98],
+      "text": " Just buy it on the presumption"
+    },
+    {
+      "timestamp": [3820.98, 3823.44],
+      "text": " that people are going to sell it indiscriminately."
+    },
+    {
+      "timestamp": [3825.04, 3827.72],
+      "text": " This is not an investment philosophies class,"
+    },
+    {
+      "timestamp": [3827.72, 3884.74],
+      "text": " but it's a class about taking advantage the discount rate. The way I describe discount rates is don't make them the receptacles for all your hopes and fears. I see too many analysts saying, how do I pump up? When in fact many of the things you worry about are cash flow effects. If you have a capricious regulator who basically changes"
+    },
+    { "timestamp": [3884.74, 3885.72], "text": " it, that's different." },
+    {
+      "timestamp": [3886.58, 3888.56],
+      "text": " But to the extent that regulation"
+    },
+    {
+      "timestamp": [3888.56, 3890.5],
+      "text": " causes costs, build them in, lower"
+    },
+    {
+      "timestamp": [3890.5, 3892.62],
+      "text": " margins, lower cash flows, no need to adjust"
+    },
+    {
+      "timestamp": [3892.62, 3893.66],
+      "text": " your discount rate for that."
+    },
+    {
+      "timestamp": [3935.61, 3936.07],
+      "text": " We call it a yield to maturity in a bond."
+    },
+    {
+      "timestamp": [3937.27, 3937.83],
+      "text": " What's a yield to maturity in a bond?"
+    },
+    {
+      "timestamp": [3938.87, 3938.97],
+      "text": " Takes the price of the bond,"
+    },
+    {
+      "timestamp": [3940.01, 3940.11],
+      "text": " takes the cash flows in the bond."
+    },
+    {
+      "timestamp": [3941.69, 3943.89],
+      "text": " You solve for that discard rate that makes the present value of your cash flows"
+    },
+    {
+      "timestamp": [3943.89, 3945.01],
+      "text": " equal to the price of the bond."
+    },
+    {
+      "timestamp": [3946.19, 3949.03],
+      "text": " I'm going to do something similar with the stock market."
+    },
+    {
+      "timestamp": [3949.61, 3951.69],
+      "text": " And I'll go back to the start of 2020"
+    },
+    { "timestamp": [3951.69, 3953.93], "text": " to get this ball rolling." },
+    {
+      "timestamp": [3954.21, 3956.33],
+      "text": " And I'm deliberately picking the start of 2020"
+    },
+    {
+      "timestamp": [3956.33, 3957.59],
+      "text": " because I want to make a point"
+    },
+    {
+      "timestamp": [3957.59, 3959.99],
+      "text": " about dynamic equity risk groups."
+    },
+    {
+      "timestamp": [4006.76, 4007.7],
+      "text": " They can take one of two forms. They can take the form of dividends, the old-fashioned way companies used to return cash or buybacks."
+    },
+    {
+      "timestamp": [4013.28, 4013.66],
+      "text": " Unlike a coupon, that number is not fixed, but I can tell you what it was in the most recent year. It was 150.5."
+    },
+    {
+      "timestamp": [4018.74, 4019.22],
+      "text": " I can even tell you what analysts collectively are expecting it to grow by for the next five years."
+    },
+    {
+      "timestamp": [4022.36, 4022.92],
+      "text": " The S&P 500 is the most tracked and followed index in the world."
+    },
+    {
+      "timestamp": [4027.24, 4086.74],
+      "text": " At the start of 2020, their projections92%. So basically, I have cash flows growing at 3.46% for the next five years, 1.92% beyond. I set up the equation. I know what you paid. There are my cash flows. I saw for, it's like"
+    },
+    {
+      "timestamp": [4086.74, 4151.53],
+      "text": " an internal rate of return for stocks, like a yield. Think of you don't remember that day, that was the day the Italian government found 200 people in Italy who had never been to China or on a cruise ship with COVID. We woke up to a nightmare, right? Remember what we said, shock hits. The only thing you have to"
+    },
+    {
+      "timestamp": [4151.53, 4156.55],
+      "text": " adjust is prices. It's not like cash flows are going to change overnight. So starting on February"
+    },
+    {
+      "timestamp": [4156.55, 4216.74],
+      "text": " 14th, I actually started estimating the equity risk premium everying in March, I had to use the 8% equity risk premium. Otherwise, I would be asking the wrong question. Is this stock undervalued? I'll be bringing in a market view. Implied equity risk premiums are forward-looking and dynamic."
+    },
+    {
+      "timestamp": [4218.56, 4218.6],
+      "text": " They reflect the world you're in,"
+    },
+    {
+      "timestamp": [4219.88, 4221.92],
+      "text": " not the world you wished you were in. If you're getting scared, I'll reflect that in your premium."
+    },
+    {
+      "timestamp": [4223.3, 4224.92],
+      "text": " And it's a premium that, as I said,"
+    },
+    { "timestamp": [4225.02, 4226.24], "text": " will change over time." },
+    { "timestamp": [4226.24, 4227.5], "text": " And at the start of 2023," },
+    {
+      "timestamp": [4275.56, 4281.56],
+      "text": " is 5.94%. And your total expected return is 9.82%. You said, well, is that a good premium or a bad premium? You're asking a question about the market itself, right? In fact, you often"
+    },
+    {
+      "timestamp": [4281.56, 4288.42],
+      "text": " wonder, is the market overvalued or undervalued? Is it in a bubble or is it busted? You can reframe"
+    },
+    {
+      "timestamp": [4288.42, 4293.4],
+      "text": " that question in terms of equity risk premiums. If markets are undervalued, stocks are undervalued,"
+    },
+    {
+      "timestamp": [4339.75, 4346.29],
+      "text": " 4.94%. Is it high? Is it low? Is it average? Take a look at the graph. If you go all the way back to 1960, the premium across the period has been about 4.21%. If I compare what I'm getting at"
+    },
+    {
+      "timestamp": [4346.29, 4351.55],
+      "text": " the start of 2023, I'm actually getting a much higher premium than what I'd have earned on"
+    },
+    {
+      "timestamp": [4351.55, 4356.47],
+      "text": " average. The world has changed. If you look at the last 20 years, it's true. The premium would"
+    },
+    {
+      "timestamp": [4356.47, 4417.54],
+      "text": " have gone up to 5%. It's still okay, 5.94 premiums go up, stock prices are going down. It's like bond interest rates and bond prices."
+    },
+    {
+      "timestamp": [4484.04, 4487.28],
+      "text": " 70s were an awful period. Great bull market, 78 through wrong. But if you take it and convert it into a standard error on my implied equity risk premium, the range I would get would be somewhere between 4.8 and 6.5%. If you download the spreadsheet, you can see my range. So with an implied premium, my range is 4.8 to 6.5%."
+    },
+    {
+      "timestamp": [4487.28, 4488.46],
+      "text": " Do you remember what the range was"
+    },
+    {
+      "timestamp": [4488.46, 4490.4],
+      "text": " when I used historical premiums?"
+    },
+    { "timestamp": [4490.76, 4491.44], "text": " One to nine?" },
+    { "timestamp": [4492.22, 4493.24], "text": " Of course I could be wrong." },
+    {
+      "timestamp": [4534.27, 4535.41],
+      "text": " And you know why we took it?"
+    },
+    {
+      "timestamp": [4536.69, 4537.77],
+      "text": " Where else were you going to go?"
+    },
+    {
+      "timestamp": [4541.29, 4541.41],
+      "text": " This is what low risk-free rates did for a decade."
+    },
+    {
+      "timestamp": [4543.05, 4543.61],
+      "text": " It said, you have no choice."
+    },
+    {
+      "timestamp": [4545.47, 4545.55],
+      "text": " You got to take 6% returns on stocks."
+    },
+    { "timestamp": [4545.97, 4546.07], "text": " And we did." },
+    {
+      "timestamp": [4547.85, 4550.19],
+      "text": " The cost of equity for US companies dropped to 5.5% to 6% last year"
+    },
+    {
+      "timestamp": [4550.19, 4551.93],
+      "text": " because you really had no choice."
+    },
+    {
+      "timestamp": [4554.03, 4557.33],
+      "text": " But 2022, for me, was a return to normalcy,"
+    },
+    { "timestamp": [4557.33, 4558.53], "text": " not an abnormal year," },
+    {
+      "timestamp": [4558.61, 4561.53],
+      "text": " because we're returning back to expected returns"
+    },
+    {
+      "timestamp": [4561.53, 4617.24],
+      "text": " we used to have. risk in the equity market, right? Is there a price of risk in the bond market or what do we call that price of risk? It's a default spread, right? So if I take BAA rated bonds and I look at the default spreads, the default spreads change over time. This graph I've actually taken the black line is"
+    },
+    {
+      "timestamp": [4617.24, 4622.54],
+      "text": " the BAA default. BAA is investment grade bonds. So these are actually pretty safe bonds. Default"
+    },
+    {
+      "timestamp": [4622.54, 4685.5],
+      "text": " spreads and bonds versus equity risk. Most of the time, the two move together. Why? Because people You know what we should have been doing, right? At the end of 99, taking all our money out of stocks and putting it into a corporate bond because we were getting a better risk reward trade-off. But we didn't. Then you get to 2001, you get 9-11."
+    },
+    {
+      "timestamp": [4689.54, 4689.74],
+      "text": " And in the months after 9-11, Alan Greenspan says,"
+    },
+    {
+      "timestamp": [4693.76, 4694.12],
+      "text": " I will not let the US economy go into recession."
+    },
+    {
+      "timestamp": [4751.27, 4754.99],
+      "text": " The hubris of central bankers. was the first market crisis, which was precipitated by what was happening in the bond market. People were lending money, not just to people without credit worthiness, but they were lending it without charging enough of a spread. You can lend to whoever you want if you charge a fair enough rate. And 2008, it caught up with all of them."
+    },
+    {
+      "timestamp": [4754.99, 4759.41],
+      "text": " Take a look at what happened to default spreads in 2008."
+    },
+    {
+      "timestamp": [4759.41, 4821.76],
+      "text": " That was the adjustment, and was it painful. income, you'll pay 10 million for the property. It's like a cost of equity in real estate. They never call it that, but that's what a cap rate is. If I subtract the risk-free rate from a cap rate, I get the real estate risk premium. And if you look at this graph, it looks very weird, right? If you look at the 1980s, it looks like the real estate equity risk premium is actually"
+    },
+    {
+      "timestamp": [4821.76, 4827.04],
+      "text": " negative. You're saying, well, why would I invest in real estate if I am earning a negative premium?"
+    },
+    {
+      "timestamp": [4875.48, 4879.56],
+      "text": " we we securitized it right starting with the 1980s luring area putting out mortgage-backed secure and you know what happens when you securitize an asset class it starts to behave"
+    },
+    {
+      "timestamp": [4879.56, 4886.32],
+      "text": " like a financial asset class and that's terrible news for all of us because you own a house you"
+    },
+    {
+      "timestamp": [4886.32, 4892.2],
+      "text": " have a lot of money in your pension fund you own some bonds you have a bad year on your pension"
+    },
+    {
+      "timestamp": [4892.2, 4896.3],
+      "text": " fund you look at your bond portfolio it's collapsed as well you say thank god i have my house"
+    }
+  ]
+}

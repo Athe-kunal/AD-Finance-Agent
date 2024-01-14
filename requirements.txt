@@ -5,3 +5,6 @@ moviepy
 #unstructured[pdf]
 wandb
 fire
+langchain
+chromadb
+sentence-transformers

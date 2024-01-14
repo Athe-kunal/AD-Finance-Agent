@@ -1,1 +1,1049 @@
-{"text": " yeah you know, the answer I hope to hear soon. How many of you have not picked a company to value yet? Okay. That's, you know, in fact, I'm surprised as many, you can start filling in the numbers. So let's talk about, so today we're going to start on the groundwork evaluation. And a few years ago, I wrote a post saying, if you have, just because you have a D and a CF doesn't mean you have a DCF. The reason I do that is people use this DCF as a cudgel. They're going to say, I did a DCF. And you're supposed to back off saying, oh, you did a DCF. That's great. You must know what you're doing. And the simplest way to separate the two is think about buying a house somewhere in the New York area. Unless you're a drug dealer, you have to borrow the money to buy the house, right? So you take a $1.6 million loan, you buy the house, let's say it's worth $2 million. If I ask you the minute after you bought the house, how much the house is worth, your answer is, I paid $2 million, I think that's what it's worth. And if you've heard it before, you're going to hear it again. If you're valuing the equity in a business, you've got to wear blinders. When I ask you, what are your cash flows? The cash flow you're going to estimate are cash flows to equity investors. What's left over after interest payments, after principal payments, after debt cash flows. And the discount rate you apply on those cash flows will be the rate of return you demand as an equity investor. equity capital and lenders who provide debt. It could be bondholders, it could be banks. When you're trying to value the business, you look at the collective cash flow that both players get out of the business. It's kind of counterintuitive, but I'm saying if you're an equity investor, you get cash flows equity. It could be dividends, it could be cash flows left over, but if you're lenders, you get cash flows as well, right? Interest payment, principal payments. The reason it's counterintuitive, if you're owner's a weighted average of what your equity investors and lenders want. It's a cost of capital. Cash flows the firm, discounted the cost of capital, gives you the value of the entire business. But I'm interested in buying shares in the company. You're right. You're interested in the equity. So to get from the value of the business to the equity value, what do I need to do? I need to subtract out, just like I because somebody's been doing valuation and has a name attached to them, that they're going to follow the first principles of valuation. So I'm going to go back in time and show you a valuation that was done. This is a real acquisition that was done in the late 70s. I almost never do case studies. forced Canaccord to divest themselves of the Peabody cold subsidiary. So they sold the subsidiary. They got $600 million in cash in return. Canaccord is about a $3 billion company. So the minute after they sold Peabody, they had a $600 million cash balance, and it terrified the management. So what were they afraid of? They were afraid that somebody would acquire them and use their own cash to kind of make the acquisition go through. So I have a lot of cash. Can you help me spend it, right? I mean, this is, if you think about it, it's silly. It's like walking into, is Bloomingdale's pay salespeople on commission? Let's say Bloomingdale's does. You walk in with $5,000 in cash and you wait and say, I have to spend this by this evening. You're going to have a lot of people surrounding you for the rest of the day, right? But in this case, Kennecott decided that that's what they were going to do. They went to First Boston at that time, said, we've done our due diligence. Two most dangerous words in business. I don't even know what that means. But your visions are bankers with eyes. I mean, basically, you think about 15 people working over the numbers. But in this case, they said, we've backed it up with a valuation, and you're going to get a bargain. And these were the cash flows that first Boston used to justify the car brand acquisition. I'm going to discount those cash flows that I just described here. So you've got Kennecott, the acquiring company that's going to come up with the money and their cost of equity and their cost of capital. You have Carborandum, the target company, the company you're acquiring, have their cost of equity and their cost of capital. After the acquisition, there will be a merge company and have a cost of equity and a cost of capital. So let's start with the easy question The target company's cost of equity, or maybe some weighted average of the two. What do you think? Target company, does everybody I want you to come up with the answer because this is something that you will have to fight the fight on, not just on this issue, but lots of discounted casual evaluations. I'll help you out when you do capital budgeting and you have a project. How do we come mismatched the discount rate to the cash flows, the rest is almost academic, right? Who cares what your growth rate is? You committed a cardinal sin. Confession is not going to do this for you, right? This is not one of the, I coveted my neighbor's Tesla kind of thing. It's like I make $150 million every year for the next 20 years. I should be using a low. This has nothing to do with being conservative. Don't assume that just because you're being conservative, your DCF is target company to be. Now, the cynical part of you is probably saying they must have known what they were doing, that they wanted to get the deal done. It might be the tip of the iceberg. Today we're going to start talking about currencies. You estimate your cash flows in rubles, your discount rate has to be in rubles. You estimate them in euros, your discount rate has to be in euros. Consistency is something that we're going to come back to over and over again. And this is the start of the process. Now I have to tell you who the two people who ran first Boston's M&A department in the late 70s were. I would have been a little bit more of a trap if I tried. But there's no justice in this world. You can do terrible things but you get deals done guess what you become a hero Bruce was his team was proud about the fact that he got deals done. And he succeeded at that level, but my point is often in valuations we look at the cash flows we look at the discount rate we don't ask that connecting question are the army knife of finance it shows up all over the place in different contexts and if you're not careful you can use it in the wrong context so we'll come back i did just one session in m&a because i don't think there's that much that's unique about m&a but we'll come back and talk about a little bit more about this context and you know what the dangers are of the architecture of DCFs has been created in the last century. In fact, the very first book that talks about discounted cash flow valuation is a book by John Williams, 1937. But were people estimating intrinsic value before 1937? I hope so. Intrinsic valuation predates DCF. So you don't need a DCF to do an intrinsic valuation, just a way of thinking, how much do I pay? of the expected cash flows on the asset. Well, you discount those expected cash flows at a risk-adjusted discount rate. So in the numerator, what do you have? Expected cash flows. At least in this utopian world, you're looking at every conceivable scenario, the expected cash flow should reflect. So there's no afterthought, right? Where after you've done evaluation, you say, oh, by the way, this could happen. It should be near expected cash flows. So in traditional DCF valuation, Complicated show. Here's how it goes. So you're a contestant. I'm Howie Mandel. I call you up on the stage. There are two suitcases on, and they're actually two suitcases actually designed that way. One suitcase has a million dollars, the other suitcase has nothing. And here's how the show goes. Howie Mandel comes in and says, you know what the expected cash flow in year one is 1.2 billion. What would you expect as a guaranteed cash flow, depending on how risk averse you are, you might say 800, 900 million, and you replace each of the expected cash flows with a guaranteed equivalent cash flow. If you do that, and it's a big if, you've now have cash flows that are in a class and you say, well, Warren Buffett values companies using a risk-free rate as a discount rate. Why are you using a risk-adjusted discount rate? And I said, look, go back and look at what he claims he's discounting because he never shows a full, but he does mention that he does, he counts only those earnings that he thinks are countable. He doesn't like speculative earnings. He doesn't like things that might or might not happen. In a sense, what's he doing? And the information you need to get a certain equivalent is exactly the same information you need to get a discount rate. And I'll take the well-trodden path over the lightly trodden path every single time. So what I'd like to do is actually use that present value equation. Now often, when I valued Adani two days ago or Tesla a couple of weeks ago to do. I want everybody to see what I have. I have a $20 bill. I'm going to put it into the envelope. There's nothing else there, right? My sleeves are all rolled up. I'm not David Copperfield. So you ready for the question? You saw me put $20 in there, right? How much should you pay for this envelope? That's what most people say. First rule in valuation. Interesting. So let's say it is a simple asset to value, right? So if I open it up to bidding, you know, sooner or later, I'm going to converge on $20. So let's say the envelope is now valued at $20 because there's $20 in. I'm going to add something to this envelope and I want you to tell me how much you'd pay for the envelope after I add it. What does it say? What's the word on there? them back none of them wanted to be there i put this envelope up one of the bankers decides he's going to be clever he says i'll be 25 you know what i did i sold him the envelope he complained i said now that it's your own money you feel the pain right because what did he do he paid five dollars for a three by five card that i stole from upstairs and wrote the word you know how much it cost me to write that absolutely nothing it's just a word you can see where this Because these words show up right after you valued a company and people want to pay more. Where's the control? What about synergy? How about ESG? But I'll give you two magic words. One that continues to work. As long as business has been around, this word's been the way in which you get the extra premium. The other used to work well, but to your valuation was a word that doesn't work as well anymore. Can you read this to the class? What is it saying? Sounds fancy, but here's what the proposition says. If it does not affect the cash flows and it does not affect risk, it cannot affect value. You say, what's it? You name it. Let's go back and review the words that I put into that envelope. Control. Forget about what bankers do in the 20% premium. What is the true value of control? What do you get to do when you have control? Anybody want to give that a try? What is exactly? company and that difference should be the value of control. You know how powerful that concept is? Because here are the implications. If you have a company that's already perfectly managed and perfectly run, what's the value of control? Zero. If you have a company that's abysmally managed and abysmally run, it could be 100%. Who makes up these rules of thumb of 20% and says that's the value of control? What's the value of synergy? brand name you ask me every company claims to have a brand name you know the power of a brand name is you get to charge a higher price for exactly the same product i know it sounds simplistic but if you want to see brand name at play walk into the duane reed at the end of the street walk into the paint killer aisle check out the bare aspirin that's still there's nothing there if a concept could be toxic and empty at the same time yes you've pulled it off but i'll tell you what led me to that place i heard all this talk from you know you've heard larry fink say country, it better not be China because that's cut off 30% of your market right there. That's why when the Russian invasion of Ukraine happened, a lot of ESG people were beating that. Just look, this is why we teach the Russians a lesson. We can debate that. Remember statistics, when you have too much uncertainty, it doesn't mean you cannot make estimates. It means your estimates come with more noise. If you let uncertainty be a reason for not valuing companies, I'll tell you exactly where you'll end up. You'll be valuing Kraft Tines and Coca-Cola over and over again for the rest of your life because you feel certain. This is one reason when Warren Buffett said, seen show up. Those of you don't remember MoviePass, it was a business that was started, but for $9.99 a month, you could watch as many movies and movie theaters as you wanted. movie a month. We're charging $99. The average theater in the U.S. charges only $6. You know, you can drown in a lake that has an average depth of only six inches. Averages can be extremely deceptive. But you know how stupid this argument is? Because it's not the average American who's buying movie pass. There's a selection by it. There. I'm valuing money, losing company. I expect to lose money forever. How much should I pay for the company? Come on, guys. No discounted cash flow model is needed here. So I'm going to call that the der proposition. If you have negative cash flows as far as the eye can see, just let it go. And if somebody insists you take it, they should be paying you. value adding, value destructive, or value neutral? What's going to determine that? Talking about the earnings, it's how much you put into those businesses, what you're going to get in return, earnings, cash flows, whatever. I mean, think of it like a project, right? When you take a positive net present value project, what happens? Your value, it goes up. So if you go into new businesses and you earn roughly your cost of capital, biotech, I heard, but what do they share in common? They're young companies. Could be infrastructure companies, could be biotech companies, could be social media companies. It's. The process itself is incredibly flexible. It's our discomfort that makes it rigid. If you insist that your cash flows have to be positive, if you insist that there's got to be more certainty in estimates, you are restricting yourself. But it's not the problem with the model. It's a problem with you and up with the value of the business. Should you be subtracting out only long-term debt? Should we be subtracting out total debt? Should we be subtracting out all liabilities? And on a balance sheet, you can see very different numbers, right? Total debt, about three years ago, 2019. So when I value firms, I treat leases as debt when I do cost of capital. And it's got mixed effects, right? You treat leases as debt, your cost of capital often go down because you're using more debt, which is a good thing, right? From a DCF, I get a bigger value for the business, but then I subtract our debt. I include leases as debt because if I counted it as debt when I did my cost of capital, I have to count it as debt when I subtract it out. questions. You're welcome to give me two different answers. Would you like to get the same value for your equity using both approaches? You're an investor, right? You just decide by... Imagine if the two approaches gave you different answers. What the heck are you going to do with it? Buy with an equity approach. I don't think when you go on Schwab online, it says, buy, did you use an equity approach? We'll credit you with firm. I also give you a cost of equity for this company, 13.625%. And I tell you that this firm, when it borrows money, has to pay 10% pre-tax. Now, if you've done corporate finance, you know why there's a distinction between pre-tax cost and after-tax cost. Much of the world interest is tax deductible. discount rate, I'm not pulling a first Boston. Now, of course, I could value the entire business, right? To value the business, what do I need? I need a cost of capital. To get a cost of capital, I take the cost of equity and the after-tax cost of debt, and I need weights for debt and equity. And the weights we tend to use in valuation tend to be market value weights. There's a circularity. I will come back and talk about that later in the class. get the same value, but I had to play some assumption games to get there. And this week's challenge is going to pose that issue of what it is that I'm assuming in this example that led me to the same answer. And it's not difficult. You start digging. So what am I assuming? But the reason I want you to do that is people do this without even thinking about it. They make implicit assumptions. And I want you to make those cash flows. But the problem is you have no idea what you're valuing, right? If you've used cash flows to the firm and you don't even know whether you're valuing firm or equity. I've seen people actually take cash flows from a firm discounted the cost of equity, gets so completely lost that they forget to subtract out the debt, in which case you massively overvalue equity. And if you subtract out the debt, you're going to undervalue equity. You got a risk-adjusted discount rate, you get a present value. But there's one mechanical detail that I still haven't tied up. If you remember the equation for the value of an asset, it said the present value, the expected cash flows over the life of the asset, right? So if you have a 10-year asset, you could produce the estimated cash flows for 10 years, 15-year asset. And here we run into a little bit of a estimation problem with publicly traded companies, at least in time. You've got to put closure. So I'm going to tell you when you can stop and what assumptions you have to make. And you're not going to like the assumption. You can stop estimating cash flows if you're willing to make an assumption. And the assumption has to be that beyond that point in time, your cash flows grow at a constant rate forever. Scary word, forever. You know what that buys you? but to do that what do you have to assume the cash flows grow at a constant rate forever now i'm going to say something that i get an amazing amount of pushback on and i'm surprised because this isn't a finance or an economics point it's a mathematical point which is when you talk about a growth rate forever that growth rate comes with a cap you know the cap is it cannot be greater than the cash flows for a period, five years, 10 years. There's a terminal value that kicks in only when you tell me your company is a mature company. My definition of a mature company is a special case of an equity valuation model. You take dividends, you discount them at the cost of equity, come up with a value of equity. But when you do that, what are you assuming? That companies pay out what they can afford to in dividends. Do they? Some might, but we know beyond any reasonable questioning that most cash flows left over after meeting all your debt needs and capex and working capital. And can we estimate that for a company? That's what's in the statement of cash flows, right? You give me a statement of cash flows, I can tell you potential dividend in like three or four minutes. This isn't rocket science. So the second approach to valuation is replace actual dividends with potential dividends, free cash flow to equity we haven't talked about the details. You ask me to value a company based on a dividend discount model, I get focused on dividends. I look at what they've paid as a percentage of earnings, as dividends and bets, called a payout ratio. And my entire forecasting is built around what more finesse to the game. In what sense? Remember when a company has a business it's in and has a cash balance, both generate income, right? The cash balance generates interest income. The business generates net income. So if you're doing free cash or equity valuation, you can say, look, I'm going to keep the cash separate. Why do I want to mess up my valuation with something that's easy to value? You take your non-cash net income, you have cross holdings, you have cash, you've got to bring that into the game because you can't just leave them to the side. going into S&P Capital IQ. It's a nag of if you haven't signed up yet, you know, get that access to Capital IQ. It's an amazing data resource. And I downloaded the data for the entire life of the company from 2002 through 2022. So it downloads all of the income statements, all of the, it's overkill, right? You're saying, what do I do with this? When you look at past data, and this is not just true for the Adani Group, but for your company you pick, unless it's helping me answer a question. And for those of you who read my Adani post, they're not a profitable company. Their margins are 3.6%. And it's not because they're a young growth company. It's because they're in an infrastructure business. You're in ports, you're in airports. You have transmission lines. These are not 50% margin businesses. These are 5%, 6%, 7% margin businesses. So they're fast growth, but their profitability is lagging. of the sector look like? If you're a company making 3.6 margins in a sector where everybody else makes 30% margins, I'm going to stop and ask, well, is there hope here? Could you go to 30% margins? Is it economies of scale that are going to kick in? So you look at your company, you look at the industry, and then after you're done, you've got to leave your safe spot. Because right up to then, it's all about looking at the past. You can always blame the accountants. But if you're forecasting the future, guess what? You have to make your best estimates. into play but have only so much room to run and will they need to reinvest to get this growth absolutely so i had to build in a reinvestment that reflect that so when you're forecasting the future you're taking what you learn from the past and you're trying to make your best estimates for the future and trust me you're going to be uncomfortable you should be right because you're trying to play god saying how do you know about the company, the market, the competition. You have to forecast margins. Again, bring in what you know about the company, the margins, the competition. And then you've got to forecast how much you need to reinvest to get that revenue. And I'll give you metrics you can use to make that judgment, but I want you to think big picture. because the wall is further away. You have a billion people, the wall is further away. When you value a Zomato, you have more potential than when you value a European food delivery company because you've got a billion people ordering food. They're not doing it right now, mostly because many of them can't afford to do it. Your potential market gets much bigger. But I want you to remember the reason we look at the past is not because we like to compute ratios of the past, because you could do that, right? You've seen people do financial analysis, by about 2.5% to 3% in the last year, even if nothing has changed. Why? Because the T-bond rate, the base has gone up. So you have to come up with risk-free rates. But you also have to come up with default spreads, which might increase or decrease depending on how risky your company is. Your discount rates have to reflect the world you're in now, not some version of the world you'd like to be in. So you can't normalize things and make your company look, put yourself in a macro environment that you feel more comfortable in, because this is the environment you're in. So if Twitter is going to go from being an ad-based company to a subscription-based company, I'm not saying that's the transition they're going to make. You can have 50 years of history of their ad-based businesses. But to make your forecast, you're going to be looking at subscription-based business. Remember, we talked about industry averages. So when companies make transitions, historical data will get weighted less in your forecast. And the businesses they're going to go in are going to play a much bigger role in estimating growth and margins and everything else. model to people who didn't own Pelotons, and that became the fastest growing part of the business. Let's say, looking forward, you think the subscription portion of the business is going to expand and the equipment part is going to shrink and go away. You don't want to weight historical data too much because it reflects a different business model. So I think that when you have transitions, it just means that you have fewer crutches. You can't use past data and extrapolate. And that's good to know, company, if I don't bring in the expectation, something like a pandemic could shut me down, then I'm being imprudent. So I think you can only estimate what you can. And when there's something you cannot estimate, you can cut in both directions. You just basically have to say, look, that's risk out of my hands. I'm going to charge a higher discount rate up front for that risk. and you're going to see this play out. You estimate your cash flows in dollars, your discount rate has to be in dollars. And in the process, I'm also going to talk about the possibility that you could value a company in real terms. What does that mean? You basically estimate cash flows without inflation in them and you estimate a discount rate that doesn't have inflation in it. It's called a real valuation. So let's step back. In all of this, what are we trying to do? We have expected cash flows in the numerator and we risk adjusted discount rate at the denominator. That's the price that equity investors are charging for investing in equities. We call it an equity risk premium. We can talk about estimation challenges you face in coming up with that risk premium, but that's the price of risk in the market. Risk-free rate, equity risk premium have nothing to do with your company. But then I ask you, is your company riskier than average or safer? I'm asking a question about relative risk, and that's going to depend on your business model, right? You sell discretionary stuff, you're riskier than if you sell non-discretionary stuff. start every conceivable thing that you're uncertain about. And I'll tell you upfront, it's going to be a very long list, right? In fact, if you try to list the things you're certain about, I don't think there's even a single item on that list. What do you feel certain about? You know, the T bond rate today, but it could be different tomorrow, right? And after you've made this list, here's something I find cathartic, but actually is very healthy in valuation. I'm trying to tell you is, when it's economic uncertainty, working more, collecting more data, doing more research is not going to make that uncertainty go away. And here's the bad news. 90% of the uncertainty you face when valuing most companies is economic uncertainty. There's a point, I call this the k people switch to electric cars? What are the regulations going to look like? In contrast, when you value Adani, there's a lot of macro uncertainty in this process. How quickly will India grow? How much will infrastructure investment look like? You're saying, who cares? Macro uncertainty shows up in your discount rate. Micro uncertainty does not. Next session, we'll talk about why micro uncertainties. So you can be very uncertain about who followed Elon Musk, but when they do, can change the entire landscape. So I'm going to leave you with that because on Wednesday, we're going to talk about how you bring risk into your valuation is going to be determined not by what you think about a company, but what marginal investors in the company think about the company. Sounds counterintuitive, but I'll start with that because that's going to give us the basis for every risk and return model.", "chunks": [{"timestamp": [0.0, 12.0], "text": " yeah"}, {"timestamp": [150.49, 151.03], "text": " you know, the answer I hope to hear soon."}, {"timestamp": [154.43, 155.91], "text": " How many of you have not picked a company to value yet?"}, {"timestamp": [156.39, 157.63], "text": " Okay."}, {"timestamp": [159.57, 221.06], "text": " That's, you know, in fact, I'm surprised as many, you can start filling in the numbers. So let's talk about, so today we're going to start on the groundwork evaluation. And a few years ago, I wrote a post saying, if you have, just because you have a D and a CF doesn't mean you have a DCF. The reason I do"}, {"timestamp": [221.06, 225.3], "text": " that is people use this DCF as a cudgel. They're going to say, I did a DCF. And you're supposed to"}, {"timestamp": [225.3, 284.01], "text": " back off saying, oh, you did a DCF. That's great. You must know what you're doing. And the simplest way to separate the two is think about buying a house somewhere in the New York area. Unless you're a drug dealer, you have to borrow the money to buy the house, right? So you take a $1.6 million loan, you buy the house, let's say it's worth $2 million."}, {"timestamp": [289.97, 350.55], "text": " If I ask you the minute after you bought the house, how much the house is worth, your answer is, I paid $2 million, I think that's what it's worth. And if you've heard it before, you're going to hear it again. If you're valuing the equity in a business, you've got to wear blinders. When I ask you, what are your cash flows? The cash flow you're going to estimate are cash flows to equity investors. What's left over after interest payments,"}, {"timestamp": [350.65, 351.65], "text": " after principal payments,"}, {"timestamp": [351.73, 352.79], "text": " after debt cash flows."}, {"timestamp": [354.31, 357.27], "text": " And the discount rate you apply on those cash flows"}, {"timestamp": [357.27, 359.85], "text": " will be the rate of return you demand"}, {"timestamp": [359.85, 361.21], "text": " as an equity investor."}, {"timestamp": [405.12, 406.54], "text": " equity capital and lenders who provide debt. It could be bondholders, it could be banks."}, {"timestamp": [410.96, 415.08], "text": " When you're trying to value the business, you look at the collective cash flow that both players get out of the business. It's kind of counterintuitive, but I'm saying if you're an"}, {"timestamp": [415.08, 418.36], "text": " equity investor, you get cash flows equity. It could be dividends, it could be cash flows left"}, {"timestamp": [418.36, 423.08], "text": " over, but if you're lenders, you get cash flows as well, right? Interest payment, principal payments."}, {"timestamp": [423.68, 484.09], "text": " The reason it's counterintuitive, if you're owner's a weighted average of what your equity investors and lenders want. It's a cost of capital. Cash flows the firm, discounted the cost of capital, gives you the value of the entire business."}, {"timestamp": [487.99, 488.17], "text": " But I'm interested in buying shares in the company. You're right. You're interested in the equity."}, {"timestamp": [491.43, 491.47], "text": " So to get from the value of the business to the equity value, what do I need to do?"}, {"timestamp": [495.47, 555.29], "text": " I need to subtract out, just like I because somebody's been doing valuation and has a name attached to them, that they're going to follow the first principles of valuation. So I'm going to go back in time and show you a valuation that was done."}, {"timestamp": [555.37, 558.05], "text": " This is a real acquisition that was done in the late 70s."}, {"timestamp": [558.27, 559.89], "text": " I almost never do case studies."}, {"timestamp": [605.46, 605.58], "text": " forced Canaccord to divest themselves of the Peabody cold subsidiary."}, {"timestamp": [606.78, 606.9], "text": " So they sold the subsidiary."}, {"timestamp": [610.26, 611.18], "text": " They got $600 million in cash in return."}, {"timestamp": [612.96, 617.36], "text": " Canaccord is about a $3 billion company. So the minute after they sold Peabody, they had a $600 million cash balance,"}, {"timestamp": [617.7, 619.98], "text": " and it terrified the management."}, {"timestamp": [620.12, 621.18], "text": " So what were they afraid of?"}, {"timestamp": [621.62, 624.94], "text": " They were afraid that somebody would acquire them and use their own cash"}, {"timestamp": [624.94, 627.52], "text": " to kind of make the acquisition go through."}, {"timestamp": [628.66, 684.55], "text": " So I have a lot of cash. Can you help me spend it, right? I mean, this is, if you think about it, it's silly. It's like walking into, is Bloomingdale's pay salespeople on commission? Let's say Bloomingdale's does. You walk in with $5,000 in cash and you wait and say, I have to spend this by this evening. You're going to have a lot of people surrounding you"}, {"timestamp": [684.55, 685.51], "text": " for the rest of the day, right?"}, {"timestamp": [687.33, 688.25], "text": " But in this case,"}, {"timestamp": [688.39, 690.53], "text": " Kennecott decided that that's what they were going to do."}, {"timestamp": [691.43, 754.73], "text": " They went to First Boston at that time, said, we've done our due diligence. Two most dangerous words in business. I don't even know what that means. But your visions are bankers with eyes. I mean, basically, you think about 15 people working over the numbers. But in this case, they said, we've backed it up with a valuation, and you're going to get a bargain. And these were the cash flows that first Boston used"}, {"timestamp": [754.73, 817.58], "text": " to justify the car brand acquisition. I'm going to discount those cash flows that I just described here. So you've got Kennecott, the acquiring company that's going to come up with the money and their cost of equity and their cost of capital. You have Carborandum, the target company, the company you're acquiring, have their cost of equity and their cost of capital."}, {"timestamp": [818.4, 822.4], "text": " After the acquisition, there will be a merge company and have a cost of equity and a cost of"}, {"timestamp": [822.4, 887.09], "text": " capital. So let's start with the easy question The target company's cost of equity, or maybe some weighted average of the two."}, {"timestamp": [888.69, 950.53], "text": " What do you think? Target company, does everybody I want you to come up with the answer because this is something that you will have to fight the fight on, not just on this issue,"}, {"timestamp": [950.53, 957.17], "text": " but lots of discounted casual evaluations. I'll help you out when you do capital budgeting and"}, {"timestamp": [957.17, 1022.06], "text": " you have a project. How do we come mismatched the discount rate to the cash flows, the rest is almost academic, right? Who cares what your growth rate is? You committed a cardinal sin. Confession is not going to do this for you, right? This is not one of the, I coveted my"}, {"timestamp": [1022.06, 1086.95], "text": " neighbor's Tesla kind of thing. It's like I make $150 million every year for the next 20 years. I should be using a low. This has nothing to do with being conservative. Don't assume that just"}, {"timestamp": [1086.95, 1155.49], "text": " because you're being conservative, your DCF is target company to be. Now, the cynical part of you is probably saying they must have known what they were doing,"}, {"timestamp": [1155.57, 1220.54], "text": " that they wanted to get the deal done. It might be the tip of the iceberg. Today we're going to start talking about currencies. You estimate your cash flows in rubles, your discount rate has to be in rubles. You estimate them in euros, your discount rate has to be in euros. Consistency is something that we're going to come back to over and over again. And this is the start of the process."}, {"timestamp": [1222.82, 1284.75], "text": " Now I have to tell you who the two people who ran first Boston's M&A department in the late 70s were. I would have been a little bit more of a trap if I tried. But there's no justice in this world. You can do terrible things but you get deals done guess what you become a hero Bruce was his team was proud about the fact that he got deals done. And he succeeded at that level,"}, {"timestamp": [1284.75, 1286.79], "text": " but my point is often in"}, {"timestamp": [1286.79, 1288.79], "text": " valuations we look at the cash"}, {"timestamp": [1288.79, 1290.79], "text": " flows we look at the discount"}, {"timestamp": [1290.79, 1292.83], "text": " rate we don't ask that"}, {"timestamp": [1292.83, 1352.03], "text": " connecting question are the army knife of finance it shows up all over the place in different contexts and if you're not careful you can use it in the wrong context so we'll come back i did just one session in m&a because i don't think there's that much that's unique about m&a but we'll come back and talk"}, {"timestamp": [1352.03, 1424.04], "text": " about a little bit more about this context and you know what the dangers are of the architecture of DCFs has been created in the last century. In fact, the very first book that talks about discounted cash flow valuation is a book by John Williams, 1937. But were people estimating intrinsic value before 1937? I hope so. Intrinsic valuation predates DCF. So you don't"}, {"timestamp": [1424.04, 1428.1], "text": " need a DCF to do an intrinsic valuation, just a way of thinking, how much do I pay?"}, {"timestamp": [1470.07, 1471.57], "text": " of the expected cash flows on the asset."}, {"timestamp": [1473.51, 1475.13], "text": " Well, you discount those expected cash flows at a risk-adjusted discount rate."}, {"timestamp": [1475.67, 1476.89], "text": " So in the numerator, what do you have?"}, {"timestamp": [1477.39, 1478.33], "text": " Expected cash flows."}, {"timestamp": [1478.57, 1480.67], "text": " At least in this utopian world,"}, {"timestamp": [1480.91, 1483.03], "text": " you're looking at every conceivable scenario,"}, {"timestamp": [1483.43, 1485.13], "text": " the expected cash flow should reflect."}, {"timestamp": [1485.33, 1487.05], "text": " So there's no afterthought, right?"}, {"timestamp": [1487.11, 1488.83], "text": " Where after you've done evaluation, you say,"}, {"timestamp": [1489.03, 1490.45], "text": " oh, by the way, this could happen."}, {"timestamp": [1490.51, 1492.23], "text": " It should be near expected cash flows."}, {"timestamp": [1493.09, 1494.63], "text": " So in traditional DCF valuation,"}, {"timestamp": [1548.41, 1550.79], "text": " Complicated show. Here's how it goes. So you're a contestant. I'm Howie Mandel. I call you up on the stage. There are two suitcases on, and they're actually two suitcases actually designed that way. One suitcase has a million dollars, the other suitcase has nothing."}, {"timestamp": [1557.61, 1621.66], "text": " And here's how the show goes. Howie Mandel comes in and says, you know what the expected cash flow in year one is 1.2 billion. What would you expect as a guaranteed cash flow, depending on how risk averse you are, you might say 800, 900 million, and you replace each of the expected cash flows with a guaranteed equivalent cash flow. If you do that, and it's"}, {"timestamp": [1621.66, 1687.31], "text": " a big if, you've now have cash flows that are in a class and you say, well, Warren Buffett values companies using a risk-free rate as a discount rate. Why are you using a risk-adjusted discount rate? And I said, look, go back and look at what he claims he's discounting because he never shows a full, but he does mention that he does, he counts only those earnings that he thinks are countable."}, {"timestamp": [1687.71, 1694.07], "text": " He doesn't like speculative earnings. He doesn't like things that might or might not happen. In a sense, what's he doing?"}, {"timestamp": [1739.21, 1739.73], "text": " And the information you need to get a certain equivalent is exactly the same information you need to get a discount rate."}, {"timestamp": [1744.73, 1745.75], "text": " And I'll take the well-trodden path over the lightly trodden path every single time."}, {"timestamp": [1749.53, 1750.47], "text": " So what I'd like to do is actually use that present value equation."}, {"timestamp": [1760.39, 1816.7], "text": " Now often, when I valued Adani two days ago or Tesla a couple of weeks ago to do. I want everybody to see what I have. I have a $20 bill. I'm going to put it into the envelope. There's nothing else there, right? My sleeves are all rolled up."}, {"timestamp": [1817.86, 1818.2], "text": " I'm not David Copperfield."}, {"timestamp": [1820.9, 1821.54], "text": " So you ready for the question?"}, {"timestamp": [1823.48, 1824.68], "text": " You saw me put $20 in there, right? How much should you pay for this envelope?"}, {"timestamp": [1825.96, 1827.32], "text": " That's what most people say."}, {"timestamp": [1827.48, 1828.9], "text": " First rule in valuation."}, {"timestamp": [1871.59, 1871.77], "text": " Interesting. So let's say it is a simple asset to value, right? So if I open it up to bidding,"}, {"timestamp": [1875.93, 1881.95], "text": " you know, sooner or later, I'm going to converge on $20. So let's say the envelope is now valued at $20 because there's $20 in. I'm going to add something to this envelope and I want you to tell"}, {"timestamp": [1881.95, 1889.19], "text": " me how much you'd pay for the envelope after I add it. What does it say? What's the word on there?"}, {"timestamp": [1938.63, 1943.39], "text": " them back none of them wanted to be there i put this envelope up one of the bankers decides he's going to be clever he says i'll be 25 you know what i did i sold him the envelope"}, {"timestamp": [1943.39, 1951.85], "text": " he complained i said now that it's your own money you feel the pain right because what did he do he"}, {"timestamp": [1951.85, 1956.97], "text": " paid five dollars for a three by five card that i stole from upstairs and wrote the word you know"}, {"timestamp": [1956.97, 2018.46], "text": " how much it cost me to write that absolutely nothing it's just a word you can see where this Because these words show up right after you valued a company and people want to pay more. Where's the control? What about synergy? How about ESG? But I'll give you two magic words. One that continues to work."}, {"timestamp": [2018.54, 2022.24], "text": " As long as business has been around, this word's been the way in which you get the extra"}, {"timestamp": [2022.24, 2022.66], "text": " premium."}, {"timestamp": [2022.82, 2090.39], "text": " The other used to work well, but to your valuation was a word that doesn't work as well anymore. Can you read this to the class? What is it saying?"}, {"timestamp": [2141.91, 2142.95], "text": " Sounds fancy, but here's what the proposition says. If it does not affect the cash flows and it does not affect risk, it cannot affect value."}, {"timestamp": [2148.43, 2149.71], "text": " You say, what's it? You name it. Let's go back and review the words that I put into that envelope."}, {"timestamp": [2155.79, 2161.79], "text": " Control. Forget about what bankers do in the 20% premium. What is the true value of control? What do you get to do when you have control? Anybody want to give that a try? What is exactly?"}, {"timestamp": [2204.6, 2205.2], "text": " company and that difference should be the value of control. You know how powerful that concept is?"}, {"timestamp": [2208.92, 2215.98], "text": " Because here are the implications. If you have a company that's already perfectly managed and perfectly run, what's the value of control? Zero. If you have a company that's abysmally managed"}, {"timestamp": [2215.98, 2221.92], "text": " and abysmally run, it could be 100%. Who makes up these rules of thumb of 20% and says that's"}, {"timestamp": [2221.92, 2284.09], "text": " the value of control? What's the value of synergy? brand name you ask me every company claims to have a brand name you know the power of a brand name is you get to charge a higher price for exactly the same product i know it sounds simplistic but if you want to see brand"}, {"timestamp": [2284.09, 2289.89], "text": " name at play walk into the duane reed at the end of the street walk into the paint killer aisle"}, {"timestamp": [2289.89, 2352.57], "text": " check out the bare aspirin that's still there's nothing there if a concept could be toxic and empty at the same time yes you've pulled it off but i'll tell you what led me to that place i heard all this talk from"}, {"timestamp": [2352.57, 2417.5], "text": " you know you've heard larry fink say country, it better not be China because that's cut off 30% of your market right there."}, {"timestamp": [2418.34, 2419.48], "text": " That's why when the"}, {"timestamp": [2419.48, 2421.9], "text": " Russian invasion of Ukraine happened,"}, {"timestamp": [2421.9, 2423.4], "text": " a lot of ESG people were beating that."}, {"timestamp": [2423.5, 2424.7], "text": " Just look, this is why"}, {"timestamp": [2424.7, 2427.08], "text": " we teach the Russians a lesson."}, {"timestamp": [2427.5, 2486.67], "text": " We can debate that. Remember statistics, when you have too much uncertainty, it doesn't mean you cannot make estimates. It means your estimates come with more noise. If you let uncertainty be a reason for not valuing companies, I'll tell you exactly where you'll end up. You'll be valuing Kraft Tines and Coca-Cola over and over again for the rest of your life because you feel certain."}, {"timestamp": [2486.67, 2550.19], "text": " This is one reason when Warren Buffett said, seen show up. Those of you don't remember MoviePass, it was a business that"}, {"timestamp": [2550.19, 2557.31], "text": " was started, but for $9.99 a month, you could watch as many movies and movie theaters as you wanted."}, {"timestamp": [2609.06, 2609.12], "text": " movie a month. We're charging $99. The average theater in the U.S. charges only $6. You know,"}, {"timestamp": [2615.58, 2621.6], "text": " you can drown in a lake that has an average depth of only six inches. Averages can be extremely deceptive. But you know how stupid this argument is? Because it's not the average American who's"}, {"timestamp": [2621.6, 2684.08], "text": " buying movie pass. There's a selection by it. There. I'm valuing money, losing company. I expect to lose money forever. How much should I pay for the company? Come on, guys. No discounted cash flow model is needed here. So I'm going to call that the der proposition."}, {"timestamp": [2685.32, 2688.82], "text": " If you have negative cash flows as far as the eye can see, just let it go."}, {"timestamp": [2690.08, 2692.76], "text": " And if somebody insists you take it, they should be paying you."}, {"timestamp": [2738.11, 2741.39], "text": " value adding, value destructive, or value neutral? What's going to determine that?"}, {"timestamp": [2745.51, 2750.57], "text": " Talking about the earnings, it's how much you put into those businesses, what you're going to get in return, earnings, cash flows, whatever. I mean, think of it like a project, right? When you take a"}, {"timestamp": [2750.57, 2755.39], "text": " positive net present value project, what happens? Your value, it goes up. So if you go into new"}, {"timestamp": [2755.39, 2818.24], "text": " businesses and you earn roughly your cost of capital, biotech, I heard, but what do they share in"}, {"timestamp": [2818.24, 2822.02], "text": " common? They're young companies. Could be infrastructure companies, could be biotech"}, {"timestamp": [2822.02, 2886.16], "text": " companies, could be social media companies. It's. The process itself is incredibly flexible. It's our discomfort that makes it rigid. If you insist that your cash flows have to be positive,"}, {"timestamp": [2886.16, 2888.32], "text": " if you insist that there's got to be more certainty"}, {"timestamp": [2888.32, 2890.88], "text": " in estimates, you are restricting yourself."}, {"timestamp": [2890.88, 2892.4], "text": " But it's not the problem with the model."}, {"timestamp": [2892.4, 2956.23], "text": " It's a problem with you and up with the value of the business. Should you be subtracting out only long-term debt? Should we be subtracting out total debt? Should we be subtracting out all"}, {"timestamp": [2956.23, 2959.25], "text": " liabilities? And on a balance sheet, you can see very different numbers, right? Total debt,"}, {"timestamp": [3001.64, 3002.84], "text": " about three years ago, 2019."}, {"timestamp": [3004.06, 3004.44], "text": " So when I value firms,"}, {"timestamp": [3007.28, 3008.54], "text": " I treat leases as debt when I do cost of capital."}, {"timestamp": [3010.08, 3010.12], "text": " And it's got mixed effects, right?"}, {"timestamp": [3011.18, 3011.24], "text": " You treat leases as debt,"}, {"timestamp": [3012.6, 3013.64], "text": " your cost of capital often go down because you're using more debt,"}, {"timestamp": [3013.7, 3014.64], "text": " which is a good thing, right?"}, {"timestamp": [3014.66, 3017.32], "text": " From a DCF, I get a bigger value for the business,"}, {"timestamp": [3017.32, 3019.16], "text": " but then I subtract our debt."}, {"timestamp": [3020.0, 3021.38], "text": " I include leases as debt"}, {"timestamp": [3021.38, 3023.24], "text": " because if I counted it as debt"}, {"timestamp": [3023.24, 3024.38], "text": " when I did my cost of capital,"}, {"timestamp": [3024.5, 3026.92], "text": " I have to count it as debt when I subtract it out."}, {"timestamp": [3072.6, 3081.2], "text": " questions. You're welcome to give me two different answers. Would you like to get the same value for your equity using both approaches? You're an investor, right? You just decide by... Imagine"}, {"timestamp": [3081.2, 3084.42], "text": " if the two approaches gave you different answers. What the heck are you going to do with it?"}, {"timestamp": [3085.02, 3090.4], "text": " Buy with an equity approach. I don't think when you go on Schwab online, it says, buy,"}, {"timestamp": [3090.5, 3155.03], "text": " did you use an equity approach? We'll credit you with firm. I also give you a cost of equity for this company, 13.625%. And I tell you that this firm, when it borrows money, has to pay 10% pre-tax. Now, if you've done corporate finance, you know why there's a distinction between pre-tax cost and after-tax cost."}, {"timestamp": [3155.19, 3157.51], "text": " Much of the world interest is tax deductible."}, {"timestamp": [3208.78, 3208.88], "text": " discount rate, I'm not pulling a first Boston. Now, of course, I could value the entire business,"}, {"timestamp": [3213.1, 3217.9], "text": " right? To value the business, what do I need? I need a cost of capital. To get a cost of capital, I take the cost of equity and the after-tax cost of debt, and I need weights for debt and equity."}, {"timestamp": [3219.06, 3222.76], "text": " And the weights we tend to use in valuation tend to be market value weights."}, {"timestamp": [3223.66, 3226.74], "text": " There's a circularity. I will come back and talk about that later in the class."}, {"timestamp": [3273.22, 3278.4], "text": " get the same value, but I had to play some assumption games to get there. And this week's challenge is going to pose that issue of what it is that I'm assuming in this example that led me"}, {"timestamp": [3278.4, 3284.54], "text": " to the same answer. And it's not difficult. You start digging. So what am I assuming? But the"}, {"timestamp": [3284.54, 3288.66], "text": " reason I want you to do that is people do this without even thinking about it. They make implicit"}, {"timestamp": [3288.66, 3350.01], "text": " assumptions. And I want you to make those cash flows. But the problem is you have no idea what you're valuing, right? If you've used cash flows to the firm and you don't even know whether you're valuing firm or equity. I've seen people actually take cash flows from a firm discounted the cost of equity,"}, {"timestamp": [3351.17, 3353.21], "text": " gets so completely lost that they forget"}, {"timestamp": [3353.21, 3354.35], "text": " to subtract out the debt,"}, {"timestamp": [3354.47, 3357.17], "text": " in which case you massively overvalue equity."}, {"timestamp": [3357.25, 3358.67], "text": " And if you subtract out the debt,"}, {"timestamp": [3359.15, 3360.49], "text": " you're going to undervalue equity."}, {"timestamp": [3402.18, 3402.2], "text": " You got a risk-adjusted discount rate,"}, {"timestamp": [3402.92, 3403.64], "text": " you get a present value."}, {"timestamp": [3405.82, 3408.58], "text": " But there's one mechanical detail that I still haven't tied up."}, {"timestamp": [3408.98, 3410.82], "text": " If you remember the equation for the value of an asset,"}, {"timestamp": [3410.96, 3412.0], "text": " it said the present value,"}, {"timestamp": [3412.08, 3415.86], "text": " the expected cash flows over the life of the asset, right?"}, {"timestamp": [3416.8, 3418.14], "text": " So if you have a 10-year asset,"}, {"timestamp": [3418.3, 3420.38], "text": " you could produce the estimated cash flows for 10 years,"}, {"timestamp": [3420.44, 3421.22], "text": " 15-year asset."}, {"timestamp": [3422.0, 3425.18], "text": " And here we run into a little bit of a estimation problem"}, {"timestamp": [3425.18, 3426.56], "text": " with publicly traded companies,"}, {"timestamp": [3427.28, 3484.6], "text": " at least in time. You've got to put closure. So I'm going to tell you when you can stop and what assumptions you have to make. And you're not going to like the assumption. You can stop estimating cash flows if you're willing to make an assumption."}, {"timestamp": [3485.06, 3487.72], "text": " And the assumption has to be that beyond that point in time,"}, {"timestamp": [3487.72, 3492.92], "text": " your cash flows grow at a constant rate forever."}, {"timestamp": [3493.24, 3494.82], "text": " Scary word, forever."}, {"timestamp": [3495.28, 3496.14], "text": " You know what that buys you?"}, {"timestamp": [3539.15, 3543.53], "text": " but to do that what do you have to assume the cash flows grow at a constant rate forever now i'm going to say something that i get an amazing amount of pushback on"}, {"timestamp": [3543.53, 3549.27], "text": " and i'm surprised because this isn't a finance or an economics point it's a mathematical point"}, {"timestamp": [3549.27, 3556.37], "text": " which is when you talk about a growth rate forever that growth rate comes with a cap"}, {"timestamp": [3556.37, 3621.14], "text": " you know the cap is it cannot be greater than the cash flows for a period, five years, 10 years. There's a terminal value that kicks in only when you tell me your company is a mature"}, {"timestamp": [3621.14, 3684.58], "text": " company. My definition of a mature company is a special case of an equity valuation model. You take dividends, you discount them at the cost of equity, come up with a value of equity. But when you do that, what are you assuming? That companies pay out what they can afford to"}, {"timestamp": [3684.58, 3753.43], "text": " in dividends. Do they? Some might, but we know beyond any reasonable questioning that most cash flows left over after meeting all your debt needs and capex and working capital. And can we estimate that for a company? That's what's in the statement of cash flows, right? You give me a statement of cash flows, I can tell you potential dividend in like three or four minutes. This isn't rocket science. So the second approach to valuation is replace actual dividends"}, {"timestamp": [3753.43, 3819.56], "text": " with potential dividends, free cash flow to equity we haven't talked about the details. You ask me to value a company based on a dividend discount model, I get focused on dividends. I look at what they've paid as a percentage of earnings,"}, {"timestamp": [3820.24, 3883.84], "text": " as dividends and bets, called a payout ratio. And my entire forecasting is built around what more finesse to the game. In what sense? Remember when a company has a business it's in and has a cash balance, both generate income, right? The cash balance generates interest income. The business generates net income. So if you're doing free cash or equity valuation, you can say, look,"}, {"timestamp": [3883.86, 3888.68], "text": " I'm going to keep the cash separate. Why do I want to mess up my valuation with something that's"}, {"timestamp": [3888.68, 3954.41], "text": " easy to value? You take your non-cash net income, you have cross holdings, you have cash,"}, {"timestamp": [3954.85, 3958.25], "text": " you've got to bring that into the game because you can't just leave them to the side."}, {"timestamp": [4001.4, 4001.86], "text": " going into S&P Capital IQ."}, {"timestamp": [4004.26, 4004.4], "text": " It's a nag of if you haven't signed up yet,"}, {"timestamp": [4005.96, 4006.1], "text": " you know, get that access to Capital IQ."}, {"timestamp": [4007.58, 4008.16], "text": " It's an amazing data resource."}, {"timestamp": [4009.76, 4012.12], "text": " And I downloaded the data for the entire life of the company"}, {"timestamp": [4012.12, 4014.84], "text": " from 2002 through 2022."}, {"timestamp": [4016.62, 4019.08], "text": " So it downloads all of the income statements,"}, {"timestamp": [4019.26, 4020.74], "text": " all of the, it's overkill, right?"}, {"timestamp": [4020.84, 4022.6], "text": " You're saying, what do I do with this?"}, {"timestamp": [4023.04, 4024.54], "text": " When you look at past data,"}, {"timestamp": [4024.62, 4026.16], "text": " and this is not just true for the Adani Group,"}, {"timestamp": [4026.22, 4027.54], "text": " but for your company you pick,"}, {"timestamp": [4068.2, 4069.48], "text": " unless it's helping me answer a question."}, {"timestamp": [4072.7, 4073.2], "text": " And for those of you who read my Adani post,"}, {"timestamp": [4074.72, 4074.82], "text": " they're not a profitable company."}, {"timestamp": [4076.42, 4078.82], "text": " Their margins are 3.6%. And it's not because they're a young growth company."}, {"timestamp": [4078.94, 4080.9], "text": " It's because they're in an infrastructure business."}, {"timestamp": [4081.34, 4082.96], "text": " You're in ports, you're in airports."}, {"timestamp": [4083.54, 4085.3], "text": " You have transmission lines."}, {"timestamp": [4085.46, 4087.46], "text": " These are not 50% margin businesses."}, {"timestamp": [4087.46, 4090.08], "text": " These are 5%, 6%, 7% margin businesses."}, {"timestamp": [4091.16, 4094.38], "text": " So they're fast growth, but their profitability is lagging."}, {"timestamp": [4138.11, 4142.47], "text": " of the sector look like? If you're a company making 3.6 margins in a sector where everybody else makes 30% margins, I'm going to stop and ask, well, is there hope here? Could you go to"}, {"timestamp": [4142.47, 4148.47], "text": " 30% margins? Is it economies of scale that are going to kick in? So you look at your company,"}, {"timestamp": [4148.55, 4152.75], "text": " you look at the industry, and then after you're done, you've got to leave your safe spot. Because"}, {"timestamp": [4152.75, 4156.81], "text": " right up to then, it's all about looking at the past. You can always blame the accountants."}, {"timestamp": [4157.37, 4161.87], "text": " But if you're forecasting the future, guess what? You have to make your best estimates."}, {"timestamp": [4206.2, 4212.32], "text": " into play but have only so much room to run and will they need to reinvest to get this growth absolutely so i had to build in a reinvestment that reflect that so when you're forecasting"}, {"timestamp": [4212.32, 4216.32], "text": " the future you're taking what you learn from the past and you're trying to make your best"}, {"timestamp": [4216.32, 4221.36], "text": " estimates for the future and trust me you're going to be uncomfortable you should be right"}, {"timestamp": [4221.36, 4285.04], "text": " because you're trying to play god saying how do you know about the company, the market, the competition. You have to forecast margins. Again, bring in what you know about the company, the margins, the competition."}, {"timestamp": [4288.36, 4292.4], "text": " And then you've got to forecast how much you need to reinvest to get that revenue. And I'll give you metrics you can use to make that judgment, but I want you to think big picture."}, {"timestamp": [4335.51, 4335.59], "text": " because the wall is further away."}, {"timestamp": [4337.79, 4337.87], "text": " You have a billion people, the wall is further away."}, {"timestamp": [4338.85, 4339.41], "text": " When you value a Zomato,"}, {"timestamp": [4341.23, 4344.91], "text": " you have more potential than when you value a European food delivery company"}, {"timestamp": [4344.91, 4347.43], "text": " because you've got a billion people ordering food."}, {"timestamp": [4347.51, 4348.53], "text": " They're not doing it right now,"}, {"timestamp": [4348.65, 4350.57], "text": " mostly because many of them can't afford to do it."}, {"timestamp": [4350.91, 4352.59], "text": " Your potential market gets much bigger."}, {"timestamp": [4354.03, 4355.27], "text": " But I want you to remember"}, {"timestamp": [4355.27, 4356.91], "text": " the reason we look at the past"}, {"timestamp": [4356.91, 4359.89], "text": " is not because we like to compute ratios of the past,"}, {"timestamp": [4359.93, 4360.83], "text": " because you could do that, right?"}, {"timestamp": [4360.85, 4362.99], "text": " You've seen people do financial analysis,"}, {"timestamp": [4403.02, 4403.06], "text": " by about 2.5% to 3% in the last year,"}, {"timestamp": [4403.96, 4404.04], "text": " even if nothing has changed."}, {"timestamp": [4405.98, 4406.24], "text": " Why? Because the T-bond rate, the base has gone up."}, {"timestamp": [4407.74, 4408.62], "text": " So you have to come up with risk-free rates."}, {"timestamp": [4410.38, 4410.42], "text": " But you also have to come up with default spreads,"}, {"timestamp": [4411.76, 4413.34], "text": " which might increase or decrease depending on how risky your company is."}, {"timestamp": [4414.5, 4417.44], "text": " Your discount rates have to reflect the world you're in now,"}, {"timestamp": [4417.52, 4419.96], "text": " not some version of the world you'd like to be in."}, {"timestamp": [4420.0, 4422.58], "text": " So you can't normalize things and make your company look,"}, {"timestamp": [4423.04, 4424.58], "text": " put yourself in a macro environment"}, {"timestamp": [4424.58, 4426.04], "text": " that you feel more comfortable in,"}, {"timestamp": [4426.4, 4428.3], "text": " because this is the environment you're in."}, {"timestamp": [4470.62, 4470.66], "text": " So if Twitter is going to go from being an ad-based company to a subscription-based company,"}, {"timestamp": [4472.44, 4472.78], "text": " I'm not saying that's the transition they're going to make."}, {"timestamp": [4476.36, 4477.02], "text": " You can have 50 years of history of their ad-based businesses."}, {"timestamp": [4480.52, 4480.62], "text": " But to make your forecast, you're going to be looking at subscription-based business."}, {"timestamp": [4482.06, 4487.38], "text": " Remember, we talked about industry averages. So when companies make transitions, historical data will get weighted less in your forecast."}, {"timestamp": [4487.8, 4491.88], "text": " And the businesses they're going to go in are going to play a much bigger role in estimating"}, {"timestamp": [4491.88, 4494.62], "text": " growth and margins and everything else."}, {"timestamp": [4537.55, 4538.45], "text": " model to people who didn't own Pelotons, and that became the fastest growing part of the business."}, {"timestamp": [4542.61, 4547.77], "text": " Let's say, looking forward, you think the subscription portion of the business is going to expand and the equipment part is going to shrink and go away. You don't want to weight"}, {"timestamp": [4547.77, 4553.33], "text": " historical data too much because it reflects a different business model. So I think that when"}, {"timestamp": [4553.33, 4557.33], "text": " you have transitions, it just means that you have fewer crutches. You can't use past data and"}, {"timestamp": [4557.33, 4616.94], "text": " extrapolate. And that's good to know, company, if I don't bring in the expectation, something like a pandemic could shut me down, then I'm being imprudent. So I think you can only estimate what you can."}, {"timestamp": [4617.78, 4619.72], "text": " And when there's something you cannot estimate,"}, {"timestamp": [4619.86, 4621.2], "text": " you can cut in both directions."}, {"timestamp": [4623.14, 4624.16], "text": " You just basically have to say,"}, {"timestamp": [4624.2, 4625.62], "text": " look, that's risk out of my hands."}, {"timestamp": [4625.64, 4627.44], "text": " I'm going to charge a higher discount rate up front"}, {"timestamp": [4627.44, 4683.34], "text": " for that risk. and you're going to see this play out. You estimate your cash flows in dollars, your discount rate has to be in dollars. And in the process, I'm also going to talk about the possibility that you could value a company in real terms. What does that mean? You basically estimate cash flows without inflation in them and you estimate a discount rate"}, {"timestamp": [4683.34, 4684.54], "text": " that doesn't have inflation in it."}, {"timestamp": [4684.58, 4685.64], "text": " It's called a real valuation."}, {"timestamp": [4687.3, 4689.18], "text": " So let's step back."}, {"timestamp": [4689.3, 4690.74], "text": " In all of this, what are we trying to do?"}, {"timestamp": [4690.78, 4692.6], "text": " We have expected cash flows in the numerator"}, {"timestamp": [4692.6, 4695.4], "text": " and we risk adjusted discount rate at the denominator."}, {"timestamp": [4736.51, 4736.55], "text": " That's the price that equity investors are charging for investing in equities."}, {"timestamp": [4738.07, 4738.57], "text": " We call it an equity risk premium."}, {"timestamp": [4742.65, 4742.69], "text": " We can talk about estimation challenges you face in coming up with that risk premium,"}, {"timestamp": [4744.03, 4744.55], "text": " but that's the price of risk in the market."}, {"timestamp": [4747.85, 4749.93], "text": " Risk-free rate, equity risk premium have nothing to do with your company."}, {"timestamp": [4753.35, 4753.43], "text": " But then I ask you, is your company riskier than average or safer?"}, {"timestamp": [4756.47, 4757.09], "text": " I'm asking a question about relative risk, and that's going to depend on your business model, right?"}, {"timestamp": [4757.09, 4761.17], "text": " You sell discretionary stuff, you're riskier than if you sell non-discretionary stuff."}, {"timestamp": [4804.16, 4805.14], "text": " start every conceivable thing that you're uncertain about."}, {"timestamp": [4808.2, 4808.9], "text": " And I'll tell you upfront, it's going to be a very long list, right?"}, {"timestamp": [4812.22, 4812.44], "text": " In fact, if you try to list the things you're certain about,"}, {"timestamp": [4815.26, 4815.52], "text": " I don't think there's even a single item on that list."}, {"timestamp": [4817.92, 4818.0], "text": " What do you feel certain about? You know, the T bond rate today,"}, {"timestamp": [4819.36, 4821.16], "text": " but it could be different tomorrow, right?"}, {"timestamp": [4825.16, 4825.32], "text": " And after you've made this list, here's something I find cathartic,"}, {"timestamp": [4827.02, 4884.88], "text": " but actually is very healthy in valuation. I'm trying to tell you is, when it's economic uncertainty, working more, collecting more data, doing more research is not going to make that uncertainty go away."}, {"timestamp": [4885.48, 4890.52], "text": " And here's the bad news. 90% of the uncertainty you face when valuing most companies"}, {"timestamp": [4890.52, 4950.09], "text": " is economic uncertainty. There's a point, I call this the k people switch to electric cars? What are the regulations going to look like? In contrast, when you value Adani, there's a lot of macro uncertainty in this process. How quickly will India grow? How much will infrastructure investment look like? You're saying, who cares?"}, {"timestamp": [4952.11, 4953.49], "text": " Macro uncertainty shows up in your discount rate."}, {"timestamp": [4954.73, 4954.89], "text": " Micro uncertainty does not."}, {"timestamp": [4957.27, 4957.83], "text": " Next session, we'll talk about why micro uncertainties."}, {"timestamp": [4961.15, 5019.54], "text": " So you can be very uncertain about who followed Elon Musk, but when they do, can change the entire landscape. So I'm going to leave you with that because on Wednesday, we're going to talk about how you bring risk into your valuation is going to be determined not by what you think about a company, but what marginal investors in the company think about the company."}, {"timestamp": [5019.54, 5023.28], "text": " Sounds counterintuitive, but I'll start with that because that's going to give us the basis"}, {"timestamp": [5023.28, 5026.78], "text": " for every risk and return model."}]}
+{
+  "text": " yeah you know, the answer I hope to hear soon. How many of you have not picked a company to value yet? Okay. That's, you know, in fact, I'm surprised as many, you can start filling in the numbers. So let's talk about, so today we're going to start on the groundwork evaluation. And a few years ago, I wrote a post saying, if you have, just because you have a D and a CF doesn't mean you have a DCF. The reason I do that is people use this DCF as a cudgel. They're going to say, I did a DCF. And you're supposed to back off saying, oh, you did a DCF. That's great. You must know what you're doing. And the simplest way to separate the two is think about buying a house somewhere in the New York area. Unless you're a drug dealer, you have to borrow the money to buy the house, right? So you take a $1.6 million loan, you buy the house, let's say it's worth $2 million. If I ask you the minute after you bought the house, how much the house is worth, your answer is, I paid $2 million, I think that's what it's worth. And if you've heard it before, you're going to hear it again. If you're valuing the equity in a business, you've got to wear blinders. When I ask you, what are your cash flows? The cash flow you're going to estimate are cash flows to equity investors. What's left over after interest payments, after principal payments, after debt cash flows. And the discount rate you apply on those cash flows will be the rate of return you demand as an equity investor. equity capital and lenders who provide debt. It could be bondholders, it could be banks. When you're trying to value the business, you look at the collective cash flow that both players get out of the business. It's kind of counterintuitive, but I'm saying if you're an equity investor, you get cash flows equity. It could be dividends, it could be cash flows left over, but if you're lenders, you get cash flows as well, right? Interest payment, principal payments. The reason it's counterintuitive, if you're owner's a weighted average of what your equity investors and lenders want. It's a cost of capital. Cash flows the firm, discounted the cost of capital, gives you the value of the entire business. But I'm interested in buying shares in the company. You're right. You're interested in the equity. So to get from the value of the business to the equity value, what do I need to do? I need to subtract out, just like I because somebody's been doing valuation and has a name attached to them, that they're going to follow the first principles of valuation. So I'm going to go back in time and show you a valuation that was done. This is a real acquisition that was done in the late 70s. I almost never do case studies. forced Canaccord to divest themselves of the Peabody cold subsidiary. So they sold the subsidiary. They got $600 million in cash in return. Canaccord is about a $3 billion company. So the minute after they sold Peabody, they had a $600 million cash balance, and it terrified the management. So what were they afraid of? They were afraid that somebody would acquire them and use their own cash to kind of make the acquisition go through. So I have a lot of cash. Can you help me spend it, right? I mean, this is, if you think about it, it's silly. It's like walking into, is Bloomingdale's pay salespeople on commission? Let's say Bloomingdale's does. You walk in with $5,000 in cash and you wait and say, I have to spend this by this evening. You're going to have a lot of people surrounding you for the rest of the day, right? But in this case, Kennecott decided that that's what they were going to do. They went to First Boston at that time, said, we've done our due diligence. Two most dangerous words in business. I don't even know what that means. But your visions are bankers with eyes. I mean, basically, you think about 15 people working over the numbers. But in this case, they said, we've backed it up with a valuation, and you're going to get a bargain. And these were the cash flows that first Boston used to justify the car brand acquisition. I'm going to discount those cash flows that I just described here. So you've got Kennecott, the acquiring company that's going to come up with the money and their cost of equity and their cost of capital. You have Carborandum, the target company, the company you're acquiring, have their cost of equity and their cost of capital. After the acquisition, there will be a merge company and have a cost of equity and a cost of capital. So let's start with the easy question The target company's cost of equity, or maybe some weighted average of the two. What do you think? Target company, does everybody I want you to come up with the answer because this is something that you will have to fight the fight on, not just on this issue, but lots of discounted casual evaluations. I'll help you out when you do capital budgeting and you have a project. How do we come mismatched the discount rate to the cash flows, the rest is almost academic, right? Who cares what your growth rate is? You committed a cardinal sin. Confession is not going to do this for you, right? This is not one of the, I coveted my neighbor's Tesla kind of thing. It's like I make $150 million every year for the next 20 years. I should be using a low. This has nothing to do with being conservative. Don't assume that just because you're being conservative, your DCF is target company to be. Now, the cynical part of you is probably saying they must have known what they were doing, that they wanted to get the deal done. It might be the tip of the iceberg. Today we're going to start talking about currencies. You estimate your cash flows in rubles, your discount rate has to be in rubles. You estimate them in euros, your discount rate has to be in euros. Consistency is something that we're going to come back to over and over again. And this is the start of the process. Now I have to tell you who the two people who ran first Boston's M&A department in the late 70s were. I would have been a little bit more of a trap if I tried. But there's no justice in this world. You can do terrible things but you get deals done guess what you become a hero Bruce was his team was proud about the fact that he got deals done. And he succeeded at that level, but my point is often in valuations we look at the cash flows we look at the discount rate we don't ask that connecting question are the army knife of finance it shows up all over the place in different contexts and if you're not careful you can use it in the wrong context so we'll come back i did just one session in m&a because i don't think there's that much that's unique about m&a but we'll come back and talk about a little bit more about this context and you know what the dangers are of the architecture of DCFs has been created in the last century. In fact, the very first book that talks about discounted cash flow valuation is a book by John Williams, 1937. But were people estimating intrinsic value before 1937? I hope so. Intrinsic valuation predates DCF. So you don't need a DCF to do an intrinsic valuation, just a way of thinking, how much do I pay? of the expected cash flows on the asset. Well, you discount those expected cash flows at a risk-adjusted discount rate. So in the numerator, what do you have? Expected cash flows. At least in this utopian world, you're looking at every conceivable scenario, the expected cash flow should reflect. So there's no afterthought, right? Where after you've done evaluation, you say, oh, by the way, this could happen. It should be near expected cash flows. So in traditional DCF valuation, Complicated show. Here's how it goes. So you're a contestant. I'm Howie Mandel. I call you up on the stage. There are two suitcases on, and they're actually two suitcases actually designed that way. One suitcase has a million dollars, the other suitcase has nothing. And here's how the show goes. Howie Mandel comes in and says, you know what the expected cash flow in year one is 1.2 billion. What would you expect as a guaranteed cash flow, depending on how risk averse you are, you might say 800, 900 million, and you replace each of the expected cash flows with a guaranteed equivalent cash flow. If you do that, and it's a big if, you've now have cash flows that are in a class and you say, well, Warren Buffett values companies using a risk-free rate as a discount rate. Why are you using a risk-adjusted discount rate? And I said, look, go back and look at what he claims he's discounting because he never shows a full, but he does mention that he does, he counts only those earnings that he thinks are countable. He doesn't like speculative earnings. He doesn't like things that might or might not happen. In a sense, what's he doing? And the information you need to get a certain equivalent is exactly the same information you need to get a discount rate. And I'll take the well-trodden path over the lightly trodden path every single time. So what I'd like to do is actually use that present value equation. Now often, when I valued Adani two days ago or Tesla a couple of weeks ago to do. I want everybody to see what I have. I have a $20 bill. I'm going to put it into the envelope. There's nothing else there, right? My sleeves are all rolled up. I'm not David Copperfield. So you ready for the question? You saw me put $20 in there, right? How much should you pay for this envelope? That's what most people say. First rule in valuation. Interesting. So let's say it is a simple asset to value, right? So if I open it up to bidding, you know, sooner or later, I'm going to converge on $20. So let's say the envelope is now valued at $20 because there's $20 in. I'm going to add something to this envelope and I want you to tell me how much you'd pay for the envelope after I add it. What does it say? What's the word on there? them back none of them wanted to be there i put this envelope up one of the bankers decides he's going to be clever he says i'll be 25 you know what i did i sold him the envelope he complained i said now that it's your own money you feel the pain right because what did he do he paid five dollars for a three by five card that i stole from upstairs and wrote the word you know how much it cost me to write that absolutely nothing it's just a word you can see where this Because these words show up right after you valued a company and people want to pay more. Where's the control? What about synergy? How about ESG? But I'll give you two magic words. One that continues to work. As long as business has been around, this word's been the way in which you get the extra premium. The other used to work well, but to your valuation was a word that doesn't work as well anymore. Can you read this to the class? What is it saying? Sounds fancy, but here's what the proposition says. If it does not affect the cash flows and it does not affect risk, it cannot affect value. You say, what's it? You name it. Let's go back and review the words that I put into that envelope. Control. Forget about what bankers do in the 20% premium. What is the true value of control? What do you get to do when you have control? Anybody want to give that a try? What is exactly? company and that difference should be the value of control. You know how powerful that concept is? Because here are the implications. If you have a company that's already perfectly managed and perfectly run, what's the value of control? Zero. If you have a company that's abysmally managed and abysmally run, it could be 100%. Who makes up these rules of thumb of 20% and says that's the value of control? What's the value of synergy? brand name you ask me every company claims to have a brand name you know the power of a brand name is you get to charge a higher price for exactly the same product i know it sounds simplistic but if you want to see brand name at play walk into the duane reed at the end of the street walk into the paint killer aisle check out the bare aspirin that's still there's nothing there if a concept could be toxic and empty at the same time yes you've pulled it off but i'll tell you what led me to that place i heard all this talk from you know you've heard larry fink say country, it better not be China because that's cut off 30% of your market right there. That's why when the Russian invasion of Ukraine happened, a lot of ESG people were beating that. Just look, this is why we teach the Russians a lesson. We can debate that. Remember statistics, when you have too much uncertainty, it doesn't mean you cannot make estimates. It means your estimates come with more noise. If you let uncertainty be a reason for not valuing companies, I'll tell you exactly where you'll end up. You'll be valuing Kraft Tines and Coca-Cola over and over again for the rest of your life because you feel certain. This is one reason when Warren Buffett said, seen show up. Those of you don't remember MoviePass, it was a business that was started, but for $9.99 a month, you could watch as many movies and movie theaters as you wanted. movie a month. We're charging $99. The average theater in the U.S. charges only $6. You know, you can drown in a lake that has an average depth of only six inches. Averages can be extremely deceptive. But you know how stupid this argument is? Because it's not the average American who's buying movie pass. There's a selection by it. There. I'm valuing money, losing company. I expect to lose money forever. How much should I pay for the company? Come on, guys. No discounted cash flow model is needed here. So I'm going to call that the der proposition. If you have negative cash flows as far as the eye can see, just let it go. And if somebody insists you take it, they should be paying you. value adding, value destructive, or value neutral? What's going to determine that? Talking about the earnings, it's how much you put into those businesses, what you're going to get in return, earnings, cash flows, whatever. I mean, think of it like a project, right? When you take a positive net present value project, what happens? Your value, it goes up. So if you go into new businesses and you earn roughly your cost of capital, biotech, I heard, but what do they share in common? They're young companies. Could be infrastructure companies, could be biotech companies, could be social media companies. It's. The process itself is incredibly flexible. It's our discomfort that makes it rigid. If you insist that your cash flows have to be positive, if you insist that there's got to be more certainty in estimates, you are restricting yourself. But it's not the problem with the model. It's a problem with you and up with the value of the business. Should you be subtracting out only long-term debt? Should we be subtracting out total debt? Should we be subtracting out all liabilities? And on a balance sheet, you can see very different numbers, right? Total debt, about three years ago, 2019. So when I value firms, I treat leases as debt when I do cost of capital. And it's got mixed effects, right? You treat leases as debt, your cost of capital often go down because you're using more debt, which is a good thing, right? From a DCF, I get a bigger value for the business, but then I subtract our debt. I include leases as debt because if I counted it as debt when I did my cost of capital, I have to count it as debt when I subtract it out. questions. You're welcome to give me two different answers. Would you like to get the same value for your equity using both approaches? You're an investor, right? You just decide by... Imagine if the two approaches gave you different answers. What the heck are you going to do with it? Buy with an equity approach. I don't think when you go on Schwab online, it says, buy, did you use an equity approach? We'll credit you with firm. I also give you a cost of equity for this company, 13.625%. And I tell you that this firm, when it borrows money, has to pay 10% pre-tax. Now, if you've done corporate finance, you know why there's a distinction between pre-tax cost and after-tax cost. Much of the world interest is tax deductible. discount rate, I'm not pulling a first Boston. Now, of course, I could value the entire business, right? To value the business, what do I need? I need a cost of capital. To get a cost of capital, I take the cost of equity and the after-tax cost of debt, and I need weights for debt and equity. And the weights we tend to use in valuation tend to be market value weights. There's a circularity. I will come back and talk about that later in the class. get the same value, but I had to play some assumption games to get there. And this week's challenge is going to pose that issue of what it is that I'm assuming in this example that led me to the same answer. And it's not difficult. You start digging. So what am I assuming? But the reason I want you to do that is people do this without even thinking about it. They make implicit assumptions. And I want you to make those cash flows. But the problem is you have no idea what you're valuing, right? If you've used cash flows to the firm and you don't even know whether you're valuing firm or equity. I've seen people actually take cash flows from a firm discounted the cost of equity, gets so completely lost that they forget to subtract out the debt, in which case you massively overvalue equity. And if you subtract out the debt, you're going to undervalue equity. You got a risk-adjusted discount rate, you get a present value. But there's one mechanical detail that I still haven't tied up. If you remember the equation for the value of an asset, it said the present value, the expected cash flows over the life of the asset, right? So if you have a 10-year asset, you could produce the estimated cash flows for 10 years, 15-year asset. And here we run into a little bit of a estimation problem with publicly traded companies, at least in time. You've got to put closure. So I'm going to tell you when you can stop and what assumptions you have to make. And you're not going to like the assumption. You can stop estimating cash flows if you're willing to make an assumption. And the assumption has to be that beyond that point in time, your cash flows grow at a constant rate forever. Scary word, forever. You know what that buys you? but to do that what do you have to assume the cash flows grow at a constant rate forever now i'm going to say something that i get an amazing amount of pushback on and i'm surprised because this isn't a finance or an economics point it's a mathematical point which is when you talk about a growth rate forever that growth rate comes with a cap you know the cap is it cannot be greater than the cash flows for a period, five years, 10 years. There's a terminal value that kicks in only when you tell me your company is a mature company. My definition of a mature company is a special case of an equity valuation model. You take dividends, you discount them at the cost of equity, come up with a value of equity. But when you do that, what are you assuming? That companies pay out what they can afford to in dividends. Do they? Some might, but we know beyond any reasonable questioning that most cash flows left over after meeting all your debt needs and capex and working capital. And can we estimate that for a company? That's what's in the statement of cash flows, right? You give me a statement of cash flows, I can tell you potential dividend in like three or four minutes. This isn't rocket science. So the second approach to valuation is replace actual dividends with potential dividends, free cash flow to equity we haven't talked about the details. You ask me to value a company based on a dividend discount model, I get focused on dividends. I look at what they've paid as a percentage of earnings, as dividends and bets, called a payout ratio. And my entire forecasting is built around what more finesse to the game. In what sense? Remember when a company has a business it's in and has a cash balance, both generate income, right? The cash balance generates interest income. The business generates net income. So if you're doing free cash or equity valuation, you can say, look, I'm going to keep the cash separate. Why do I want to mess up my valuation with something that's easy to value? You take your non-cash net income, you have cross holdings, you have cash, you've got to bring that into the game because you can't just leave them to the side. going into S&P Capital IQ. It's a nag of if you haven't signed up yet, you know, get that access to Capital IQ. It's an amazing data resource. And I downloaded the data for the entire life of the company from 2002 through 2022. So it downloads all of the income statements, all of the, it's overkill, right? You're saying, what do I do with this? When you look at past data, and this is not just true for the Adani Group, but for your company you pick, unless it's helping me answer a question. And for those of you who read my Adani post, they're not a profitable company. Their margins are 3.6%. And it's not because they're a young growth company. It's because they're in an infrastructure business. You're in ports, you're in airports. You have transmission lines. These are not 50% margin businesses. These are 5%, 6%, 7% margin businesses. So they're fast growth, but their profitability is lagging. of the sector look like? If you're a company making 3.6 margins in a sector where everybody else makes 30% margins, I'm going to stop and ask, well, is there hope here? Could you go to 30% margins? Is it economies of scale that are going to kick in? So you look at your company, you look at the industry, and then after you're done, you've got to leave your safe spot. Because right up to then, it's all about looking at the past. You can always blame the accountants. But if you're forecasting the future, guess what? You have to make your best estimates. into play but have only so much room to run and will they need to reinvest to get this growth absolutely so i had to build in a reinvestment that reflect that so when you're forecasting the future you're taking what you learn from the past and you're trying to make your best estimates for the future and trust me you're going to be uncomfortable you should be right because you're trying to play god saying how do you know about the company, the market, the competition. You have to forecast margins. Again, bring in what you know about the company, the margins, the competition. And then you've got to forecast how much you need to reinvest to get that revenue. And I'll give you metrics you can use to make that judgment, but I want you to think big picture. because the wall is further away. You have a billion people, the wall is further away. When you value a Zomato, you have more potential than when you value a European food delivery company because you've got a billion people ordering food. They're not doing it right now, mostly because many of them can't afford to do it. Your potential market gets much bigger. But I want you to remember the reason we look at the past is not because we like to compute ratios of the past, because you could do that, right? You've seen people do financial analysis, by about 2.5% to 3% in the last year, even if nothing has changed. Why? Because the T-bond rate, the base has gone up. So you have to come up with risk-free rates. But you also have to come up with default spreads, which might increase or decrease depending on how risky your company is. Your discount rates have to reflect the world you're in now, not some version of the world you'd like to be in. So you can't normalize things and make your company look, put yourself in a macro environment that you feel more comfortable in, because this is the environment you're in. So if Twitter is going to go from being an ad-based company to a subscription-based company, I'm not saying that's the transition they're going to make. You can have 50 years of history of their ad-based businesses. But to make your forecast, you're going to be looking at subscription-based business. Remember, we talked about industry averages. So when companies make transitions, historical data will get weighted less in your forecast. And the businesses they're going to go in are going to play a much bigger role in estimating growth and margins and everything else. model to people who didn't own Pelotons, and that became the fastest growing part of the business. Let's say, looking forward, you think the subscription portion of the business is going to expand and the equipment part is going to shrink and go away. You don't want to weight historical data too much because it reflects a different business model. So I think that when you have transitions, it just means that you have fewer crutches. You can't use past data and extrapolate. And that's good to know, company, if I don't bring in the expectation, something like a pandemic could shut me down, then I'm being imprudent. So I think you can only estimate what you can. And when there's something you cannot estimate, you can cut in both directions. You just basically have to say, look, that's risk out of my hands. I'm going to charge a higher discount rate up front for that risk. and you're going to see this play out. You estimate your cash flows in dollars, your discount rate has to be in dollars. And in the process, I'm also going to talk about the possibility that you could value a company in real terms. What does that mean? You basically estimate cash flows without inflation in them and you estimate a discount rate that doesn't have inflation in it. It's called a real valuation. So let's step back. In all of this, what are we trying to do? We have expected cash flows in the numerator and we risk adjusted discount rate at the denominator. That's the price that equity investors are charging for investing in equities. We call it an equity risk premium. We can talk about estimation challenges you face in coming up with that risk premium, but that's the price of risk in the market. Risk-free rate, equity risk premium have nothing to do with your company. But then I ask you, is your company riskier than average or safer? I'm asking a question about relative risk, and that's going to depend on your business model, right? You sell discretionary stuff, you're riskier than if you sell non-discretionary stuff. start every conceivable thing that you're uncertain about. And I'll tell you upfront, it's going to be a very long list, right? In fact, if you try to list the things you're certain about, I don't think there's even a single item on that list. What do you feel certain about? You know, the T bond rate today, but it could be different tomorrow, right? And after you've made this list, here's something I find cathartic, but actually is very healthy in valuation. I'm trying to tell you is, when it's economic uncertainty, working more, collecting more data, doing more research is not going to make that uncertainty go away. And here's the bad news. 90% of the uncertainty you face when valuing most companies is economic uncertainty. There's a point, I call this the k people switch to electric cars? What are the regulations going to look like? In contrast, when you value Adani, there's a lot of macro uncertainty in this process. How quickly will India grow? How much will infrastructure investment look like? You're saying, who cares? Macro uncertainty shows up in your discount rate. Micro uncertainty does not. Next session, we'll talk about why micro uncertainties. So you can be very uncertain about who followed Elon Musk, but when they do, can change the entire landscape. So I'm going to leave you with that because on Wednesday, we're going to talk about how you bring risk into your valuation is going to be determined not by what you think about a company, but what marginal investors in the company think about the company. Sounds counterintuitive, but I'll start with that because that's going to give us the basis for every risk and return model.",
+  "chunks": [
+    { "timestamp": [0.0, 12.0], "text": " yeah" },
+    {
+      "timestamp": [150.49, 151.03],
+      "text": " you know, the answer I hope to hear soon."
+    },
+    {
+      "timestamp": [154.43, 155.91],
+      "text": " How many of you have not picked a company to value yet?"
+    },
+    { "timestamp": [156.39, 157.63], "text": " Okay." },
+    {
+      "timestamp": [159.57, 221.06],
+      "text": " That's, you know, in fact, I'm surprised as many, you can start filling in the numbers. So let's talk about, so today we're going to start on the groundwork evaluation. And a few years ago, I wrote a post saying, if you have, just because you have a D and a CF doesn't mean you have a DCF. The reason I do"
+    },
+    {
+      "timestamp": [221.06, 225.3],
+      "text": " that is people use this DCF as a cudgel. They're going to say, I did a DCF. And you're supposed to"
+    },
+    {
+      "timestamp": [225.3, 284.01],
+      "text": " back off saying, oh, you did a DCF. That's great. You must know what you're doing. And the simplest way to separate the two is think about buying a house somewhere in the New York area. Unless you're a drug dealer, you have to borrow the money to buy the house, right? So you take a $1.6 million loan, you buy the house, let's say it's worth $2 million."
+    },
+    {
+      "timestamp": [289.97, 350.55],
+      "text": " If I ask you the minute after you bought the house, how much the house is worth, your answer is, I paid $2 million, I think that's what it's worth. And if you've heard it before, you're going to hear it again. If you're valuing the equity in a business, you've got to wear blinders. When I ask you, what are your cash flows? The cash flow you're going to estimate are cash flows to equity investors. What's left over after interest payments,"
+    },
+    { "timestamp": [350.65, 351.65], "text": " after principal payments," },
+    { "timestamp": [351.73, 352.79], "text": " after debt cash flows." },
+    {
+      "timestamp": [354.31, 357.27],
+      "text": " And the discount rate you apply on those cash flows"
+    },
+    {
+      "timestamp": [357.27, 359.85],
+      "text": " will be the rate of return you demand"
+    },
+    { "timestamp": [359.85, 361.21], "text": " as an equity investor." },
+    {
+      "timestamp": [405.12, 406.54],
+      "text": " equity capital and lenders who provide debt. It could be bondholders, it could be banks."
+    },
+    {
+      "timestamp": [410.96, 415.08],
+      "text": " When you're trying to value the business, you look at the collective cash flow that both players get out of the business. It's kind of counterintuitive, but I'm saying if you're an"
+    },
+    {
+      "timestamp": [415.08, 418.36],
+      "text": " equity investor, you get cash flows equity. It could be dividends, it could be cash flows left"
+    },
+    {
+      "timestamp": [418.36, 423.08],
+      "text": " over, but if you're lenders, you get cash flows as well, right? Interest payment, principal payments."
+    },
+    {
+      "timestamp": [423.68, 484.09],
+      "text": " The reason it's counterintuitive, if you're owner's a weighted average of what your equity investors and lenders want. It's a cost of capital. Cash flows the firm, discounted the cost of capital, gives you the value of the entire business."
+    },
+    {
+      "timestamp": [487.99, 488.17],
+      "text": " But I'm interested in buying shares in the company. You're right. You're interested in the equity."
+    },
+    {
+      "timestamp": [491.43, 491.47],
+      "text": " So to get from the value of the business to the equity value, what do I need to do?"
+    },
+    {
+      "timestamp": [495.47, 555.29],
+      "text": " I need to subtract out, just like I because somebody's been doing valuation and has a name attached to them, that they're going to follow the first principles of valuation. So I'm going to go back in time and show you a valuation that was done."
+    },
+    {
+      "timestamp": [555.37, 558.05],
+      "text": " This is a real acquisition that was done in the late 70s."
+    },
+    {
+      "timestamp": [558.27, 559.89],
+      "text": " I almost never do case studies."
+    },
+    {
+      "timestamp": [605.46, 605.58],
+      "text": " forced Canaccord to divest themselves of the Peabody cold subsidiary."
+    },
+    { "timestamp": [606.78, 606.9], "text": " So they sold the subsidiary." },
+    {
+      "timestamp": [610.26, 611.18],
+      "text": " They got $600 million in cash in return."
+    },
+    {
+      "timestamp": [612.96, 617.36],
+      "text": " Canaccord is about a $3 billion company. So the minute after they sold Peabody, they had a $600 million cash balance,"
+    },
+    {
+      "timestamp": [617.7, 619.98],
+      "text": " and it terrified the management."
+    },
+    { "timestamp": [620.12, 621.18], "text": " So what were they afraid of?" },
+    {
+      "timestamp": [621.62, 624.94],
+      "text": " They were afraid that somebody would acquire them and use their own cash"
+    },
+    {
+      "timestamp": [624.94, 627.52],
+      "text": " to kind of make the acquisition go through."
+    },
+    {
+      "timestamp": [628.66, 684.55],
+      "text": " So I have a lot of cash. Can you help me spend it, right? I mean, this is, if you think about it, it's silly. It's like walking into, is Bloomingdale's pay salespeople on commission? Let's say Bloomingdale's does. You walk in with $5,000 in cash and you wait and say, I have to spend this by this evening. You're going to have a lot of people surrounding you"
+    },
+    {
+      "timestamp": [684.55, 685.51],
+      "text": " for the rest of the day, right?"
+    },
+    { "timestamp": [687.33, 688.25], "text": " But in this case," },
+    {
+      "timestamp": [688.39, 690.53],
+      "text": " Kennecott decided that that's what they were going to do."
+    },
+    {
+      "timestamp": [691.43, 754.73],
+      "text": " They went to First Boston at that time, said, we've done our due diligence. Two most dangerous words in business. I don't even know what that means. But your visions are bankers with eyes. I mean, basically, you think about 15 people working over the numbers. But in this case, they said, we've backed it up with a valuation, and you're going to get a bargain. And these were the cash flows that first Boston used"
+    },
+    {
+      "timestamp": [754.73, 817.58],
+      "text": " to justify the car brand acquisition. I'm going to discount those cash flows that I just described here. So you've got Kennecott, the acquiring company that's going to come up with the money and their cost of equity and their cost of capital. You have Carborandum, the target company, the company you're acquiring, have their cost of equity and their cost of capital."
+    },
+    {
+      "timestamp": [818.4, 822.4],
+      "text": " After the acquisition, there will be a merge company and have a cost of equity and a cost of"
+    },
+    {
+      "timestamp": [822.4, 887.09],
+      "text": " capital. So let's start with the easy question The target company's cost of equity, or maybe some weighted average of the two."
+    },
+    {
+      "timestamp": [888.69, 950.53],
+      "text": " What do you think? Target company, does everybody I want you to come up with the answer because this is something that you will have to fight the fight on, not just on this issue,"
+    },
+    {
+      "timestamp": [950.53, 957.17],
+      "text": " but lots of discounted casual evaluations. I'll help you out when you do capital budgeting and"
+    },
+    {
+      "timestamp": [957.17, 1022.06],
+      "text": " you have a project. How do we come mismatched the discount rate to the cash flows, the rest is almost academic, right? Who cares what your growth rate is? You committed a cardinal sin. Confession is not going to do this for you, right? This is not one of the, I coveted my"
+    },
+    {
+      "timestamp": [1022.06, 1086.95],
+      "text": " neighbor's Tesla kind of thing. It's like I make $150 million every year for the next 20 years. I should be using a low. This has nothing to do with being conservative. Don't assume that just"
+    },
+    {
+      "timestamp": [1086.95, 1155.49],
+      "text": " because you're being conservative, your DCF is target company to be. Now, the cynical part of you is probably saying they must have known what they were doing,"
+    },
+    {
+      "timestamp": [1155.57, 1220.54],
+      "text": " that they wanted to get the deal done. It might be the tip of the iceberg. Today we're going to start talking about currencies. You estimate your cash flows in rubles, your discount rate has to be in rubles. You estimate them in euros, your discount rate has to be in euros. Consistency is something that we're going to come back to over and over again. And this is the start of the process."
+    },
+    {
+      "timestamp": [1222.82, 1284.75],
+      "text": " Now I have to tell you who the two people who ran first Boston's M&A department in the late 70s were. I would have been a little bit more of a trap if I tried. But there's no justice in this world. You can do terrible things but you get deals done guess what you become a hero Bruce was his team was proud about the fact that he got deals done. And he succeeded at that level,"
+    },
+    { "timestamp": [1284.75, 1286.79], "text": " but my point is often in" },
+    {
+      "timestamp": [1286.79, 1288.79],
+      "text": " valuations we look at the cash"
+    },
+    {
+      "timestamp": [1288.79, 1290.79],
+      "text": " flows we look at the discount"
+    },
+    { "timestamp": [1290.79, 1292.83], "text": " rate we don't ask that" },
+    {
+      "timestamp": [1292.83, 1352.03],
+      "text": " connecting question are the army knife of finance it shows up all over the place in different contexts and if you're not careful you can use it in the wrong context so we'll come back i did just one session in m&a because i don't think there's that much that's unique about m&a but we'll come back and talk"
+    },
+    {
+      "timestamp": [1352.03, 1424.04],
+      "text": " about a little bit more about this context and you know what the dangers are of the architecture of DCFs has been created in the last century. In fact, the very first book that talks about discounted cash flow valuation is a book by John Williams, 1937. But were people estimating intrinsic value before 1937? I hope so. Intrinsic valuation predates DCF. So you don't"
+    },
+    {
+      "timestamp": [1424.04, 1428.1],
+      "text": " need a DCF to do an intrinsic valuation, just a way of thinking, how much do I pay?"
+    },
+    {
+      "timestamp": [1470.07, 1471.57],
+      "text": " of the expected cash flows on the asset."
+    },
+    {
+      "timestamp": [1473.51, 1475.13],
+      "text": " Well, you discount those expected cash flows at a risk-adjusted discount rate."
+    },
+    {
+      "timestamp": [1475.67, 1476.89],
+      "text": " So in the numerator, what do you have?"
+    },
+    { "timestamp": [1477.39, 1478.33], "text": " Expected cash flows." },
+    {
+      "timestamp": [1478.57, 1480.67],
+      "text": " At least in this utopian world,"
+    },
+    {
+      "timestamp": [1480.91, 1483.03],
+      "text": " you're looking at every conceivable scenario,"
+    },
+    {
+      "timestamp": [1483.43, 1485.13],
+      "text": " the expected cash flow should reflect."
+    },
+    {
+      "timestamp": [1485.33, 1487.05],
+      "text": " So there's no afterthought, right?"
+    },
+    {
+      "timestamp": [1487.11, 1488.83],
+      "text": " Where after you've done evaluation, you say,"
+    },
+    {
+      "timestamp": [1489.03, 1490.45],
+      "text": " oh, by the way, this could happen."
+    },
+    {
+      "timestamp": [1490.51, 1492.23],
+      "text": " It should be near expected cash flows."
+    },
+    {
+      "timestamp": [1493.09, 1494.63],
+      "text": " So in traditional DCF valuation,"
+    },
+    {
+      "timestamp": [1548.41, 1550.79],
+      "text": " Complicated show. Here's how it goes. So you're a contestant. I'm Howie Mandel. I call you up on the stage. There are two suitcases on, and they're actually two suitcases actually designed that way. One suitcase has a million dollars, the other suitcase has nothing."
+    },
+    {
+      "timestamp": [1557.61, 1621.66],
+      "text": " And here's how the show goes. Howie Mandel comes in and says, you know what the expected cash flow in year one is 1.2 billion. What would you expect as a guaranteed cash flow, depending on how risk averse you are, you might say 800, 900 million, and you replace each of the expected cash flows with a guaranteed equivalent cash flow. If you do that, and it's"
+    },
+    {
+      "timestamp": [1621.66, 1687.31],
+      "text": " a big if, you've now have cash flows that are in a class and you say, well, Warren Buffett values companies using a risk-free rate as a discount rate. Why are you using a risk-adjusted discount rate? And I said, look, go back and look at what he claims he's discounting because he never shows a full, but he does mention that he does, he counts only those earnings that he thinks are countable."
+    },
+    {
+      "timestamp": [1687.71, 1694.07],
+      "text": " He doesn't like speculative earnings. He doesn't like things that might or might not happen. In a sense, what's he doing?"
+    },
+    {
+      "timestamp": [1739.21, 1739.73],
+      "text": " And the information you need to get a certain equivalent is exactly the same information you need to get a discount rate."
+    },
+    {
+      "timestamp": [1744.73, 1745.75],
+      "text": " And I'll take the well-trodden path over the lightly trodden path every single time."
+    },
+    {
+      "timestamp": [1749.53, 1750.47],
+      "text": " So what I'd like to do is actually use that present value equation."
+    },
+    {
+      "timestamp": [1760.39, 1816.7],
+      "text": " Now often, when I valued Adani two days ago or Tesla a couple of weeks ago to do. I want everybody to see what I have. I have a $20 bill. I'm going to put it into the envelope. There's nothing else there, right? My sleeves are all rolled up."
+    },
+    { "timestamp": [1817.86, 1818.2], "text": " I'm not David Copperfield." },
+    {
+      "timestamp": [1820.9, 1821.54],
+      "text": " So you ready for the question?"
+    },
+    {
+      "timestamp": [1823.48, 1824.68],
+      "text": " You saw me put $20 in there, right? How much should you pay for this envelope?"
+    },
+    {
+      "timestamp": [1825.96, 1827.32],
+      "text": " That's what most people say."
+    },
+    { "timestamp": [1827.48, 1828.9], "text": " First rule in valuation." },
+    {
+      "timestamp": [1871.59, 1871.77],
+      "text": " Interesting. So let's say it is a simple asset to value, right? So if I open it up to bidding,"
+    },
+    {
+      "timestamp": [1875.93, 1881.95],
+      "text": " you know, sooner or later, I'm going to converge on $20. So let's say the envelope is now valued at $20 because there's $20 in. I'm going to add something to this envelope and I want you to tell"
+    },
+    {
+      "timestamp": [1881.95, 1889.19],
+      "text": " me how much you'd pay for the envelope after I add it. What does it say? What's the word on there?"
+    },
+    {
+      "timestamp": [1938.63, 1943.39],
+      "text": " them back none of them wanted to be there i put this envelope up one of the bankers decides he's going to be clever he says i'll be 25 you know what i did i sold him the envelope"
+    },
+    {
+      "timestamp": [1943.39, 1951.85],
+      "text": " he complained i said now that it's your own money you feel the pain right because what did he do he"
+    },
+    {
+      "timestamp": [1951.85, 1956.97],
+      "text": " paid five dollars for a three by five card that i stole from upstairs and wrote the word you know"
+    },
+    {
+      "timestamp": [1956.97, 2018.46],
+      "text": " how much it cost me to write that absolutely nothing it's just a word you can see where this Because these words show up right after you valued a company and people want to pay more. Where's the control? What about synergy? How about ESG? But I'll give you two magic words. One that continues to work."
+    },
+    {
+      "timestamp": [2018.54, 2022.24],
+      "text": " As long as business has been around, this word's been the way in which you get the extra"
+    },
+    { "timestamp": [2022.24, 2022.66], "text": " premium." },
+    {
+      "timestamp": [2022.82, 2090.39],
+      "text": " The other used to work well, but to your valuation was a word that doesn't work as well anymore. Can you read this to the class? What is it saying?"
+    },
+    {
+      "timestamp": [2141.91, 2142.95],
+      "text": " Sounds fancy, but here's what the proposition says. If it does not affect the cash flows and it does not affect risk, it cannot affect value."
+    },
+    {
+      "timestamp": [2148.43, 2149.71],
+      "text": " You say, what's it? You name it. Let's go back and review the words that I put into that envelope."
+    },
+    {
+      "timestamp": [2155.79, 2161.79],
+      "text": " Control. Forget about what bankers do in the 20% premium. What is the true value of control? What do you get to do when you have control? Anybody want to give that a try? What is exactly?"
+    },
+    {
+      "timestamp": [2204.6, 2205.2],
+      "text": " company and that difference should be the value of control. You know how powerful that concept is?"
+    },
+    {
+      "timestamp": [2208.92, 2215.98],
+      "text": " Because here are the implications. If you have a company that's already perfectly managed and perfectly run, what's the value of control? Zero. If you have a company that's abysmally managed"
+    },
+    {
+      "timestamp": [2215.98, 2221.92],
+      "text": " and abysmally run, it could be 100%. Who makes up these rules of thumb of 20% and says that's"
+    },
+    {
+      "timestamp": [2221.92, 2284.09],
+      "text": " the value of control? What's the value of synergy? brand name you ask me every company claims to have a brand name you know the power of a brand name is you get to charge a higher price for exactly the same product i know it sounds simplistic but if you want to see brand"
+    },
+    {
+      "timestamp": [2284.09, 2289.89],
+      "text": " name at play walk into the duane reed at the end of the street walk into the paint killer aisle"
+    },
+    {
+      "timestamp": [2289.89, 2352.57],
+      "text": " check out the bare aspirin that's still there's nothing there if a concept could be toxic and empty at the same time yes you've pulled it off but i'll tell you what led me to that place i heard all this talk from"
+    },
+    {
+      "timestamp": [2352.57, 2417.5],
+      "text": " you know you've heard larry fink say country, it better not be China because that's cut off 30% of your market right there."
+    },
+    { "timestamp": [2418.34, 2419.48], "text": " That's why when the" },
+    {
+      "timestamp": [2419.48, 2421.9],
+      "text": " Russian invasion of Ukraine happened,"
+    },
+    {
+      "timestamp": [2421.9, 2423.4],
+      "text": " a lot of ESG people were beating that."
+    },
+    { "timestamp": [2423.5, 2424.7], "text": " Just look, this is why" },
+    {
+      "timestamp": [2424.7, 2427.08],
+      "text": " we teach the Russians a lesson."
+    },
+    {
+      "timestamp": [2427.5, 2486.67],
+      "text": " We can debate that. Remember statistics, when you have too much uncertainty, it doesn't mean you cannot make estimates. It means your estimates come with more noise. If you let uncertainty be a reason for not valuing companies, I'll tell you exactly where you'll end up. You'll be valuing Kraft Tines and Coca-Cola over and over again for the rest of your life because you feel certain."
+    },
+    {
+      "timestamp": [2486.67, 2550.19],
+      "text": " This is one reason when Warren Buffett said, seen show up. Those of you don't remember MoviePass, it was a business that"
+    },
+    {
+      "timestamp": [2550.19, 2557.31],
+      "text": " was started, but for $9.99 a month, you could watch as many movies and movie theaters as you wanted."
+    },
+    {
+      "timestamp": [2609.06, 2609.12],
+      "text": " movie a month. We're charging $99. The average theater in the U.S. charges only $6. You know,"
+    },
+    {
+      "timestamp": [2615.58, 2621.6],
+      "text": " you can drown in a lake that has an average depth of only six inches. Averages can be extremely deceptive. But you know how stupid this argument is? Because it's not the average American who's"
+    },
+    {
+      "timestamp": [2621.6, 2684.08],
+      "text": " buying movie pass. There's a selection by it. There. I'm valuing money, losing company. I expect to lose money forever. How much should I pay for the company? Come on, guys. No discounted cash flow model is needed here. So I'm going to call that the der proposition."
+    },
+    {
+      "timestamp": [2685.32, 2688.82],
+      "text": " If you have negative cash flows as far as the eye can see, just let it go."
+    },
+    {
+      "timestamp": [2690.08, 2692.76],
+      "text": " And if somebody insists you take it, they should be paying you."
+    },
+    {
+      "timestamp": [2738.11, 2741.39],
+      "text": " value adding, value destructive, or value neutral? What's going to determine that?"
+    },
+    {
+      "timestamp": [2745.51, 2750.57],
+      "text": " Talking about the earnings, it's how much you put into those businesses, what you're going to get in return, earnings, cash flows, whatever. I mean, think of it like a project, right? When you take a"
+    },
+    {
+      "timestamp": [2750.57, 2755.39],
+      "text": " positive net present value project, what happens? Your value, it goes up. So if you go into new"
+    },
+    {
+      "timestamp": [2755.39, 2818.24],
+      "text": " businesses and you earn roughly your cost of capital, biotech, I heard, but what do they share in"
+    },
+    {
+      "timestamp": [2818.24, 2822.02],
+      "text": " common? They're young companies. Could be infrastructure companies, could be biotech"
+    },
+    {
+      "timestamp": [2822.02, 2886.16],
+      "text": " companies, could be social media companies. It's. The process itself is incredibly flexible. It's our discomfort that makes it rigid. If you insist that your cash flows have to be positive,"
+    },
+    {
+      "timestamp": [2886.16, 2888.32],
+      "text": " if you insist that there's got to be more certainty"
+    },
+    {
+      "timestamp": [2888.32, 2890.88],
+      "text": " in estimates, you are restricting yourself."
+    },
+    {
+      "timestamp": [2890.88, 2892.4],
+      "text": " But it's not the problem with the model."
+    },
+    {
+      "timestamp": [2892.4, 2956.23],
+      "text": " It's a problem with you and up with the value of the business. Should you be subtracting out only long-term debt? Should we be subtracting out total debt? Should we be subtracting out all"
+    },
+    {
+      "timestamp": [2956.23, 2959.25],
+      "text": " liabilities? And on a balance sheet, you can see very different numbers, right? Total debt,"
+    },
+    {
+      "timestamp": [3001.64, 3002.84],
+      "text": " about three years ago, 2019."
+    },
+    { "timestamp": [3004.06, 3004.44], "text": " So when I value firms," },
+    {
+      "timestamp": [3007.28, 3008.54],
+      "text": " I treat leases as debt when I do cost of capital."
+    },
+    {
+      "timestamp": [3010.08, 3010.12],
+      "text": " And it's got mixed effects, right?"
+    },
+    { "timestamp": [3011.18, 3011.24], "text": " You treat leases as debt," },
+    {
+      "timestamp": [3012.6, 3013.64],
+      "text": " your cost of capital often go down because you're using more debt,"
+    },
+    {
+      "timestamp": [3013.7, 3014.64],
+      "text": " which is a good thing, right?"
+    },
+    {
+      "timestamp": [3014.66, 3017.32],
+      "text": " From a DCF, I get a bigger value for the business,"
+    },
+    {
+      "timestamp": [3017.32, 3019.16],
+      "text": " but then I subtract our debt."
+    },
+    { "timestamp": [3020.0, 3021.38], "text": " I include leases as debt" },
+    {
+      "timestamp": [3021.38, 3023.24],
+      "text": " because if I counted it as debt"
+    },
+    {
+      "timestamp": [3023.24, 3024.38],
+      "text": " when I did my cost of capital,"
+    },
+    {
+      "timestamp": [3024.5, 3026.92],
+      "text": " I have to count it as debt when I subtract it out."
+    },
+    {
+      "timestamp": [3072.6, 3081.2],
+      "text": " questions. You're welcome to give me two different answers. Would you like to get the same value for your equity using both approaches? You're an investor, right? You just decide by... Imagine"
+    },
+    {
+      "timestamp": [3081.2, 3084.42],
+      "text": " if the two approaches gave you different answers. What the heck are you going to do with it?"
+    },
+    {
+      "timestamp": [3085.02, 3090.4],
+      "text": " Buy with an equity approach. I don't think when you go on Schwab online, it says, buy,"
+    },
+    {
+      "timestamp": [3090.5, 3155.03],
+      "text": " did you use an equity approach? We'll credit you with firm. I also give you a cost of equity for this company, 13.625%. And I tell you that this firm, when it borrows money, has to pay 10% pre-tax. Now, if you've done corporate finance, you know why there's a distinction between pre-tax cost and after-tax cost."
+    },
+    {
+      "timestamp": [3155.19, 3157.51],
+      "text": " Much of the world interest is tax deductible."
+    },
+    {
+      "timestamp": [3208.78, 3208.88],
+      "text": " discount rate, I'm not pulling a first Boston. Now, of course, I could value the entire business,"
+    },
+    {
+      "timestamp": [3213.1, 3217.9],
+      "text": " right? To value the business, what do I need? I need a cost of capital. To get a cost of capital, I take the cost of equity and the after-tax cost of debt, and I need weights for debt and equity."
+    },
+    {
+      "timestamp": [3219.06, 3222.76],
+      "text": " And the weights we tend to use in valuation tend to be market value weights."
+    },
+    {
+      "timestamp": [3223.66, 3226.74],
+      "text": " There's a circularity. I will come back and talk about that later in the class."
+    },
+    {
+      "timestamp": [3273.22, 3278.4],
+      "text": " get the same value, but I had to play some assumption games to get there. And this week's challenge is going to pose that issue of what it is that I'm assuming in this example that led me"
+    },
+    {
+      "timestamp": [3278.4, 3284.54],
+      "text": " to the same answer. And it's not difficult. You start digging. So what am I assuming? But the"
+    },
+    {
+      "timestamp": [3284.54, 3288.66],
+      "text": " reason I want you to do that is people do this without even thinking about it. They make implicit"
+    },
+    {
+      "timestamp": [3288.66, 3350.01],
+      "text": " assumptions. And I want you to make those cash flows. But the problem is you have no idea what you're valuing, right? If you've used cash flows to the firm and you don't even know whether you're valuing firm or equity. I've seen people actually take cash flows from a firm discounted the cost of equity,"
+    },
+    {
+      "timestamp": [3351.17, 3353.21],
+      "text": " gets so completely lost that they forget"
+    },
+    { "timestamp": [3353.21, 3354.35], "text": " to subtract out the debt," },
+    {
+      "timestamp": [3354.47, 3357.17],
+      "text": " in which case you massively overvalue equity."
+    },
+    {
+      "timestamp": [3357.25, 3358.67],
+      "text": " And if you subtract out the debt,"
+    },
+    {
+      "timestamp": [3359.15, 3360.49],
+      "text": " you're going to undervalue equity."
+    },
+    {
+      "timestamp": [3402.18, 3402.2],
+      "text": " You got a risk-adjusted discount rate,"
+    },
+    { "timestamp": [3402.92, 3403.64], "text": " you get a present value." },
+    {
+      "timestamp": [3405.82, 3408.58],
+      "text": " But there's one mechanical detail that I still haven't tied up."
+    },
+    {
+      "timestamp": [3408.98, 3410.82],
+      "text": " If you remember the equation for the value of an asset,"
+    },
+    { "timestamp": [3410.96, 3412.0], "text": " it said the present value," },
+    {
+      "timestamp": [3412.08, 3415.86],
+      "text": " the expected cash flows over the life of the asset, right?"
+    },
+    {
+      "timestamp": [3416.8, 3418.14],
+      "text": " So if you have a 10-year asset,"
+    },
+    {
+      "timestamp": [3418.3, 3420.38],
+      "text": " you could produce the estimated cash flows for 10 years,"
+    },
+    { "timestamp": [3420.44, 3421.22], "text": " 15-year asset." },
+    {
+      "timestamp": [3422.0, 3425.18],
+      "text": " And here we run into a little bit of a estimation problem"
+    },
+    {
+      "timestamp": [3425.18, 3426.56],
+      "text": " with publicly traded companies,"
+    },
+    {
+      "timestamp": [3427.28, 3484.6],
+      "text": " at least in time. You've got to put closure. So I'm going to tell you when you can stop and what assumptions you have to make. And you're not going to like the assumption. You can stop estimating cash flows if you're willing to make an assumption."
+    },
+    {
+      "timestamp": [3485.06, 3487.72],
+      "text": " And the assumption has to be that beyond that point in time,"
+    },
+    {
+      "timestamp": [3487.72, 3492.92],
+      "text": " your cash flows grow at a constant rate forever."
+    },
+    { "timestamp": [3493.24, 3494.82], "text": " Scary word, forever." },
+    {
+      "timestamp": [3495.28, 3496.14],
+      "text": " You know what that buys you?"
+    },
+    {
+      "timestamp": [3539.15, 3543.53],
+      "text": " but to do that what do you have to assume the cash flows grow at a constant rate forever now i'm going to say something that i get an amazing amount of pushback on"
+    },
+    {
+      "timestamp": [3543.53, 3549.27],
+      "text": " and i'm surprised because this isn't a finance or an economics point it's a mathematical point"
+    },
+    {
+      "timestamp": [3549.27, 3556.37],
+      "text": " which is when you talk about a growth rate forever that growth rate comes with a cap"
+    },
+    {
+      "timestamp": [3556.37, 3621.14],
+      "text": " you know the cap is it cannot be greater than the cash flows for a period, five years, 10 years. There's a terminal value that kicks in only when you tell me your company is a mature"
+    },
+    {
+      "timestamp": [3621.14, 3684.58],
+      "text": " company. My definition of a mature company is a special case of an equity valuation model. You take dividends, you discount them at the cost of equity, come up with a value of equity. But when you do that, what are you assuming? That companies pay out what they can afford to"
+    },
+    {
+      "timestamp": [3684.58, 3753.43],
+      "text": " in dividends. Do they? Some might, but we know beyond any reasonable questioning that most cash flows left over after meeting all your debt needs and capex and working capital. And can we estimate that for a company? That's what's in the statement of cash flows, right? You give me a statement of cash flows, I can tell you potential dividend in like three or four minutes. This isn't rocket science. So the second approach to valuation is replace actual dividends"
+    },
+    {
+      "timestamp": [3753.43, 3819.56],
+      "text": " with potential dividends, free cash flow to equity we haven't talked about the details. You ask me to value a company based on a dividend discount model, I get focused on dividends. I look at what they've paid as a percentage of earnings,"
+    },
+    {
+      "timestamp": [3820.24, 3883.84],
+      "text": " as dividends and bets, called a payout ratio. And my entire forecasting is built around what more finesse to the game. In what sense? Remember when a company has a business it's in and has a cash balance, both generate income, right? The cash balance generates interest income. The business generates net income. So if you're doing free cash or equity valuation, you can say, look,"
+    },
+    {
+      "timestamp": [3883.86, 3888.68],
+      "text": " I'm going to keep the cash separate. Why do I want to mess up my valuation with something that's"
+    },
+    {
+      "timestamp": [3888.68, 3954.41],
+      "text": " easy to value? You take your non-cash net income, you have cross holdings, you have cash,"
+    },
+    {
+      "timestamp": [3954.85, 3958.25],
+      "text": " you've got to bring that into the game because you can't just leave them to the side."
+    },
+    { "timestamp": [4001.4, 4001.86], "text": " going into S&P Capital IQ." },
+    {
+      "timestamp": [4004.26, 4004.4],
+      "text": " It's a nag of if you haven't signed up yet,"
+    },
+    {
+      "timestamp": [4005.96, 4006.1],
+      "text": " you know, get that access to Capital IQ."
+    },
+    {
+      "timestamp": [4007.58, 4008.16],
+      "text": " It's an amazing data resource."
+    },
+    {
+      "timestamp": [4009.76, 4012.12],
+      "text": " And I downloaded the data for the entire life of the company"
+    },
+    { "timestamp": [4012.12, 4014.84], "text": " from 2002 through 2022." },
+    {
+      "timestamp": [4016.62, 4019.08],
+      "text": " So it downloads all of the income statements,"
+    },
+    {
+      "timestamp": [4019.26, 4020.74],
+      "text": " all of the, it's overkill, right?"
+    },
+    {
+      "timestamp": [4020.84, 4022.6],
+      "text": " You're saying, what do I do with this?"
+    },
+    { "timestamp": [4023.04, 4024.54], "text": " When you look at past data," },
+    {
+      "timestamp": [4024.62, 4026.16],
+      "text": " and this is not just true for the Adani Group,"
+    },
+    {
+      "timestamp": [4026.22, 4027.54],
+      "text": " but for your company you pick,"
+    },
+    {
+      "timestamp": [4068.2, 4069.48],
+      "text": " unless it's helping me answer a question."
+    },
+    {
+      "timestamp": [4072.7, 4073.2],
+      "text": " And for those of you who read my Adani post,"
+    },
+    {
+      "timestamp": [4074.72, 4074.82],
+      "text": " they're not a profitable company."
+    },
+    {
+      "timestamp": [4076.42, 4078.82],
+      "text": " Their margins are 3.6%. And it's not because they're a young growth company."
+    },
+    {
+      "timestamp": [4078.94, 4080.9],
+      "text": " It's because they're in an infrastructure business."
+    },
+    {
+      "timestamp": [4081.34, 4082.96],
+      "text": " You're in ports, you're in airports."
+    },
+    { "timestamp": [4083.54, 4085.3], "text": " You have transmission lines." },
+    {
+      "timestamp": [4085.46, 4087.46],
+      "text": " These are not 50% margin businesses."
+    },
+    {
+      "timestamp": [4087.46, 4090.08],
+      "text": " These are 5%, 6%, 7% margin businesses."
+    },
+    {
+      "timestamp": [4091.16, 4094.38],
+      "text": " So they're fast growth, but their profitability is lagging."
+    },
+    {
+      "timestamp": [4138.11, 4142.47],
+      "text": " of the sector look like? If you're a company making 3.6 margins in a sector where everybody else makes 30% margins, I'm going to stop and ask, well, is there hope here? Could you go to"
+    },
+    {
+      "timestamp": [4142.47, 4148.47],
+      "text": " 30% margins? Is it economies of scale that are going to kick in? So you look at your company,"
+    },
+    {
+      "timestamp": [4148.55, 4152.75],
+      "text": " you look at the industry, and then after you're done, you've got to leave your safe spot. Because"
+    },
+    {
+      "timestamp": [4152.75, 4156.81],
+      "text": " right up to then, it's all about looking at the past. You can always blame the accountants."
+    },
+    {
+      "timestamp": [4157.37, 4161.87],
+      "text": " But if you're forecasting the future, guess what? You have to make your best estimates."
+    },
+    {
+      "timestamp": [4206.2, 4212.32],
+      "text": " into play but have only so much room to run and will they need to reinvest to get this growth absolutely so i had to build in a reinvestment that reflect that so when you're forecasting"
+    },
+    {
+      "timestamp": [4212.32, 4216.32],
+      "text": " the future you're taking what you learn from the past and you're trying to make your best"
+    },
+    {
+      "timestamp": [4216.32, 4221.36],
+      "text": " estimates for the future and trust me you're going to be uncomfortable you should be right"
+    },
+    {
+      "timestamp": [4221.36, 4285.04],
+      "text": " because you're trying to play god saying how do you know about the company, the market, the competition. You have to forecast margins. Again, bring in what you know about the company, the margins, the competition."
+    },
+    {
+      "timestamp": [4288.36, 4292.4],
+      "text": " And then you've got to forecast how much you need to reinvest to get that revenue. And I'll give you metrics you can use to make that judgment, but I want you to think big picture."
+    },
+    {
+      "timestamp": [4335.51, 4335.59],
+      "text": " because the wall is further away."
+    },
+    {
+      "timestamp": [4337.79, 4337.87],
+      "text": " You have a billion people, the wall is further away."
+    },
+    { "timestamp": [4338.85, 4339.41], "text": " When you value a Zomato," },
+    {
+      "timestamp": [4341.23, 4344.91],
+      "text": " you have more potential than when you value a European food delivery company"
+    },
+    {
+      "timestamp": [4344.91, 4347.43],
+      "text": " because you've got a billion people ordering food."
+    },
+    {
+      "timestamp": [4347.51, 4348.53],
+      "text": " They're not doing it right now,"
+    },
+    {
+      "timestamp": [4348.65, 4350.57],
+      "text": " mostly because many of them can't afford to do it."
+    },
+    {
+      "timestamp": [4350.91, 4352.59],
+      "text": " Your potential market gets much bigger."
+    },
+    { "timestamp": [4354.03, 4355.27], "text": " But I want you to remember" },
+    {
+      "timestamp": [4355.27, 4356.91],
+      "text": " the reason we look at the past"
+    },
+    {
+      "timestamp": [4356.91, 4359.89],
+      "text": " is not because we like to compute ratios of the past,"
+    },
+    {
+      "timestamp": [4359.93, 4360.83],
+      "text": " because you could do that, right?"
+    },
+    {
+      "timestamp": [4360.85, 4362.99],
+      "text": " You've seen people do financial analysis,"
+    },
+    {
+      "timestamp": [4403.02, 4403.06],
+      "text": " by about 2.5% to 3% in the last year,"
+    },
+    {
+      "timestamp": [4403.96, 4404.04],
+      "text": " even if nothing has changed."
+    },
+    {
+      "timestamp": [4405.98, 4406.24],
+      "text": " Why? Because the T-bond rate, the base has gone up."
+    },
+    {
+      "timestamp": [4407.74, 4408.62],
+      "text": " So you have to come up with risk-free rates."
+    },
+    {
+      "timestamp": [4410.38, 4410.42],
+      "text": " But you also have to come up with default spreads,"
+    },
+    {
+      "timestamp": [4411.76, 4413.34],
+      "text": " which might increase or decrease depending on how risky your company is."
+    },
+    {
+      "timestamp": [4414.5, 4417.44],
+      "text": " Your discount rates have to reflect the world you're in now,"
+    },
+    {
+      "timestamp": [4417.52, 4419.96],
+      "text": " not some version of the world you'd like to be in."
+    },
+    {
+      "timestamp": [4420.0, 4422.58],
+      "text": " So you can't normalize things and make your company look,"
+    },
+    {
+      "timestamp": [4423.04, 4424.58],
+      "text": " put yourself in a macro environment"
+    },
+    {
+      "timestamp": [4424.58, 4426.04],
+      "text": " that you feel more comfortable in,"
+    },
+    {
+      "timestamp": [4426.4, 4428.3],
+      "text": " because this is the environment you're in."
+    },
+    {
+      "timestamp": [4470.62, 4470.66],
+      "text": " So if Twitter is going to go from being an ad-based company to a subscription-based company,"
+    },
+    {
+      "timestamp": [4472.44, 4472.78],
+      "text": " I'm not saying that's the transition they're going to make."
+    },
+    {
+      "timestamp": [4476.36, 4477.02],
+      "text": " You can have 50 years of history of their ad-based businesses."
+    },
+    {
+      "timestamp": [4480.52, 4480.62],
+      "text": " But to make your forecast, you're going to be looking at subscription-based business."
+    },
+    {
+      "timestamp": [4482.06, 4487.38],
+      "text": " Remember, we talked about industry averages. So when companies make transitions, historical data will get weighted less in your forecast."
+    },
+    {
+      "timestamp": [4487.8, 4491.88],
+      "text": " And the businesses they're going to go in are going to play a much bigger role in estimating"
+    },
+    {
+      "timestamp": [4491.88, 4494.62],
+      "text": " growth and margins and everything else."
+    },
+    {
+      "timestamp": [4537.55, 4538.45],
+      "text": " model to people who didn't own Pelotons, and that became the fastest growing part of the business."
+    },
+    {
+      "timestamp": [4542.61, 4547.77],
+      "text": " Let's say, looking forward, you think the subscription portion of the business is going to expand and the equipment part is going to shrink and go away. You don't want to weight"
+    },
+    {
+      "timestamp": [4547.77, 4553.33],
+      "text": " historical data too much because it reflects a different business model. So I think that when"
+    },
+    {
+      "timestamp": [4553.33, 4557.33],
+      "text": " you have transitions, it just means that you have fewer crutches. You can't use past data and"
+    },
+    {
+      "timestamp": [4557.33, 4616.94],
+      "text": " extrapolate. And that's good to know, company, if I don't bring in the expectation, something like a pandemic could shut me down, then I'm being imprudent. So I think you can only estimate what you can."
+    },
+    {
+      "timestamp": [4617.78, 4619.72],
+      "text": " And when there's something you cannot estimate,"
+    },
+    {
+      "timestamp": [4619.86, 4621.2],
+      "text": " you can cut in both directions."
+    },
+    {
+      "timestamp": [4623.14, 4624.16],
+      "text": " You just basically have to say,"
+    },
+    {
+      "timestamp": [4624.2, 4625.62],
+      "text": " look, that's risk out of my hands."
+    },
+    {
+      "timestamp": [4625.64, 4627.44],
+      "text": " I'm going to charge a higher discount rate up front"
+    },
+    {
+      "timestamp": [4627.44, 4683.34],
+      "text": " for that risk. and you're going to see this play out. You estimate your cash flows in dollars, your discount rate has to be in dollars. And in the process, I'm also going to talk about the possibility that you could value a company in real terms. What does that mean? You basically estimate cash flows without inflation in them and you estimate a discount rate"
+    },
+    {
+      "timestamp": [4683.34, 4684.54],
+      "text": " that doesn't have inflation in it."
+    },
+    {
+      "timestamp": [4684.58, 4685.64],
+      "text": " It's called a real valuation."
+    },
+    { "timestamp": [4687.3, 4689.18], "text": " So let's step back." },
+    {
+      "timestamp": [4689.3, 4690.74],
+      "text": " In all of this, what are we trying to do?"
+    },
+    {
+      "timestamp": [4690.78, 4692.6],
+      "text": " We have expected cash flows in the numerator"
+    },
+    {
+      "timestamp": [4692.6, 4695.4],
+      "text": " and we risk adjusted discount rate at the denominator."
+    },
+    {
+      "timestamp": [4736.51, 4736.55],
+      "text": " That's the price that equity investors are charging for investing in equities."
+    },
+    {
+      "timestamp": [4738.07, 4738.57],
+      "text": " We call it an equity risk premium."
+    },
+    {
+      "timestamp": [4742.65, 4742.69],
+      "text": " We can talk about estimation challenges you face in coming up with that risk premium,"
+    },
+    {
+      "timestamp": [4744.03, 4744.55],
+      "text": " but that's the price of risk in the market."
+    },
+    {
+      "timestamp": [4747.85, 4749.93],
+      "text": " Risk-free rate, equity risk premium have nothing to do with your company."
+    },
+    {
+      "timestamp": [4753.35, 4753.43],
+      "text": " But then I ask you, is your company riskier than average or safer?"
+    },
+    {
+      "timestamp": [4756.47, 4757.09],
+      "text": " I'm asking a question about relative risk, and that's going to depend on your business model, right?"
+    },
+    {
+      "timestamp": [4757.09, 4761.17],
+      "text": " You sell discretionary stuff, you're riskier than if you sell non-discretionary stuff."
+    },
+    {
+      "timestamp": [4804.16, 4805.14],
+      "text": " start every conceivable thing that you're uncertain about."
+    },
+    {
+      "timestamp": [4808.2, 4808.9],
+      "text": " And I'll tell you upfront, it's going to be a very long list, right?"
+    },
+    {
+      "timestamp": [4812.22, 4812.44],
+      "text": " In fact, if you try to list the things you're certain about,"
+    },
+    {
+      "timestamp": [4815.26, 4815.52],
+      "text": " I don't think there's even a single item on that list."
+    },
+    {
+      "timestamp": [4817.92, 4818.0],
+      "text": " What do you feel certain about? You know, the T bond rate today,"
+    },
+    {
+      "timestamp": [4819.36, 4821.16],
+      "text": " but it could be different tomorrow, right?"
+    },
+    {
+      "timestamp": [4825.16, 4825.32],
+      "text": " And after you've made this list, here's something I find cathartic,"
+    },
+    {
+      "timestamp": [4827.02, 4884.88],
+      "text": " but actually is very healthy in valuation. I'm trying to tell you is, when it's economic uncertainty, working more, collecting more data, doing more research is not going to make that uncertainty go away."
+    },
+    {
+      "timestamp": [4885.48, 4890.52],
+      "text": " And here's the bad news. 90% of the uncertainty you face when valuing most companies"
+    },
+    {
+      "timestamp": [4890.52, 4950.09],
+      "text": " is economic uncertainty. There's a point, I call this the k people switch to electric cars? What are the regulations going to look like? In contrast, when you value Adani, there's a lot of macro uncertainty in this process. How quickly will India grow? How much will infrastructure investment look like? You're saying, who cares?"
+    },
+    {
+      "timestamp": [4952.11, 4953.49],
+      "text": " Macro uncertainty shows up in your discount rate."
+    },
+    { "timestamp": [4954.73, 4954.89], "text": " Micro uncertainty does not." },
+    {
+      "timestamp": [4957.27, 4957.83],
+      "text": " Next session, we'll talk about why micro uncertainties."
+    },
+    {
+      "timestamp": [4961.15, 5019.54],
+      "text": " So you can be very uncertain about who followed Elon Musk, but when they do, can change the entire landscape. So I'm going to leave you with that because on Wednesday, we're going to talk about how you bring risk into your valuation is going to be determined not by what you think about a company, but what marginal investors in the company think about the company."
+    },
+    {
+      "timestamp": [5019.54, 5023.28],
+      "text": " Sounds counterintuitive, but I'll start with that because that's going to give us the basis"
+    },
+    {
+      "timestamp": [5023.28, 5026.78],
+      "text": " for every risk and return model."
+    }
+  ]
+}
