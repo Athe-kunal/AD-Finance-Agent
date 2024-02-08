@@ -46,7 +46,7 @@ def get_data():
 
     all_texts_list = []
     for data in os.listdir(path):
-        curr_path = os.path.join(path, data) + "\TRANSCRIPTS"
+        curr_path = os.path.join(path, data)
         curr_path = os.path.join(curr_path, "TRANSCRIPTS")
         for transcripts_json_file in os.listdir(curr_path):
             json_file_path = os.path.join(curr_path, transcripts_json_file)
@@ -96,11 +96,12 @@ if __name__ == "__main__":
         "microsoft/phi-1_5",
         torch_dtype=torch.float16,
         attn_implementation="flash_attention_2",
-        bos_token="<|startoftext|>",
-        eos_token="<|endoftext|>",
-        pad_token="<|pad|>",
+        # bos_token="<|startoftext|>",
+        # eos_token="<|endoftext|>",
+        # pad_token="<|pad|>",
     )
     tokenizer = AutoTokenizer.from_pretrained("microsoft/phi-1_5")
+    tokenizer.add_special_tokens({'pad_token': '[PAD]'})
     model.resize_token_embeddings(len(tokenizer))
     model.to("cuda")
     dataset = CausalLMDataset(all_texts_list, tokenizer, max_length=768)
@@ -176,7 +177,7 @@ if __name__ == "__main__":
                 b_input_ids,
                 labels=b_labels,
                 attention_mask=b_masks,
-                token_type_ids=None,
+                # token_type_ids=None,
             )
 
             loss = outputs[0]
