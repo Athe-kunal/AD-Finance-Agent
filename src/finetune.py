@@ -47,7 +47,7 @@ def get_data():
     all_texts_list = []
     for data in os.listdir(path):
         curr_path = os.path.join(path, data) + "\TRANSCRIPTS"
-
+        curr_path = os.path.join(curr_path, "TRANSCRIPTS")
         for transcripts_json_file in os.listdir(curr_path):
             json_file_path = os.path.join(curr_path, transcripts_json_file)
             preprocessed_sent = preprocessing_func(json_file_path)
