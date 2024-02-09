@@ -3,7 +3,7 @@ import re
 import os
 from datasets import Dataset
 import torch
-from transformers import AdamW, get_linear_schedule_with_warmup
+from transformers import get_linear_schedule_with_warmup
 from torch.utils.data import (
     Dataset,
     DataLoader,
@@ -11,6 +11,7 @@ from torch.utils.data import (
     RandomSampler,
     SequentialSampler,
 )
+from torch.optim import AdamW
 from transformers import PhiForCausalLM, AutoTokenizer
 import random
 import numpy as np
@@ -76,7 +77,7 @@ if __name__ == "__main__":
 
             for txt in txt_list:
                 encodings_dict = tokenizer(
-                    "<|startoftext|>" + txt + "<|endoftext|>",
+                    txt,
                     truncation=True,
                     max_length=max_length,
                     padding="max_length",
@@ -95,7 +96,7 @@ if __name__ == "__main__":
     model = PhiForCausalLM.from_pretrained(
         "microsoft/phi-1_5",
         torch_dtype=torch.float16,
-        attn_implementation="flash_attention_2",
+        # attn_implementation="flash_attention_2",
         # bos_token="<|startoftext|>",
         # eos_token="<|endoftext|>",
         # pad_token="<|pad|>",
@@ -313,7 +314,7 @@ if __name__ == "__main__":
 
     model.eval()
 
-    prompt = "<|startoftext|> First steps on valuing a company "
+    prompt = "First steps on valuing a company "
 
     generated = torch.tensor(tokenizer.encode(prompt)).unsqueeze(0)
     generated = generated.to(device)
