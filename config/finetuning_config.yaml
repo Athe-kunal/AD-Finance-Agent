@@ -1,0 +1,13 @@
+model_name: 'distilgpt2'
+data_dir: "src/data/transcript_files/"
+train_args:
+  output_dir: "ad-test"
+  evaluation_strategy: "no"
+  learning_rate: 1e-5
+  per_device_train_batch_size: 16
+  weight_decay: 0.01
+  push_to_hub: False
+  report_to: "none"
+  do_eval: False
+  num_train_epochs: 1.0
+  logging_strategy: 'epoch'
