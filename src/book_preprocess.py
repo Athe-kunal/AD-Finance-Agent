@@ -10,7 +10,7 @@ def median(lst):
 
 def get_book_data():
     books_folder = r"artifacts\book_hi_res"
-    document_data = []
+    book_data = []
     for book_name in tqdm(os.listdir(books_folder)):
         # print(book_name)
         curr_json_path = os.path.join(books_folder, book_name)
@@ -52,19 +52,19 @@ def get_book_data():
             elif end_page is not None and end_page<page_num:
                 continue
             if x_median-10<=x_coord <= x_median+10 and num_words>50:
-                document_data.append(
+                book_data.append(
                     {
                         "text": jd['text']+"\n\n",
                     }
                 )
                 page_coordinates = jd['coordinates'].copy()
                 page_coordinates.insert(0,{"page_num":page_num})
-                document_data[-1]["page_num_coordinates"] = [page_coordinates]
-                document_data[-1]['book_source'] = metadata_book_name
+                book_data[-1]["page_num_coordinates"] = [page_coordinates]
+                book_data[-1]['book_source'] = metadata_book_name
             else:
-                prev_idx = document_data[-1]
+                prev_idx = book_data[-1]
                 prev_idx['text'] = prev_idx['text'][:-2] + jd['text'] + "\n\n"
                 page_coordinates = jd['coordinates'].copy()
                 page_coordinates.insert(0,{"page_num":page_num})
                 prev_idx["page_num_coordinates"].append(page_coordinates)
-    return document_data
+    return book_data
