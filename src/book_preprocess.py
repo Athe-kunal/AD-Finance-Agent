@@ -8,7 +8,7 @@ def median(lst):
     lst.sort()
     return lst[len(lst)//2]
 
-def get_book_data():
+def get_book_data(num_para_words:int=50):
     books_folder = r"artifacts\book_hi_res"
     book_data = []
     for book_name in tqdm(os.listdir(books_folder)):
@@ -51,7 +51,7 @@ def get_book_data():
                 continue
             elif end_page is not None and end_page<page_num:
                 continue
-            if x_median-10<=x_coord <= x_median+10 and num_words>50:
+            if x_median-10<=x_coord <= x_median+10 and num_words>num_para_words:
                 book_data.append(
                     {
                         "text": jd['text']+"\n\n",
