@@ -12,3 +12,4 @@ MBA_TRANSCRIPTS
 SLIDES
 *.log
 notebooks/Testpdfs
+.env
