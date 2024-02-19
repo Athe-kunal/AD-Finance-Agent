@@ -1,7 +1,7 @@
 import os
 import json
 from tqdm import tqdm
-
+import re
 
 def median(lst):
 
@@ -45,6 +45,8 @@ def get_book_data(num_para_words:int=50):
             num_words = len(jd['text'].split(" "))
             x_coord = jd['coordinates'][0][0]
             page_num = jd['page_num']
+            txt = jd['text']
+            txt = re.sub("\. ",".\n",txt)
             if start_page == 1 and end_page == None:
                 pass
             elif start_page>page_num:
@@ -54,7 +56,7 @@ def get_book_data(num_para_words:int=50):
             if x_median-10<=x_coord <= x_median+10 and num_words>num_para_words:
                 book_data.append(
                     {
-                        "text": jd['text']+"\n\n",
+                        "text": txt+"\n\n",
                     }
                 )
                 page_coordinates = jd['coordinates'].copy()
@@ -63,7 +65,7 @@ def get_book_data(num_para_words:int=50):
                 book_data[-1]['book_source'] = metadata_book_name
             else:
                 prev_idx = book_data[-1]
-                prev_idx['text'] = prev_idx['text'][:-2] + jd['text'] + "\n\n"
+                prev_idx['text'] = prev_idx['text'][:-2] + txt + "\n\n"
                 page_coordinates = jd['coordinates'].copy()
                 page_coordinates.insert(0,{"page_num":page_num})
                 prev_idx["page_num_coordinates"].append(page_coordinates)
