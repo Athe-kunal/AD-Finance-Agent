@@ -37,7 +37,9 @@ if __name__=="__main__":
     
     tokenizer = AutoTokenizer.from_pretrained(config['model_name'])
     tokenizer.pad_token = tokenizer.eos_token
-    data = load_dataset("text",data_dir=config["data_dir"])
+    data = load_dataset("text",data_files={"train":"src/data/transcript_files/book_*.txt","test":["src/data/transcript_files/mba_transcript_file.txt",
+                                                                        "src/data/transcript_files/undergrad_transcript_file.txt"]})
+    
     tokenized_data = data.map(preprocess_text,
                               fn_kwargs={'tokenizer':tokenizer},
                               remove_columns=data['train'].column_names)

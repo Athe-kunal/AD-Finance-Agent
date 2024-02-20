@@ -9,7 +9,7 @@ def median(lst):
     return lst[len(lst)//2]
 
 def get_book_data(num_para_words:int=50):
-    books_folder = r"artifacts\book_hi_res"
+    books_folder = r"artifacts/book_hi_res"
     book_data = []
     for book_name in tqdm(os.listdir(books_folder)):
         # print(book_name)
@@ -72,3 +72,22 @@ def get_book_data(num_para_words:int=50):
                 page_coordinates.insert(0,{"page_num":page_num})
                 prev_idx["page_num_coordinates"].append(page_coordinates)
     return book_data
+
+def higher_preproc(book_data):
+    s_dict = {}
+    
+    for element in book_data:
+        if element['book_source'] not in s_dict.keys():
+            s_dict[element['book_source']] = ''
+        s_dict[element['book_source']]+=element["text"]+" "
+    
+    return s_dict
+
+if __name__=="__main__":
+    book_data = get_book_data()
+    book_dict = higher_preproc(book_data)
+    for k in book_dict.keys():
+        with open(f"src/data/transcript_files/book_{k}.txt","w") as f:
+            f.write(book_dict[k])
+    
+            
