@@ -13,6 +13,7 @@ def get_book_data(num_para_words:int=50):
     book_data = []
     for book_name in tqdm(os.listdir(books_folder)):
         # print(book_name)
+        if book_name.startswith("Corporate_Finance"):continue
         curr_json_path = os.path.join(books_folder, book_name)
         if book_name.startswith("Narrative"):
             start_page = 1
@@ -42,7 +43,8 @@ def get_book_data(num_para_words:int=50):
         x_median = median(x_start)
         metadata_book_name = book_name.split(".")[0]
         for jd in json_data:
-            num_words = len(jd['text'].split(" "))
+            text_split_list = jd['text'].split(" ")
+            num_words = len(text_split_list)
             x_coord = jd['coordinates'][0][0]
             page_num = jd['page_num']
             txt = jd['text']
@@ -53,7 +55,7 @@ def get_book_data(num_para_words:int=50):
                 continue
             elif end_page is not None and end_page<page_num:
                 continue
-            if x_median-10<=x_coord <= x_median+10 and num_words>num_para_words:
+            if x_median-10<=x_coord <= x_median+10 and text_split_list[0].istitle() and num_words>num_para_words:
                 book_data.append(
                     {
                         "text": txt+"\n\n",
