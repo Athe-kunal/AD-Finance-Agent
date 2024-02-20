@@ -2,12 +2,13 @@ import json
 import os
 
 parent_directory = os.path.dirname(os.path.abspath(__file__))
-src_folder = os.path.join(parent_directory, 'src')
-artifacts_folder = os.path.join(parent_directory, 'artifacts', 'YouTube_API_Transcripts')
+parent_directory = parent_directory.replace('src','')
+src_folder = parent_directory+'src'
+artifacts_folder = parent_directory+'artifacts/YouTube_API_Transcripts/'
 
 # Specify the file path
-file_path1 = f'{artifacts_folder}/transcripts_MBA.json'
-file_path2 = f'{artifacts_folder}/transcripts_undergrad.json'
+file_path1 = f'{artifacts_folder}transcripts_MBA.json'
+file_path2 = f'{artifacts_folder}transcripts_undergrad.json'
 
 # Read JSON data from the file
 with open(file_path1, 'r') as file:
