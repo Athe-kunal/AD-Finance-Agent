@@ -9,6 +9,7 @@ artifacts_folder = parent_directory + 'artifacts/YouTube_API_Transcripts/'
 # Specify the file paths
 file_path1 = f'{artifacts_folder}transcripts_MBA.json'
 file_path2 = f'{artifacts_folder}transcripts_undergrad.json'
+file_path3 = f'{artifacts_folder}misc_transcripts.json'
 
 # Read JSON data from the files
 with open(file_path1, 'r') as file:
@@ -16,6 +17,9 @@ with open(file_path1, 'r') as file:
 
 with open(file_path2, 'r') as file:
     undergrad_json = json.load(file)
+    
+with open(file_path3, 'r') as file:
+    misc_json = json.load(file)
 
 def chunk_transcripts(json_data, chunk_size):
     all_chunks = {}
@@ -52,10 +56,15 @@ def chunk_transcripts(json_data, chunk_size):
 
 final_json_undergrad = chunk_transcripts(undergrad_json, 512)
 final_json_mba = chunk_transcripts(mba_json, 512)
+final_json_misc = chunk_transcripts(misc_json, 512)
 
 # Write the chunked transcripts to JSON files
+
 with open(f"{artifacts_folder}/chunked_transcripts_mba.json", 'w') as file:
     json.dump(final_json_mba, file, indent=4)
 
 with open(f"{artifacts_folder}/chunked_transcripts_undergrad.json", 'w') as file:
     json.dump(final_json_undergrad, file, indent=4)
+
+with open(f"{artifacts_folder}/chunked_misc_transcripts.json", 'w') as file:
+    json.dump(final_json_misc, file, indent=4)

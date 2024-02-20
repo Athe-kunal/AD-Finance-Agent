@@ -1,11 +1,18 @@
 from googleapiclient.discovery import build
 from googleapiclient.errors import HttpError
 from youtube_transcript_api import YouTubeTranscriptApi
+from pytube import YouTube
+import os
 
 import json
 
+parent_directory = os.path.dirname(os.path.abspath(__file__))
+parent_directory = parent_directory.replace('src', '')
+src_folder = parent_directory + 'src'
+artifacts_folder = parent_directory + 'artifacts/YouTube_API_Transcripts/'
+
 # Define your API key and the playlist ID
-api_key = "YOUR_GCP_API_KEY"
+api_key = "YOUR_API_KEY"
 playlist_id = "PLUkh9m2BorqnhWfkEP2rRdhgpYKLS-NOJ"
 
 # Create a YouTube Data API client
@@ -44,14 +51,42 @@ def fetch_playlist_videos(playlist_id):
 
 # Fetch video IDs from the playlist
 video_ids = fetch_playlist_videos(playlist_id)
+# Specify the path to your text file
+file_path = "misc.txt"
+
+# Open the file in read mode
+with open(src_folder+"/data/"+file_path, "r") as file:
+    # Read the contents of the file
+    file_contents = file.read()
+
+# Now you can work with the contents of the
+
+videos_misc = file_contents.split("\n")
+
+video_ids_misc = []
+
+for vid in videos_misc:
+    yt = YouTube(vid)
+    video_ids_misc.append(yt.video_id)
+
 
 transcript_map ={}
+
+transcript_map_misc = {}
 
 for v in video_ids:
     transcripts = YouTubeTranscriptApi.get_transcript(v)
     transcript_map[v] = transcripts
     
-with open('transcripts_MBA.json', 'w') as json_file:
+for v in video_ids_misc:
+    transcripts = YouTubeTranscriptApi.get_transcript(v)
+    transcript_map_misc[v] = transcripts
+
+
+with open(f'{artifacts_folder}transcripts_MBA.json', 'w') as json_file:
     json.dump(transcript_map, json_file, indent=4)
+    
+with open(f'{artifacts_folder}misc_transcripts.json', 'w') as json_file:
+    json.dump(transcript_map_misc, json_file, indent=4)
 
 
