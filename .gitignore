@@ -13,3 +13,5 @@ SLIDES
 *.log
 notebooks/Testpdfs
 .env
+ad-project
+wandb
