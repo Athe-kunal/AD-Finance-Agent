@@ -9,6 +9,12 @@ from llama_index.core import StorageContext
 from llama_index.embeddings.openai import OpenAIEmbedding
 import chromadb
 from rag.config import *
+from dotenv import load_dotenv
+import openai
+import os
+load_dotenv()
+
+openai.api_key = os.environ["OPENAI_API_KEY"]
 
 def get_book_transcripts_data():
     book_doc_data = get_book_data(100)
@@ -72,20 +78,17 @@ def create_database():
     return index
 
 def load_database(path:str):
-    path = "../" + path
+    # path = "../ + path
     db2 = chromadb.PersistentClient(path=path)
-    embed_model = OpenAIEmbedding(model=EMBEDDING_MODEL)
+    embed_model = OpenAIEmbedding(model=EMBEDDING_MODEL,api_key=os.environ['OPENAI_API_KEY'])
     chroma_collection = db2.get_or_create_collection(COLLECTION_NAME)
     vector_store = ChromaVectorStore(chroma_collection=chroma_collection)
     index_ = VectorStoreIndex.from_vector_store(
         vector_store,
         embed_model=embed_model,
     )
-    return index_
+    retriever = index_.as_retriever(similarity_top_k=TOP_K)
+    return retriever
 
-def query_database(query_text,index):
-    retriever = index.as_retriever(similarity_top_k=TOP_K)
-    nodes = retriever.retrieve(query_text)
 
-    return nodes
 

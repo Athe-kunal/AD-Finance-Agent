@@ -1,15 +1,38 @@
-from rag.database import query_database, load_database
 from rag.config import *
+from rag.database import load_database
+import chromadb
+from llama_index.core import Document
+from llama_index.core import VectorStoreIndex
+from llama_index.vector_stores.chroma import ChromaVectorStore
+from llama_index.core import StorageContext
+from llama_index.embeddings.openai import OpenAIEmbedding
 from langchain.prompts import PromptTemplate
 from langchain.chat_models import ChatOpenAI
+from dotenv import load_dotenv
+import openai
+import os
+load_dotenv()
 
+openai.api_key = os.environ["OPENAI_API_KEY"]
 
-global index
+# def load_database(path:str):
+    # path = "../ + path
+# db2 = chromadb.PersistentClient(path=DATABASE_NAME)
+# print(db2.heartbeat())
+# embed_model = OpenAIEmbedding(model=EMBEDDING_MODEL,api_key=os.environ['OPENAI_API_KEY'])
+# chroma_collection = db2.get_or_create_collection(COLLECTION_NAME)
+# print(chroma_collection.count())
+# vector_store = ChromaVectorStore(chroma_collection=chroma_collection)
+# index_ = VectorStoreIndex.from_vector_store(
+#     vector_store,
+#     embed_model=embed_model,
+# )
+# retriever = index_.as_retriever(similarity_top_k=TOP_K)
 
-index = load_database(DATABASE_NAME)
+retriever = load_database(DATABASE_NAME)
 
 def get_context(question):
-    nodes = query_database(question,index)
+    nodes = retriever.retrieve(question)
     context = ""
     metadata = []
     for node in nodes:
@@ -34,5 +57,10 @@ def get_openai_answer(question, context):
 
 def main_frozen_rag_answer(question):
     context,metadata = get_context(question)
+    print(context,metadata)
     final_response = get_openai_answer(question,context)
     return final_response, context, metadata
+    
+
+if __name__=="__main__":
+    main_frozen_rag_answer("What are the first steps in valuation?")

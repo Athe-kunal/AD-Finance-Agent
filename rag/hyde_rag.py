@@ -1,15 +1,18 @@
-from rag.database import query_database, load_database
+from rag.database import load_database
 from rag.config import *
 from langchain.prompts import PromptTemplate
 from langchain.chat_models import ChatOpenAI
+from dotenv import load_dotenv
+import openai
+import os
+load_dotenv()
 
+openai.api_key = os.environ["OPENAI_API_KEY"]
 
-global index
-
-index = load_database(DATABASE_NAME)
+retriever = load_database(DATABASE_NAME)
 
 def get_context_hyde(question_or_hyde_answer:str):
-    nodes = query_database(question_or_hyde_answer,index)
+    nodes = retriever.retrieve(question_or_hyde_answer)
     context = ""
     metadata = []
     for node in nodes:

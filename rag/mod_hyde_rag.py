@@ -1,18 +1,21 @@
-from rag.database import query_database, load_database
+from rag.database import load_database
 from rag.config import *
 from langchain.prompts import PromptTemplate
 from langchain.chat_models import ChatOpenAI
 from transformers import pipeline
+from dotenv import load_dotenv
+import openai
+import os
+load_dotenv()
 
-global pipe
+openai.api_key = os.environ["OPENAI_API_KEY"]
+
 pipe = pipeline("text-generation", model=MOD_HYDE_MODEL)
 
-global index
-
-index = load_database(DATABASE_NAME)
+retriever = load_database(DATABASE_NAME)
 
 def get_context_hyde(question_or_hyde_answer:str):
-    nodes = query_database(question_or_hyde_answer,index)
+    nodes = retriever.retrieve(question_or_hyde_answer)
     context = ""
     metadata = []
     for node in nodes:
@@ -49,6 +52,9 @@ def get_openai_answer(question, context):
 
 def main_mod_hyde_answer(question):
     hyde_answer = get_mod_HyDE_answer(question)
+    print(hyde_answer)
     context,metadata = get_context_hyde(hyde_answer)
+    print(context,metadata)
     final_response = get_openai_answer(question,context)
+    print(final_response)
     return final_response, context, metadata
