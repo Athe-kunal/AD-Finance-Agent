@@ -1,4 +1,4 @@
-DATABASE_NAME = "ad_project_db"
+DATABASE_NAME = "../ad_project_db"
 COLLECTION_NAME = "ad-project"
 EMBEDDING_MODEL = "text-embedding-3-small"
 TOP_K = 2
@@ -7,7 +7,7 @@ HYDE_OPENAI_MODEL_NAME = "gpt-3.5-turbo-16k"
 MOD_HYDE_MODEL = "arsrira/ad-distilgpt2"
 
 FINAL_LLM_PROMPT = """Use the following pieces of context to answer the question at the end.\n
-        Be very diligent in using all the information and answering in a detailed manner if required.\n
+        Be very diligent in using all the information and answering in a short and concise.\n
 
         {context}
 
