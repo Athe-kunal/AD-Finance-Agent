@@ -18,16 +18,9 @@ def get_context(question):
     return context,metadata
 
 def get_openai_answer(question, context):
-    prompt = """Use the following pieces of context to answer the question at the end.\n
-        Be very diligent in using all the information and answering in a detailed manner.\n
-
-        {context}
-
-        Question: {question}
-        """
 
     prompt_template = PromptTemplate(
-        input_variables=["context", "question"], template=prompt
+        input_variables=["context", "question"], template=FINAL_LLM_PROMPT
     )
 
     llm_prompt = prompt_template.format(question=question, context=context)

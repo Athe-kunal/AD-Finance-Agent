@@ -1,9 +1,7 @@
 # import sys
 # sys.path.append('../')
-import os
-os.chdir("..")
 import json
-from src.book_preprocess import get_book_data
+# from src.book_preprocess import get_book_data
 from llama_index.core import Document
 from llama_index.core import VectorStoreIndex
 from llama_index.vector_stores.chroma import ChromaVectorStore
@@ -74,6 +72,7 @@ def create_database():
     return index
 
 def load_database(path:str):
+    path = "../" + path
     db2 = chromadb.PersistentClient(path=path)
     embed_model = OpenAIEmbedding(model=EMBEDDING_MODEL)
     chroma_collection = db2.get_or_create_collection(COLLECTION_NAME)

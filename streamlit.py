@@ -1,7 +1,7 @@
 import streamlit as st
+import os
 from dotenv import load_dotenv
 import openai
-import os
 import re
 from rag.frozen_rag import main_frozen_rag_answer
 from rag.hyde_rag import main_hyde_answer
@@ -12,7 +12,7 @@ load_dotenv()
 openai.api_key = os.environ["OPENAI_API_KEY"]
 
 algo_type = st.selectbox("Quarter Name", ("MOD_HYDE","HYDE","FROZEN"))
-st.session_type['algo_type'] = algo_type
+st.session_state['algo_type'] = algo_type
 def generate_response(input_text):
     algo_type = st.session_state['algo_type']
 
@@ -43,6 +43,6 @@ if st.session_state.messages[-1]["role"] != "assistant":
             response,metadata,context = generate_response(prompt) 
             st.write(response) 
             expander = st.expander("See relevant Documents")
-            expander.text(context+metadata)
+            expander.text(context+"\n"+str(metadata))
     message = {"role": "assistant", "content": response}
     st.session_state.messages.append(message)

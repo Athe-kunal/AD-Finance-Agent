@@ -18,17 +18,9 @@ def get_context_hyde(question_or_hyde_answer:str):
     return context,metadata
 
 def get_openai_HyDE_answer(question):
-    hyde_prompt = """You are a expert at valuating companies. "Please write a passage to answer the question\n"
-    "Try to include as many key details as possible.\n"
-    "\n"
-    "\n"
-    "Question: {question}\n"
-    "\n"
-    "\n"
-    'Passage:""" 
 
     hyde_prompt_template = PromptTemplate(
-        input_variables=["question"], template=hyde_prompt
+        input_variables=["question"], template=HYDE_PROMPT
     )
 
     llm_prompt = hyde_prompt_template.format(question=question)
@@ -41,16 +33,9 @@ def get_openai_HyDE_answer(question):
     return output
 
 def get_openai_answer(question, context):
-    prompt = """Use the following pieces of context to answer the question at the end.\n
-        Be very diligent in using all the information and answering in a detailed manner.\n
-
-        {context}
-
-        Question: {question}
-        """
 
     prompt_template = PromptTemplate(
-        input_variables=["context", "question"], template=prompt
+        input_variables=["context", "question"], template=FINAL_LLM_PROMPT
     )
 
     llm_prompt = prompt_template.format(question=question, context=context)
