@@ -22,7 +22,7 @@ def get_context_hyde(question_or_hyde_answer:str):
 
 
 def get_mod_HyDE_answer(question):
-    out = pipe(question)
+    out = pipe(question,max_new_tokens=100,do_sample=True,min_new_tokens=10)
     return out[0]['generated_text']
 
 def get_openai_answer(question, context):

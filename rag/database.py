@@ -3,7 +3,7 @@
 import os
 os.chdir("..")
 import json
-# from src.book_preprocess import get_book_data
+from src.book_preprocess import get_book_data
 from llama_index.core import Document
 from llama_index.core import VectorStoreIndex
 from llama_index.vector_stores.chroma import ChromaVectorStore
