@@ -3,13 +3,12 @@
 import os
 os.chdir("..")
 import json
-from src.book_preprocess import get_book_data
+# from src.book_preprocess import get_book_data
 from llama_index.core import Document
 from llama_index.core import VectorStoreIndex
 from llama_index.vector_stores.chroma import ChromaVectorStore
 from llama_index.core import StorageContext
 from llama_index.embeddings.openai import OpenAIEmbedding
-from IPython.display import Markdown, display
 import chromadb
 from rag.config import *
 
@@ -28,11 +27,6 @@ def get_book_transcripts_data():
     for book_doc in book_doc_data:
         # try:
         if book_doc=={}: continue
-        # book = book_doc['book_source']
-        # if book!= curr_book:
-            # print(book_doc)
-
-            # curr_book = book
         all_data_list.append(
             Document(
                 text=book_doc['text'],
@@ -63,13 +57,18 @@ def get_book_transcripts_data():
 
 def create_database():
     all_data_list = get_book_transcripts_data()
-    ad_project_db = chromadb.PersistentClient(path="ad_project_db")
+    if "small" in EMBEDDING_MODEL:
+        database_name = DATABASE_NAME + "_SMALL"
+    elif "large" in EMBEDDING_MODEL:
+        database_name = DATABASE_NAME + "_LARGE"
+    ad_project_db = chromadb.PersistentClient(path=database_name)
     ad_project_chroma_collection = ad_project_db.get_or_create_collection(COLLECTION_NAME)
     embed_model = OpenAIEmbedding(model=EMBEDDING_MODEL)
     vector_store = ChromaVectorStore(chroma_collection=ad_project_chroma_collection)
     storage_context = StorageContext.from_defaults(vector_store=vector_store)
     index = VectorStoreIndex.from_documents(
-        all_data_list, storage_context=storage_context, embed_model=embed_model
+        all_data_list, storage_context=storage_context, embed_model=embed_model,
+        show_progress=True
     )
 
     return index

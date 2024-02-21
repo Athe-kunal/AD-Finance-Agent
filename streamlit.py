@@ -3,16 +3,26 @@ from dotenv import load_dotenv
 import openai
 import os
 import re
-from rag.frozen_rag import get_openai_answer, get_context
+from rag.frozen_rag import main_frozen_rag_answer
+from rag.hyde_rag import main_hyde_answer
+from rag.mod_hyde_rag import main_mod_hyde_answer
 
 load_dotenv()
 
 openai.api_key = os.environ["OPENAI_API_KEY"]
 
+algo_type = st.selectbox("Quarter Name", ("MOD_HYDE","HYDE","FROZEN"))
+st.session_type['algo_type'] = algo_type
 def generate_response(input_text):
-    context,metadata = get_context(input_text)
-    response = get_openai_answer(input_text,context)
-    return response,metadata,context
+    algo_type = st.session_state['algo_type']
+
+    if algo_type=="MOD_HYDE":
+        final_response, context, metadata = main_mod_hyde_answer(input_text)
+    elif algo_type=="HYDE":
+        final_response, context, metadata = main_hyde_answer(input_text)
+    elif algo_type=="FROZEN":
+        final_response, context, metadata = main_frozen_rag_answer(input_text)
+    return final_response,metadata,context
 
 if "messages" not in st.session_state.keys():
     st.session_state.messages = [{"role": "assistant", "content": "Hi, how can I help you?"}]
