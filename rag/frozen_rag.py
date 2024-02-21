@@ -8,7 +8,7 @@ global index
 
 index = load_database(DATABASE_NAME)
 
-def get_context(question,index=index):
+def get_context(question):
     nodes = query_database(question,index)
     context = ""
     metadata = []
