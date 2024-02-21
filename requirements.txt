@@ -7,4 +7,5 @@ wandb
 fire
 langchain
 chromadb
-sentence-transformers
+llama-index
+llama-index-vector-stores-chroma

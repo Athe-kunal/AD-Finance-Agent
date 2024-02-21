@@ -48,7 +48,7 @@ def get_book_data(num_para_words:int=50):
             x_coord = jd['coordinates'][0][0]
             page_num = jd['page_num']
             txt = jd['text']
-            txt = re.sub("\. ",".\n",txt)
+            # txt = re.sub("\. ",".\n",txt)
             if start_page == 1 and end_page == None:
                 pass
             elif start_page>page_num:
@@ -67,10 +67,19 @@ def get_book_data(num_para_words:int=50):
                 book_data[-1]['book_source'] = metadata_book_name
             else:
                 prev_idx = book_data[-1]
-                prev_idx['text'] = prev_idx['text'][:-2] + txt + "\n\n"
+                if "text" in prev_idx:
+                    prev_idx['text'] = prev_idx['text'][:-2] + txt + "\n\n"
+                else:
+                    prev_idx['text'] = txt + "\n\n"
                 page_coordinates = jd['coordinates'].copy()
                 page_coordinates.insert(0,{"page_num":page_num})
-                prev_idx["page_num_coordinates"].append(page_coordinates)
+                if "page_num_coordinates" not in prev_idx:
+                    prev_idx["page_num_coordinates"] = [page_coordinates]
+                else:
+                    prev_idx["page_num_coordinates"].append(page_coordinates)
+                if "book_source" not in prev_idx:
+                    prev_idx['book_source'] = metadata_book_name
+        book_data.append({})
     return book_data
 
 def higher_preproc(book_data):
