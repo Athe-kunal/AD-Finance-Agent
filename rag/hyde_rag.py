@@ -9,7 +9,7 @@ load_dotenv()
 
 openai.api_key = os.environ["OPENAI_API_KEY"]
 
-retriever = load_database(DATABASE_NAME)
+retriever = load_database()
 
 def get_context_hyde(question_or_hyde_answer:str):
     nodes = retriever.retrieve(question_or_hyde_answer)

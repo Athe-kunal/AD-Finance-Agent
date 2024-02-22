@@ -15,3 +15,5 @@ notebooks/Testpdfs
 .env
 ad-project
 wandb
+AD-DB-SMALL
+AD-DB-LARGE

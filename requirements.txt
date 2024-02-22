@@ -1,12 +1,12 @@
 #torch
 #transformers==4.36.2
-pytube
-moviepy
+#pytube
+#moviepy
 #unstructured[pdf]
-wandb
-fire
+#wandb
+#fire
 langchain
 chromadb
 llama-index
 llama-index-vector-stores-chroma
-tiktoken
+#tiktoken

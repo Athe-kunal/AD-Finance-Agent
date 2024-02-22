@@ -12,7 +12,7 @@ openai.api_key = os.environ["OPENAI_API_KEY"]
 
 pipe = pipeline("text-generation", model=MOD_HYDE_MODEL)
 
-retriever = load_database(DATABASE_NAME)
+retriever = load_database()
 
 def get_context_hyde(question_or_hyde_answer:str):
     nodes = retriever.retrieve(question_or_hyde_answer)

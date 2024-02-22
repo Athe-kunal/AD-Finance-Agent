@@ -29,7 +29,7 @@ openai.api_key = os.environ["OPENAI_API_KEY"]
 # )
 # retriever = index_.as_retriever(similarity_top_k=TOP_K)
 
-retriever = load_database(DATABASE_NAME)
+retriever = load_database()
 
 def get_context(question):
     nodes = retriever.retrieve(question)
