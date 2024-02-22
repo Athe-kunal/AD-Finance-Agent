@@ -17,3 +17,5 @@ ad-project
 wandb
 AD-DB-SMALL
 AD-DB-LARGE
+.venv
+.DS_Store
