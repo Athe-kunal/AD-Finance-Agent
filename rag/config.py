@@ -1,6 +1,7 @@
-DATABASE_NAME = "rag/ad_project_db"
+# DATABASE_NAME = "rag/ad_project_db"
 # DATABASE_NAME = "rag/AD-DB-LARGE"
 # DATABASE_NAME = "rag/AD-DB-SMALL"
+BASE_DATABASE_NAME = "rag/AD-DB-"
 COLLECTION_NAME = "ad-project"
 # COLLECTION_NAME = "ad-project-small"
 # COLLECTION_NAME = "ad-project-large"

@@ -78,8 +78,11 @@ def create_database():
     return index
 
 def load_database(path:str):
-    # path = "../ + path
-    db2 = chromadb.PersistentClient(path=path)
+    if "large" in EMBEDDING_MODEL:
+        database_name_path = BASE_DATABASE_NAME + "-LARGE"
+    elif "small" in EMBEDDING_MODEL:
+        database_name_path = BASE_DATABASE_NAME + "-SMALL"
+    db2 = chromadb.PersistentClient(path=database_name_path)
     embed_model = OpenAIEmbedding(model=EMBEDDING_MODEL,api_key=os.environ['OPENAI_API_KEY'])
     chroma_collection = db2.get_or_create_collection(COLLECTION_NAME)
     vector_store = ChromaVectorStore(chroma_collection=chroma_collection)
