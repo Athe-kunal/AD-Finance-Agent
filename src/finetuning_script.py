@@ -47,30 +47,30 @@ if __name__=="__main__":
                                     fn_kwargs={'block_size':512},
                                     remove_columns=tokenized_data['train'].column_names)
     
-    data_collator = DataCollatorForLanguageModeling(tokenizer=tokenizer, mlm=False)
+    # data_collator = DataCollatorForLanguageModeling(tokenizer=tokenizer, mlm=False)
 
-    model = AutoModelForCausalLM.from_pretrained(config["model_name"])
+    # model = AutoModelForCausalLM.from_pretrained(config["model_name"])
 
-    if torch.cuda.is_available():
-        model.cuda()
+    # if torch.cuda.is_available():
+    #     model.cuda()
     
-    training_args = TrainingArguments(**config["train_args"])
+    # training_args = TrainingArguments(**config["train_args"])
 
-    trainer = Trainer(
-        model=model,
-        args=training_args,
-        train_dataset=lm_dataset["train"],
-        data_collator=data_collator,
-        tokenizer=tokenizer
+    # trainer = Trainer(
+    #     model=model,
+    #     args=training_args,
+    #     train_dataset=lm_dataset["train"],
+    #     data_collator=data_collator,
+    #     tokenizer=tokenizer
         
-    )
+    # )
 
-    trainer.train()
+    # trainer.train()
 
-    ### Inference ###
-    prompt = 'How I think you can value a company like tesla'
-    input_dict = tokenizer(prompt,return_tensors='pt')
-    inputs = input_dict.input_ids
-    attn = input_dict.attention_mask
-    op = model.generate(inputs.cuda(),max_new_tokens=100, do_sample=True, top_k=10, top_p=0.95,attention_mask=attn.cuda())
-    tokenizer.batch_decode(op, skip_special_tokens=True)
+    # ### Inference ###
+    # prompt = 'How I think you can value a company like tesla'
+    # input_dict = tokenizer(prompt,return_tensors='pt')
+    # inputs = input_dict.input_ids
+    # attn = input_dict.attention_mask
+    # op = model.generate(inputs.cuda(),max_new_tokens=100, do_sample=True, top_k=10, top_p=0.95,attention_mask=attn.cuda())
+    # tokenizer.batch_decode(op, skip_special_tokens=True)
