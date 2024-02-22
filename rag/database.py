@@ -1,7 +1,7 @@
-# import sys
-# sys.path.append('../')
+import sys
+sys.path.append('../')
 import json
-# from src.book_preprocess import get_book_data
+from src.book_preprocess import get_book_data
 from llama_index.core import Document
 from llama_index.core import VectorStoreIndex
 from llama_index.vector_stores.chroma import ChromaVectorStore
@@ -18,13 +18,13 @@ openai.api_key = os.environ["OPENAI_API_KEY"]
 
 def get_book_transcripts_data():
     book_doc_data = get_book_data(100)
-    with open('artifacts\YouTube_API_Transcripts\chunked_transcripts_mba.json', 'r') as file:
+    with open(r'..\artifacts\YouTube_API_Transcripts\chunked_transcripts_mba.json', 'r') as file:
         mba_data = json.load(file)
 
-    with open('artifacts\YouTube_API_Transcripts\chunked_transcripts_undergrad.json', 'r') as file:
+    with open(r'..\artifacts\YouTube_API_Transcripts\chunked_transcripts_undergrad.json', 'r') as file:
         undergrad_data = json.load(file)
 
-    with open('artifacts\YouTube_API_Transcripts\chunked_misc_transcripts.json', 'r') as file:
+    with open(r'..\artifacts\YouTube_API_Transcripts\chunked_misc_transcripts.json', 'r') as file:
         misc_data = json.load(file)
     
     all_data_list = []

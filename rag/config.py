@@ -1,6 +1,10 @@
 DATABASE_NAME = "rag/ad_project_db"
+# DATABASE_NAME = "rag/AD-DB-LARGE"
+# DATABASE_NAME = "rag/AD-DB-SMALL"
 COLLECTION_NAME = "ad-project"
-EMBEDDING_MODEL = "text-embedding-3-small"
+# COLLECTION_NAME = "ad-project-small"
+# COLLECTION_NAME = "ad-project-large"
+EMBEDDING_MODEL = "text-embedding-3-large"
 TOP_K = 2
 OPENAI_MODEL_NAME = "gpt-3.5-turbo-16k"
 HYDE_OPENAI_MODEL_NAME = "gpt-3.5-turbo-16k"

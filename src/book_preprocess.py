@@ -9,7 +9,7 @@ def median(lst):
     return lst[len(lst)//2]
 
 def get_book_data(num_para_words:int=50):
-    books_folder = r"artifacts/book_hi_res"
+    books_folder = "../artifacts/book_hi_res"
     book_data = []
     for book_name in tqdm(os.listdir(books_folder)):
         # print(book_name)
