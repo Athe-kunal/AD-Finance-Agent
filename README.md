@@ -1,6 +1,6 @@
 # AD-Finance-Agent
 
-Idhar project k baare me 4 line bol
+In this repo, we are building a bot that can mimic the style of Prof. Aswath Damodaran based on his YouTube lectures and textbooks. Here, we are working on three techniques, Retrieval-Augmented Generation (RAG), Hypothetical document embeddings (HyDE) and Modified HyDE, which is a novel concept of finetuning a decoder-only model on our raw data followed by HyDE from the generated answer. It is a research question that we are looking to explore.
 
 ### Environment Setup
 
