@@ -81,4 +81,14 @@ flask run
 
 **To Start the Front-end service please refer [here.](https://github.com/Athe-kunal/AD-Finance-Agent/blob/deploy/web/ad-finance-agent-ui/README.md)**
 
+### Results
+
+<figure>
+  <img src="trulens_eval_relevance.png" alt="Alt text">
+  <figcaption>Relevance score computed of Modified HyDE approach on the Validation data using TruLens</figcaption>
+</figure>
+<br>
+<br>
+
+### Demo Video
 ![DEMO](https://github.com/Athe-kunal/AD-Finance-Agent/blob/deploy/Demo.gif)
