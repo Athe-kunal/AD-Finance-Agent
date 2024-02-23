@@ -30,17 +30,35 @@ def processQuery():
         }
     else:
         response, context, meta_data = generate_response(qryString,qryRagModel)
-        books = ast.literal_eval(f"{meta_data}")
-        for book in books:
-            if book.get('youtube_id'):
-                continue
-            coordinates = ast.literal_eval(f"{book['page_num_coordinates']}")
-            book['page_num_coordinates'] = coordinates
-            book['bookURL'] = data[book['book_source']]
+        print(meta_data)
+        books = processMetaData(meta_data)
         return {
             "result": f"Recevied response",
             "response": f"{response}",
             "context": f"{context}",
             "metaData": books
         }
+
+
+def processMetaData(meta_data):
+    books = ast.literal_eval(f"{meta_data}")
+    books_keys = set()
+    final_books = []
+    for book in books:
+        youtube_id = book.get('youtube_id')
+        book_source = book.get('book_source')
+
+        if youtube_id in books_keys or book_source in books_keys:
+            continue
+
+        if youtube_id:
+            books_keys.add(youtube_id)
+            final_books.append(book)
+            continue
+        books_keys.add(book_source)
+        coordinates = ast.literal_eval(f"{book['page_num_coordinates']}")
+        book['page_num_coordinates'] = coordinates
+        book['bookURL'] = data[book_source]
+        final_books.append(book)
+    return final_books
 

@@ -5,8 +5,8 @@ BASE_DATABASE_NAME = "rag/AD-DB-"
 COLLECTION_NAME = "ad-project"
 # COLLECTION_NAME = "ad-project-small"
 # COLLECTION_NAME = "ad-project-large"
-EMBEDDING_MODEL = "text-embedding-3-small"
-TOP_K = 2
+EMBEDDING_MODEL = "text-embedding-3-large"
+TOP_K = 5
 OPENAI_MODEL_NAME = "gpt-3.5-turbo-16k"
 HYDE_OPENAI_MODEL_NAME = "gpt-3.5-turbo-16k"
 MOD_HYDE_MODEL = "arsrira/ad-distilgpt2"
@@ -26,4 +26,4 @@ HYDE_PROMPT = """You are a expert at valuating companies. "Please write a passag
     "Question: {question}\n"
     "\n"
     "\n"
-    'Passage:""" 
+    'Passage:"""
