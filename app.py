@@ -3,6 +3,9 @@ from flask_cors import CORS, cross_origin
 from processQuery import generate_response
 import ast
 import json
+from text_to_sql.sql_data_prep import get_qp
+
+qp = get_qp()
 
 with open('books.json', 'r') as json_file:
     data = json.load(json_file)
@@ -26,18 +29,26 @@ def processQuery():
     qryRagModel = request.args.get('model')
     if (not qryString or not qryRagModel):
         return {
+            "result": f"Bad Request",
             "text": "Query or Model Param missing"
         }
     else:
-        response, context, meta_data = generate_response(qryString,qryRagModel)
-        print(meta_data)
-        books = processMetaData(meta_data)
-        return {
-            "result": f"Recevied response",
-            "response": f"{response}",
-            "context": f"{context}",
-            "metaData": books
-        }
+        if (qryRagModel == 'SQL'):
+            textToSQL = qp.run(query=qryString)
+            return {
+                "result": f"Recevied response",
+                "SQL":f"{textToSQL}",
+            }
+        else:
+            response, context, meta_data = generate_response(qryString,qryRagModel)
+            print(meta_data)
+            books = processMetaData(meta_data)
+            return {
+                "result": f"Recevied response",
+                "response": f"{response}",
+                "context": f"{context}",
+                "metaData": books
+            }
 
 
 def processMetaData(meta_data):
