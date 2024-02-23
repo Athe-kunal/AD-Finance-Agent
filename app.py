@@ -1,6 +1,8 @@
 from flask import Flask,request
 from flask_cors import CORS, cross_origin
 from processQuery import generate_response
+import ast
+import json
 
 app = Flask(__name__)
 CORS(app, resources={r"/*": {"origins": "*"}})
@@ -23,12 +25,16 @@ def processQuery():
             "text": "Query or Model Param missing"
         }
     else:
-        response, context, meta_data = generate_response(qryString,qryRagModel) 
+        response, context, meta_data = generate_response(qryString,qryRagModel)
+        books = ast.literal_eval(f"{meta_data}")
+        for book in books:
+            coordinates = ast.literal_eval(f"{book['page_num_coordinates']}")
+            book['page_num_coordinates'] = coordinates
+
         return {
             "result": f"Recevied response",
             "response": f"{response}",
             "context": f"{context}",
-            "metaData": f"{meta_data}"
+            "metaData": books
         }
-    
-    
+
