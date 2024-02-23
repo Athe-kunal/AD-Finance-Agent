@@ -37,7 +37,7 @@ def processQuery():
             textToSQL = qp.run(query=qryString)
             return {
                 "result": f"Recevied response",
-                "SQL":f"{textToSQL}",
+                "response":f"{textToSQL}",
             }
         else:
             response, context, meta_data = generate_response(qryString,qryRagModel)
