@@ -65,7 +65,7 @@ def get_qp():
             table_infos.append(data)
 
     # create engine
-    engine = create_engine(f"sqlite:///{TABLES_DB}")
+    engine = create_engine(f"sqlite:///text_to_sql/all_tables_.db")
     metadata_obj = MetaData()
     sql_database = SQLDatabase(engine)
 
