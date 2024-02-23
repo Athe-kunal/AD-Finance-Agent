@@ -32,6 +32,8 @@ def processQuery():
         response, context, meta_data = generate_response(qryString,qryRagModel)
         books = ast.literal_eval(f"{meta_data}")
         for book in books:
+            if book.get('youtube_id'):
+                continue
             coordinates = ast.literal_eval(f"{book['page_num_coordinates']}")
             book['page_num_coordinates'] = coordinates
             book['bookURL'] = data[book['book_source']]
