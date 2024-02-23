@@ -4,6 +4,10 @@ from processQuery import generate_response
 import ast
 import json
 
+with open('books.json', 'r') as json_file:
+    data = json.load(json_file)
+    print(data)
+
 app = Flask(__name__)
 CORS(app, resources={r"/*": {"origins": "*"}})
 app.config['CORS_HEADERS'] = 'Content-Type'
@@ -30,7 +34,7 @@ def processQuery():
         for book in books:
             coordinates = ast.literal_eval(f"{book['page_num_coordinates']}")
             book['page_num_coordinates'] = coordinates
-
+            book['bookURL'] = data[book['book_source']]
         return {
             "result": f"Recevied response",
             "response": f"{response}",
