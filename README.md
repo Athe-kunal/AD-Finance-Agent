@@ -81,5 +81,4 @@ flask run
 
 **To Start the Front-end service please refer [here.](https://github.com/Athe-kunal/AD-Finance-Agent/blob/deploy/web/ad-finance-agent-ui/README.md)**
 
-![DEMO]
-(https://github.com/Athe-kunal/AD-Finance-Agent/blob/deploy/Demo.gif)
+![DEMO](https://github.com/Athe-kunal/AD-Finance-Agent/blob/deploy/Demo.gif)
