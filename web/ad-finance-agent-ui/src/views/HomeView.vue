@@ -12,6 +12,7 @@
         <a-select-option value="MOD_HYDE">Modified HYDE</a-select-option>
         <a-select-option value="HYDE">HYDE</a-select-option>
         <a-select-option value="FROZEN">Frozen</a-select-option>
+        <a-select-option value="SQL">SQL</a-select-option>
       </a-select>
       <chat-box></chat-box>
     </a-layout-content>

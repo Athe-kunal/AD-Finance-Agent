@@ -1,6 +1,9 @@
 <template>
   <div class="chat-container">
     <context-holder></context-holder>
+    <a-modal v-model:open="open" :title="pdfTitle" @ok="handleOk">
+      <vue-pdf-app style="height: 400px" :pdf="this.pdfPath"></vue-pdf-app>
+    </a-modal>
     <div class="chat-messages" ref="chatMessages">
       <div
         v-for="(message, index) in messages"
@@ -29,12 +32,21 @@
         <div v-else class="message-response">
           <span>{{ message.text }}</span>
 
-          <div class="resources" v-if="message.sender === 'ai'">
+          <div class="resources" v-if="message.sender === 'ai' && message.resources">
             <!-- <h3 class="resources-text">Resources</h3> -->
-            <div class="resource" v-for="(resource, index) in message.resources" :key="index">
-              <FileTextOutlined style="font-size: 40px" />
-              <p style="margin-bottom: 0; margin-top: 5px; text-decoration: underline">
+            <div
+              class="resource"
+              v-for="(resource, index) in message.resources"
+              :key="index"
+              @click="openModal(resource)"
+            >
+              <FileTextOutlined style="font-size: 40px" v-if="resource.bookURL" />
+              <YoutubeOutlined style="font-size: 40px" v-else />
+              <p style="margin: 5px 5px 0; text-decoration: underline" v-if="resource.bookURL">
                 {{ resource.book_source }}
+              </p>
+              <p style="margin-bottom: 0; margin-top: 5px; text-decoration: underline" v-else>
+                <a :href="createYoutubeLink(resource)" target="_blank">Watch Video</a>
               </p>
             </div>
           </div>
@@ -59,10 +71,13 @@ import {
   BorderlessTableOutlined,
   UserOutlined,
   SendOutlined,
-  FileTextOutlined
+  FileTextOutlined,
+  YoutubeOutlined
 } from '@ant-design/icons-vue'
 import { useModelStore } from '@/stores/counter'
 import { message } from 'ant-design-vue'
+import VuePdfApp from 'vue3-pdf-app'
+import 'vue3-pdf-app/dist/icons/main.css'
 const [messageApi, contextHolder] = message.useMessage()
 
 export default {
@@ -71,7 +86,9 @@ export default {
       userInput: '',
       messages: [],
       store: useModelStore(),
-      resources: []
+      resources: [],
+      open: false,
+      pdfPath: ''
     }
   },
   components: {
@@ -79,7 +96,9 @@ export default {
     UserOutlined,
     SendOutlined,
     FileTextOutlined,
-    contextHolder
+    contextHolder,
+    VuePdfApp,
+    YoutubeOutlined
   },
   methods: {
     async sendMessage() {
@@ -114,6 +133,20 @@ export default {
       )
       const details = await response.json()
       return details
+    },
+    handleOk() {
+      this.open = false
+    },
+    openModal(resource) {
+      if (resource.youtube_id) return
+      this.pdfPath = resource.bookURL
+      this.pdfTitle = resource.book_source
+      console.log(this.pdfPath)
+      this.open = true
+    },
+    createYoutubeLink(resource) {
+      let sec = Math.floor(parseFloat(resource.start_timestamp) * 60)
+      return `https://www.youtube.com/watch?v=${resource.youtube_id}&t=${sec}`
     }
   }
 }
@@ -231,10 +264,12 @@ export default {
 
 .resources {
   display: flex;
+  max-width: 700px;
+  overflow-x: auto;
 }
 
 .resource {
-  width: 200px;
+  min-width: 200px;
   height: 100px;
   margin-right: 10px;
   margin-top: 20px;
