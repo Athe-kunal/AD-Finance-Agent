@@ -1,0 +1,5 @@
+TABLEINFO_DIR = "text_to_sql/Finance_TableInfo"
+MODEL_1 = "gpt-3.5-turbo"
+MODEL_2 = "gpt-3.5-turbo"
+TABLE_INDEX_DIR = "text_to_sql/table_index_dir"
+TABLES_DB = "text_to_sql/all_tables_.db"
