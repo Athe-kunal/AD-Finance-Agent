@@ -44,6 +44,7 @@ pip install -r requirements.txt
 
 Please add `.env` files with your `OPENAI_API_KEY` at the below shown positions.
 
+```
 ad-finance-agent
     │
     ├── rag
@@ -52,11 +53,21 @@ ad-finance-agent
     │   ├── .env
     └── app.py
     └── .env
-
+```
 **Content**
 
 ```
 OPENAI_API_KEY=<INSERT_YOUR_OPENAI_GENERATEDKEY>
+```
+
+**Add AD-DB Files for model**
+    **Finally download the context files from [here.](https://drive.google.com/file/d/120Sr3V_5yUw7FMtBL5JIKIL2XMbrwGzn/view?usp=drive_link) and move the two folders in VectorDB archive to the /rag directory as shown below**
+```
+ad-finance-agent
+    │
+    ├── rag
+    │   ├── AD-DB-LARGE
+    │   ├── AD-DB-SMALL
 ```
 
 ### Run the App
