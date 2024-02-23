@@ -60,7 +60,8 @@ ad-finance-agent
 OPENAI_API_KEY=<INSERT_YOUR_OPENAI_GENERATEDKEY>
 ```
 
-**Add AD-DB Files for model**
+### Add AD-DB Files for model
+    
     **Finally download the context files from [here.](https://drive.google.com/file/d/120Sr3V_5yUw7FMtBL5JIKIL2XMbrwGzn/view?usp=drive_link) and move the two folders in VectorDB archive to the /rag directory as shown below**
 ```
 ad-finance-agent
@@ -80,4 +81,5 @@ flask run
 
 **To Start the Front-end service please refer [here.](https://github.com/Athe-kunal/AD-Finance-Agent/blob/deploy/web/ad-finance-agent-ui/README.md)**
 
-![DEMO](https://github.com/Athe-kunal/AD-Finance-Agent/blob/deploy/Demo.gif)
+![DEMO]
+(https://github.com/Athe-kunal/AD-Finance-Agent/blob/deploy/Demo.gif)
