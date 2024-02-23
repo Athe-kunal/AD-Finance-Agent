@@ -1,7 +1,7 @@
 <template>
   <div class="chat-container">
     <context-holder></context-holder>
-    <a-modal v-model:open="open" :title="pdfTitle" @ok="handleOk">
+    <a-modal v-model:open="open" :page-number="pageNumber" :title="pdfTitle" @ok="handleOk">
       <vue-pdf-app style="height: 400px" :pdf="this.pdfPath"></vue-pdf-app>
     </a-modal>
     <div class="chat-messages" ref="chatMessages">
@@ -42,7 +42,15 @@
             >
               <FileTextOutlined style="font-size: 40px" v-if="resource.bookURL" />
               <YoutubeOutlined style="font-size: 40px" v-else />
-              <p style="margin: 5px 5px 0; text-decoration: underline" v-if="resource.bookURL">
+              <p
+                style="
+                  margin: 5px 5px 0;
+                  text-decoration: underline;
+                  max-width: 150px;
+                  word-wrap: break-word;
+                "
+                v-if="resource.bookURL"
+              >
                 {{ resource.book_source }}
               </p>
               <p style="margin-bottom: 0; margin-top: 5px; text-decoration: underline" v-else>
@@ -88,7 +96,8 @@ export default {
       store: useModelStore(),
       resources: [],
       open: false,
-      pdfPath: ''
+      pdfPath: '',
+      pageNumber: 0
     }
   },
   components: {
@@ -139,6 +148,7 @@ export default {
     },
     openModal(resource) {
       if (resource.youtube_id) return
+      this.pageNumber = resource.page_num_coordinates[0].page_num
       this.pdfPath = resource.bookURL
       this.pdfTitle = resource.book_source
       console.log(this.pdfPath)
