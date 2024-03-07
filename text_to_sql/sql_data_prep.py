@@ -55,7 +55,6 @@ from llama_index.core.query_pipeline import (
 load_dotenv(override=True)
 
 openai.api_key = os.environ['OPENAI_API_KEY']
-
 def get_qp():
     table_infos = []
     for file_name in os.listdir(TABLEINFO_DIR):

@@ -12,9 +12,9 @@ from text_to_sql.sql_data_prep import get_qp
 import re
 load_dotenv(override=True)
 
-qp = get_qp()
 
 openai.api_key = os.environ["OPENAI_API_KEY"]
+qp = get_qp()
 
 def generate_response(question):
     response = qp.run(query=question)
