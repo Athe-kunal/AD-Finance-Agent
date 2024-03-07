@@ -7,7 +7,7 @@ from rag.frozen_rag import main_frozen_rag_answer
 from rag.hyde_rag import main_hyde_answer
 from rag.mod_hyde_rag import main_mod_hyde_answer
 import re
-load_dotenv()
+load_dotenv(override=True)
 
 openai.api_key = os.environ["OPENAI_API_KEY"]
 
@@ -43,7 +43,7 @@ if st.session_state.messages[-1]["role"] != "assistant":
             response,metadata,context = generate_response(prompt) 
             st.write(response) 
             expander = st.expander("See relevant Documents")
-            expander_text = f"CONTEXT: {context}\n\n METADATA: {str(metadata)} "
+            expander_text = f"CONTEXT: {context}\n\n"
             expander_text = re.sub(r'\$', r'\\$',expander_text)
             expander.write(expander_text)
     message = {"role": "assistant", "content": response}

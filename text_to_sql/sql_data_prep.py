@@ -52,7 +52,7 @@ from llama_index.core.query_pipeline import (
     CustomQueryComponent,
 )
 
-load_dotenv()
+load_dotenv(override=True)
 
 openai.api_key = os.environ['OPENAI_API_KEY']
 
