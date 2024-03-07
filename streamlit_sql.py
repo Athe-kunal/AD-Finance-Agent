@@ -14,8 +14,13 @@ load_dotenv(override=True)
 
 
 openai.api_key = os.environ["OPENAI_API_KEY"]
-qp = get_qp()
 
+@st.cache_resource
+def get_query_pipeline():
+    qp = get_qp()
+    return qp 
+
+qp = get_query_pipeline()
 def generate_response(question):
     response = qp.run(query=question)
 
