@@ -117,7 +117,7 @@ def get_qp():
     )
 
     response_synthesis_prompt_str = (
-        "Given an input question, synthesize a response from the query results. Multiply all non-percentage values by one million. Write the numbers in a easy-human readable format. Return the SQL query and relevant rows used as well \n"
+        "Given an input question, synthesize a response from the query results. Write the numbers in a easy-human readable format. \n"
         "Query: {query_str}\n"
         "SQL: {sql_query}\n"
         "SQL Response: {context_str}\n"
