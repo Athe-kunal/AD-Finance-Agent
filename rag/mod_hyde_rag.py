@@ -6,7 +6,7 @@ from transformers import pipeline
 from dotenv import load_dotenv
 import openai
 import os
-load_dotenv(override=True)
+load_dotenv(dotenv_path="../.env",override=True)
 
 openai.api_key = os.environ["OPENAI_API_KEY"]
 
