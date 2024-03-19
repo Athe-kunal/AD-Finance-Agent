@@ -54,9 +54,9 @@ def chunk_transcripts(json_data, chunk_size):
 
     return all_chunks
 
-final_json_undergrad = chunk_transcripts(undergrad_json, 512)
-final_json_mba = chunk_transcripts(mba_json, 512)
-final_json_misc = chunk_transcripts(misc_json, 512)
+final_json_undergrad = chunk_transcripts(undergrad_json, 450)
+final_json_mba = chunk_transcripts(mba_json, 450)
+final_json_misc = chunk_transcripts(misc_json, 450)
 
 # Write the chunked transcripts to JSON files
 
