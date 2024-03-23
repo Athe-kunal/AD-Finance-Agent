@@ -15,9 +15,15 @@ openai.api_key = os.environ["OPENAI_API_KEY"]
 
 algo_type = st.selectbox("ALGO TYPE", ("mod-hyde","hyde","frozen"))
 st.session_state['algo_type'] = algo_type
+
+@st.cache_resource()
+def get_retriever():
+    retriever = load_database('hf',k=1)
+
+retriever = get_retriever()
+
 def generate_response(input_text):
     algo_type = st.session_state['algo_type']
-    retriever = load_database('hf',k=1)
     rag = RAG(retriever)
 
     response = rag.forward(input_text,algo_type)
