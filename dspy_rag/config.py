@@ -10,4 +10,4 @@ EMBEDDING_SOURCE = "hf"
 TOP_K = 5
 HYDE_MODEL = "gpt-3.5-turbo"
 TOKENIZER_MODEL = "distilgpt2"
-MOD_HYDE_MODEL = "distilgpt2-ad-test"
+MOD_HYDE_MODEL = "arsrira/ad-distilgpt2"
