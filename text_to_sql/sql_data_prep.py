@@ -51,10 +51,12 @@ from llama_index.core.query_pipeline import (
     InputComponent,
     CustomQueryComponent,
 )
+from llama_index.llms.gemini import Gemini
 
-load_dotenv(dotenv_path="../.env",override=True)
+load_dotenv(dotenv_path=".env",override=True)
 
 openai.api_key = os.environ['OPENAI_API_KEY']
+
 def get_qp():
     table_infos = []
     for file_name in os.listdir(TABLEINFO_DIR):
@@ -92,6 +94,7 @@ def get_qp():
                 table_info += table_opt_context
 
             context_strs.append(table_info)
+        print("THE CONTEXT: \n\n".join(context_strs))
         return "\n\n".join(context_strs)
 
     table_parser_component = FnComponent(fn=get_table_context_str)
@@ -108,6 +111,8 @@ def get_qp():
         sql_result_start = response.find("SQLResult:")
         if sql_result_start != -1:
             response = response[:sql_result_start]
+        response = response.replace("sql","")
+        print("THE RESPONSE= ",response)
         return response.strip().strip("```").strip()
 
     sql_parser_component = FnComponent(fn=parse_response_to_sql)
@@ -129,9 +134,10 @@ def get_qp():
         response_synthesis_prompt_str,
     )
 
-    llm1 = OpenAI(model=MODEL_1, temperature=0.0)
-    llm2 = OpenAI(model=MODEL_2, temperature=0.0)
-
+    # llm1 = OpenAI(model=MODEL_1, temperature=0.0)
+    llm1 = Gemini()
+    # llm2 = OpenAI(model=MODEL_2, temperature=0.0)
+    llm2 = Gemini()
     qp = QP(verbose=False)
     service_context = ServiceContext.from_defaults(callback_manager=qp.callback_manager)
     vector_index_dict = {}
