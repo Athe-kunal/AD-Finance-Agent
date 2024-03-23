@@ -1,9 +1,11 @@
-from dspy_rag.config import *
+#from dspy_rag.config import *
+from config import *
 from llama_index.core import VectorStoreIndex
 from llama_index.vector_stores.chroma import ChromaVectorStore
 from llama_index.legacy.embeddings.openai import OpenAIEmbedding
 from llama_index.legacy.embeddings.huggingface import HuggingFaceEmbedding
 import chromadb
+import torch
 
 def load_database(embedding_source:str,k):
     if "mxbai" in EMBEDDING_MODEL:
@@ -23,7 +25,10 @@ def load_database(embedding_source:str,k):
     if embedding_source == "openai":
         embed_model = OpenAIEmbedding(model=EMBEDDING_MODEL,api_key=os.environ['OPENAI_API_KEY'])
     elif embedding_source == 'hf':
-        embed_model = HuggingFaceEmbedding(model_name=EMBEDDING_MODEL,trust_remote_code=True,device='cuda:0')
+        if torch.cuda.is_available():
+            embed_model = HuggingFaceEmbedding(model_name=EMBEDDING_MODEL,trust_remote_code=True,device='cuda:0')
+        else:
+            embed_model = HuggingFaceEmbedding(model_name=EMBEDDING_MODEL,trust_remote_code=True)
 
     chroma_collection = db2.get_collection(collection_name)
     vector_store = ChromaVectorStore(chroma_collection=chroma_collection)
