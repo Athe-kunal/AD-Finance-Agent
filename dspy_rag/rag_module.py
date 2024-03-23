@@ -2,8 +2,10 @@ import openai
 from dotenv import load_dotenv
 import os
 import dspy
-from dspy_rag.database import load_database
-from dspy_rag.config import * 
+#from dspy_rag.database import load_database
+from database import load_database
+#from dspy_rag.config import * 
+from config import *
 from transformers import pipeline
 from transformers import AutoTokenizer
 from rerankers import Reranker
@@ -11,7 +13,7 @@ import torch
 
 load_dotenv(override=True)
 openai.api_key = os.environ["OPENAI_API_KEY"]
-hf_key = os.environ["HF_API_KEY"]
+#hf_key = os.environ["HF_API_KEY"]
 llm = dspy.OpenAI(model="gpt-3.5-turbo-0125",max_tokens = 4096)
 dspy.settings.configure(lm=llm)
 class GenerateAnswer(dspy.Signature):
@@ -92,7 +94,7 @@ class RAG(dspy.Module):
                     rerank_context.append(res.text)
                     rerank_ids.append(res.doc_id)
             prediction = self.generate_answer(context=rerank_context, question=question)
-            return dspy.Prediction(answer=prediction.answer,metadata=[metadata[rerank_id] for rerank_id in rerank_ids])
+            return dspy.Prediction(answer=prediction.answer,metadata=[metadata[rerank_id] for rerank_id in rerank_ids],context=rerank_context)
         else:
             prediction = self.generate_answer(context=context[:self.rerank_docs], question=question)
-            return dspy.Prediction(answer=prediction.answer,metadata=metadata[:self.rerank_docs])
+            return dspy.Prediction(answer=prediction.answer,metadata=metadata[:self.rerank_docs],context=rerank_context)
