@@ -12,8 +12,9 @@ import os
 
 
 # Signature for LLM assessments.
-GOOGLE_API_KEY = None
-OPENAI_API_KEY = None
+GOOGLE_API_KEY = os.environ.get('GOOGLE_API_KEY')
+OPENAI_API_KEY = os.environ.get('OPENAI_API_KEY')
+
 
 class Assess(dspy.Signature):
     """Assess the quality of an answer to a question."""
@@ -87,24 +88,48 @@ if __name__=="__main__":
     
     eval_dataset = pd.read_csv("../src/data/Evaluation Dataset.csv")
     
-    question_1 = eval_dataset['QUESTION'].iloc[1]+"?"
+    questions = eval_dataset['QUESTION']
+    #answers = eval_dataset['ANSWER']
     
     
-
     lm = dspy.Google("models/gemini-1.0-pro",
-                         api_key=GOOGLE_API_KEY
+                         api_key=GOOGLE_API_KEY,
+                         
                         )
     
+    #lm = dspy.OpenAI(model='gpt-3.5-turbo-0125', max_tokens=4096, api_key=OPENAI_API_KEY)
     
     dspy.settings.configure(lm = lm)
     
+
     retriever = load_database(embedding_source=EMBEDDING_SOURCE,k = TOP_K)
-    rag = RAG(retriever)
-    answer_1 = rag(question_1)
+    rag = RAG(retriever,use_cot=True)
 
-    test_example = dspy.Example(question=question_1)
-    test_pred = dspy.Example(answer=answer_1.answer)
+    detail_ls = []
+    faith_ls = []
+    overall_ls = []
 
-    llm_metric(test_example, test_pred,metricLM)
+    for question in questions[:5]:
+        
+        response = rag(question)
+        test_example = dspy.Example(question=question)
+        # print(response.answer)
+        test_pred = dspy.Example(answer=response.answer)
+
+        detail,faith,overall = llm_metric(test_example, test_pred,metricLM)
+        detail_ls.append(detail)
+        faith_ls.append(faith)
+        overall_ls.append(overall)
     
+    eval_dataset["DETAIL"] = detail_ls
+    eval_dataset["FAITHFULNESS"] = faith_ls
+    eval_dataset["OVERALL"] = overall_ls
+
+    pd.to_csv("Metric_df.csv",eval_dataset)
+    print("Average detail: ",sum(detail_ls)/len(detail_ls))
+    print("Average faith: ",sum(faith_ls)/len(faith_ls))
+    print("Average overall: ",sum(overall_ls)/len(overall_ls))
+
+    
+
     
