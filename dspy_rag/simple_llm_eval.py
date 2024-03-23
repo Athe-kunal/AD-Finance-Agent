@@ -88,22 +88,22 @@ if __name__=="__main__":
     eval_dataset = pd.read_csv("../src/data/Evaluation Dataset.csv")
     
     question_1 = eval_dataset['QUESTION'].iloc[1]+"?"
-    answer_1 = eval_dataset['ANSWER'].iloc[1]
-
+    
     
 
     lm = dspy.Google("models/gemini-1.0-pro",
                          api_key=GOOGLE_API_KEY
                         )
-    #rm = dspy.ColBERTv2(url='http://20.102.90.50:2017/wiki17_abstracts')
-    #rm = load_database(embedding_source=EMBEDDING_SOURCE,k = TOP_K)
     
     
     dspy.settings.configure(lm = lm)
     
-    
+    retriever = load_database(embedding_source=EMBEDDING_SOURCE,k = TOP_K)
+    rag = RAG(retriever)
+    answer_1 = rag(question_1)
+
     test_example = dspy.Example(question=question_1)
-    test_pred = dspy.Example(answer=answer_1)
+    test_pred = dspy.Example(answer=answer_1.answer)
 
     llm_metric(test_example, test_pred,metricLM)
     
