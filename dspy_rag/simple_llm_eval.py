@@ -6,6 +6,7 @@ from config import *
 from database import load_database
 import pandas as pd
 import os
+import tqdm
 # This is a WIP, the next step is to optimize this metric as itself a DSPy module (pretty meta)
 
 # Reference - https://github.com/stanfordnlp/dspy/blob/main/examples/tweets/tweet_metric.py
@@ -87,15 +88,16 @@ if __name__=="__main__":
     metricLM = dspy.OpenAI(model='gpt-3.5-turbo-0125', max_tokens=4096, api_key=OPENAI_API_KEY,model_type='chat')
     
     eval_dataset = pd.read_csv("../src/data/Evaluation Dataset.csv")
+    eval_dataset = eval_dataset.loc[:,["QUESTION","ANSWER"]]
     
+    eval_dataset.dropna(inplace=True)
     questions = eval_dataset['QUESTION']
-    #answers = eval_dataset['ANSWER']
+    answers = eval_dataset['ANSWER']
     
     
     lm = dspy.Google("models/gemini-1.0-pro",
                          api_key=GOOGLE_API_KEY,
-                         
-                        )
+                    )
     
     #lm = dspy.OpenAI(model='gpt-3.5-turbo-0125', max_tokens=4096, api_key=OPENAI_API_KEY)
     
@@ -103,29 +105,61 @@ if __name__=="__main__":
     
 
     retriever = load_database(embedding_source=EMBEDDING_SOURCE,k = TOP_K)
-    rag = RAG(retriever,use_cot=True)
+    rag = RAG(retriever,use_cot=False)
 
     detail_ls = []
     faith_ls = []
     overall_ls = []
 
-    for question in questions[:5]:
+    preds = []
+    true_answers = []
+    accuracy = 0
+    num_questions = 10
+    k=0
+    for i,(question,answer) in enumerate(tqdm.tqdm(zip(questions[:num_questions],
+                               answers[:num_questions]))):
         
-        response = rag(question)
-        test_example = dspy.Example(question=question)
-        # print(response.answer)
-        test_pred = dspy.Example(answer=response.answer)
+        try:
+            response = rag(question)
+            test_example = dspy.Example(question=question)
+            
+            test_pred = dspy.Example(answer=response.answer)
+            
+            pred_option = response.answer.split('.')[0]
+            
+            true_option = answer.split(".")[0]
+            if pred_option==true_option:
+                accuracy+=1
 
+            preds.append(response.answer)
+            k+=1
+
+        except Exception as err: 
+            # print("Issue with question: ")
+            # print("IDX: ",i)
+            # print("R: ",response.answer)
+            # print("A: ",answer)
+            # print("ERR: ",err)
+            continue
+        
         detail,faith,overall = llm_metric(test_example, test_pred,metricLM)
         detail_ls.append(detail)
         faith_ls.append(faith)
         overall_ls.append(overall)
     
-    eval_dataset["DETAIL"] = detail_ls
-    eval_dataset["FAITHFULNESS"] = faith_ls
-    eval_dataset["OVERALL"] = overall_ls
+    print("Number of correct questions: ")
+    print("Accuracy: ",accuracy/k)
+    
+    metric_df = pd.DataFrame()
+    metric_df["QUESTION"] = questions[:k]
+    metric_df["ACTUAL ANSWER"] = answers[:k]
+    metric_df["PREDICTED ANSWER"] = preds[:k]
+    
+    metric_df["DETAIL"] = detail_ls
+    metric_df["FAITHFULNESS"] = faith_ls
+    metric_df["OVERALL"] = overall_ls
 
-    pd.to_csv("Metric_df.csv",eval_dataset)
+    metric_df.to_csv("../outputs/Metric_df.csv")
     print("Average detail: ",sum(detail_ls)/len(detail_ls))
     print("Average faith: ",sum(faith_ls)/len(faith_ls))
     print("Average overall: ",sum(overall_ls)/len(overall_ls))
