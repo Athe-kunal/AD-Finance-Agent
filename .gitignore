@@ -19,3 +19,5 @@ AD-DB-SMALL
 AD-DB-LARGE
 .venv
 .DS_Store
+SQL_test.ipynb
+DATA

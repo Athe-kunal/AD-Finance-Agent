@@ -51,6 +51,7 @@ from llama_index.core.query_pipeline import (
     InputComponent,
     CustomQueryComponent,
 )
+import re
 from llama_index.llms.gemini import Gemini
 
 load_dotenv(dotenv_path=".env",override=True)
@@ -94,7 +95,7 @@ def get_qp():
                 table_info += table_opt_context
 
             context_strs.append(table_info)
-        print("THE CONTEXT: \n\n".join(context_strs))
+        # print("THE CONTEXT: \n\n".join(context_strs))
         return "\n\n".join(context_strs)
 
     table_parser_component = FnComponent(fn=get_table_context_str)
@@ -112,6 +113,7 @@ def get_qp():
         if sql_result_start != -1:
             response = response[:sql_result_start]
         response = response.replace("sql","")
+        response = re.sub("```","",response.strip())
         print("THE RESPONSE= ",response)
         return response.strip().strip("```").strip()
 
