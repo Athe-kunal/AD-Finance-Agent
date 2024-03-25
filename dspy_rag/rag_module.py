@@ -2,28 +2,30 @@ import openai
 from dotenv import load_dotenv
 import os
 import dspy
-#from dspy_rag.database import load_database
-from database import load_database
-#from dspy_rag.config import * 
-from config import *
+from dspy_rag.database import load_database
+# from database import load_database
+from dspy_rag.config import * 
+# from config import *
 from transformers import pipeline
 from transformers import AutoTokenizer
 from rerankers import Reranker
 import torch
 
 load_dotenv(override=True)
-openai.api_key = os.environ["OPENAI_API_KEY"]
+# openai.api_key = os.environ["OPENAI_API_KEY"]
 #hf_key = os.environ["HF_API_KEY"]
-llm = dspy.OpenAI(model="gpt-3.5-turbo-0125",max_tokens = 4096)
+# llm = dspy.OpenAI(model="gpt-3.5-turbo-0125",max_tokens = 4096)
+llm = dspy.Google(api_key=os.environ['GOOGLE_API_KEY'],max_output_tokens=1024)
 dspy.settings.configure(lm=llm)
 class GenerateAnswer(dspy.Signature):
     """Answer questions in detail based on the context."""
     
     context = dspy.InputField(desc="may contain relevant facts")
     question = dspy.InputField()
-    answer = dspy.OutputField(desc="answer in detail")
+    answer = dspy.OutputField(desc="answer in detail. 'Answer: ' should strictly come after 'Reasoning: '")
 
-gpt3_hyde = dspy.OpenAI(model=HYDE_MODEL, max_tokens=300)
+# gpt3_hyde = dspy.OpenAI(model=HYDE_MODEL, max_tokens=300)
+gpt3_hyde = dspy.Google(api_key=os.environ['GOOGLE_API_KEY'],max_output_tokens=300)
 
 class HyDEGenerateAnswer(dspy.Signature):
     """Answer the question concisely and include as many details as possible"""
@@ -97,4 +99,4 @@ class RAG(dspy.Module):
             return dspy.Prediction(answer=prediction.answer,metadata=[metadata[rerank_id] for rerank_id in rerank_ids],context=rerank_context)
         else:
             prediction = self.generate_answer(context=context[:self.rerank_docs], question=question)
-            return dspy.Prediction(answer=prediction.answer,metadata=metadata[:self.rerank_docs],context=rerank_context)
+            return dspy.Prediction(answer=prediction.answer,metadata=metadata[:self.rerank_docs],context=context)

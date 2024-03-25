@@ -54,11 +54,12 @@ from llama_index.core.query_pipeline import (
 import re
 from llama_index.llms.gemini import Gemini
 
-load_dotenv(dotenv_path=".env",override=True)
+# load_dotenv(dotenv_path=".env",override=True)
 
-openai.api_key = os.environ['OPENAI_API_KEY']
+# openai.api_key = os.environ['OPENAI_API_KEY']
 
 def get_qp(region:str):
+    region = os.path.join("text_to_sql",region)
     table_infos = []
     table_info_dir = os.path.join(region,TABLEINFO_DIR)
     for file_name in os.listdir(table_info_dir):

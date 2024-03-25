@@ -1,27 +1,19 @@
 import streamlit as st
-import os
-from dotenv import load_dotenv
-import openai
+from processQuery_dspy import generate_response_dspy
 import re
-from rag.frozen_rag import main_frozen_rag_answer
-from rag.hyde_rag import main_hyde_answer
-from rag.mod_hyde_rag import main_mod_hyde_answer
-import re
-load_dotenv(override=True)
 
-openai.api_key = os.environ["OPENAI_API_KEY"]
+rag = st.session_state['rag']
 
-algo_type = st.selectbox("ALGO TYPE", ("MOD_HYDE","HYDE","FROZEN"))
-st.session_state['algo_type'] = algo_type
 def generate_response(input_text):
-    algo_type = st.session_state['algo_type']
+    # algo_type = st.session_state['algo_type']
 
-    if algo_type=="MOD_HYDE":
-        final_response, context, metadata = main_mod_hyde_answer(input_text)
-    elif algo_type=="HYDE":
-        final_response, context, metadata = main_hyde_answer(input_text)
-    elif algo_type=="FROZEN":
-        final_response, context, metadata = main_frozen_rag_answer(input_text)
+    # if algo_type=="MOD_HYDE":
+    #     final_response, context, metadata = main_mod_hyde_answer(input_text)
+    # elif algo_type=="HYDE":
+    #     final_response, context, metadata = main_hyde_answer(input_text)
+    # elif algo_type=="FROZEN":
+    #     final_response, context, metadata = main_frozen_rag_answer(input_text)
+    final_response,context,metadata = generate_response_dspy(input_text,"frozen",rag)
     return final_response,metadata,context
 
 if "messages" not in st.session_state.keys():
