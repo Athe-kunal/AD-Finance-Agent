@@ -1,11 +1,22 @@
 from flask import Flask,request
 from flask_cors import CORS, cross_origin
-from processQuery import generate_response
+# from processQuery import generate_response
+from processQuery_dspy import generate_response
 import ast
 import json
 from text_to_sql.sql_data_prep import get_qp
+import concurrent.futures
 
-qp = get_qp()
+regions_list = ["US","Europe","Global","India","Japan","Emerging","China"]
+qp_dict = dict.fromkeys(regions_list)
+
+def get_qp_helper(region:str):
+    qp = get_qp(region)
+    qp_dict[region] = qp
+
+with concurrent.futures.ThreadPoolExecutor(max_workers=7) as executor:
+    executor.map(get_qp, regions_list)
+    
 
 with open('books.json', 'r') as json_file:
     data = json.load(json_file)
@@ -27,6 +38,7 @@ def index():
 def processQuery():
     qryString = request.args.get('query')
     qryRagModel = request.args.get('model')
+    qryRagRegion = request.args.get('region')
     if (not qryString or not qryRagModel):
         return {
             "result": f"Bad Request",
@@ -34,7 +46,7 @@ def processQuery():
         }
     else:
         if (qryRagModel == 'SQL'):
-            textToSQL = qp.run(query=qryString)
+            textToSQL = qp_dict[qryRagRegion].run(query=qryString)
             return {
                 "result": f"Recevied response",
                 # "response":f"{textToSQL}".replace('assistant:', ''),

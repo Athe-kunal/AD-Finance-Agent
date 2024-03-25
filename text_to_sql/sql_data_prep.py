@@ -58,16 +58,17 @@ load_dotenv(dotenv_path=".env",override=True)
 
 openai.api_key = os.environ['OPENAI_API_KEY']
 
-def get_qp():
+def get_qp(region:str):
     table_infos = []
-    for file_name in os.listdir(TABLEINFO_DIR):
-        file_path = os.path.join(TABLEINFO_DIR, file_name)
+    table_info_dir = os.path.join(region,TABLEINFO_DIR)
+    for file_name in os.listdir(table_info_dir):
+        file_path = os.path.join(table_info_dir, file_name)
         with open(file_path, "r") as f:
             data = json.load(f)
             table_infos.append(data)
 
     # create engine
-    engine = create_engine(f"sqlite:///text_to_sql/all_tables_.db")
+    engine = create_engine(f"sqlite:///text_to_sql/{region}/{TABLES_DB}")
     metadata_obj = MetaData()
     sql_database = SQLDatabase(engine)
 
@@ -145,7 +146,7 @@ def get_qp():
     vector_index_dict = {}
 
     def index_all_tables(
-        sql_database: SQLDatabase, table_index_dir: str = TABLE_INDEX_DIR
+        sql_database: SQLDatabase, table_index_dir: str = os.path.join(region,TABLE_INDEX_DIR)
     ) -> Dict[str, VectorStoreIndex]:
         """Index all tables."""
         if not Path(table_index_dir).exists():
