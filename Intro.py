@@ -16,7 +16,7 @@ if google_key!="":
             # qp_dict[region] = qp
             return qp
 
-        with concurrent.futures.ThreadPoolExecutor() as executor:
+        with concurrent.futures.ThreadPoolExecutor(max_workers=4) as executor:
             # executor.map(get_qp_helper, regions_list)
             for region, region_qp in zip(regions_list, executor.map(get_qp_helper, regions_list)):
                 # print('%d is prime: %s' % (number, prime))

@@ -59,9 +59,9 @@ from llama_index.llms.gemini import Gemini
 # openai.api_key = os.environ['OPENAI_API_KEY']
 
 def get_qp(region:str):
-    region = os.path.join("text_to_sql",region)
+    region_path = os.path.join("text_to_sql",region)
     table_infos = []
-    table_info_dir = os.path.join(region,TABLEINFO_DIR)
+    table_info_dir = os.path.join(region_path,TABLEINFO_DIR)
     for file_name in os.listdir(table_info_dir):
         file_path = os.path.join(table_info_dir, file_name)
         with open(file_path, "r") as f:
@@ -69,7 +69,11 @@ def get_qp(region:str):
             table_infos.append(data)
 
     # create engine
-    engine = create_engine(f"sqlite:///text_to_sql/{region}/{TABLES_DB}")
+    # base_engine_path = "sqlite:///text_to_sql"
+    # region_tables = os.path.join(region,TABLES_DB)
+    # sqlite:///text_to_sql/
+    engine = create_engine(f"sqlite:///text_to_sql/{region}/all_tables_.db")
+    # engine = create_engine(os.path.join(base_engine_path,region_tables))
     metadata_obj = MetaData()
     sql_database = SQLDatabase(engine)
 
@@ -147,7 +151,7 @@ def get_qp(region:str):
     vector_index_dict = {}
 
     def index_all_tables(
-        sql_database: SQLDatabase, table_index_dir: str = os.path.join(region,TABLE_INDEX_DIR)
+        sql_database: SQLDatabase, table_index_dir: str = os.path.join(region_path,TABLE_INDEX_DIR)
     ) -> Dict[str, VectorStoreIndex]:
         """Index all tables."""
         if not Path(table_index_dir).exists():
