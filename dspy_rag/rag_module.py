@@ -22,6 +22,7 @@ class GenerateAnswer(dspy.Signature):
     
     context = dspy.InputField(desc="may contain relevant facts")
     question = dspy.InputField()
+    reasoning = dspy.OutputField(desc='Reasoning behind the answer')
     answer = dspy.OutputField(desc="answer in detail. 'Answer: ' should strictly come after 'Reasoning: '")
 
 # gpt3_hyde = dspy.OpenAI(model=HYDE_MODEL, max_tokens=300)
@@ -30,6 +31,7 @@ gpt3_hyde = dspy.Google(api_key=os.environ['GOOGLE_API_KEY'],max_output_tokens=3
 class HyDEGenerateAnswer(dspy.Signature):
     """Answer the question concisely and include as many details as possible"""
     question = dspy.InputField()
+    reasoning = dspy.OutputField(desc='Reasoning behind the answer')
     answer = dspy.OutputField(desc="answer concisely with as many details as possible")
 
 
@@ -96,7 +98,9 @@ class RAG(dspy.Module):
                     rerank_context.append(res.text)
                     rerank_ids.append(res.doc_id)
             prediction = self.generate_answer(context=rerank_context, question=question)
+            print("P: ",prediction)
             return dspy.Prediction(answer=prediction.answer,metadata=[metadata[rerank_id] for rerank_id in rerank_ids],context=rerank_context)
         else:
             prediction = self.generate_answer(context=context[:self.rerank_docs], question=question)
-            return dspy.Prediction(answer=prediction.answer,metadata=metadata[:self.rerank_docs],context=context)
+            
+            return dspy.Prediction(answer=prediction.answer,reasoning=prediction.reasoning,metadata=metadata[:self.rerank_docs],context=context)
